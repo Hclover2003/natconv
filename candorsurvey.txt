@@ -1,0 +1,532 @@
+Now, please tell us where you think your conversation partner falls on these items. My conversation partner is...
+['your_bfi_1' 'your_bfi_2' 'your_bfi_3' 'your_bfi_4' 'your_bfi_5'
+ 'your_bfi_6' 'your_bfi_7' 'your_bfi_8' 'your_bfi_9' 'your_bfi_10'
+ 'your_bfi_11' 'your_bfi_12' 'your_bfi_13' 'your_bfi_14' 'your_bfi_15'
+ 'your_extraversion' 'your_agreeable' 'your_conscientious' 'your_neurotic'
+ 'your_open']
+
+
+I am someone who...
+['my_bfi_1' 'my_bfi_2' 'my_bfi_3' 'my_bfi_4' 'my_bfi_5' 'my_bfi_6'
+ 'my_bfi_7' 'my_bfi_8' 'my_bfi_9' 'my_bfi_10' 'my_bfi_11' 'my_bfi_12'
+ 'my_bfi_13' 'my_bfi_14' 'my_bfi_15' 'my_extraversion' 'my_agreeable'
+ 'my_conscientious' 'my_neurotic' 'my_open']
+
+
+How would you rate yourself on each of the following traits?
+['i_am_intelligent' 'i_am_quickwitted' 'i_am_competent' 'i_am_kind'
+ 'i_am_friendly' 'i_am_warm' 'i_am_humble' 'i_am_giving' 'i_am_fair'
+ 'i_am_trustworthy' 'i_am_agreeable' 'i_am_playful']
+
+
+Please rate your agreement with the following statements about you and your conversation partner: During our interaction....
+['our_thoughts_synced_up_sr1' 'developed_joint_perspective_sr2'
+ 'shared_thoughts_feels_sr3' 'discussed_real_things_sr4'
+ 'thoughts_became_more_alike_sr5' 'anticipated_each_other_sr6'
+ 'became_certain_of_perception_sr7' 'saw_world_in_same_way_sr8'
+ 'shared_reality']
+
+
+What format did your conversations take? To answer, please tell us what percentage of your conversations were in each of the following formats (e.g., if 100% of your conversations were in person, enter the number 100 in the In Person box below)(Your total must add up to 100%)
+['convo_format_in_person' 'convo_format_video_chat'
+ 'convo_format_phone_call' 'convo_format_text' 'convo_format_other'
+ 'most_common_format_past24']
+
+
+To what extent does your conversation partner have each of the following traits?
+['you_are_humble' 'you_are_giving' 'you_are_fair' 'you_are_trustworthy'
+ 'you_are_agreeable' 'you_are_playful']
+
+
+To what extent do you have each of the following traits?
+['you_think_i_am_intelligent' 'you_think_i_am_quickwitted'
+ 'you_think_i_am_competent' 'you_think_i_am_kind'
+ 'you_think_i_am_friendly' 'you_think_i_am_warm']
+
+
+Evaluate your conversation partner on the following traits.
+['you_are_intelligent' 'you_are_quickwitted' 'you_are_competent'
+ 'you_are_kind' 'you_are_friendly' 'you_are_warm']
+
+
+Rate the extent to which you agree with the following statements:
+['i_felt_close_to_my_partner' 'i_would_like_to_become_friends'
+ 'i_paid_attention_to_my_partner' 'my_partner_paid_attention_to_me'
+ 'my_partner_was_clear_and_coherent']
+
+
+Who were your conversations with? In other words, what percentage of your conversations were with each of the following people (e.g., if half your conversations were with family and the other half were with work colleagues, then enter the number 50 in the Family box and 50 in the Work Colleagues box below) (Your total must add up to 100%)
+['convo_who_family' 'convo_who_romantic_partner'
+ 'convo_who_work_colleagues' 'convo_who_other'
+ 'who_i_talked_to_most_past24']
+
+
+SINCE the Covid-19 outbreak, to what extent have you been feeling...
+['my_stress_post_covid' 'my_distracted_post_covid' 'my_sad_post_covid'
+ 'my_sad_post_covid']
+
+
+Prior to the Covid-19 outbreak, to what extent were you feeling...
+['my_stress_pre_covid' 'my_distracted_pre_covid' 'my_sad_pre_covid']
+
+
+How often do you guess that your conversation partner lacks companionship in everyday life?
+['you_lack_companionship' 'your_loneliness']
+
+
+To what extent do you feel low energy (e.g., calm, relaxed) or high energy (e.g., awake, alert) right now?
+['pre_arousal' 'arousal']
+
+
+To what extent do you feel positive affect (e.g., good, pleasant, happy) or negative affect (e.g., bad, unpleasant, unhappy) right now?
+['pre_affect' 'affect']
+
+
+To what extent do you feel positive feelings (e.g., good, pleasant, happy) or negative feelings (e.g., bad, unpleasant, unhappy) right now?
+['pre_affect' 'affect']
+
+
+The following statements ask about your thoughts and feelings in a variety of situations. Read each statement carefully. Answer as honestly as you can.
+['IRI_PT_score' 'IRI_EC_score']
+
+
+How often do you feel that you lack companionship?
+['i_lack_companionship' 'my_loneliness']
+
+
+Read each of the following statements very carefully and state how strongly you agree or disagree with it.
+['AQ_social_skill_score' 'AQ_communication_score']
+
+
+How much do you think each person talked during the conversation (as a percentage of the total conversation time)? Your answers must add up to 100%.
+['talk_time_100_1' 'you_total_talk_time']
+
+
+My conversation partner understood me.
+['responsive_1' 'responsive']
+
+
+What is your current employment situation?
+['employ' 'employ_7_TEXT']
+
+
+What time zone are you currently located in?
+['time_zone' 'time_zone']
+
+
+When people take turns in conversation, there are different ways to switch speakers. Sometimes listeners jump in and overlap with the current speaker. Sometimes listeners let the speaker completely finish speaking and there is a gap between when the old speaker stops and the new speaker starts. And sometimes the transition feels seamless. What was your feeling about how you and your partner took turns?
+['turn_overlap_gap' 'turn_overlap_gap']
+
+
+Please describe what you and your conversation talked about toward the END of the conversation. Minimum: 25 words
+['end_memory_text']
+
+
+Overall during your conversation, to what extent did you feel low energy (e.g., calm, relaxed) or high energy (e.g., awake, alert)?
+['overall_arousal']
+
+
+SINCE the Covid-19 outbreak, how socially isolated have you felt?
+['my_isolation_post_covid']
+
+
+Read each of the following statements carefully and indicate how characteristic it is of you according to the following scale.
+['BFNE_score']
+
+
+My conversation partner valued my abilities and opinions.
+['responsive_2']
+
+
+My conversation partner was trying to impress me.
+['you_tried_to_impress']
+
+
+My partner was a good listener.
+['you_are_good_listener']
+
+
+Prior to the Covid-19 outbreak, how socially isolated did you feel?
+['my_isolation_pre_covid']
+
+
+Please describe what you and your conversation partner talked about in the MIDDLE of the conversation. Minimum: 25 words
+['middle_memory_text']
+
+
+Overall during your conversation, to what extent did you feel positive feelings (e.g., good, pleasant, happy) or negative feelings (e.g., bad, unpleasant, unhappy)?
+['overall_affect']
+
+
+Please briefly describe how you and your conversation partner knew each other before your conversation today.
+['how_know_partner']
+
+
+Please describe what you and your conversation partner talked about at the BEGINNING of the conversation. Minimum: 25 words
+['begin_memory_text']
+
+
+Prior to the Covid-19 outbreak, how many people were living with you (not including yourself)?
+['n_living_with_me_pre_covid']
+
+
+Please take a critical eye toward the conversation you just had. What worked well about the conversation?
+['critical_positive']
+
+
+About how many minutes into the conversation do you think your partner was ready for it to end?
+['end_other_time_1']
+
+
+The date of the survey.
+['date']
+
+
+Some people were given a list of questions to help guide their conversation. Were you given a list of questions to help guide your conversation today?
+['guided']
+
+
+Sometimes in conversations, one person "leads" the conversation more than the other. By "lead" we mean they keep the conversation going, introduce new topics, and decide where the conversation goes. In the conversation you just had, how much did each person "lead"?
+['conv_leader']
+
+
+Who spoke more quickly during the conversation, you or your partner?
+['speak_quickly']
+
+
+Who smiled more during the conversation, you or your partner?
+['smiles']
+
+
+Who laughed more during the conversation, you or your partner?
+['laughter']
+
+
+Who asked more questions during the conversation, you or your partner?
+['questions']
+
+
+Where would you place your conversation partner on this ladder?
+['i_think_your_status']
+
+
+Where do you think your conversation partner would place you on this ladder?
+['you_think_my_status']
+
+
+What political persuasion do you most identify with?
+['politics']
+
+
+What is your race/ethnicity?
+['race']
+
+
+What is your gender?
+['sex']
+
+
+What is your age? ( Please enter a whole number. )
+['age']
+
+
+What is the highest level of school you have completed or the highest degree you have received?
+['edu']
+
+
+What didnt work as well? Focus specifically on the interaction between you and your conversation partner and not other factors (e.g., the video lagged).
+['critical_negative']
+
+
+Was there any point during the conversation at which you think your partner felt ready for the conversation to end?
+['end_other']
+
+
+Was there any point during the conversation (before time was called) at which you felt ready for the conversation to end?
+['end_you']
+
+
+Toward the end of your conversation, to what extent did you feel positive feelings (e.g., good, pleasant, happy) or negative feelings (e.g., bad, unpleasant, unhappy)?
+['end_affect']
+
+
+Toward the end of your conversation, to what extent did you feel low energy (e.g., calm, relaxed) or high energy (e.g., awake, alert)?
+['end_arousal']
+
+
+To what extent do you feel low arousal (e.g., sleepy, relaxed, low energy) or high arousal (e.g., awake, alert, high energy) right now?
+['pre_arousal']
+
+
+Think of this ladder as representing peoples social status. At the top of the ladder are the people who have the highest status. At the bottom are the people who have the lowest status. The higher up you are on this ladder, the closer you are to the people at the very top; the lower you are, the closer you are to the people at the bottom. Respond to the following question using the options below, in which the bottom rung is "1" and the top rung is "10." Where would you place yourself on this ladder?
+['i_think_my_status']
+
+
+Think about the rest of your week. How do you see it going?
+['rest_of_day_open']
+
+
+Listeners often provide verbal feedback while speakers are talking (i.e., "mm hmm," "uh huh," "yeah"). Who did this more during the conversation, you or your partner?
+['verbal_feedback']
+
+
+The ID of the respondent.
+['user_id']
+
+
+The ID of the respondent's partner.
+['partner_id']
+
+
+The ID of the conversation.
+['convo_id']
+
+
+My conversation partner really listened to me.
+['responsive_3']
+
+
+In the past 24 hours , how many conversations have you had? Please take a moment to count them as accurately as possible. (Please enter your answer as a whole number)
+['conversation_count_past24']
+
+
+Listeners often nod while speakers are talking in order to signal that they understand or approve of what is being said. Who nodded more during the conversation, you or your partner?
+['nods']
+
+
+In this task, you will see a series of pictures depicting only the eye region of different faces. For each set of eyes, select which word best describes what the person in the picture is thinking or feeling. You may feel that more than one word is applicable, but please choose just one word - the word which you consider to be most suitable. Before making your choice, make sure that you have read all 4 words. You should try to do the task as quickly as possible, but you will not be timed. If you really dont know what a word means, you can look it up.
+['RMET_score']
+
+
+How many hours of sleep do you normally get per night, on average?
+['sleep_usual']
+
+
+How long were your partners turns?
+['your_turn_length']
+
+
+How is your memory of the overall conversation?
+['overall_memory_rating']
+
+
+How is your memory of the MIDDLE of the conversation?
+['middle_memory_rating']
+
+
+How is your memory of the BEGINNING of the conversation?
+['begin_memory_rating']
+
+
+How funny were you in the conversation you just had?
+['i_am_funny']
+
+
+How funny was your conversation partner?
+['you_are_funny']
+
+
+How enjoyable did you find the conversation?
+['how_enjoyable']
+
+
+Have you ever spoken to your conversation partner prior to talking to them today?
+['know_partner_1']
+
+
+Have you ever spoken to your conversation partner before, prior to talking to them on the video chat today?
+['know_partner_1']
+
+
+Enter your group number (the number on the card you were given) using the dropdown menu below:
+['did']
+
+
+During your conversation, how much do you think your conversation partners mind wandered from what you were saying?
+['your_mind_wander']
+
+
+During your conversation, how much did your mind wander from what your conversation partner was saying?
+['my_mind_wander']
+
+
+Do you think your partner wanted the conversation to continue for longer?
+['longer_other']
+
+
+Did you want the conversation to continue for longer?
+['longer_self']
+
+
+Conversations consist of people taking turns . Some turns are too short (e.g., one person stops speaking when the other person isnt ready to talk yet). Some turns are more or less the right length. And other turns are too long (e.g., one person talks too long while the other person is waiting). When you were the speaker, how long were your turns?
+['my_turn_length']
+
+
+Conversations can have different paces, from very slow to very fast. How did the pace of the conversation feel to you?
+['conv_pace']
+
+
+At the worst moment of your conversation, to what extent did you feel positive feelings (e.g., good, pleasant, happy) or negative feelings (e.g., bad, unpleasant, unhappy)?
+['worst_affect']
+
+
+At the worst moment of your conversation, to what extent did you feel low energy (e.g., calm, relaxed) or high energy (e.g., awake, alert)?
+['worst_arousal']
+
+
+At the best moment of your conversation, to what extent did you feel positive feelings (e.g., good, pleasant, happy) or negative feelings (e.g., bad, unpleasant, unhappy)?
+['best_affect']
+
+
+At the best moment of your conversation, to what extent did you feel low energy (e.g., calm, relaxed) or high energy (e.g., awake, alert)?
+['best_arousal']
+
+
+At the beginning of your conversation, to what extent did you feel positive feelings (e.g., good, pleasant, happy) or negative feelings (e.g., bad, unpleasant, unhappy)?
+['begin_affect']
+
+
+At the beginning of your conversation, to what extent did you feel low energy (e.g., calm, relaxed) or high energy (e.g., awake, alert)?
+['begin_arousal']
+
+
+As people have conversations, they discuss topics. Some conversations cover many topics. Others conversations stick mainly to a limited number of topics. What was your feeling about the amount of topics your conversation covered?
+['topic_diversity']
+
+
+Are you currently staying at home most or all of the time, due to the Covid-19 pandemic (i.e. "sheltering in place")?
+['am_i_sheltering_in_place_now']
+
+
+Approximately how long have you been sheltering in place?
+['how_long_shelter_in_place']
+
+
+Amount of time taken to complete the survey.
+['survey_duration_in_seconds']
+
+
+How many hours of sleep have you gotten in the past 24 hours?
+['sleep_today']
+
+
+How many minutes did you speak with your partner? If your partner did not show up, enter the number of minutes you waited for them instead.
+['conv_length']
+
+
+How many people are living with you right now (not including yourself)?
+['n_living_with_me_post_covid']
+
+
+How was the technical quality of your video chat? Any problems with audio, video, or connectivity? Note: If your partner didnt show up at all, please select "Something went wrong and I never even started a video chat" (In case you accidentally clicked the "Next" button before you were done with your chat, you can get back to your video chat here: ${e://Field/talk_url} .
+['technical_quality']
+
+
+In the past 24 hours , how many hours did you spend having conversations? (Please enter your answer as a number)
+['conversation_hours_past24']
+
+
+About how many minutes into the conversation were you ready for it to end?
+['end_you_time_1']
+
+
+In the middle of your conversation, to what extent did you feel positive feelings (e.g., good, pleasant, happy) or negative feelings (e.g., bad, unpleasant, unhappy)?
+['middle_affect']
+
+
+In the middle of your conversation, to what extent did you feel low energy (e.g., calm, relaxed) or high energy (e.g., awake, alert)?
+['middle_arousal']
+
+
+Imagine you were to rank the last 100 people you had a conversation with according to how good of a conversationalist they are. "0" is the least good conversationalist youve talked to. "50" is right in the middle. "100" is the best conversationalist.Where would you rank the person that you just talked to on this scale? Please give this question some thought, and try to be as honest and precise as possible.
+['conversationalist']
+
+
+Imagine the next 7 days of your life. If you had the option, how many of those days would you like to have another conversation with the person you just talked to?
+['next_seven_days']
+
+
+Imagine a good friend of yours. Imagine further that your friend and the person you were just talking to had coffee with one another. How likely is it that they would become friends? "0" - Not at all likely "50" - Moderately likely "100" - Extremely likely
+['my_friends_like_you']
+
+
+Imagine a good friend of yours needed advice on a personal matter . How likely would you be to recommend that they talk to the person that you just had a conversation with?"0" - Not at all likely "50" - Moderately likely "100" - Extremely likely
+['good_for_advice']
+
+
+If you had the opportunity to exchange contact information with your conversation partner so you can keep in touch with each other, would you be interested? Note that we will not and cannot release your contact information; we just want to gauge your interest if the opportunity arose.
+['interested_in_exchanging_contact_info']
+
+
+If matched in real time.
+['realtime']
+
+
+I was trying to impress my conversation partner.
+['i_tried_to_impress']
+
+
+I was a good listener.
+['i_am_good_listener']
+
+
+How strong is your memory of the END of the conversation?
+['end_memory_rating']
+
+
+How much did you and your partner have in common with one another?
+['in_common']
+
+
+How polite were you during the conversation?
+['i_am_polite']
+
+
+How polite was your conversation partner?
+['you_are_polite']
+
+
+How often do you guess that your conversation partner feels isolated from others in everyday life?
+['you_feel_isolated']
+
+
+How often do you feel isolated from others?
+['i_feel_isolated']
+
+
+How o ften do you guess that your conversation partner feels left out in everyday life?
+['you_feel_left_out']
+
+
+How o ften do you feel left out?
+['i_feel_left_out']
+
+
+How much longer would you have liked the conversation to continue?
+['how_long_you']
+
+
+How much longer do you think your partner would have liked to continue the conversation?
+['how_long_other']
+
+
+How much do think your conversation partner liked you?
+['you_like_me']
+
+
+How much did your conversation partner self-disclose to you?
+['you_disclosed']
+
+
+How much did you self-disclose to your conversation partner?
+['i_disclosed']
+
+
+How much did you like your conversation partner?
+['i_like_you']
+
+
+Who were your conversations with? In other words, what percentage of your conversations were with each of the following people (e.g., if half your conversations were with family and the other half were with work colleagues, then enter the number ‚ 50 in the Family box and 50 in the Work Colleagues box below) (Your total must add up to 100%)
+['convo_who_friends']
+
+

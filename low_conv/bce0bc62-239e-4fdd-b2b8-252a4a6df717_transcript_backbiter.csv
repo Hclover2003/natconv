@@ -1,0 +1,247 @@
+turn_id,speaker,start,stop,utterance,backchannel,backchannel_count,backchannel_speaker,backchannel_start,backchannel_stop,interval,delta,questions,end_question,overlap,n_words
+0,5eebff91bd2957196e75d9c7,5.14,37.64,"mm. Yeah. Yeah. All right. Yeah, Yeah.",,0,,,,,32.5,0,False,False,7
+1,5d98077e74f4a002ea9a8c40,38.64,39.75,"Hi, how are you know?",,0,,,,1.0,1.1099999999999994,1,True,False,5
+2,5eebff91bd2957196e75d9c7,41.24,42.76,Hello?,,0,,,,1.490000000000002,1.519999999999996,1,True,False,1
+3,5d98077e74f4a002ea9a8c40,42.54,44.46,"Yeah, can you hear me",,0,,,,-0.21999999999999886,1.9200000000000017,0,False,True,5
+4,5eebff91bd2957196e75d9c7,44.44,45.25,"Yeah, I can hear you.",okay?,1,5d98077e74f4a002ea9a8c40,44.84,46.44,-0.020000000000003126,0.8100000000000023,0,False,True,5
+5,5d98077e74f4a002ea9a8c40,46.45,52.64,"Let me grab my headphones. Yeah,",All right. Yeah.,1,5eebff91bd2957196e75d9c7,47.94,51.56,1.2000000000000028,6.189999999999998,0,False,False,6
+6,5eebff91bd2957196e75d9c7,55.94,56.86,Mm hmm.,,0,,,,3.299999999999997,0.9200000000000017,0,False,False,2
+7,5d98077e74f4a002ea9a8c40,57.34,61.16,yeah. How are you today?,,0,,,,0.480000000000004,3.819999999999993,1,True,False,5
+8,5eebff91bd2957196e75d9c7,61.34,62.26,I'm doing fine.,,0,,,,0.18000000000000682,0.9199999999999946,0,False,False,4
+9,5d98077e74f4a002ea9a8c40,64.74,73.86,"I was just listening to some music just trying to I don't know, it's just, I feel like it's a stressful time now for everybody. Have you ever done one of these before?",Yeah.,1,5eebff91bd2957196e75d9c7,70.84,71.64,2.479999999999997,9.120000000000005,1,True,False,36
+10,5eebff91bd2957196e75d9c7,74.04,76.26,"Yeah, I've done these like two sons already.",,0,,,,0.18000000000000682,2.219999999999999,0,False,False,9
+11,5d98077e74f4a002ea9a8c40,76.94,86.76,"I didn't, this would be my fourth one. I've been doing them like once a week. They're actually really fun. Have you ever had one that went terribly wrong?",Yeah. Mhm.,1,5eebff91bd2957196e75d9c7,82.04,83.95,0.6799999999999926,9.820000000000007,1,True,False,32
+12,5eebff91bd2957196e75d9c7,87.14,92.54,"Um, I mean, there was one time someone didn't show up. That's it. Like",,0,,,,0.37999999999999545,5.400000000000006,0,False,False,16
+13,5d98077e74f4a002ea9a8c40,92.44,92.79,That's,,0,,,,-0.10000000000000853,0.3500000000000085,0,False,True,2
+14,5eebff91bd2957196e75d9c7,92.54,92.96,nothing.,,0,,,,-0.25,0.4199999999999875,0,False,True,1
+15,5d98077e74f4a002ea9a8c40,92.79,104.96,"not, That's not bad at. It. Just sucks because they only give you what, like a dollar 25 for your waiting. How long have you been doing that Profilic for?",Yeah. Yeah. Yeah.,3,5eebff91bd2957196e75d9c7,93.74,100.76,-0.1699999999999875,12.169999999999987,1,True,True,31
+16,5eebff91bd2957196e75d9c7,105.34,108.84,"Um, probably like three months now. Yeah.",Oh my,1,5d98077e74f4a002ea9a8c40,108.44,108.73,0.38000000000000966,3.5,0,False,False,7
+17,5d98077e74f4a002ea9a8c40,108.73,131.96,"goodness, I uh just started getting into it. Um I want to say like last year, But I didn't take it as seriously, but now I'm starting to take it more seriously. I've already made like $250 over the past three months, or not three months over the past six months since I've been taking it seriously? Where are you from?",Mm. Uh huh. Mhm. Mhm. Yeah. Yeah. Yeah.,6,5eebff91bd2957196e75d9c7,109.64,131.46,-0.10999999999999943,23.230000000000004,2,True,True,66
+18,5eebff91bd2957196e75d9c7,132.24,133.86,I'm from Houston texas.,,0,,,,0.28000000000000114,1.6200000000000045,0,False,False,5
+19,5d98077e74f4a002ea9a8c40,134.34,142.05,"Oh, I heard texas got hit really hard. I'm in a Pittsburgh pennsylvania.",Mhm. Yeah. Yeah.,3,5eebff91bd2957196e75d9c7,135.74,140.24,0.47999999999998977,7.710000000000008,0,False,False,14
+20,5eebff91bd2957196e75d9c7,142.34,148.85,That's cool.,,0,,,,0.28999999999999204,6.509999999999991,0,False,False,3
+21,5d98077e74f4a002ea9a8c40,148.94,167.88,"Uh Not really. I feel like Pittsburgh is a Karen just because All right, like the people that like Pittsburgh, I feel like they like Pittsburgh because they've never lived anywhere else, but it's like a Karen to me, like,",Mhm. Mhm. Okay. Yeah. Okay. Yeah. Probably.,5,5eebff91bd2957196e75d9c7,150.64,166.46,0.09000000000000341,18.939999999999998,0,False,False,42
+22,5eebff91bd2957196e75d9c7,167.84,169.45,I,,0,,,,-0.03999999999999204,1.6099999999999852,0,False,True,1
+23,5d98077e74f4a002ea9a8c40,167.88,169.06,"I hate it. Here,",,0,,,,-1.5699999999999932,1.1800000000000068,0,False,True,4
+24,5eebff91bd2957196e75d9c7,169.46,172.36,"like this thing, so it's fine here.",,0,,,,0.4000000000000057,2.9000000000000057,0,False,False,8
+25,5d98077e74f4a002ea9a8c40,172.04,173.26,what's there to do there?,Yeah.,1,5eebff91bd2957196e75d9c7,172.74,172.94,-0.3200000000000216,1.2199999999999989,1,True,True,6
+26,5eebff91bd2957196e75d9c7,173.54,184.36,"Um, that's a lot of stuff like, like in a city like downtown is a bunch of like, there's like restaurants. It's like there's a bunch of fucking happy,",,0,,,,0.28000000000000114,10.820000000000022,0,False,False,33
+27,5d98077e74f4a002ea9a8c40,185.94,191.05,Are you guys near um any like military basis out in Houston,right?,1,5eebff91bd2957196e75d9c7,189.04,189.25,1.579999999999984,5.110000000000014,0,False,False,12
+28,5eebff91bd2957196e75d9c7,191.24,193.96,I'm not sure about that.,,0,,,,0.18999999999999773,2.719999999999999,0,False,False,6
+29,5d98077e74f4a002ea9a8c40,193.74,194.66,or is that,,0,,,,-0.21999999999999886,0.9199999999999875,0,False,True,3
+30,5eebff91bd2957196e75d9c7,195.34,195.49,I'm,,0,,,,0.6800000000000068,0.15000000000000568,0,False,False,2
+31,5d98077e74f4a002ea9a8c40,195.44,195.62,I'm,,0,,,,-0.05000000000001137,0.18000000000000682,0,False,True,2
+32,5eebff91bd2957196e75d9c7,195.49,195.66,not,,0,,,,-0.12999999999999545,0.1699999999999875,0,False,True,1
+33,5d98077e74f4a002ea9a8c40,195.62,196.85,"thinking of Dallas,",,0,,,,-0.03999999999999204,1.2299999999999898,0,False,True,3
+34,5eebff91bd2957196e75d9c7,197.54,201.35,"it's probably that. I mean, you didn't mind, but I'm not sure about it.",,0,,,,0.6899999999999977,3.8100000000000023,0,False,False,17
+35,5d98077e74f4a002ea9a8c40,202.74,218.46,"I went to texas like one or two times, but it was just because it was like a layover flight, I didn't really get to go out and like see what was going on. So how has quarantine been going for you?",Yeah. Yeah. Yes.,3,5eebff91bd2957196e75d9c7,207.54,216.26,1.3900000000000148,15.719999999999999,1,True,False,43
+36,5eebff91bd2957196e75d9c7,219.04,222.06,"Um, it's been it's been all right. I guess.",,0,,,,0.5799999999999841,3.0200000000000102,0,False,False,11
+37,5d98077e74f4a002ea9a8c40,223.34,226.66,What have you been doing to like fill your time?,,0,,,,1.2800000000000011,3.319999999999993,1,True,False,10
+38,5eebff91bd2957196e75d9c7,228.04,235.76,"Um, I'm playing like video games with friends and stuff. This has been on like, you know the app Tiktok I want to talk about.",,0,,,,1.3799999999999955,7.719999999999999,0,False,False,26
+39,5d98077e74f4a002ea9a8c40,236.04,239.25,"Yeah, I know that. I heard that they were going to ban that though.",Yeah.,1,5eebff91bd2957196e75d9c7,238.74,239.54,0.28000000000000114,3.210000000000008,0,False,False,14
+40,5eebff91bd2957196e75d9c7,240.24,243.26,"I mean, yeah, it hasn't happened yet. I would still be honest.",Uh huh.,2,5d98077e74f4a002ea9a8c40,240.34,241.35,0.9900000000000091,3.019999999999982,0,False,False,13
+41,5d98077e74f4a002ea9a8c40,244.64,247.46,What are you going to do on a diskette band?,,0,,,,1.3799999999999955,2.8200000000000216,1,True,False,10
+42,5eebff91bd2957196e75d9c7,247.64,250.55,I have no clue. I say,Oh,1,5d98077e74f4a002ea9a8c40,249.54,250.3,0.1799999999999784,2.910000000000025,0,False,False,6
+43,5d98077e74f4a002ea9a8c40,250.31,250.86,man.,,0,,,,-0.2400000000000091,0.5500000000000114,0,False,True,1
+44,5eebff91bd2957196e75d9c7,250.55,254.55,I like hours a day. Mhm.,Oh man.,1,5d98077e74f4a002ea9a8c40,252.94,253.96,-0.3100000000000023,4.0,0,False,True,6
+45,5d98077e74f4a002ea9a8c40,254.34,257.96,"So you might think I, have you ever heard of a deal dash?",,0,,,,-0.21000000000000796,3.619999999999976,1,True,True,13
+46,5eebff91bd2957196e75d9c7,258.24,259.76,Knew that. What is that?,,0,,,,0.28000000000002956,1.5199999999999818,1,True,False,5
+47,5d98077e74f4a002ea9a8c40,260.54,267.55,It's like penny auction sites you go on and then it like each time it passes by it could.,Oh,1,5eebff91bd2957196e75d9c7,266.74,267.57,0.7800000000000296,7.009999999999991,0,False,False,20
+48,5eebff91bd2957196e75d9c7,267.58,270.66,yeah. I know you're talking about you're talking about. Yeah.,"Yeah. Yeah,",2,5d98077e74f4a002ea9a8c40,268.44,270.44,0.029999999999972715,3.080000000000041,0,False,False,12
+49,5d98077e74f4a002ea9a8c40,270.45,275.36,"it's kind of a bad thing to do, but it's fun.",Yeah.,1,5eebff91bd2957196e75d9c7,272.34,273.44,-0.21000000000003638,4.910000000000025,0,False,True,13
+50,5eebff91bd2957196e75d9c7,275.24,276.35,Yeah. I guess.,,0,,,,-0.12000000000000455,1.1100000000000136,0,False,True,3
+51,5d98077e74f4a002ea9a8c40,278.74,296.66,"I'm sorry my eye keeps twitching. I just started uh believe it or not. I have really bad depression. So I just started on this thing like in a depressed, this new antidepressant and it keeps making my I twist and sometimes my eyes my I will get stuck shut.",Yeah. Okay. Yeah.,3,5eebff91bd2957196e75d9c7,280.64,294.05,2.3899999999999864,17.920000000000016,0,False,False,51
+52,5eebff91bd2957196e75d9c7,296.54,299.56,"No, you're fine. You're fine. Uh",,0,,,,-0.12000000000000455,3.019999999999982,0,False,True,8
+53,5d98077e74f4a002ea9a8c40,301.94,328.56,"So other than that, um like what is there besides? Because I don't play like view games or anything. I've just been trying to like, you know, do like market research and I've been trying to read but being like alone, I'm going through a really bad separation right now. Being alone is like so new to me. So what what advice can you give me for that?",yeah. Yeah. Yeah.,3,5eebff91bd2957196e75d9c7,315.14,326.14,2.3799999999999955,26.620000000000005,2,True,False,72
+54,5eebff91bd2957196e75d9c7,329.04,334.85,"Um, just keep it so busy. Like just take your mind off of things going to leave stress.",,0,,,,0.4800000000000182,5.810000000000002,0,False,False,18
+55,5d98077e74f4a002ea9a8c40,336.34,341.65,Have you ever gone through anything like that before? Where you just didn't feel like you're going to make it through?,,0,,,,1.4899999999999523,5.310000000000002,2,True,False,23
+56,5eebff91bd2957196e75d9c7,341.94,346.16,"No, not really. I'm like, I'm 19 so like I haven't been through a lot.",,0,,,,0.29000000000002046,4.220000000000027,0,False,False,18
+57,5d98077e74f4a002ea9a8c40,347.04,356.86,"Okay. I'm 24. You're so yeah, do you go to college or anything?",Yeah. Uh huh. Yeah. Yeah. Yeah.,3,5eebff91bd2957196e75d9c7,348.14,357.76,0.8799999999999955,9.819999999999993,1,True,False,15
+58,5eebff91bd2957196e75d9c7,357.77,358.86,I go to texas tech.,,0,,,,0.9099999999999682,1.0900000000000318,0,False,False,5
+59,5d98077e74f4a002ea9a8c40,359.74,360.76,How do you like that?,,0,,,,0.8799999999999955,1.0199999999999818,1,True,False,5
+60,5eebff91bd2957196e75d9c7,360.74,364.16,It's pretty fine. It's pretty fun. I get it.,,0,,,,-0.01999999999998181,3.420000000000016,0,False,True,11
+61,5d98077e74f4a002ea9a8c40,365.34,383.46,"I was going to I don't know if you've heard of ST Leo University? Probably not. It's an online school. Um It's based in florida. I was doing that for a while and then I had to take a break because I mean, like, everything, I just felt like my world was just starting to, like crumble down around me after everything.",Yeah.,1,5eebff91bd2957196e75d9c7,382.64,382.84,1.17999999999995,18.120000000000005,1,False,False,66
+62,5eebff91bd2957196e75d9c7,383.54,385.96,"Yeah, I can get that.",,0,,,,0.08000000000004093,2.419999999999959,0,False,False,5
+63,5d98077e74f4a002ea9a8c40,386.94,392.66,"I wish I could go back and the hands of time and like, go back to when I was 19",Mm.,1,5eebff91bd2957196e75d9c7,387.74,387.95,0.9800000000000182,5.720000000000027,0,False,False,20
+64,5eebff91bd2957196e75d9c7,392.24,402.46,"Mm hmm. Uh huh. Yeah. I guess it, I haven't been through a lot of my life. I've been like chilling. Uh huh.",,0,,,,-0.4200000000000159,10.21999999999997,0,False,True,25
+65,5d98077e74f4a002ea9a8c40,403.04,411.06,you're blessed. Okay. I just wish I could go back to when I was 19 I would do so many things differently.,Yeah.,1,5eebff91bd2957196e75d9c7,404.14,405.54,0.5800000000000409,8.019999999999982,0,False,False,23
+66,5eebff91bd2957196e75d9c7,411.24,412.05,Like what?,,0,,,,0.18000000000000682,0.8100000000000023,1,True,False,2
+67,5d98077e74f4a002ea9a8c40,412.44,422.35,Yeah. Well I was in the military Um when I was when I was 17 I joined the military and then I got married when I was 19,Okay. Uh huh.,2,5eebff91bd2957196e75d9c7,416.54,420.86,0.38999999999998636,9.910000000000025,0,False,False,28
+68,5eebff91bd2957196e75d9c7,422.54,423.83,That's what,,0,,,,0.18999999999999773,1.2899999999999636,0,False,False,3
+69,5d98077e74f4a002ea9a8c40,423.34,423.96,and then,,0,,,,-0.4900000000000091,0.6200000000000045,0,False,True,2
+70,5eebff91bd2957196e75d9c7,423.84,425.06,"I'm thinking. I made,",,0,,,,-0.12000000000000455,1.2200000000000273,0,False,True,5
+71,5d98077e74f4a002ea9a8c40,424.74,442.36,"yeah, yeah I went through a divorce, my marriage only lasted like four months, I went through a divorce and then um once I got out I moved back up to Pittsburgh to be with my family. And um I also had kids when I was 19.","yeah,",1,5eebff91bd2957196e75d9c7,436.94,437.56,-0.3199999999999932,17.620000000000005,0,False,True,47
+72,5eebff91bd2957196e75d9c7,442.24,444.36,kids like multiple,,0,,,,-0.12000000000000455,2.1200000000000045,0,False,True,3
+73,5d98077e74f4a002ea9a8c40,444.84,446.36,Yeah I have two kids.,,0,,,,0.47999999999996135,1.5200000000000387,0,False,False,5
+74,5eebff91bd2957196e75d9c7,446.44,448.75,or they're like twins or like back to back.,,0,,,,0.07999999999998408,2.3100000000000023,0,False,False,10
+75,5d98077e74f4a002ea9a8c40,448.44,481.36,"No I had one I had scarlet when I was 19, no When I was 20 I'm sorry 21 when I had Scarlet she's my order she's three and then um Marley, I just had her last year. It's another thing to I have being like two kids and being that I'm not with um my ex anymore, we have like split custody right now. And it's really difficult",Yeah. Mm Yeah. Uh huh Yeah.,4,5eebff91bd2957196e75d9c7,458.44,478.46,-0.3100000000000023,32.920000000000016,0,False,True,75
+76,5eebff91bd2957196e75d9c7,481.34,482.75,"Yeah, I can get that.",,0,,,,-0.020000000000038654,1.410000000000025,0,False,True,5
+77,5d98077e74f4a002ea9a8c40,484.44,493.76,"because like I'm not able to work or anything because um like in the military and everything, I had pTSD.",,0,,,,1.6899999999999977,9.319999999999993,0,False,False,21
+78,5eebff91bd2957196e75d9c7,494.04,500.36,"Yeah, I understand what you're going through. Uh It makes sense.",,0,,,,0.28000000000002956,6.319999999999993,0,False,False,12
+79,5d98077e74f4a002ea9a8c40,501.04,509.16,"Yeah, so I feel like my job essentially was being a mom, but now that my kids aren't here with me all the time, I'm like oh my gosh, I don't know what to do with myself.",Yeah.,1,5eebff91bd2957196e75d9c7,508.34,508.75,0.6800000000000068,8.120000000000005,0,False,False,40
+80,5eebff91bd2957196e75d9c7,509.94,515.94,"Is your ex in pennsylvania in Pittsburgh or is he like, yeah, it's like",Yeah.,1,5d98077e74f4a002ea9a8c40,512.84,513.76,0.7799999999999727,6.000000000000057,0,False,False,15
+81,5d98077e74f4a002ea9a8c40,515.84,516.07,He,,0,,,,-0.10000000000002274,0.2300000000000182,0,False,True,1
+82,5eebff91bd2957196e75d9c7,515.94,516.3,how,,0,,,,-0.12999999999999545,0.35999999999989996,0,False,True,1
+83,5d98077e74f4a002ea9a8c40,516.07,516.95,lives.,,0,,,,-0.2299999999999045,0.8799999999999955,0,False,True,1
+84,5eebff91bd2957196e75d9c7,516.31,520.86,"so like, but you're like the use your kids are with you like the majority of the time, right?",,0,,,,-0.6400000000001,4.550000000000068,1,True,True,20
+85,5d98077e74f4a002ea9a8c40,521.84,529.46,"No it's like 5050, so I get them sunday, monday, Tuesday Wednesday and then he gets some thursday friday and saturday.",,0,,,,0.9800000000000182,7.6200000000000045,0,False,False,22
+86,5eebff91bd2957196e75d9c7,529.54,535.36,"Yeah, I mean mm hmm",,0,,,,0.07999999999992724,5.82000000000005,0,False,False,5
+87,5d98077e74f4a002ea9a8c40,535.74,537.15,It sucks. It really,,0,,,,0.37999999999999545,1.4099999999999682,0,False,False,4
+88,5eebff91bd2957196e75d9c7,536.94,537.94,I,,0,,,,-0.2099999999999227,1.0,0,False,True,1
+89,5d98077e74f4a002ea9a8c40,537.15,537.75,does.,,0,,,,-0.7900000000000773,0.6000000000000227,0,False,True,1
+90,5eebff91bd2957196e75d9c7,537.95,540.22,can't say that. Yeah.,,0,,,,0.20000000000004547,2.269999999999982,0,False,False,5
+91,5d98077e74f4a002ea9a8c40,540.44,550.16,"Yeah. Especially when you're getting like your twenties and like all your friends start having kids, everything don't fall into the trap. Mhm,",Yeah. Yeah.,2,5eebff91bd2957196e75d9c7,546.54,549.54,0.22000000000002728,9.719999999999914,0,False,False,25
+92,5eebff91bd2957196e75d9c7,550.04,551.86,I think I'm gonna wait a little bit.,,0,,,,-0.12000000000000455,1.82000000000005,0,False,True,10
+93,5d98077e74f4a002ea9a8c40,552.94,570.06,definitely. I I wish I would have waited until I was at least like married again because I wasn't married to him and like now things are just complicated. Uh Do you have siblings?,Yeah. Yeah. Mhm,3,5eebff91bd2957196e75d9c7,554.14,568.36,1.080000000000041,17.11999999999989,1,True,False,35
+94,5eebff91bd2957196e75d9c7,569.94,571.61,Yeah. Do you hear,,0,,,,-0.11999999999989086,1.669999999999959,0,False,True,4
+95,5d98077e74f4a002ea9a8c40,571.54,571.7,How,,0,,,,-0.07000000000005002,0.16000000000008185,0,False,True,1
+96,5eebff91bd2957196e75d9c7,571.61,573.95,them? Uh 31,many? Yeah.,1,5d98077e74f4a002ea9a8c40,571.7,573.24,-0.09000000000003183,2.340000000000032,1,False,True,3
+97,5d98077e74f4a002ea9a8c40,575.14,578.45,Three. I'm sure they keep you busy.,Yeah.,1,5eebff91bd2957196e75d9c7,575.74,576.45,1.1899999999999409,3.310000000000059,0,False,False,8
+98,5eebff91bd2957196e75d9c7,578.44,586.86,"Oh yes, because I'm not in like my door right now because I haven't moved in yet. I'm supposed to do that like next week, so I'm at home right now.",,0,,,,-0.009999999999990905,8.419999999999959,0,False,True,35
+99,5d98077e74f4a002ea9a8c40,586.64,590.75,Are you scared to like move into your dorm or anything that's like covid going on?,,0,,,,-0.22000000000002728,4.110000000000014,1,True,True,17
+100,5eebff91bd2957196e75d9c7,590.84,595.85,"Um I mean, not necessarily, but I'm being safe, so",,0,,,,0.09000000000003183,5.009999999999991,0,False,False,11
+101,5d98077e74f4a002ea9a8c40,597.64,613.86,"Yeah. Moving sucks to like whenever my lease is up in february, I have a two bedroom apartment and I have so much stuff. I know. I don't know how I'm going to get it all helps. Are you guys close in age?",mhm mhm Yeah. Hi.,3,5eebff91bd2957196e75d9c7,600.34,611.76,1.7899999999999636,16.220000000000027,1,True,False,45
+102,5eebff91bd2957196e75d9c7,614.04,624.46,Um My siblings. Um my sister is 15 And my brothers 12. And my other sisters. nine. What?,Mhm.,1,5d98077e74f4a002ea9a8c40,616.24,616.66,0.17999999999994998,10.420000000000073,1,True,False,18
+103,5d98077e74f4a002ea9a8c40,624.14,625.25,So not really.,,0,,,,-0.32000000000005,1.1100000000000136,0,False,True,3
+104,5eebff91bd2957196e75d9c7,625.44,642.26,"Yeah. Hold on. Uh huh. Oh yeah, man. They got into a fight over something.",Mhm.,1,5d98077e74f4a002ea9a8c40,634.54,634.86,0.19000000000005457,16.819999999999936,0,False,False,15
+105,5d98077e74f4a002ea9a8c40,642.54,645.06,It's okay. Are you watching them?,Yeah.,1,5eebff91bd2957196e75d9c7,642.84,644.06,0.2799999999999727,2.519999999999982,1,True,False,7
+106,5eebff91bd2957196e75d9c7,644.84,648.46,Yeah. I'm watching them for now. Yeah.,Oh man.,1,5d98077e74f4a002ea9a8c40,646.84,648.66,-0.2199999999999136,3.6200000000000045,0,False,True,8
+107,5d98077e74f4a002ea9a8c40,651.54,653.55,I'm sure you have your hands full.,Yeah.,1,5eebff91bd2957196e75d9c7,652.94,653.14,3.0799999999999272,2.009999999999991,0,False,False,8
+108,5eebff91bd2957196e75d9c7,653.54,657.86,Yeah. There they're always fighting for no reason. I don't know.,,0,,,,-0.009999999999990905,4.32000000000005,0,False,True,13
+109,5d98077e74f4a002ea9a8c40,659.54,664.25,"Okay. So another question, do you watch like who we were netflix",,0,,,,1.67999999999995,4.710000000000036,0,False,False,12
+110,5eebff91bd2957196e75d9c7,664.44,665.25,Watch out.,,0,,,,0.19000000000005457,0.8099999999999454,0,False,False,2
+111,5d98077e74f4a002ea9a8c40,665.84,667.46,hulu or netflix?,,0,,,,0.5900000000000318,1.6200000000000045,1,True,False,3
+112,5eebff91bd2957196e75d9c7,667.24,670.26,Yeah. I watch I watch a lot of netflix and a lot of netflix.,,0,,,,-0.22000000000002728,3.019999999999982,0,False,True,14
+113,5d98077e74f4a002ea9a8c40,671.04,673.26,What are some good shoes? I can get into,,0,,,,0.7799999999999727,2.2200000000000273,1,False,False,9
+114,5eebff91bd2957196e75d9c7,673.44,677.36,"Oh, okay. Uh I go type of shows.",,0,,,,0.18000000000006366,3.919999999999959,0,False,False,8
+115,5d98077e74f4a002ea9a8c40,678.34,682.96,any show that you think is good. Like I'm not looking for anything in particular.,All right.,1,5eebff91bd2957196e75d9c7,680.94,681.56,0.9800000000000182,4.6200000000000045,0,False,False,16
+116,5eebff91bd2957196e75d9c7,682.64,687.46,I watched I watched Outer Banks. I like that song. I,,0,,,,-0.32000000000005,4.82000000000005,0,False,True,11
+117,5d98077e74f4a002ea9a8c40,687.44,687.65,What,,0,,,,-0.01999999999998181,0.2099999999999227,0,False,True,1
+118,5eebff91bd2957196e75d9c7,687.46,688.05,like,,0,,,,-0.18999999999994088,0.5899999999999181,0,False,True,1
+119,5d98077e74f4a002ea9a8c40,687.65,688.55,do you like about it?,,0,,,,-0.39999999999997726,0.8999999999999773,1,True,True,5
+120,5eebff91bd2957196e75d9c7,689.64,717.97,"I mean you already like to tell you about the show. All right. It's like this kid is his name is john B His dad is missing. He's actually there. But he thinks his dad is missing and they need to find some gold. But like it's complicated. It's been like two months and I watched it was like, I don't know like I'm not to explain it to you. It's just like yeah, it's a really good shot. It's a really good show. But the","Yeah,",1,5d98077e74f4a002ea9a8c40,692.64,693.26,1.0900000000000318,28.33000000000004,0,False,False,95
+121,5d98077e74f4a002ea9a8c40,717.84,718.26,I mean,,0,,,,-0.12999999999999545,0.4199999999999591,0,False,True,2
+122,5eebff91bd2957196e75d9c7,717.97,723.14,first season just came out like three months ago and they're making a new season next day. Yeah.,,0,,,,-0.2899999999999636,5.169999999999959,0,False,True,19
+123,5d98077e74f4a002ea9a8c40,722.94,726.66,I got really hooked on her Or you? Sorry you,Yeah.,1,5eebff91bd2957196e75d9c7,725.84,726.13,-0.1999999999999318,3.7199999999999136,1,False,True,10
+124,5eebff91bd2957196e75d9c7,726.14,728.05,You you use really good. I love,Oh,1,5d98077e74f4a002ea9a8c40,727.34,728.01,-0.5199999999999818,1.9099999999999682,0,False,True,7
+125,5d98077e74f4a002ea9a8c40,728.02,728.2,my,,0,,,,-0.029999999999972715,0.18000000000006366,0,False,True,1
+126,5eebff91bd2957196e75d9c7,728.05,728.38,you.,,0,,,,-0.15000000000009095,0.3300000000000409,0,False,True,1
+127,5d98077e74f4a002ea9a8c40,728.2,729.11,"gosh,",,0,,,,-0.17999999999994998,0.9099999999999682,0,False,True,1
+128,5eebff91bd2957196e75d9c7,728.39,729.35,I love you.,,0,,,,-0.7200000000000273,0.9600000000000364,0,False,True,3
+129,5d98077e74f4a002ea9a8c40,729.12,731.41,me too. That stuff is crazy,Yeah.,1,5eebff91bd2957196e75d9c7,730.14,730.34,-0.2300000000000182,2.2899999999999636,0,False,True,6
+130,5eebff91bd2957196e75d9c7,730.94,731.46,I can't,,0,,,,-0.4699999999999136,0.5199999999999818,0,False,True,3
+131,5d98077e74f4a002ea9a8c40,731.41,731.96,man.,,0,,,,-0.05000000000006821,0.5500000000000682,0,False,True,1
+132,5eebff91bd2957196e75d9c7,731.46,734.85,wait for season 3 to come out next year. Yeah.,,0,,,,-0.5,3.3899999999999864,0,False,True,10
+133,5d98077e74f4a002ea9a8c40,734.54,743.16,"Yeah, I just hate it because it's like it's so long in between the seasons. I was really, I was really hooked on. Orange is the New Black too.",Yeah.,1,5eebff91bd2957196e75d9c7,739.44,740.06,-0.3100000000000591,8.620000000000005,0,False,True,31
+134,5eebff91bd2957196e75d9c7,743.14,748.45,Yeah. That's a good show. I got through like the first two seasons though. I didn't watch anything past that.,,0,,,,-0.01999999999998181,5.310000000000059,0,False,True,22
+135,5d98077e74f4a002ea9a8c40,749.14,761.95,"You have to watch the last season. It's okay but it's not as fun or as interesting or action packed as the 1st and 2nd seasons which uh oh you know, show I got hooked on",Yeah.,1,5eebff91bd2957196e75d9c7,756.54,757.25,0.6899999999999409,12.81000000000006,0,False,False,38
+136,5eebff91bd2957196e75d9c7,761.94,762.75,What,,0,,,,-0.009999999999990905,0.8099999999999454,0,False,True,1
+137,5d98077e74f4a002ea9a8c40,762.74,766.52,and I ended up watching it for days on end. Like I wouldn't sleep until,,0,,,,-0.009999999999990905,3.7799999999999727,0,False,True,16
+138,5eebff91bd2957196e75d9c7,766.34,766.76,or?,,0,,,,-0.17999999999994998,0.4199999999999591,1,True,True,1
+139,5d98077e74f4a002ea9a8c40,766.52,769.65,"I finished it, bait bates, motel.","Oh yeah,",1,5eebff91bd2957196e75d9c7,767.54,768.16,-0.2400000000000091,3.1299999999999955,0,False,True,6
+140,5eebff91bd2957196e75d9c7,769.74,772.86,basically I heard of it. I haven't watched it yet though. What's it about?,,0,,,,0.09000000000003183,3.1200000000000045,1,True,False,16
+141,5d98077e74f4a002ea9a8c40,773.54,800.75,"It's the prequel to psycho. Um like american psycho. And essentially this guy and his mom are like really, really close and they have like a brother, but his brother is like a druggie and they have all this stuff like going on in the hotel and he murders people. But his mom always covers it up for him and like no one knows what's going on in that hotel except for him and his mom.",Yeah. Yeah. Yeah.,3,5eebff91bd2957196e75d9c7,778.64,795.96,0.67999999999995,27.210000000000036,0,False,False,78
+142,5eebff91bd2957196e75d9c7,801.14,803.66,Right that on netflix or who?,,0,,,,0.38999999999998636,2.519999999999982,1,True,False,6
+143,5d98077e74f4a002ea9a8c40,804.14,805.55,I think it's on netflix.,,0,,,,0.4800000000000182,1.4099999999999682,0,False,False,6
+144,5eebff91bd2957196e75d9c7,805.74,808.46,I'm gonna check it out. Check it. That's not interesting.,,0,,,,0.19000000000005457,2.7200000000000273,0,False,False,13
+145,5d98077e74f4a002ea9a8c40,808.04,811.26,Mm you're gonna get hooked and you won't be able to stop,,0,,,,-0.42000000000007276,3.2200000000000273,0,False,True,15
+146,5eebff91bd2957196e75d9c7,811.04,811.47,He's,,0,,,,-0.22000000000002728,0.43000000000006366,0,False,True,2
+147,5d98077e74f4a002ea9a8c40,811.26,811.86,watching it.,in right,1,5eebff91bd2957196e75d9c7,811.47,811.75,-0.21000000000003638,0.6000000000000227,0,False,True,2
+148,5eebff91bd2957196e75d9c7,811.75,812.15,there.,,0,,,,-0.11000000000001364,0.39999999999997726,0,False,True,1
+149,5d98077e74f4a002ea9a8c40,813.14,817.36,Um I want to say like four or 5.,,0,,,,0.9900000000000091,4.220000000000027,0,False,False,9
+150,5eebff91bd2957196e75d9c7,817.64,820.76,Artists don't make a new seasons or it's like in this show.,,0,,,,0.2799999999999727,3.1200000000000045,0,False,False,14
+151,5d98077e74f4a002ea9a8c40,821.04,839.26,"No it's an ended show. This this happened this came out like years ago, I just got hooked on it like last year because um whenever Marley was born we were up all night anyway so we just wanted to fill our time with like netflix or something. So we washed bates motel.",Uh huh.,1,5eebff91bd2957196e75d9c7,826.14,826.76,0.2799999999999727,18.220000000000027,0,False,False,54
+152,5eebff91bd2957196e75d9c7,839.34,854.05,"Yeah. And then they say that a lot of time like whenever I'm bored, especially like right now I'm watching a lot of netflix basically. Like most nephews shows almost like we watched all of it. Yeah. Yeah.",Oh yeah,1,5d98077e74f4a002ea9a8c40,852.04,852.84,0.08000000000004093,14.709999999999923,0,False,False,40
+153,5d98077e74f4a002ea9a8c40,853.84,858.86,I did you have you watched any good like recent documentaries?,,0,,,,-0.2099999999999227,5.019999999999982,1,True,True,11
+154,5eebff91bd2957196e75d9c7,858.94,863.36,Dr um Jeffrey Epstein documentary. You watched that?,,0,,,,0.08000000000004093,4.419999999999959,1,True,False,8
+155,5d98077e74f4a002ea9a8c40,863.94,868.16,I haven't watched that one yet. The last one that I watched was the Aaron Hernandez one.,,0,,,,0.5800000000000409,4.219999999999914,0,False,False,18
+156,5eebff91bd2957196e75d9c7,867.74,869.35,"Yeah, I watched that one too. Yeah.",,0,,,,-0.4199999999999591,1.6100000000000136,0,False,True,7
+157,5d98077e74f4a002ea9a8c40,869.64,894.69,That one was really good. Were you an Aaron Hernandez fan? I wasn't really like I knew he was in trouble and I didn't really like know all about the details but after like watching the documentary I kind of like you can call me Jack tip if you want but I kind of like felt for him just because,Yeah. Mhm. Um No. Yeah. Yeah.,3,5eebff91bd2957196e75d9c7,870.84,893.64,0.2899999999999636,25.050000000000068,1,False,False,62
+158,5eebff91bd2957196e75d9c7,894.34,894.78,Have,,0,,,,-0.35000000000002274,0.4399999999999409,0,False,True,1
+159,5d98077e74f4a002ea9a8c40,894.69,894.9,of,,0,,,,-0.08999999999991815,0.2099999999999227,0,False,True,1
+160,5eebff91bd2957196e75d9c7,894.79,895.06,that.,,0,,,,-0.11000000000001364,0.2699999999999818,0,False,True,1
+161,5d98077e74f4a002ea9a8c40,894.9,907.54,like I don't know I just like felt for him and I just like felt bad. That's the way his life turned out. Yeah.,Yeah. Yeah. Yeah. So,2,5eebff91bd2957196e75d9c7,895.64,908.96,-0.15999999999996817,12.639999999999986,0,False,True,26
+162,5eebff91bd2957196e75d9c7,908.97,912.86,uh what kind of saying? Mhm.,,0,,,,1.4300000000000637,3.8899999999999864,1,False,False,6
+163,5d98077e74f4a002ea9a8c40,913.74,917.85,You're saying you've watched a lot of hulu and netflix when we were talking about her.,Oh yeah.,2,5eebff91bd2957196e75d9c7,916.54,917.04,0.8799999999999955,4.110000000000014,0,False,False,18
+164,5eebff91bd2957196e75d9c7,918.14,923.45,"Um You want to do more shows? I like all right, you know, to show all american,",Yeah.,1,5d98077e74f4a002ea9a8c40,920.84,921.46,0.2899999999999636,5.310000000000059,1,False,False,17
+165,5d98077e74f4a002ea9a8c40,924.64,925.75,No I haven't heard of it.,,0,,,,1.1899999999999409,1.1100000000000136,0,False,False,7
+166,5eebff91bd2957196e75d9c7,926.14,952.06,it's a ball song. It's a kid named Spencer. He moves like a rich neighborhood and he plays football for the coach that recruited him there. But he has to like go back to his hometown every day. It's like see his mom and his brother and his dad left him when he was younger. So like he's like a football star. He's like a really good football player and I'm I'm pretty bad at it for anything but it's a pretty good show. I'm pretty right.,Yeah. Yes,2,5d98077e74f4a002ea9a8c40,949.84,951.35,0.38999999999998636,25.91999999999996,0,False,False,96
+167,5d98077e74f4a002ea9a8c40,951.84,956.66,all America would it be good for me to watch even if I'm not like a football fan?,,0,,,,-0.2199999999999136,4.819999999999936,1,True,True,19
+168,5eebff91bd2957196e75d9c7,956.84,969.24,"Um I mean there's not that much football in it but like yeah, it will be pretty good wash because all my friends like they're not like sports people either. They still like it. Yeah.",,0,,,,0.18000000000006366,12.399999999999977,0,False,False,37
+169,5d98077e74f4a002ea9a8c40,969.44,981.16,Yeah. Um there's a lot of movies that I haven't watched yet but I know like people keep telling me to watch them. Like remember the titans? Have you watched that?,Yeah.,1,5eebff91bd2957196e75d9c7,978.94,979.65,0.20000000000004547,11.719999999999914,2,True,False,33
+170,5eebff91bd2957196e75d9c7,981.04,983.95,"No, I haven't watched it yet. I'm going to get around to it. Uh",,0,,,,-0.12000000000000455,2.910000000000082,0,False,True,16
+171,5d98077e74f4a002ea9a8c40,984.64,991.55,Okay tell me the greatest movie you've ever watched before. Okay.,uh,1,5eebff91bd2957196e75d9c7,987.94,989.95,0.6899999999999409,6.909999999999968,0,False,False,12
+172,5eebff91bd2957196e75d9c7,991.14,996.84,It's hard to think of it on the top of my head. I watch a lot of movies so. Yeah.,,0,,,,-0.40999999999996817,5.7000000000000455,0,False,True,21
+173,5d98077e74f4a002ea9a8c40,997.94,1002.86,There's one I can think of in particular. It's called Requiem for a Dream.,Mm,1,5eebff91bd2957196e75d9c7,1001.24,1001.47,1.1000000000000227,4.919999999999959,0,False,False,16
+174,5eebff91bd2957196e75d9c7,1003.24,1006.06,"I heard of that. Yeah, it's a pretty old movie though, right?",,0,,,,0.37999999999999545,2.8199999999999363,1,True,False,13
+175,5d98077e74f4a002ea9a8c40,1006.24,1064.96,Yeah it's old movie but it's one of the best movies I've ever watched. It's about um these people like this guy in a scroll or like boyfriend and girlfriend and they're both like really hooked on drugs and this mom is like captivated by this tv game show that she watches all the time and she gets called to be on the T. V. Show and she all her life. She just wanted to fit into the red dress when she was younger to go onto the T. V. Show and like I don't know introduced herself and being motivational speaker. So she gets like wrapped up in this idea while her son is like a drug addict. He gets himself in like further trouble. And the mom um what does she do? The mom end up getting hooked on diet pills. And then at that ending the movie I'll just tell you what happens because I don't know you probably wouldn't watch it.,Yeah. Yeah. Yeah. Yeah. Yeah.,5,5eebff91bd2957196e75d9c7,1006.94,1038.26,0.18000000000006366,58.72000000000003,1,False,False,174
+176,5eebff91bd2957196e75d9c7,1064.84,1066.85,You can tell me what happened. Something like that.,,0,,,,-0.12000000000011823,2.009999999999991,0,False,True,9
+177,5d98077e74f4a002ea9a8c40,1067.04,1098.76,"Okay at the end of the movie her son who was a drug addict, his arm has to be cut off because he was injecting heroin so much it just literally wasn't functional and they ended up in jail. His girlfriend became a prostitute. And then the mom ended up like in a psych ward with a feeding tube. And she never got called for the for the show. It was a scam all along. It's a depressing movie but it's so good.",Yeah. Uh huh. Uh,3,5eebff91bd2957196e75d9c7,1075.84,1096.05,0.19000000000005457,31.720000000000027,0,False,False,86
+178,5eebff91bd2957196e75d9c7,1098.84,1100.76,Yeah. What's the name of it again?,,0,,,,0.07999999999992724,1.9200000000000728,1,True,False,8
+179,5d98077e74f4a002ea9a8c40,1101.04,1102.86,Requiem for a dream.,,0,,,,0.2799999999999727,1.8199999999999363,0,False,False,4
+180,5eebff91bd2957196e75d9c7,1102.74,1107.06,"Yeah. For all right, I'm gonna watch that like it sounds pretty interesting.",,0,,,,-0.11999999999989086,4.319999999999936,0,False,True,15
+181,5d98077e74f4a002ea9a8c40,1107.94,1112.17,It's definitely interesting. It's it starts off kind of like.,Mhm.,1,5eebff91bd2957196e75d9c7,1109.94,1110.36,0.8800000000001091,4.230000000000018,0,False,False,12
+182,5eebff91bd2957196e75d9c7,1111.74,1112.85,Slow.,,0,,,,-0.43000000000006366,1.1099999999999,0,False,True,1
+183,5d98077e74f4a002ea9a8c40,1113.34,1123.67,Yeah. Yeah but it picks up pace really fast and another one that I really really like is uh john Q,Yeah.,1,5eebff91bd2957196e75d9c7,1117.04,1117.75,0.4900000000000091,10.330000000000155,0,False,False,21
+184,5eebff91bd2957196e75d9c7,1124.14,1125.96,I haven't heard about that.,,0,,,,0.4700000000000273,1.8199999999999363,0,False,False,6
+185,5d98077e74f4a002ea9a8c40,1127.74,1129.56,"really was Denzel Washington,",,0,,,,1.7799999999999727,1.8199999999999363,0,False,False,4
+186,5eebff91bd2957196e75d9c7,1129.54,1132.67,"I haven't heard about it, Isn't you? Yeah. Uh",,0,,,,-0.01999999999998181,3.130000000000109,1,False,True,11
+187,5d98077e74f4a002ea9a8c40,1133.14,1134.16,it's older.,,0,,,,0.4700000000000273,1.0199999999999818,0,False,False,3
+188,5eebff91bd2957196e75d9c7,1134.44,1137.56,I haven't heard anybody yet. What's it about?,,0,,,,0.2799999999999727,3.119999999999891,1,True,False,10
+189,5d98077e74f4a002ea9a8c40,1137.64,1170.36,"Um This kid, his son, this it's like a family and his dad is like trying to get his son a heart transplant because the sunlight collapses on the baseball field and the hospital wants all this kind of money to put him on the transplant list. But the family is like living in poverty and they don't have enough money. So um the father goes and holds everybody in the hospital like as hostage until they give his son a heart transplant.",Mhm. Oh,2,5eebff91bd2957196e75d9c7,1156.64,1168.67,0.08000000000015461,32.7199999999998,0,False,False,85
+190,5eebff91bd2957196e75d9c7,1170.14,1174.09,yeah. That sounds really interesting. And really?,,0,,,,-0.2199999999997999,3.949999999999818,1,True,True,7
+191,5d98077e74f4a002ea9a8c40,1174.04,1175.41,It is it's,,0,,,,-0.049999999999954525,1.3700000000001182,0,False,True,4
+192,5eebff91bd2957196e75d9c7,1175.24,1175.46,Is it,,0,,,,-0.17000000000007276,0.22000000000002728,0,False,True,2
+193,5d98077e74f4a002ea9a8c40,1175.41,1175.68,so,,0,,,,-0.049999999999954525,0.2699999999999818,0,False,True,1
+194,5eebff91bd2957196e75d9c7,1175.46,1175.99,like a,,0,,,,-0.22000000000002728,0.5299999999999727,0,False,True,2
+195,5d98077e74f4a002ea9a8c40,1175.68,1176.26,good.,,0,,,,-0.30999999999994543,0.5799999999999272,0,False,True,1
+196,5eebff91bd2957196e75d9c7,1176.0,1178.86,it's like a plot twist at the end? So let's not have a portraitist.,,0,,,,-0.2599999999999909,2.8599999999999,1,False,True,16
+197,5d98077e74f4a002ea9a8c40,1179.74,1193.85,"Mm. Not really, no, it's just pretty consistent but it's really like action packed because there's like, I don't know, there's stuff that like you wouldn't think would happen happens in there.",Yeah. Yeah.,2,5eebff91bd2957196e75d9c7,1185.14,1194.04,0.8800000000001091,14.1099999999999,0,False,False,38
+198,5eebff91bd2957196e75d9c7,1195.44,1198.96,How interesting. Yeah.,Mhm.,1,5d98077e74f4a002ea9a8c40,1197.94,1198.45,1.5900000000001455,3.519999999999982,0,False,False,3
+199,5d98077e74f4a002ea9a8c40,1199.94,1202.67,"Alright, next topic? Music.",,0,,,,0.9800000000000182,2.730000000000018,1,False,False,4
+200,5eebff91bd2957196e75d9c7,1202.94,1207.06,Anything I like. What kind of music?,Mhm.,1,5d98077e74f4a002ea9a8c40,1203.14,1203.67,0.2699999999999818,4.119999999999891,1,True,False,7
+201,5d98077e74f4a002ea9a8c40,1207.74,1210.67,What's your favorite? Give me your top three artists?,,0,,,,0.6800000000000637,2.9300000000000637,2,True,False,10
+202,5eebff91bd2957196e75d9c7,1211.04,1221.77,Um Kendrick Lamar Drake. Hello Baby Ali was in the Hip Officer. I don't know that much about any other house of music.,Okay. Yeah.,2,5d98077e74f4a002ea9a8c40,1213.64,1218.65,0.36999999999989086,10.730000000000018,0,False,False,24
+203,5d98077e74f4a002ea9a8c40,1222.44,1224.56,"Okay, so my number one is her.",,0,,,,0.6700000000000728,2.119999999999891,0,False,False,7
+204,5eebff91bd2957196e75d9c7,1224.94,1226.85,Oh yeah. She's pretty. Huh?,,0,,,,0.38000000000010914,1.9099999999998545,1,True,False,6
+205,5d98077e74f4a002ea9a8c40,1227.04,1229.26,Um I like daniel caesar too.,,0,,,,0.19000000000005457,2.2200000000000273,0,False,False,6
+206,5eebff91bd2957196e75d9c7,1229.64,1232.46,"I don't know that much about him, but",,0,,,,0.38000000000010914,2.8199999999999363,0,False,False,9
+207,5d98077e74f4a002ea9a8c40,1232.04,1235.45,"He's new. And J. Cole,",yeah.,1,5eebff91bd2957196e75d9c7,1233.04,1233.66,-0.42000000000007276,3.410000000000082,0,False,True,6
+208,5eebff91bd2957196e75d9c7,1235.64,1237.67,Yeah. I love jake are I love jake are,,0,,,,0.19000000000005457,2.0299999999999727,0,False,False,9
+209,5d98077e74f4a002ea9a8c40,1237.64,1243.55,I love jake whole so much. What's your favorite song he sings?,Yeah. Yeah.,2,5eebff91bd2957196e75d9c7,1238.94,1241.17,-0.029999999999972715,5.9099999999998545,1,True,True,13
+210,5eebff91bd2957196e75d9c7,1243.84,1258.91,"Um You know, look, I don't listen to him that much, but I like it like that one song that goes like my mom I have a brain for right now, but it's",,0,,,,0.2899999999999636,15.070000000000164,0,False,False,35
+211,5d98077e74f4a002ea9a8c40,1258.84,1259.19,It's,,0,,,,-0.07000000000016371,0.3500000000001364,0,False,True,2
+212,5eebff91bd2957196e75d9c7,1258.91,1287.66,"like one of his older songs, one of his older songs, it's like on it. I don't think how it goes again, wow, I can't I can't I think hold on, hold on, hold on. They call. Yeah. Oh you probably know the name of the song is like, you know how to like sing it Like a part of it. It's like one of his most popular songs.",Okay. Mhm.,2,5d98077e74f4a002ea9a8c40,1259.19,1279.36,-0.2799999999999727,28.75,0,False,True,74
+213,5d98077e74f4a002ea9a8c40,1288.14,1289.36,Is a crooked smile.,,0,,,,0.4800000000000182,1.2199999999998,0,False,False,4
+214,5eebff91bd2957196e75d9c7,1289.54,1293.86,"No, not bad. I forgot. I have been listening Jaco in a minute.",,0,,,,0.18000000000006366,4.319999999999936,0,False,False,13
+215,5d98077e74f4a002ea9a8c40,1294.64,1296.26,Tale of two cities.,,0,,,,0.7800000000002001,1.6199999999998909,0,False,False,4
+216,5eebff91bd2957196e75d9c7,1296.34,1297.17,No.,,0,,,,0.07999999999992724,0.8300000000001546,0,False,False,1
+217,5d98077e74f4a002ea9a8c40,1299.64,1301.46,Is it off a forest Hills Drive?,,0,,,,2.4700000000000273,1.8199999999999363,1,True,False,7
+218,5eebff91bd2957196e75d9c7,1301.74,1310.67,"Uh Is the ultimate album like five years ago, like 2015, Uh huh.",Oh,1,5d98077e74f4a002ea9a8c40,1310.44,1310.89,0.2799999999999727,8.930000000000064,0,False,False,13
+219,5d98077e74f4a002ea9a8c40,1310.89,1314.76,Okay. Forest Hills Drive is from like 2014.,,0,,,,0.22000000000002728,3.869999999999891,0,False,False,8
+220,5eebff91bd2957196e75d9c7,1314.64,1321.77,"Yeah. Mhm. I understand that much, but I just like his flowing like right around here on the radio and stuff like.",,0,,,,-0.11999999999989086,7.129999999999882,0,False,True,22
+221,5d98077e74f4a002ea9a8c40,1323.74,1339.16,"Um J. Cole is, I'm trying to figure out what album is my favorite song that he sings is uh Love yours.",Mhm. Okay. Mhm.,1,5eebff91bd2957196e75d9c7,1330.24,1334.67,1.9700000000000273,15.420000000000073,0,False,False,23
+222,5eebff91bd2957196e75d9c7,1339.74,1341.17,Remember it. How's that girl?,,0,,,,0.5799999999999272,1.4300000000000637,1,True,False,6
+223,5d98077e74f4a002ea9a8c40,1341.44,1365.44,"And there's like a piano in the beginning and then he goes, no such thing as a life that's better than yours. No such thing as a life that's better than yours. No such thing. No such thing. I know which one you're talking about though. It's the album that looks like it's kind of gold. Yeah.",Yeah. Yeah. Yeah. Yeah. Yeah. Yeah. Yeah.,5,5eebff91bd2957196e75d9c7,1344.04,1364.95,0.2699999999999818,24.0,0,False,False,63
+224,5eebff91bd2957196e75d9c7,1367.04,1367.27,Yeah.,,0,,,,1.599999999999909,0.2300000000000182,0,False,False,1
+225,5d98077e74f4a002ea9a8c40,1367.04,1368.27,No role models.,,0,,,,-0.2300000000000182,1.2300000000000182,0,False,True,3
+226,5eebff91bd2957196e75d9c7,1368.94,1378.89,"No, if you say the name, I'll probably just tell you if it's that. But it's not that I haven't listened",Mhm. Mhm.,1,5d98077e74f4a002ea9a8c40,1370.84,1373.55,0.6700000000000728,9.950000000000045,0,False,False,25
+227,5d98077e74f4a002ea9a8c40,1378.74,1379.16,Has,,0,,,,-0.15000000000009095,0.42000000000007276,0,False,True,1
+228,5eebff91bd2957196e75d9c7,1378.89,1387.27,"to the call in a minute I've ever seen in a while because recently he hasn't been making that many songs, right? Has been making that much stuff recently.",uh,1,5d98077e74f4a002ea9a8c40,1386.64,1387.69,-0.2699999999999818,8.379999999999882,1,False,True,31
+229,5d98077e74f4a002ea9a8c40,1387.7,1409.05,he just came up with a new album like last year. But I didn't I wasn't crazy about his new stuff. I like his old stuff because it's so much more real and it's like heartfelt and I feel like his new stuff is more like Hollywood is pushing it on him to do it. What about Kendrick? Do you like his old stuff for his new stuff?,Yeah. Yeah. Yeah. Yeah.,4,5eebff91bd2957196e75d9c7,1390.54,1403.16,0.43000000000006366,21.34999999999991,2,True,False,72
+230,5eebff91bd2957196e75d9c7,1409.14,1410.96,His All Star definitely,,0,,,,0.09000000000014552,1.8199999999999363,0,False,False,4
+231,5d98077e74f4a002ea9a8c40,1412.14,1413.86,Mhm. Excuse me.,,0,,,,1.1800000000000637,1.7199999999998,0,False,False,3
+232,5eebff91bd2957196e75d9c7,1415.04,1427.56,like um D. N. A. That's good. Um The be humble. I like me humble. No like yeah I like I like movies like smaller song,"Oh yeah,",2,5d98077e74f4a002ea9a8c40,1424.24,1425.25,1.1800000000000637,12.519999999999982,0,False,False,27
+233,5d98077e74f4a002ea9a8c40,1427.94,1428.54,I completely,,0,,,,0.38000000000010914,0.599999999999909,0,False,False,2
+234,5eebff91bd2957196e75d9c7,1428.24,1428.73,and there wasn't,,0,,,,-0.2999999999999545,0.4900000000000091,0,False,True,4
+235,5d98077e74f4a002ea9a8c40,1428.54,1428.84,forgot,,0,,,,-0.19000000000005457,0.2999999999999545,0,False,True,1
+236,5eebff91bd2957196e75d9c7,1428.73,1428.96,enough.,,0,,,,-0.10999999999989996,0.2300000000000182,0,False,True,1
+237,5d98077e74f4a002ea9a8c40,1428.84,1433.46,about being humble. What about poetic justice?,Yeah.,1,5eebff91bd2957196e75d9c7,1430.04,1431.56,-0.12000000000011823,4.620000000000118,1,True,True,7
+238,5eebff91bd2957196e75d9c7,1433.54,1436.17,Yeah I like I like what you just said I guess. Yeah.,,0,,,,0.07999999999992724,2.630000000000109,0,False,False,12
+239,5d98077e74f4a002ea9a8c40,1438.54,1448.26,Oh well we have like a minute left to talk. I feel like it went by really fast. I had too much fun talking to you.,Yeah.,1,5eebff91bd2957196e75d9c7,1443.24,1444.94,2.369999999999891,9.720000000000027,0,False,False,26
+240,5eebff91bd2957196e75d9c7,1448.24,1449.17,Yeah I use here,,0,,,,-0.01999999999998181,0.9300000000000637,0,False,True,4
+241,5d98077e74f4a002ea9a8c40,1450.44,1467.77,"All right, well I'm gonna let you go now. Um I think we just press the X button. Yeah, the top. But I hope you have a good rest of your day. And I hope your brothers or your sisters and your brothers or your siblings don't drive you too crazy today.",louis. Huh?,1,5eebff91bd2957196e75d9c7,1457.34,1459.46,1.2699999999999818,17.329999999999927,0,False,False,55
+242,5eebff91bd2957196e75d9c7,1467.14,1468.55,Yeah he's here,,0,,,,-0.6299999999998818,1.4099999999998545,0,False,True,4
+243,5d98077e74f4a002ea9a8c40,1468.44,1469.76,Thank you. I'll see you later.,,0,,,,-0.10999999999989996,1.3199999999999363,0,False,True,7
+244,5eebff91bd2957196e75d9c7,1469.94,1470.77,I see that.,,0,,,,0.18000000000006366,0.8299999999999272,0,False,False,3
+245,5d98077e74f4a002ea9a8c40,1470.74,1471.27,Bye.,,0,,,,-0.029999999999972715,0.5299999999999727,0,False,True,1

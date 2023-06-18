@@ -1,0 +1,277 @@
+turn_id,speaker,start,stop,utterance,backchannel,backchannel_count,backchannel_speaker,backchannel_start,backchannel_stop,interval,delta,questions,end_question,overlap,n_words
+0,5ec4a0fffe991f37f61b356e,0.54,186.76,"Thank you. It's not starting yet, so. Okay. Mhm. It's Uh huh Uh huh It's Yeah. Yeah. Uh huh It's yeah. Uh huh Uh huh. Uh huh. Okay. It's Yeah. Okay. Yeah. Yeah. Yeah. Yeah. Uh huh. Okay. Sure. Okay. Yeah. Uh huh. Mhm. Yeah. Yeah. Four. Yeah. What's your name?","Mhm Hello,",1,5f50544b526bec1ce4a44f70,181.94,184.66,,186.22,1,True,False,57
+1,5f50544b526bec1ce4a44f70,187.34,189.16,um then what's the name?,,0,,,,0.5800000000000125,1.8199999999999932,1,True,False,6
+2,5ec4a0fffe991f37f61b356e,189.24,191.28,My name is Elie. Let's meet you.,,0,,,,0.0800000000000125,2.039999999999992,0,False,False,8
+3,5f50544b526bec1ce4a44f70,191.24,192.95,Hi kelly. Nice to meet you,,0,,,,-0.03999999999999204,1.7099999999999795,0,False,True,6
+4,5ec4a0fffe991f37f61b356e,193.34,195.26,Have,,0,,,,0.3900000000000148,1.9199999999999875,0,False,False,1
+5,5f50544b526bec1ce4a44f70,195.14,195.45,and,,0,,,,-0.12000000000000455,0.3100000000000023,0,False,True,1
+6,5ec4a0fffe991f37f61b356e,195.26,195.59,you done,,0,,,,-0.18999999999999773,0.3300000000000125,0,False,True,2
+7,5f50544b526bec1ce4a44f70,196.74,198.06,say that. Say that again.,,0,,,,1.1500000000000057,1.3199999999999932,0,False,False,5
+8,5ec4a0fffe991f37f61b356e,198.14,199.25,have you done this before?,,0,,,,0.07999999999998408,1.1100000000000136,1,True,False,5
+9,5f50544b526bec1ce4a44f70,199.44,215.76,"I have, yes, this is not my first rodeo. Okay, so do you want to break the 4th wall? Let's do it. Let's smash it right open. So like what do you think they're possibly doing with these conversations? Like what, what could they possibly get from this?",Oh sure. Okay. Yeah.,4,5ec4a0fffe991f37f61b356e,200.24,214.24,0.18999999999999773,16.319999999999993,3,True,False,51
+10,5ec4a0fffe991f37f61b356e,216.34,223.86,I'm um I googled this before because I googled like what is better off labs?,,0,,,,0.5800000000000125,7.52000000000001,1,True,False,16
+11,5f50544b526bec1ce4a44f70,223.44,226.26,Yeah. What are the results? Mhm.,Um Okay,1,5ec4a0fffe991f37f61b356e,225.24,226.22,-0.4200000000000159,2.819999999999993,1,False,True,6
+12,5ec4a0fffe991f37f61b356e,226.22,251.43,so the first result is better up lab. Uh They do groundbreaking research into flourishing in the workplace. So I think they do something about like um like it's some version of like zoom or something that's supposed to be like psychologically better for the workers. But I don't know like I don't know how that works. This,,0,,,,-0.03999999999999204,25.210000000000008,0,False,True,62
+13,5f50544b526bec1ce4a44f70,250.54,251.05,"Hot,",,0,,,,-0.8900000000000148,0.5100000000000193,0,False,True,1
+14,5ec4a0fffe991f37f61b356e,251.43,252.1,is any different.,,0,,,,0.37999999999999545,0.6699999999999875,0,False,False,3
+15,5f50544b526bec1ce4a44f70,252.84,257.45,interesting. I thought it was something more evil. Like they were training a,,0,,,,0.7400000000000091,4.609999999999985,0,False,False,13
+16,5ec4a0fffe991f37f61b356e,257.34,257.66,What?,,0,,,,-0.11000000000001364,0.32000000000005,1,True,True,1
+17,5f50544b526bec1ce4a44f70,257.45,260.53,robot algorithm to take over the world by,,0,,,,-0.21000000000003638,3.079999999999984,0,False,True,8
+18,5ec4a0fffe991f37f61b356e,259.94,260.26,Well,,0,,,,-0.589999999999975,0.3199999999999932,0,False,True,1
+19,5f50544b526bec1ce4a44f70,260.54,272.36,"listening to our conversations or actually like you're not real, you're a simulation and it's a test for the real people like me. Mm",mm mm Okay.,3,5ec4a0fffe991f37f61b356e,265.64,272.28,0.28000000000002956,11.819999999999993,0,False,False,27
+20,5ec4a0fffe991f37f61b356e,272.29,273.95,I was in a study like that one,,0,,,,-0.06999999999999318,1.6599999999999682,0,False,True,8
+21,5f50544b526bec1ce4a44f70,274.14,275.46,No way.,yeah.,1,5ec4a0fffe991f37f61b356e,274.44,274.64,0.18999999999999773,1.3199999999999932,0,False,False,2
+22,5ec4a0fffe991f37f61b356e,275.64,293.15,Team work study. But the there was like some chat ai that was actually in there and it was an in person study and so they had like cameras on you to watch your reaction. Uh It took you to figure it out. It was a really weird study.,"Oh wow,",1,5f50544b526bec1ce4a44f70,288.14,289.25,0.18000000000000682,17.50999999999999,0,False,False,49
+23,5f50544b526bec1ce4a44f70,292.74,300.36,"that is so exciting, wow. Okay, so there if you are an ai they're doing a phenomenal job of like fooling us.",,0,,,,-0.40999999999996817,7.6200000000000045,0,False,True,23
+24,5ec4a0fffe991f37f61b356e,300.64,300.99,Thank,,0,,,,0.2799999999999727,0.35000000000002274,0,False,False,1
+25,5f50544b526bec1ce4a44f70,300.74,301.0,But,,0,,,,-0.25,0.2599999999999909,0,False,True,1
+26,5ec4a0fffe991f37f61b356e,300.99,304.06,you. You would be very realistic.,uh,1,5f50544b526bec1ce4a44f70,301.01,301.66,-0.009999999999990905,3.069999999999993,0,False,True,6
+27,5f50544b526bec1ce4a44f70,303.84,315.46,"great, thank you. Thank you. I'll take it. Um but how's your lazy? Well, my Sundays lazy, I don't mean to imply that yours is. How's your sunday going?",Mhm. Yeah. Yeah. Right,4,5ec4a0fffe991f37f61b356e,306.34,313.35,-0.22000000000002728,11.620000000000005,2,True,True,33
+28,5ec4a0fffe991f37f61b356e,315.44,322.66,definitely lazy. Yeah just among us with my cousins and that was really fun. So I don't know if you've ever,"Yeah. Oh,",2,5f50544b526bec1ce4a44f70,317.44,323.1,-0.01999999999998181,7.220000000000027,0,False,True,23
+29,5f50544b526bec1ce4a44f70,323.11,325.34,among us is so fun. It's,right,1,5ec4a0fffe991f37f61b356e,323.24,323.45,0.44999999999998863,2.2299999999999613,0,False,False,7
+30,5ec4a0fffe991f37f61b356e,324.84,325.05,but,,0,,,,-0.5,0.21000000000003638,0,False,True,1
+31,5f50544b526bec1ce4a44f70,325.35,337.76,"actually, it's kind of the game gives me anxiety to play as the impostor because I just feel bad about lying blatantly and killing people. It's",yeah,1,5ec4a0fffe991f37f61b356e,333.54,333.86,0.30000000000001137,12.409999999999968,0,False,False,28
+32,5ec4a0fffe991f37f61b356e,337.34,346.16,well yeah you know it's really for me it's like really easy with friends to lie but when it's with my family they just know right away,,0,,,,-0.4200000000000159,8.82000000000005,0,False,True,30
+33,5f50544b526bec1ce4a44f70,346.24,358.84,"no, yeah, it's it's different playing with people you're close with. But yeah, that game has taken the world by storm. Oh, did",awesome. What? Yeah.,2,5ec4a0fffe991f37f61b356e,349.74,358.15,0.07999999999998408,12.599999999999966,0,False,False,26
+34,5ec4a0fffe991f37f61b356e,358.84,359.05,What?,,0,,,,0.0,0.21000000000003638,1,True,False,1
+35,5f50544b526bec1ce4a44f70,358.84,360.35,you say something? I,,0,,,,-0.21000000000003638,1.5100000000000477,1,False,True,4
+36,5ec4a0fffe991f37f61b356e,360.04,364.37,Oh I asked how is your day going? What have you done? Oh,,0,,,,-0.3100000000000023,4.329999999999984,2,False,True,13
+37,5f50544b526bec1ce4a44f70,363.84,389.25,"uh it's also yeah, just been a lazy sunday, trying not to fall down the rabbit rabbit hole, but I I did I felt so deep down into the randomness things. Um But yeah, it's been nice. I think in my head I always want to be productive and like doing something like I gotta, I don't know, but sometimes it's just good and better to just take it easy and relax.",right okay.,2,5ec4a0fffe991f37f61b356e,370.14,370.95,-0.5300000000000296,25.410000000000025,0,False,True,77
+38,5ec4a0fffe991f37f61b356e,389.84,391.25,Yeah. Yeah for sure,,0,,,,0.589999999999975,1.410000000000025,0,False,False,4
+39,5f50544b526bec1ce4a44f70,391.14,392.76,I need to do that more,,0,,,,-0.11000000000001364,1.6200000000000045,0,False,True,6
+40,5ec4a0fffe991f37f61b356e,393.14,396.05,when you're productive what do you do? What's your productive thing?,,0,,,,0.37999999999999545,2.910000000000025,2,True,False,13
+41,5f50544b526bec1ce4a44f70,396.44,410.75,"okay, when I'm productive, I feel like I'm doing something or contributing, but like cleaning or organizing things or creating something. Yeah, I feel bad or guilty when I'm just consuming, consuming,",Mhm,1,5ec4a0fffe991f37f61b356e,406.54,406.75,0.38999999999998636,14.310000000000002,0,False,False,35
+42,5ec4a0fffe991f37f61b356e,411.04,412.77,totally.,,0,,,,0.29000000000002046,1.7299999999999613,0,False,False,1
+43,5f50544b526bec1ce4a44f70,415.14,422.86,"well I'm r o say that, Say that again, sorry.",Right. Really?,1,5ec4a0fffe991f37f61b356e,418.94,419.66,2.3700000000000045,7.720000000000027,0,False,False,11
+44,5ec4a0fffe991f37f61b356e,423.14,428.56,I just think really realistic ai like drinks all the food drinks? Okay. Yeah.,Uh huh.,1,5f50544b526bec1ce4a44f70,426.84,427.85,0.2799999999999727,5.420000000000016,1,False,False,14
+45,5f50544b526bec1ce4a44f70,428.44,431.46,"Yes, I've been trained.",,0,,,,-0.12000000000000455,3.019999999999982,0,False,True,5
+46,5ec4a0fffe991f37f61b356e,430.74,433.36,Uh huh. What have you got there?,,0,,,,-0.7199999999999704,2.6200000000000045,1,True,True,7
+47,5f50544b526bec1ce4a44f70,433.74,436.56,"Mm. Oh, take a gander. It could be anything.",,0,,,,0.37999999999999545,2.819999999999993,0,False,False,9
+48,5ec4a0fffe991f37f61b356e,436.84,440.26,If I had to guess I would say like blueberry bananas movie,,0,,,,0.2799999999999727,3.420000000000016,0,False,False,12
+49,5f50544b526bec1ce4a44f70,440.54,453.26,"Oh, you're on the money. That's exactly it. So it's a it's a blueberry banana smoothie with a bunch of other stuff because I want to live forever. So there's a spinach tail",wow. Right.,2,5ec4a0fffe991f37f61b356e,442.94,450.76,0.28000000000002956,12.71999999999997,0,False,False,38
+50,5ec4a0fffe991f37f61b356e,452.54,452.75,What?,,0,,,,-0.7199999999999704,0.20999999999997954,1,True,True,1
+51,5f50544b526bec1ce4a44f70,453.84,472.68,"uh so it's like kind of balances out with the fruit, but it's more of like a health healthy drink after I've destroyed my my arteries eating out. Mhm. But Oh,",Mm. Right. Yeah. Yeah. Uh huh. Uh huh. Mhm.,6,5ec4a0fffe991f37f61b356e,455.44,471.06,1.089999999999975,18.840000000000032,0,False,False,34
+52,5ec4a0fffe991f37f61b356e,472.64,472.69,Uh,,0,,,,-0.040000000000020464,0.05000000000001137,0,False,True,1
+53,5f50544b526bec1ce4a44f70,472.68,484.35,"fascinating. Thank you for doing the research into the, like what this is because yeah, I've always been curious like what could they possibly do with just two people talking like, what could they get from that?",huh. Yeah. Uh huh.,3,5ec4a0fffe991f37f61b356e,472.69,477.95,-0.009999999999990905,11.670000000000016,1,True,True,38
+54,5ec4a0fffe991f37f61b356e,484.74,502.26,Yeah. I sort of my guess is still like they don't actually get anything from it. They just want to have some like research for your like we did a study on 300 people and it showed that were our company. Like I don't know what they can. I still don't know what they can. I,Mhm. Mhm. Mhm. Mhm. Mhm.,5,5f50544b526bec1ce4a44f70,488.24,501.45,0.38999999999998636,17.519999999999982,0,False,False,59
+55,5f50544b526bec1ce4a44f70,502.14,506.86,But also I think it's fun like if they do watch it that like we're breaking the fourth,,0,,,,-0.12000000000000455,4.720000000000027,0,False,True,20
+56,5ec4a0fffe991f37f61b356e,506.74,506.95,good,,0,,,,-0.12000000000000455,0.20999999999997954,0,False,True,1
+57,5f50544b526bec1ce4a44f70,506.86,508.46,wall and,,0,,,,-0.08999999999997499,1.599999999999966,0,False,True,2
+58,5ec4a0fffe991f37f61b356e,508.34,508.88,water.,,0,,,,-0.12000000000000455,0.5400000000000205,0,False,True,1
+59,5f50544b526bec1ce4a44f70,508.47,512.25,"I think they would get a real kick out of us like, hey,",,0,,,,-0.40999999999996817,3.7799999999999727,0,False,True,13
+60,5ec4a0fffe991f37f61b356e,511.64,512.95,And I mean,,0,,,,-0.6100000000000136,1.3100000000000591,0,False,True,3
+61,5f50544b526bec1ce4a44f70,512.74,516.66,big brother. Yeah. Mm,yeah,1,5ec4a0fffe991f37f61b356e,514.84,517.6,-0.21000000000003638,3.919999999999959,0,False,True,4
+62,5ec4a0fffe991f37f61b356e,517.61,524.45,this is my only my second time doing this. Have you done a bunch? We ever come across like really weird people? Yeah.,uh,1,5f50544b526bec1ce4a44f70,521.94,522.36,0.9500000000000455,6.840000000000032,2,False,False,23
+63,5f50544b526bec1ce4a44f70,523.74,532.16,"Yeah, no weird people. I think I'm the, I think I'm the weird person on the other side. Like people are freaked out to get me um",,0,,,,-0.7100000000000364,8.419999999999959,0,False,True,29
+64,5ec4a0fffe991f37f61b356e,531.24,531.56,What?,,0,,,,-0.9199999999999591,0.31999999999993634,1,True,True,1
+65,5f50544b526bec1ce4a44f70,532.64,538.7,every I've only done this three times or really two,Mhm.,1,5ec4a0fffe991f37f61b356e,537.44,537.86,1.080000000000041,6.060000000000059,0,False,False,11
+66,5ec4a0fffe991f37f61b356e,538.64,538.85,Right.,,0,,,,-0.06000000000005912,0.21000000000003638,0,False,True,1
+67,5f50544b526bec1ce4a44f70,538.7,545.66,"times. You're the second person. The second time was like I was ghosted. I just sat there by myself. Yeah,",Yeah.,1,5ec4a0fffe991f37f61b356e,540.74,541.36,-0.14999999999997726,6.959999999999923,0,False,True,21
+68,5ec4a0fffe991f37f61b356e,546.64,550.75,Okay. That happened to me too. I was I just sat there.,,0,,,,0.9800000000000182,4.110000000000014,0,False,False,12
+69,5f50544b526bec1ce4a44f70,550.84,552.57,"but I thought, or",,0,,,,0.09000000000003183,1.7300000000000182,0,False,False,4
+70,5ec4a0fffe991f37f61b356e,552.44,552.76,What,,0,,,,-0.12999999999999545,0.31999999999993634,0,False,True,1
+71,5f50544b526bec1ce4a44f70,552.57,558.06,I think maybe that's part of the test. They just want my reaction to being um stood up. I don't know.,,0,,,,-0.18999999999994088,5.489999999999895,0,False,True,23
+72,5ec4a0fffe991f37f61b356e,558.44,566.95,have you? I don't know. I do a lot of these survey research studies and stuff. Have you ever had collapse? But studies boredom.,Mhm. Mhm. Mhm.,3,5f50544b526bec1ce4a44f70,560.64,565.06,0.38000000000010914,8.509999999999991,2,False,False,25
+73,5f50544b526bec1ce4a44f70,568.14,571.04,"Studies boredom. Oh, I think I've heard of that. Yeah,",,0,,,,1.1899999999999409,2.8999999999999773,0,False,False,11
+74,5ec4a0fffe991f37f61b356e,571.14,573.67,Yeah it's like just these really long,,0,,,,0.10000000000002274,2.5299999999999727,0,False,False,8
+75,5f50544b526bec1ce4a44f70,573.44,573.9,Thank you,,0,,,,-0.2299999999999045,0.4599999999999227,0,False,True,2
+76,5ec4a0fffe991f37f61b356e,573.67,574.1,boring,,0,,,,-0.2300000000000182,0.43000000000006366,0,False,True,1
+77,5f50544b526bec1ce4a44f70,573.9,574.25,for this.,,0,,,,-0.20000000000004547,0.35000000000002274,0,False,True,2
+78,5ec4a0fffe991f37f61b356e,574.11,580.16,tasks to see if you'll finish them or not. Right.,Mhm. Mhm. Okay. Oh wow.,3,5f50544b526bec1ce4a44f70,574.84,579.46,-0.13999999999998636,6.0499999999999545,0,False,True,11
+79,5f50544b526bec1ce4a44f70,579.94,598.36,"I haven't gotten them or I think anything they put in front of me, I just do because I want that sweet pocket change. I think it adds up to like it's false. Ah small fun stuff you can buy online and yeah, it's nice. Mm hmm,",Yeah. Uh huh. Yeah,3,5ec4a0fffe991f37f61b356e,587.74,598.93,-0.2199999999999136,18.41999999999996,0,False,True,50
+80,5ec4a0fffe991f37f61b356e,598.94,614.76,I do I do a lot of in person ones. I even had one where they put electrodes all over my head and more uh they had to watch um Bridget jones's diary with electrodes on my head again.,"mm wow. Mhm,",3,5f50544b526bec1ce4a44f70,604.24,611.55,0.5800000000000409,15.819999999999936,0,False,False,40
+81,5f50544b526bec1ce4a44f70,614.44,615.85,"interesting,",,0,,,,-0.31999999999993634,1.4099999999999682,0,False,True,1
+82,5ec4a0fffe991f37f61b356e,615.54,618.86,What they got from that? But.,,0,,,,-0.3100000000000591,3.32000000000005,1,False,True,6
+83,5f50544b526bec1ce4a44f70,617.64,621.36,"wow, how can I sign up for that",,0,,,,-1.2200000000000273,3.7200000000000273,0,False,True,8
+84,5ec4a0fffe991f37f61b356e,621.04,624.35,Well I don't know. I go to University of Maryland and so they're just,,0,,,,-0.32000000000005,3.310000000000059,0,False,True,16
+85,5f50544b526bec1ce4a44f70,624.24,624.59,one?,,0,,,,-0.11000000000001364,0.35000000000002274,1,True,True,1
+86,5ec4a0fffe991f37f61b356e,624.35,628.45,like fire you my households loud by the way.,,0,,,,-0.2400000000000091,4.100000000000023,0,False,True,9
+87,5f50544b526bec1ce4a44f70,628.14,631.35,"Oh, I can't really hear it. Or I just hear you, so you're good.",,0,,,,-0.3100000000000591,3.2100000000000364,0,False,True,16
+88,5ec4a0fffe991f37f61b356e,631.24,651.85,Um I go to University of Maryland and just around campus there are kind of studies like you know sign up for the K. G. Lab and you will make 200 kgs. Those are definitely the ones where they have to be like a political thing. pay like way more money like. Yeah I got my blood drawn the other day $85. Super,Right. Really? Okay.,3,5f50544b526bec1ce4a44f70,632.14,644.56,-0.11000000000001364,20.610000000000014,0,False,True,64
+89,5f50544b526bec1ce4a44f70,651.64,651.85,And,,0,,,,-0.21000000000003638,0.21000000000003638,0,False,True,1
+90,5ec4a0fffe991f37f61b356e,651.85,652.21,easy.,,0,,,,0.0,0.36000000000001364,0,False,False,1
+91,5f50544b526bec1ce4a44f70,652.54,673.66,"wow, that sounds cool. But also, yeah, I don't interesting. I wish I could do that because I want to be a part of science and also get paid at the same time. That's really nice.",Yeah. Yeah.,2,5ec4a0fffe991f37f61b356e,659.14,665.45,0.32999999999992724,21.120000000000005,0,False,False,38
+92,5ec4a0fffe991f37f61b356e,670.44,672.36,Where do you live?,,0,,,,-3.2199999999999136,1.919999999999959,1,True,True,4
+93,5f50544b526bec1ce4a44f70,674.94,677.82,"Oh, that's a thick, chunky",Mhm.,1,5ec4a0fffe991f37f61b356e,676.14,676.35,2.580000000000041,2.8799999999999955,0,False,False,6
+94,5ec4a0fffe991f37f61b356e,677.24,677.64,Who?,,0,,,,-0.5800000000000409,0.39999999999997726,1,True,True,1
+95,5f50544b526bec1ce4a44f70,677.82,681.36,"smoothie. Oh, take a guess. It could be anywhere.",,0,,,,0.18000000000006366,3.5399999999999636,0,False,False,9
+96,5ec4a0fffe991f37f61b356e,681.84,685.66,Um Well you look like maybe you live in a dorm,,0,,,,0.4800000000000182,3.8199999999999363,0,False,False,11
+97,5f50544b526bec1ce4a44f70,686.54,687.05,"No,",,0,,,,0.8799999999999955,0.5099999999999909,0,False,False,1
+98,5ec4a0fffe991f37f61b356e,686.74,687.25,but,,0,,,,-0.30999999999994543,0.5099999999999909,0,False,True,1
+99,5f50544b526bec1ce4a44f70,687.74,688.85,not a dorm.,,0,,,,0.4900000000000091,1.1100000000000136,0,False,False,3
+100,5ec4a0fffe991f37f61b356e,689.24,693.01,sorry if I just insulted your house by calling,Uh huh.,1,5f50544b526bec1ce4a44f70,689.34,689.84,0.38999999999998636,3.769999999999982,0,False,False,9
+101,5f50544b526bec1ce4a44f70,692.44,692.86,"No,",,0,,,,-0.5699999999999363,0.4199999999999591,0,False,True,1
+102,5ec4a0fffe991f37f61b356e,693.02,694.36,line.,,0,,,,0.15999999999996817,1.3400000000000318,0,False,False,1
+103,5f50544b526bec1ce4a44f70,694.04,700.96,"no, I'll take it. I think that's a compliment, dorms are like young and hip, so that's, that's the message. Oh",Okay. Uh huh.,2,5ec4a0fffe991f37f61b356e,697.94,700.96,-0.32000000000005,6.920000000000073,0,False,True,25
+104,5ec4a0fffe991f37f61b356e,702.04,703.33,I have no idea.,,0,,,,1.0799999999999272,1.2900000000000773,0,False,False,4
+105,5f50544b526bec1ce4a44f70,704.34,709.56,so you can just throw a dart on the map. It could be any state or a country.,,0,,,,1.009999999999991,5.219999999999914,0,False,False,18
+106,5ec4a0fffe991f37f61b356e,709.84,714.55,Well I do think you live and you sound like you have an american accent so,,0,,,,0.2800000000000864,4.709999999999923,0,False,False,16
+107,5f50544b526bec1ce4a44f70,714.14,716.66,I'm american track.,,0,,,,-0.40999999999996817,2.519999999999982,0,False,True,4
+108,5ec4a0fffe991f37f61b356e,716.14,725.46,I don't think you have like a hidden british accent in there. Um But you also seem like maybe a midwesterner. I don't know. Ohio.,,0,,,,-0.5199999999999818,9.32000000000005,0,False,True,27
+109,5f50544b526bec1ce4a44f70,725.84,732.66,Yeah. Oh your clothes. So I am from the west. I am from florida. Yeah,Right okay.,1,5ec4a0fffe991f37f61b356e,730.04,731.36,0.37999999999999545,6.819999999999936,0,False,False,15
+110,5ec4a0fffe991f37f61b356e,731.84,733.46,Cool. Mhm.,,0,,,,-0.8199999999999363,1.6200000000000045,0,False,True,2
+111,5f50544b526bec1ce4a44f70,733.24,737.46,"you are from because you're near Maryland. Maryland, is that right?",,0,,,,-0.22000000000002728,4.220000000000027,1,True,True,12
+112,5ec4a0fffe991f37f61b356e,737.74,738.41,That's true,,0,,,,0.2799999999999727,0.6699999999999591,0,False,False,3
+113,5f50544b526bec1ce4a44f70,738.13,739.92,Maryland,,0,,,,-0.2799999999999727,1.7899999999999636,0,False,True,1
+114,5ec4a0fffe991f37f61b356e,738.49,738.85,now.,,0,,,,-1.42999999999995,0.36000000000001364,0,False,True,1
+115,5f50544b526bec1ce4a44f70,739.92,751.66,is a state like oh I'm I'm an uneducated hick like I only know about florida and that's about it.,Yeah.,1,5ec4a0fffe991f37f61b356e,741.54,741.95,1.0699999999999363,11.740000000000009,0,False,False,23
+116,5ec4a0fffe991f37f61b356e,751.44,753.26,I don't know. Maryland is a state.,,0,,,,-0.2199999999999136,1.8199999999999363,0,False,True,8
+117,5f50544b526bec1ce4a44f70,754.44,767.16,Merrill. Oh my god I'm gonna get canceled for this. No I I didn't know. Wait I thought Maryland was like I think it's also a county or a capital somewhere.,Mhm.,1,5ec4a0fffe991f37f61b356e,759.84,761.06,1.1800000000000637,12.719999999999914,0,False,False,35
+118,5ec4a0fffe991f37f61b356e,767.94,768.75,No,,0,,,,0.7800000000000864,0.8099999999999454,0,False,False,1
+119,5f50544b526bec1ce4a44f70,768.84,771.75,"Oh it's it's it's own place, sovereignty.",,0,,,,0.09000000000003183,2.909999999999968,0,False,False,10
+120,5ec4a0fffe991f37f61b356e,771.84,775.65,no no it's a it's a state in America,Yeah. Mhm.,2,5f50544b526bec1ce4a44f70,772.14,774.85,0.09000000000003183,3.8099999999999454,0,False,False,11
+121,5f50544b526bec1ce4a44f70,775.94,777.35,Got it.,,0,,,,0.2900000000000773,1.4099999999999682,0,False,False,2
+122,5ec4a0fffe991f37f61b356e,777.94,779.95,between Virginia and pennsylvania.,,0,,,,0.5900000000000318,2.009999999999991,0,False,False,4
+123,5f50544b526bec1ce4a44f70,779.74,788.86,Oh so I guess maybe I don't hear about it because it's not a popular state or it's not in the news which is a good thing.,,0,,,,-0.21000000000003638,9.120000000000005,0,False,True,30
+124,5ec4a0fffe991f37f61b356e,789.04,791.16,No we're very chill.,Okay.,1,5f50544b526bec1ce4a44f70,789.24,789.66,0.17999999999994998,2.1200000000000045,0,False,False,5
+125,5f50544b526bec1ce4a44f70,791.14,796.45,No. Yeah like florida I think you here not so nice things about or that were okay.,Yeah. Oh,2,5ec4a0fffe991f37f61b356e,793.24,796.65,-0.01999999999998181,5.310000000000059,0,False,True,17
+126,5ec4a0fffe991f37f61b356e,796.66,796.86,yeah.,,0,,,,0.2099999999999227,0.20000000000004547,0,False,False,1
+127,5f50544b526bec1ce4a44f70,797.34,800.75,"We're like Australia, but yeah.",Mhm.,1,5ec4a0fffe991f37f61b356e,799.64,799.96,0.4800000000000182,3.409999999999968,0,False,False,6
+128,5ec4a0fffe991f37f61b356e,800.54,805.04,Yeah. The Australia of America. Yeah.,Yeah.,1,5f50544b526bec1ce4a44f70,803.04,804.26,-0.21000000000003638,4.5,0,False,True,6
+129,5f50544b526bec1ce4a44f70,804.74,823.94,"But wow, today I learned that Maryland was a state. Mhm. Or yeah, there are 50 states and I only know like the major ones, like new york, California, texas. Yeah.",Mhm. Mhm. Mhm. Yeah.,4,5ec4a0fffe991f37f61b356e,806.04,823.91,-0.2999999999999545,19.200000000000045,0,False,True,31
+130,5ec4a0fffe991f37f61b356e,823.92,825.66,Good. All states.,,0,,,,-0.020000000000095497,1.740000000000009,0,False,True,3
+131,5f50544b526bec1ce4a44f70,825.84,829.26,And then that's all hawaii.,,0,,,,0.18000000000006366,3.419999999999959,0,False,False,6
+132,5ec4a0fffe991f37f61b356e,829.34,836.96,"Well you're better off than someone I knew. You know, who was 100% sure that there were 26 states.",Yeah.,1,5f50544b526bec1ce4a44f70,831.34,831.54,0.08000000000004093,7.6200000000000045,0,False,False,20
+133,5f50544b526bec1ce4a44f70,836.34,840.34,"26, probably different time then, don't",,0,,,,-0.6200000000000045,4.0,0,False,True,7
+134,5ec4a0fffe991f37f61b356e,840.24,840.52,"No,",,0,,,,-0.10000000000002274,0.2799999999999727,0,False,True,1
+135,5f50544b526bec1ce4a44f70,840.34,840.65,you think?,,0,,,,-0.17999999999994998,0.30999999999994543,1,True,True,2
+136,5ec4a0fffe991f37f61b356e,840.52,853.89,"no, no, she was my face. Yeah. Right. She just thought there were 26 states. I was like no, where did you get that from? She's like, no, I'm not totally sure. But","Oh, no.",1,5f50544b526bec1ce4a44f70,842.54,848.66,-0.12999999999999545,13.370000000000005,1,False,True,35
+137,5f50544b526bec1ce4a44f70,853.74,867.16,"Well, yeah, I'm sure there's definitely like 50, states if we're counting like territories, but I don't know them all off the top of my head.",Yeah.,1,5ec4a0fffe991f37f61b356e,861.64,861.96,-0.14999999999997726,13.419999999999959,0,False,True,30
+138,5ec4a0fffe991f37f61b356e,863.84,867.25,Yeah. Yeah. What? I don't think or,,0,,,,-3.3199999999999363,3.409999999999968,1,False,True,8
+139,5f50544b526bec1ce4a44f70,868.04,869.96,"Okay, so I don't feel that bad then.",,0,,,,0.7899999999999636,1.9200000000000728,0,False,False,9
+140,5ec4a0fffe991f37f61b356e,871.14,874.44,I definitely couldn't name all of them. Yeah. Yeah.,Mm hmm.,1,5f50544b526bec1ce4a44f70,873.34,874.15,1.17999999999995,3.300000000000068,0,False,False,10
+141,5f50544b526bec1ce4a44f70,874.54,880.08,"No. Yeah, I think Maryland is one of them that I didn't know.",,0,,,,0.09999999999990905,5.540000000000077,0,False,False,14
+142,5ec4a0fffe991f37f61b356e,877.84,880.05,Mhm. We help.,,0,,,,-2.240000000000009,2.2099999999999227,0,False,True,3
+143,5f50544b526bec1ce4a44f70,880.09,887.95,But what have you been doing to keep saying as recently during these fun times?,,0,,,,0.04000000000007731,7.860000000000014,1,True,False,15
+144,5ec4a0fffe991f37f61b356e,887.54,892.15,"Oh my goodness. I have been baking, I've taken up baking, which is",,0,,,,-0.41000000000008185,4.610000000000014,0,False,True,14
+145,5f50544b526bec1ce4a44f70,892.04,893.56,"Oh, baking is fun.",,0,,,,-0.11000000000001364,1.5199999999999818,0,False,True,4
+146,5ec4a0fffe991f37f61b356e,893.54,897.41,"yeah, I made biscuits this morning, that was really fun activity.",,0,,,,-0.01999999999998181,3.8700000000000045,0,False,True,11
+147,5f50544b526bec1ce4a44f70,898.84,905.56,"Oh, I love a good biscuit, but it's also intimidating because it can clump up and you have to get the right consistency.",,0,,,,1.4300000000000637,6.719999999999914,0,False,False,24
+148,5ec4a0fffe991f37f61b356e,905.34,909.88,"It was really hard, it's a lot harder than other things. Just",,0,,,,-0.2199999999999136,4.539999999999964,0,False,True,13
+149,5f50544b526bec1ce4a44f70,909.74,909.95,Did,,0,,,,-0.13999999999998636,0.21000000000003638,0,False,True,1
+150,5ec4a0fffe991f37f61b356e,909.88,910.05,like,,0,,,,-0.07000000000005002,0.16999999999995907,0,False,True,1
+151,5f50544b526bec1ce4a44f70,909.95,912.65,you follow a book or a youtube video?,yeah.,1,5ec4a0fffe991f37f61b356e,910.74,910.94,-0.09999999999990905,2.699999999999932,1,True,True,8
+152,5ec4a0fffe991f37f61b356e,912.74,925.25,"Oh my mom actually taught me, I'm living with my parents because I'm embarrassed. So um yeah, it's really good. Yeah.",Mhm. Yeah.,2,5f50544b526bec1ce4a44f70,914.34,918.47,0.09000000000003183,12.509999999999991,0,False,False,24
+153,5f50544b526bec1ce4a44f70,924.84,928.56,"Oh, the audio is kind of um scratchy",,0,,,,-0.40999999999996817,3.7199999999999136,0,False,True,8
+154,5ec4a0fffe991f37f61b356e,928.94,932.46,Oh I'm sorry uh is that better?,,0,,,,0.38000000000010914,3.519999999999982,1,True,False,8
+155,5f50544b526bec1ce4a44f70,932.64,934.34,much better. Yeah.,,0,,,,0.17999999999994998,1.7000000000000455,0,False,False,3
+156,5ec4a0fffe991f37f61b356e,933.84,935.16,"Okay, sorry about that.",,0,,,,-0.5,1.3199999999999363,0,False,True,4
+157,5f50544b526bec1ce4a44f70,935.44,959.16,"Yeah, no worries, baking is fun, I've dabbled in it, but I think I prefer other people's baking or tasting the baking rather than making it because it's just so much work and cleaning, but also yeah, the fruit of your labors and like other people eating it, I think I get a big kick out of that too, but","Mhm. Uh huh. Yeah. Yeah. Yeah, for sure.",5,5ec4a0fffe991f37f61b356e,936.94,957.05,0.2800000000000864,23.719999999999914,0,False,False,63
+158,5ec4a0fffe991f37f61b356e,958.64,961.96,"Have you taken any quarantine hobbies? Right,",,0,,,,-0.5199999999999818,3.32000000000005,1,False,True,7
+159,5f50544b526bec1ce4a44f70,961.64,972.86,"quarantine hobbies, um kind of like body weight exercises, so handstands, um stuff like that.",,0,,,,-0.32000000000005,11.220000000000027,0,False,True,15
+160,5ec4a0fffe991f37f61b356e,972.44,976.05,that's impressive. And I think he's really hard to be,Uh,1,5f50544b526bec1ce4a44f70,973.94,974.45,-0.4199999999999591,3.6099999999999,0,False,True,12
+161,5f50544b526bec1ce4a44f70,976.04,997.74,"No, it's actually still really hard and I can't do it, but I cheat and I use like a wall or a door, so yeah, I'm getting there hopefully once. Actually, I don't know when uh will ever escape this hell, But yeah, I have time to perfect the biscuit in the hands.",mhm Yeah. Yeah. Uh huh. Yeah.,5,5ec4a0fffe991f37f61b356e,981.94,996.86,-0.009999999999990905,21.700000000000045,0,False,True,57
+162,5ec4a0fffe991f37f61b356e,998.34,1001.47,"Yeah. Yeah. Yeah. Right,",,0,,,,0.6000000000000227,3.1299999999999955,0,False,False,4
+163,5f50544b526bec1ce4a44f70,1001.44,1009.47,"But um yeah, it's been a roller coaster. I think I've watched I've consumed a lot more media than I normally would have.",mm.,1,5ec4a0fffe991f37f61b356e,1003.44,1003.65,-0.029999999999972715,8.029999999999973,0,False,True,26
+164,5ec4a0fffe991f37f61b356e,1010.14,1011.77,"Oh, for sure. Yeah.",,0,,,,0.6699999999999591,1.6299999999999955,0,False,False,4
+165,5f50544b526bec1ce4a44f70,1011.54,1015.65,"Um Yeah, it's a roller coaster.",,0,,,,-0.2300000000000182,4.110000000000014,0,False,True,7
+166,5ec4a0fffe991f37f61b356e,1015.74,1018.4,"Is there something more, something",Oh,1,5f50544b526bec1ce4a44f70,1017.04,1017.57,0.09000000000003183,2.659999999999968,0,False,False,5
+167,5f50544b526bec1ce4a44f70,1018.24,1018.47,what,,0,,,,-0.15999999999996817,0.2300000000000182,0,False,True,1
+168,5ec4a0fffe991f37f61b356e,1018.4,1021.16,that really has gotten me through?,,0,,,,-0.07000000000005002,2.759999999999991,1,True,True,6
+169,5f50544b526bec1ce4a44f70,1020.84,1042.56,is there something that I've been watching that has gotten me through? Um mm I wouldn't say one thing but I feel like um shows on netflix documentaries like kinda nerdy stuff that I can fall into like to forget about the world. Um,Okay. Yeah. Yeah.,2,5ec4a0fffe991f37f61b356e,1032.14,1041.44,-0.31999999999993634,21.719999999999914,1,False,True,46
+170,5ec4a0fffe991f37f61b356e,1043.24,1043.66,Mhm,,0,,,,0.6800000000000637,0.42000000000007276,0,False,False,1
+171,5f50544b526bec1ce4a44f70,1043.34,1049.96,"But something that has gotten me through. Yeah, I wouldn't say it's one thing I would say it's many different things.",Uh huh,1,5ec4a0fffe991f37f61b356e,1046.24,1047.16,-0.3200000000001637,6.620000000000118,0,False,True,24
+172,5ec4a0fffe991f37f61b356e,1050.04,1052.52,"Yeah, all that variety?",,0,,,,0.07999999999992724,2.480000000000018,1,True,False,4
+173,5f50544b526bec1ce4a44f70,1052.74,1057.15,How about you? Is there anything in particular or? Yeah.,Um,1,5ec4a0fffe991f37f61b356e,1056.74,1057.4,0.22000000000002728,4.410000000000082,2,False,False,10
+174,5ec4a0fffe991f37f61b356e,1057.41,1064.36,"Well I just watched as a really long tv show is called jane the Virgin, but it was yeah",Oh I,1,5f50544b526bec1ce4a44f70,1063.18,1064.18,0.2599999999999909,6.949999999999818,0,False,False,19
+175,5f50544b526bec1ce4a44f70,1064.18,1086.66,also watched that as well but I think I stopped midway through because um okay I it was a it was a really fun show. I don't know why I stopped watching. I think I watched it in college and she was about to get pregnant and right now I think she did get pregnant.,"florida, yeah, mhm Yeah. Uh huh mhm mm",5,5ec4a0fffe991f37f61b356e,1065.94,1084.95,-0.1799999999998363,22.480000000000018,0,False,True,56
+176,5ec4a0fffe991f37f61b356e,1086.74,1089.56,"Yeah, she gets pregnant in the first episode, so",,0,,,,0.07999999999992724,2.8199999999999363,0,False,False,9
+177,5f50544b526bec1ce4a44f70,1089.24,1105.17,"Yes. That's right. Exactly. And then there's like this really good looking guy that that she falls in love with I think and then there's rafael. Exactly. You're triggering triggering my memories. There's another guy, right?","yeah, yeah, rafael Oh yeah,",4,5ec4a0fffe991f37f61b356e,1094.24,1104.17,-0.31999999999993634,15.930000000000064,1,True,True,41
+178,5ec4a0fffe991f37f61b356e,1105.54,1106.77,"Michael,",,0,,,,0.36999999999989086,1.2300000000000182,0,False,False,1
+179,5f50544b526bec1ce4a44f70,1106.54,1124.36,Yes. And I think that's kind of where I left off. It's really spicy. Like it's that's what I think of when I think of drama and it's like a good drama. It's not it's not trashy not to say that actually. Yeah some drama to be a bit trashy.,"mhm mhm,",2,5ec4a0fffe991f37f61b356e,1110.44,1120.56,-0.2300000000000182,17.819999999999936,0,False,True,57
+180,5ec4a0fffe991f37f61b356e,1124.44,1131.17,"mhm Yeah, no, I feel like it was like intention or like tastefully trashy administration.",,0,,,,0.08000000000015461,6.730000000000018,0,False,False,15
+181,5f50544b526bec1ce4a44f70,1130.74,1142.35,"Tastefully trashy. I like that. I may just pick that back up because I feel like there's nothing good on anymore and you just forget about the classics. People just new, new, new,","Yeah, yeah, yeah,",3,5ec4a0fffe991f37f61b356e,1135.34,1141.15,-0.43000000000006366,11.6099999999999,0,False,True,34
+182,5ec4a0fffe991f37f61b356e,1142.54,1143.15,no,,0,,,,0.19000000000005457,0.6100000000001273,0,False,False,1
+183,5f50544b526bec1ce4a44f70,1142.74,1143.27,that's Me.,,0,,,,-0.41000000000008185,0.5299999999999727,0,False,True,3
+184,5ec4a0fffe991f37f61b356e,1143.16,1149.7,"recommended it was it stayed good throughout like the best of the show too, so highly recommended.",,0,,,,-0.10999999999989996,6.539999999999964,0,False,True,17
+185,5f50544b526bec1ce4a44f70,1153.14,1161.35,But a recent show that I've watched on netflix was um The Queen's Gambit.,Right?,1,5ec4a0fffe991f37f61b356e,1156.14,1156.35,3.4400000000000546,8.209999999999809,0,False,False,16
+186,5ec4a0fffe991f37f61b356e,1161.64,1164.67,Everyone is telling me to watch this. Yeah.,Uh,1,5f50544b526bec1ce4a44f70,1164.34,1165.06,0.290000000000191,3.0299999999999727,0,False,False,8
+187,5f50544b526bec1ce4a44f70,1165.64,1182.95,"I think there's like a good reason for it. One but one factor I think is because it's new and like there's a hype train and everyone wants to ride that train. But yeah, I feel like watch it on your own time and it's a solid good film. Um",Yeah. Mhm Right.,3,5ec4a0fffe991f37f61b356e,1166.54,1181.27,0.9700000000000273,17.309999999999945,0,False,False,54
+188,5ec4a0fffe991f37f61b356e,1183.14,1183.34,yeah,,0,,,,0.19000000000005457,0.1999999999998181,0,False,False,1
+189,5f50544b526bec1ce4a44f70,1183.34,1194.86,"it's not, it doesn't have that much to do with chess as you would think it's more of like a drama. I don't want to spoil it. But yeah, it's a good, it's a good watch.","yeah yeah Right,",3,5ec4a0fffe991f37f61b356e,1187.64,1193.67,0.0,11.519999999999982,0,False,False,42
+190,5ec4a0fffe991f37f61b356e,1194.64,1198.55,that sounds good. I sort of thought it would be like a chess uh,"Yeah,",1,5f50544b526bec1ce4a44f70,1196.94,1197.35,-0.2199999999997999,3.9099999999998545,0,False,True,14
+191,5f50544b526bec1ce4a44f70,1198.24,1199.02,160.,,0,,,,-0.30999999999994543,0.7799999999999727,0,False,True,1
+192,5ec4a0fffe991f37f61b356e,1199.64,1202.25,that show that sounds boring to me but I,,0,,,,0.6200000000001182,2.6099999999999,0,False,False,9
+193,5f50544b526bec1ce4a44f70,1202.14,1203.67,No.,,0,,,,-0.10999999999989996,1.5299999999999727,0,False,True,1
+194,5ec4a0fffe991f37f61b356e,1202.25,1202.7,like it.,,0,,,,-1.4200000000000728,0.4500000000000455,0,False,True,2
+195,5f50544b526bec1ce4a44f70,1203.67,1229.5,"Yeah, I thought, yeah, this show is going to be really boring. It's just chess. Like how can that be exciting? But it's kind of framed around chess and more of the character herself than the game. Yeah, it's hmm, I think I teared up a little bit and I love shows where I can feel",Mhm cool yeah,3,5ec4a0fffe991f37f61b356e,1213.34,1223.67,0.9700000000000273,25.829999999999927,1,False,False,59
+196,5ec4a0fffe991f37f61b356e,1229.34,1229.58,please,,0,,,,-0.16000000000008185,0.2400000000000091,0,False,True,1
+197,5f50544b526bec1ce4a44f70,1229.5,1235.65,something or cry because I rarely cry. I'm not a crier. I like crying. I think it's,Uh huh,1,5ec4a0fffe991f37f61b356e,1230.84,1231.46,-0.07999999999992724,6.150000000000091,0,False,True,19
+198,5ec4a0fffe991f37f61b356e,1235.54,1236.67,"I think yeah,",cool.,1,5f50544b526bec1ce4a44f70,1235.65,1236.17,-0.11000000000012733,1.1300000000001091,0,False,True,3
+199,5f50544b526bec1ce4a44f70,1236.54,1237.35,It's fun.,,0,,,,-0.13000000000010914,0.8099999999999454,0,False,True,3
+200,5ec4a0fffe991f37f61b356e,1237.34,1238.45,what,,0,,,,-0.009999999999990905,1.1100000000001273,0,False,True,1
+201,5f50544b526bec1ce4a44f70,1238.64,1245.35,"Yeah, I haven't cried in a while or I've only cried from like shows or movies,",cool. Yeah mhm,3,5ec4a0fffe991f37f61b356e,1240.44,1244.55,0.19000000000005457,6.709999999999809,0,False,False,18
+202,5ec4a0fffe991f37f61b356e,1245.74,1245.94,Well,,0,,,,0.39000000000010004,0.20000000000004547,0,False,False,1
+203,5f50544b526bec1ce4a44f70,1245.84,1246.17,but,,0,,,,-0.10000000000013642,0.3300000000001546,0,False,True,1
+204,5ec4a0fffe991f37f61b356e,1245.94,1249.3,"that's good right, that's better than crying from life. Yeah,",,0,,,,-0.2300000000000182,3.3599999999999,0,False,True,12
+205,5f50544b526bec1ce4a44f70,1249.14,1259.05,"no, Yeah, but no, you're, you're absolutely right. I think that's a good point. I have nothing to cry about in life, which is a good thing. But also I think it's kind of fun to cry.","yeah, yeah,",2,5ec4a0fffe991f37f61b356e,1250.14,1256.05,-0.15999999999985448,9.909999999999854,0,False,True,41
+206,5ec4a0fffe991f37f61b356e,1259.74,1264.45,"for sure, it's like starting Yeah",Mhm. Exactly. Yes.,1,5f50544b526bec1ce4a44f70,1261.04,1263.36,0.6900000000000546,4.710000000000036,0,False,False,7
+207,5f50544b526bec1ce4a44f70,1264.04,1267.27,When was the last time you cried? If you don't mind me asking?,,0,,,,-0.41000000000008185,3.230000000000018,2,True,True,14
+208,5ec4a0fffe991f37f61b356e,1267.14,1273.75,"Oh man, I don't know if I room there, Oh you know honestly I got in a fight with a friend who was just",Okay. Oh,2,5f50544b526bec1ce4a44f70,1271.54,1273.72,-0.12999999999988177,6.6099999999999,0,False,True,25
+209,5f50544b526bec1ce4a44f70,1273.72,1274.35,"no,",,0,,,,-0.029999999999972715,0.6299999999998818,0,False,True,1
+210,5ec4a0fffe991f37f61b356e,1273.75,1279.17,"like finally and so I I cried all over that, I was like oh ok, now",,0,,,,-0.599999999999909,5.420000000000073,0,False,True,16
+211,5f50544b526bec1ce4a44f70,1278.74,1280.17,a week ago.,,0,,,,-0.43000000000006366,1.4300000000000637,0,False,True,3
+212,5ec4a0fffe991f37f61b356e,1279.74,1283.67,definitely a crier I will cry at like so,,0,,,,-0.43000000000006366,3.9300000000000637,0,False,True,9
+213,5f50544b526bec1ce4a44f70,1283.54,1306.27,"Oh, but that's nice. But I feel like if you can feel such intense emotion or sadness, then you can also feel like intense happiness as well. So I like that. And then also, I guess when was the last show or movie that was a tear jerker for you? Yeah.","yeah yeah yeah yeah mm Yeah, well",4,5ec4a0fffe991f37f61b356e,1287.44,1306.17,-0.13000000000010914,22.730000000000018,1,False,True,52
+214,5ec4a0fffe991f37f61b356e,1306.17,1324.46,"actually like this is like all of embarrassing because it's just like there's no good reason to cry at it, but I cried at multiple points during jane The Virgin, like even though it's like essentially a soap opera, I was just like, so I got so into it, I still cried it.",,0,,,,-0.09999999999990905,18.289999999999964,0,False,True,56
+215,5f50544b526bec1ce4a44f70,1324.14,1344.17,"Oh my God, I think maybe I did that. I definitely do that. Um There's a show called steven Universe. It's like a cartoon. And like yeah, there were some scenes where like it's not even meant to make you cry. Like it's a fun happy scene and I just like start tearing up.",Yeah. Yeah. Mhm. Yeah.,4,5ec4a0fffe991f37f61b356e,1325.84,1340.44,-0.31999999999993634,20.029999999999973,0,False,True,58
+216,5ec4a0fffe991f37f61b356e,1341.34,1345.96,"Yeah. Just like, it's so, so cute. It's so, you know, awesome.","Yeah,",1,5f50544b526bec1ce4a44f70,1344.54,1346.2,-2.8300000000001546,4.620000000000118,0,False,True,14
+217,5f50544b526bec1ce4a44f70,1346.21,1350.56,"it's happy crying. I also like that too. Okay,",Mm Yeah. Yeah. I,2,5ec4a0fffe991f37f61b356e,1347.34,1350.26,0.25,4.349999999999909,0,False,False,10
+218,5ec4a0fffe991f37f61b356e,1350.26,1351.73,"only lost like one episode,",,0,,,,-0.2999999999999545,1.4700000000000273,0,False,True,5
+219,5f50544b526bec1ce4a44f70,1351.94,1378.74,"it's a good show. It's it's a cartoon, but I think they explore some adult themes and like yeah, it's a very smart, well rounded inclusive show that's like kind of um mind opening. Yeah, I highly recommend it. We'll check out jane the Virgin because I love a good cry",right? Yeah. Mhm. Mhm. Cool.,5,5ec4a0fffe991f37f61b356e,1352.64,1374.46,0.21000000000003638,26.799999999999955,0,False,False,57
+220,5ec4a0fffe991f37f61b356e,1378.74,1378.99,This,,0,,,,0.0,0.25,0,False,False,1
+221,5f50544b526bec1ce4a44f70,1378.75,1379.17,and,,0,,,,-0.2400000000000091,0.42000000000007276,0,False,True,1
+222,5ec4a0fffe991f37f61b356e,1378.99,1379.16,is,,0,,,,-0.18000000000006366,0.17000000000007276,0,False,True,1
+223,5f50544b526bec1ce4a44f70,1379.18,1388.27,"tearing up Oh, could you hear that rain?",mhm.,1,5ec4a0fffe991f37f61b356e,1382.84,1383.17,0.01999999999998181,9.089999999999918,1,True,False,8
+224,5ec4a0fffe991f37f61b356e,1387.64,1389.67,Yeah. What's happening?,,0,,,,-0.6299999999998818,2.0299999999999727,1,True,True,4
+225,5f50544b526bec1ce4a44f70,1389.64,1401.46,"Oh, it was my phone ringing. Okay, sorry about that.","Oh,",1,5ec4a0fffe991f37f61b356e,1393.24,1397.67,-0.029999999999972715,11.819999999999936,0,False,True,10
+226,5ec4a0fffe991f37f61b356e,1398.94,1400.35,"I know what,",,0,,,,-2.519999999999982,1.4099999999998545,0,False,True,3
+227,5f50544b526bec1ce4a44f70,1401.84,1417.55,Mm emotions. Yeah. I think um during quarantine I just don't really feel much at all. So like I think shows are like the gateway to like being a human. Mhm.,"Yeah, wow. Yeah, for sure.",3,5ec4a0fffe991f37f61b356e,1409.54,1417.51,1.490000000000009,15.710000000000036,0,False,False,32
+228,5ec4a0fffe991f37f61b356e,1417.52,1426.17,"No, it's like nothing happens in my life now. Like, you know, like I call someone, they're like, what's happened with you? And I'm like nothing.",,0,,,,-0.029999999999972715,8.650000000000091,1,False,True,30
+229,5f50544b526bec1ce4a44f70,1425.84,1434.96,"I I I absolutely relate to that. Yeah, like there's absolutely nothing going on because like we're stuck inside. Like what else could we possibly be doing?",,0,,,,-0.3300000000001546,9.120000000000118,1,True,True,29
+230,5ec4a0fffe991f37f61b356e,1435.34,1438.16,Is it bad? Has it gotten washed in florida right now?,Mhm.,1,5f50544b526bec1ce4a44f70,1435.64,1436.27,0.37999999999988177,2.8200000000001637,2,True,False,11
+231,5f50544b526bec1ce4a44f70,1438.54,1447.27,Um Well florida is an interesting case because some of us don't care. So uh,Yeah. Yeah. Okay.,3,5ec4a0fffe991f37f61b356e,1440.94,1446.17,0.37999999999988177,8.730000000000018,0,False,False,16
+232,5ec4a0fffe991f37f61b356e,1447.54,1448.26,Mm hmm.,,0,,,,0.2699999999999818,0.7200000000000273,0,False,False,2
+233,5f50544b526bec1ce4a44f70,1448.04,1466.34,"I think it's bad in some areas my area cares like it's kind of older people so I am pretty safe and I messed up but room I guess yeah things have slowed down, like you can feel it when you walk",Yeah. Yeah. Yeah.,3,5ec4a0fffe991f37f61b356e,1449.24,1461.67,-0.22000000000002728,18.299999999999955,0,False,True,44
+234,5ec4a0fffe991f37f61b356e,1466.24,1466.45,What?,,0,,,,-0.09999999999990905,0.21000000000003638,1,True,True,1
+235,5f50544b526bec1ce4a44f70,1466.34,1485.67,"outside, there's just not much going on. There's no life, they're not life. But yeah there's just no people people are indoors, stores are still kind of populated but people just want to get in and get out. How is it in Maryland?","Yeah. Oh, okay. Yeah. Okay.",4,5ec4a0fffe991f37f61b356e,1468.54,1482.96,-0.11000000000012733,19.330000000000155,1,True,True,47
+236,5ec4a0fffe991f37f61b356e,1485.84,1513.27,"I feel like we have not been hit as bad as other places in terms of like cases like not people have gotten sick, but we're definitely, I think like on the more cautious end of states because our governor was like really um I told everyone to stay home right away and all that, so I think we're like we're pretty shut down and hence we haven't had many features so","Mhm. Cool. Mhm. Mhm, mm.",5,5f50544b526bec1ce4a44f70,1486.04,1508.95,0.16999999999984539,27.430000000000064,0,False,False,76
+237,5f50544b526bec1ce4a44f70,1512.34,1514.05,"Oh that's good, I'm",,0,,,,-0.9300000000000637,1.7100000000000364,0,False,True,6
+238,5ec4a0fffe991f37f61b356e,1513.94,1514.77,but,,0,,,,-0.10999999999989996,0.8299999999999272,0,False,True,1
+239,5f50544b526bec1ce4a44f70,1514.05,1515.36,so happy to hear that.,,0,,,,-0.7200000000000273,1.3099999999999454,0,False,True,5
+240,5ec4a0fffe991f37f61b356e,1515.34,1520.67,"things, but also it is like, you know, we're still second five. Yeah,",Mhm.,1,5f50544b526bec1ce4a44f70,1519.24,1520.35,-0.01999999999998181,5.330000000000155,0,False,True,14
+241,5f50544b526bec1ce4a44f70,1520.74,1531.46,"But yeah, I think that are safe and sorry, or dead. Yeah, um Maryland is a blue or red state.",for sure. Okay.,2,5ec4a0fffe991f37f61b356e,1525.34,1530.06,0.06999999999993634,10.720000000000027,0,False,False,20
+242,5ec4a0fffe991f37f61b356e,1531.74,1539.46,"Blue. Yeah. Well we're a little weird because we're blue, but we love Republican governor. Uh",Yeah.,1,5f50544b526bec1ce4a44f70,1536.84,1537.04,0.2799999999999727,7.720000000000027,0,False,False,18
+243,5f50544b526bec1ce4a44f70,1538.44,1539.55,Mm hmm.,,0,,,,-1.0199999999999818,1.1099999999999,0,False,True,2
+244,5ec4a0fffe991f37f61b356e,1539.94,1551.45,"But he's like a really moderate Republican. Um But we have like a blue State legislature, so we're almost totally work.",Yeah.,1,5f50544b526bec1ce4a44f70,1544.54,1545.25,0.39000000000010004,11.509999999999991,0,False,False,23
+245,5f50544b526bec1ce4a44f70,1551.14,1573.06,"Gosh, I think florida is purple maybe or leaning towards Republican. No, it's definitely it's a red state and I think it's weird that it correlates with states that care about people's health and well being is blue and then red is like they don't give a fuck",Mhm. Yeah. Yeah. Well. Mhm.,4,5ec4a0fffe991f37f61b356e,1553.34,1560.67,-0.30999999999994543,21.919999999999845,0,False,True,53
+246,5ec4a0fffe991f37f61b356e,1572.44,1575.56,"Yeah, not necessarily surprising I guess.",,0,,,,-0.6199999999998909,3.119999999999891,0,False,True,6
+247,5f50544b526bec1ce4a44f70,1575.54,1588.77,or I don't think like it should have anything to do with colour. I feel like it's just the right thing to do. It's kind of mind boggling that it's uh it has to do with color. Mhm.,Yeah. Yeah. Mhm. Yeah.,4,5ec4a0fffe991f37f61b356e,1576.64,1588.44,-0.01999999999998181,13.230000000000018,0,False,True,42
+248,5ec4a0fffe991f37f61b356e,1589.54,1595.27,"Yeah. Well, other countries don't seem to have this problem, so it's really frustrating time to be in America.",,0,,,,0.7699999999999818,5.730000000000018,0,False,False,21
+249,5f50544b526bec1ce4a44f70,1595.64,1606.6,"It is, yeah, I hear that we are actually, there's some weird like american part of me that screaming like, yeah, we're number one in like go with the case of this.",Uh huh.,2,5ec4a0fffe991f37f61b356e,1605.04,1605.75,0.37000000000011823,10.959999999999809,0,False,False,34
+250,5ec4a0fffe991f37f61b356e,1606.74,1608.06,What?,,0,,,,0.14000000000010004,1.3199999999999363,1,True,False,1
+251,5f50544b526bec1ce4a44f70,1607.74,1617.67,"But yeah, I feel like wow that's not good, it's funny. Not a good look for us but we're still we're still number one baby.",Mhm.,1,5ec4a0fffe991f37f61b356e,1610.94,1611.17,-0.31999999999993634,9.930000000000064,0,False,True,29
+252,5ec4a0fffe991f37f61b356e,1617.84,1622.34,With everything? Yeah.,Oh yikes,1,5f50544b526bec1ce4a44f70,1619.44,1622.05,0.16999999999984539,4.5,1,False,False,3
+253,5f50544b526bec1ce4a44f70,1622.54,1631.35,"mm Oh wow it's weird looking looking back at the reflection and the reflection, looking back at you.",,0,,,,0.20000000000004547,8.809999999999945,0,False,False,19
+254,5ec4a0fffe991f37f61b356e,1631.24,1638.56,What do you mean? Uh like both square of your face and uh,,0,,,,-0.10999999999989996,7.319999999999936,1,False,True,13
+255,5f50544b526bec1ce4a44f70,1638.74,1642.76,Oh no I meant like me reflecting on America like,,0,,,,0.18000000000006366,4.019999999999982,0,False,False,10
+256,5ec4a0fffe991f37f61b356e,1642.54,1644.84,"Okay, that makes more sense. Yeah.",,0,,,,-0.22000000000002728,2.2999999999999545,0,False,True,6
+257,5f50544b526bec1ce4a44f70,1644.34,1653.36,but both yeah I forgot that I was I was mainly looking at you and your glasses but now you've just reminded me that there's a square of my face,Uh huh.,1,5ec4a0fffe991f37f61b356e,1649.84,1650.16,-0.5,9.019999999999982,0,False,True,32
+258,5ec4a0fffe991f37f61b356e,1653.54,1655.85,"Yeah. In case you weren't self conscious, you know? Man?",oh,1,5f50544b526bec1ce4a44f70,1655.54,1656.01,0.18000000000006366,2.3099999999999454,2,True,False,11
+259,5f50544b526bec1ce4a44f70,1656.01,1663.16,"my God I am self conscious, I hate looking at myself, I hate hearing my voice like that's the last thing I want to see.",,0,,,,0.16000000000008185,7.150000000000091,0,False,False,26
+260,5ec4a0fffe991f37f61b356e,1663.24,1665.67,What? Mhm. Right.,Okay,1,5f50544b526bec1ce4a44f70,1663.84,1664.26,0.07999999999992724,2.4300000000000637,1,False,False,3
+261,5f50544b526bec1ce4a44f70,1666.84,1688.67,but yeah I think self reflection is good are not ignoring the problems in your life. Mhm mhm Uh huh mhm wow. Now that you mentioned that I'm going to look at the little little rectangle of myself,For sure.,1,5ec4a0fffe991f37f61b356e,1676.04,1676.55,1.1699999999998454,21.830000000000155,0,False,False,39
+262,5ec4a0fffe991f37f61b356e,1688.84,1693.95,I know. I hate that. I wish there was a way to turn it off. Right.,Oh,1,5f50544b526bec1ce4a44f70,1692.54,1694.04,0.16999999999984539,5.110000000000127,0,False,False,16
+263,5f50544b526bec1ce4a44f70,1694.05,1694.96,I think,,0,,,,0.09999999999990905,0.9100000000000819,0,False,False,2
+264,5ec4a0fffe991f37f61b356e,1694.54,1701.67,Good. There isn't zoom but not on not on the better up. Um,um,1,5f50544b526bec1ce4a44f70,1696.24,1697.05,-0.42000000000007276,7.130000000000109,0,False,True,14
+265,5f50544b526bec1ce4a44f70,1701.24,1720.67,"I can mute myself but I can't turn off the camera. Wonderful. Um yikes. Yeah, there's just something about seeing yourself and hearing yourself. There's that's like another level of I don't know why like I really hate my voice. Self hatred.","Yeah. Mhm. Yeah,",3,5ec4a0fffe991f37f61b356e,1704.74,1713.27,-0.43000000000006366,19.430000000000064,0,False,True,47
+266,5ec4a0fffe991f37f61b356e,1720.44,1723.35,I'll meet you. I can't stand this week. Plan boy.,,0,,,,-0.2300000000000182,2.9099999999998545,0,False,True,12
+267,5f50544b526bec1ce4a44f70,1724.44,1740.46,"No, but yeah, what's strange is that like when I hear other people like you? I think your voice sounds fine, it's normal, but like when it's my own voice it's like disgusting. Delete that please. But yeah, I think your voice is fine. You could you could read audiobooks to me and I would be okay with that.",Yeah.,1,5ec4a0fffe991f37f61b356e,1733.84,1735.36,1.0900000000001455,16.019999999999982,1,False,False,63
+268,5ec4a0fffe991f37f61b356e,1740.34,1747.56,"Oh, that's a huge compliment. You also have a nice voice. You know, totally like what",Yeah. Uh huh,2,5f50544b526bec1ce4a44f70,1742.14,1746.35,-0.12000000000011823,7.220000000000027,0,False,True,17
+269,5f50544b526bec1ce4a44f70,1747.64,1751.36,I'll take it I like there's a part of my brain that's like,,0,,,,0.08000000000015461,3.7199999999998,0,False,False,16
+270,5ec4a0fffe991f37f61b356e,1751.84,1752.26,impact.,,0,,,,0.4800000000000182,0.42000000000007276,0,False,False,1
+271,5f50544b526bec1ce4a44f70,1751.94,1758.36,kind of help Yeah. Self depreciating and like can't take compliments but I'll take it. Thank you.,Mhm.,1,5ec4a0fffe991f37f61b356e,1753.04,1753.36,-0.31999999999993634,6.419999999999845,0,False,True,19
+272,5ec4a0fffe991f37f61b356e,1758.74,1765.14,"All right. Well, it looks like we hit our time. So thank you so much for having this conversation.",Yeah.,1,5f50544b526bec1ce4a44f70,1758.94,1759.56,0.38000000000010914,6.400000000000091,0,False,False,19
+273,5f50544b526bec1ce4a44f70,1764.64,1764.85,If,,0,,,,-0.5,0.209999999999809,0,False,True,1
+274,5ec4a0fffe991f37f61b356e,1765.14,1765.85,This is really,,0,,,,0.290000000000191,0.709999999999809,0,False,False,3
+275,5f50544b526bec1ce4a44f70,1765.54,1767.36,"yeah, it's fun. I enjoyed it.",,0,,,,-0.30999999999994543,1.8199999999999363,0,False,True,7

@@ -1,0 +1,589 @@
+turn_id,speaker,start,stop,utterance,backchannel,backchannel_count,backchannel_speaker,backchannel_start,backchannel_stop,interval,delta,questions,end_question,overlap,n_words
+0,5ee2916b70aa643be19c0036,40.34,282.44,"it could be, yeah. Yeah. Oh yeah. Uh huh. Yeah. Mhm. Mhm Yeah.",,0,,,,,242.1,0,False,False,13
+1,5efe907ba8384039f55a9625,287.24,287.96,how the God,,0,,,,4.800000000000011,0.7199999999999704,0,False,False,3
+2,5ee2916b70aa643be19c0036,288.14,290.26,"Hey, how are you?",Yeah,1,5efe907ba8384039f55a9625,289.34,289.54,0.18000000000000682,2.1200000000000045,1,True,False,4
+3,5efe907ba8384039f55a9625,289.94,298.74,"how you doing? I'm doing good. Um It's hot as it's so I'm sorry, I was gonna curse but it's so it's so hot out",,0,,,,-0.3199999999999932,8.800000000000011,1,False,True,32
+4,5ee2916b70aa643be19c0036,298.64,299.43,That's fine.,here right,1,5efe907ba8384039f55a9625,298.74,299.09,-0.10000000000002274,0.7900000000000205,0,False,True,3
+5,5efe907ba8384039f55a9625,299.09,299.36,"now,",,0,,,,-0.34000000000003183,0.27000000000003865,0,False,True,1
+6,5ee2916b70aa643be19c0036,299.44,301.48,How hard is it? How does,,0,,,,0.07999999999998408,2.0400000000000205,1,False,False,6
+7,5efe907ba8384039f55a9625,301.44,301.64,I'm,,0,,,,-0.040000000000020464,0.19999999999998863,0,False,True,2
+8,5ee2916b70aa643be19c0036,301.49,301.76,"have,",,0,,,,-0.14999999999997726,0.2699999999999818,0,False,True,1
+9,5efe907ba8384039f55a9625,301.64,302.66,sorry I can't hear you.,,0,,,,-0.12000000000000455,1.0200000000000387,0,False,True,6
+10,5ee2916b70aa643be19c0036,303.24,304.26,can you hear me now?,,0,,,,0.5799999999999841,1.0199999999999818,1,True,False,5
+11,5efe907ba8384039f55a9625,304.94,306.46,Uh You're coming in and out,,0,,,,0.6800000000000068,1.5199999999999818,0,False,False,7
+12,5ee2916b70aa643be19c0036,307.14,308.36,"Okay, can you hear me",,0,,,,0.6800000000000068,1.2200000000000273,0,False,False,5
+13,5efe907ba8384039f55a9625,309.14,311.26,"kind of kind of really really low,",,0,,,,0.7799999999999727,2.1200000000000045,0,False,False,7
+14,5ee2916b70aa643be19c0036,311.74,313.15,okay? We're just,,0,,,,0.4800000000000182,1.4099999999999682,1,False,False,4
+15,5efe907ba8384039f55a9625,312.64,320.75,"I'm gonna try to put on my earphones, hold on a second, let me see. Okay trying to speak again.","okay,",1,5ee2916b70aa643be19c0036,314.74,315.36,-0.5099999999999909,8.110000000000014,0,False,True,22
+16,5ee2916b70aa643be19c0036,321.04,322.36,Okay. Can you hear me?,,0,,,,0.29000000000002046,1.3199999999999932,1,True,False,5
+17,5efe907ba8384039f55a9625,322.64,325.76,"I can, it's really really low though but I can still hear you",,0,,,,0.2799999999999727,3.1200000000000045,0,False,False,14
+18,5ee2916b70aa643be19c0036,325.94,328.06,Okay? Let's do the best we can. Okay.,,0,,,,0.18000000000000682,2.1200000000000045,1,False,False,9
+19,5efe907ba8384039f55a9625,328.04,330.17,for sure. For sure. So um what's,"Okay,",1,5ee2916b70aa643be19c0036,329.14,329.86,-0.01999999999998181,2.1299999999999955,0,False,True,8
+20,5ee2916b70aa643be19c0036,329.87,330.19,let,,0,,,,-0.30000000000001137,0.3199999999999932,0,False,True,1
+21,5efe907ba8384039f55a9625,330.17,330.27,your,,0,,,,-0.01999999999998181,0.0999999999999659,0,False,True,1
+22,5ee2916b70aa643be19c0036,330.19,330.3,me,,0,,,,-0.07999999999998408,0.11000000000001364,0,False,True,1
+23,5efe907ba8384039f55a9625,330.27,330.54,"name,",,0,,,,-0.03000000000002956,0.27000000000003865,0,False,True,1
+24,5ee2916b70aa643be19c0036,330.31,330.66,talk,,0,,,,-0.2300000000000182,0.35000000000002274,0,False,True,1
+25,5efe907ba8384039f55a9625,330.55,331.46,if you don't mind me asking?,,0,,,,-0.11000000000001364,0.9099999999999682,1,True,True,7
+26,5ee2916b70aa643be19c0036,331.64,334.66,"sure. We only have to do this for 25 minutes, so",,0,,,,0.18000000000000682,3.0200000000000387,0,False,False,11
+27,5efe907ba8384039f55a9625,334.44,339.15,I hope something interesting comes out. Have you done this before yet?,Okay.,1,5ee2916b70aa643be19c0036,338.04,338.36,-0.22000000000002728,4.7099999999999795,1,True,True,12
+28,5ee2916b70aa643be19c0036,339.34,340.66,I have three times,,0,,,,0.18999999999999773,1.32000000000005,0,False,False,4
+29,5efe907ba8384039f55a9625,340.74,345.45,"I've only done it once, it was pretty interesting. All my conversations are pretty fun.",,0,,,,0.07999999999998408,4.7099999999999795,0,False,False,16
+30,5ee2916b70aa643be19c0036,344.84,351.26,"and I know how to fix the problem. But if I, if I unplug my webcam, it will take us off line so I don't want to do.",Oh,1,5efe907ba8384039f55a9625,350.64,351.2,-0.6100000000000136,6.420000000000016,0,False,True,29
+31,5efe907ba8384039f55a9625,351.2,352.16,"yeah, no worries,",,0,,,,-0.060000000000002274,0.9600000000000364,0,False,True,3
+32,5ee2916b70aa643be19c0036,352.14,354.45,So we're just gonna do the best we can. Okay.,,0,,,,-0.020000000000038654,2.3100000000000023,0,False,True,12
+33,5efe907ba8384039f55a9625,354.64,358.15,I got my earphones can noise canceling so it'll work out,,0,,,,0.18999999999999773,3.509999999999991,0,False,False,12
+34,5ee2916b70aa643be19c0036,357.64,360.96,Okay. My name is Wendy. Where are you from?,,0,,,,-0.5099999999999909,3.319999999999993,1,True,True,9
+35,5efe907ba8384039f55a9625,361.04,365.66,"pleasure to meet you. I'm tim I'm from California, I'm from the bay area actually.","Okay,",1,5ee2916b70aa643be19c0036,364.24,364.66,0.08000000000004093,4.6200000000000045,0,False,False,18
+36,5ee2916b70aa643be19c0036,365.84,369.56,"nice, nice. I worked out with santa Clara for about a month.",,0,,,,0.17999999999994998,3.7200000000000273,0,False,False,12
+37,5efe907ba8384039f55a9625,369.74,372.46,Oh wow. When did you work out in santa clara?,"Yeah,",1,5ee2916b70aa643be19c0036,371.24,371.56,0.18000000000000682,2.7199999999999704,1,True,False,10
+38,5ee2916b70aa643be19c0036,372.64,375.16,I was doing a project of security project.,Yeah,1,5efe907ba8384039f55a9625,373.04,373.24,0.18000000000000682,2.5200000000000387,0,False,False,8
+39,5efe907ba8384039f55a9625,375.84,378.26,"not to is it, was it cybersecurity if you don't mind me asking?",,0,,,,0.67999999999995,2.420000000000016,1,True,False,14
+40,5ee2916b70aa643be19c0036,378.44,386.55,"It was a little bit of both. It was like a resilience preparation. Yeah,",Oh wow.,1,5efe907ba8384039f55a9625,384.84,385.83,0.18000000000000682,8.110000000000014,0,False,False,14
+41,5efe907ba8384039f55a9625,385.84,390.36,What was it? Is that for resilience? As in um government? Uh,,0,,,,-0.7100000000000364,4.520000000000039,3,False,True,12
+42,5ee2916b70aa643be19c0036,389.94,393.54,"I'm like this, this yeah,",Okay. Got,1,5efe907ba8384039f55a9625,392.04,392.76,-0.4200000000000159,3.6000000000000227,0,False,True,6
+43,5efe907ba8384039f55a9625,393.44,394.66,"like what's going on now,",,0,,,,-0.10000000000002274,1.2200000000000273,0,False,True,6
+44,5ee2916b70aa643be19c0036,394.64,395.88,"like right, what's going",,0,,,,-0.020000000000038654,1.240000000000009,0,False,True,5
+45,5efe907ba8384039f55a9625,395.84,399.64,"fema, fema, fema. So to say. Yeah.","on? Right, right. Yeah, yeah,",2,5ee2916b70aa643be19c0036,395.88,399.35,-0.040000000000020464,3.8000000000000114,0,False,True,7
+46,5ee2916b70aa643be19c0036,399.84,400.37,that's,,0,,,,0.19999999999998863,0.5300000000000296,0,False,False,2
+47,5efe907ba8384039f55a9625,400.34,400.56,No,,0,,,,-0.03000000000002956,0.22000000000002728,0,False,True,1
+48,5ee2916b70aa643be19c0036,400.37,400.76,my,,0,,,,-0.18999999999999773,0.38999999999998636,0,False,True,1
+49,5efe907ba8384039f55a9625,400.56,400.85,of,,0,,,,-0.19999999999998863,0.29000000000002046,0,False,True,1
+50,5ee2916b70aa643be19c0036,401.64,407.85,sorry. People are send me messages and I can't figure out why my son is going on with my laptop like big time. It,um,1,5efe907ba8384039f55a9625,406.54,407.75,0.7899999999999636,6.210000000000036,0,False,False,25
+51,5efe907ba8384039f55a9625,407.75,409.66,"if you don't mind me asking, where are you from?",,0,,,,-0.10000000000002274,1.910000000000025,1,True,True,11
+52,5ee2916b70aa643be19c0036,409.94,411.65,a woman southern Maryland.,,0,,,,0.2799999999999727,1.7099999999999795,0,False,False,4
+53,5efe907ba8384039f55a9625,411.84,416.04,Oh nice. Like so a little not Baltimore right or,Yeah.,1,5ee2916b70aa643be19c0036,413.14,413.46,0.18999999999999773,4.2000000000000455,0,False,False,10
+54,5ee2916b70aa643be19c0036,415.94,416.43,"No,",,0,,,,-0.10000000000002274,0.4900000000000091,0,False,True,1
+55,5efe907ba8384039f55a9625,416.04,416.54,Washington D.,,0,,,,-0.38999999999998636,0.5,0,False,True,2
+56,5ee2916b70aa643be19c0036,416.44,416.75,"no,",,0,,,,-0.10000000000002274,0.3100000000000023,0,False,True,1
+57,5efe907ba8384039f55a9625,416.54,416.86,C.,,0,,,,-0.20999999999997954,0.3199999999999932,0,False,True,1
+58,5ee2916b70aa643be19c0036,416.75,425.75,"they're totally opposite. I'm like An hour and 45 minutes south of Baltimore. Yeah,",Okay. Oh wow wow.,2,5efe907ba8384039f55a9625,419.14,425.71,-0.11000000000001364,9.0,0,False,True,16
+59,5efe907ba8384039f55a9625,425.72,428.15,"Are you, are you originally from Maryland?",,0,,,,-0.029999999999972715,2.42999999999995,1,True,True,7
+60,5ee2916b70aa643be19c0036,428.54,439.06,"I am, I am, I was born at Andrews Air Force Base in Maryland, my father today and then I was in Prince George's County, which is right outside of Dc.",Oh,1,5efe907ba8384039f55a9625,432.94,433.66,0.3900000000000432,10.519999999999982,0,False,False,32
+61,5efe907ba8384039f55a9625,439.24,439.45,I've,,0,,,,0.18000000000000682,0.20999999999997954,0,False,False,2
+62,5ee2916b70aa643be19c0036,439.44,440.65,I,,0,,,,-0.009999999999990905,1.2099999999999795,0,False,True,1
+63,5efe907ba8384039f55a9625,439.45,440.34,heard of that. Yeah.,,0,,,,-1.1999999999999886,0.8899999999999864,0,False,True,4
+64,5ee2916b70aa643be19c0036,440.66,445.4,"I'm sure you have. Yeah, I",Yeah.,1,5efe907ba8384039f55a9625,442.04,444.25,0.32000000000005,4.739999999999952,0,False,False,7
+65,5efe907ba8384039f55a9625,444.94,445.15,Yes.,,0,,,,-0.45999999999997954,0.20999999999997954,0,False,True,1
+66,5ee2916b70aa643be19c0036,445.41,452.15,lived there for most of my life. Um When I became an adult I moved out to I moved to New England to New Hampshire.,,0,,,,0.26000000000004775,6.739999999999952,0,False,False,25
+67,5efe907ba8384039f55a9625,451.44,451.95,Got you.,,0,,,,-0.7099999999999795,0.5099999999999909,0,False,True,2
+68,5ee2916b70aa643be19c0036,452.54,457.16,I like that. But then my dad needed help so I came back home and I took care of him,,0,,,,0.5900000000000318,4.6200000000000045,0,False,False,20
+69,5efe907ba8384039f55a9625,457.44,458.08,Yeah that's,,0,,,,0.2799999999999727,0.6399999999999864,0,False,False,3
+70,5ee2916b70aa643be19c0036,458.04,458.73,And,,0,,,,-0.03999999999996362,0.6899999999999977,0,False,True,1
+71,5efe907ba8384039f55a9625,458.08,458.55,what I'm saying.,,0,,,,-0.6500000000000341,0.4700000000000273,0,False,True,4
+72,5ee2916b70aa643be19c0036,458.74,465.04,I took care of him until 2014 when he passed away and when he passed away I sold that house within a month,,0,,,,0.18999999999999773,6.300000000000011,0,False,False,23
+73,5efe907ba8384039f55a9625,465.04,465.16,I,,0,,,,0.0,0.12000000000000455,0,False,False,1
+74,5ee2916b70aa643be19c0036,465.05,465.19,and,,0,,,,-0.11000000000001364,0.13999999999998636,0,False,True,1
+75,5efe907ba8384039f55a9625,465.16,465.47,got,,0,,,,-0.029999999999972715,0.3100000000000023,0,False,True,1
+76,5ee2916b70aa643be19c0036,465.19,465.5,print,,0,,,,-0.28000000000002956,0.3100000000000023,0,False,True,1
+77,5efe907ba8384039f55a9625,465.47,465.76,"you,",,0,,,,-0.029999999999972715,0.2899999999999636,0,False,True,1
+78,5ee2916b70aa643be19c0036,465.51,473.75,"out. I rolled out. So I moved to Charles County, which is the next southernmost county. And then I moved to ST mary's County.",,0,,,,-0.25,8.240000000000009,0,False,True,25
+79,5efe907ba8384039f55a9625,474.14,476.27,"got you, got you, got you. So",Yes.,1,5ee2916b70aa643be19c0036,474.34,474.66,0.38999999999998636,2.1299999999999955,0,False,False,7
+80,5ee2916b70aa643be19c0036,475.94,476.66,Physical.,,0,,,,-0.3299999999999841,0.7200000000000273,0,False,True,1
+81,5efe907ba8384039f55a9625,476.27,476.75,you're,,0,,,,-0.3900000000000432,0.4800000000000182,0,False,True,2
+82,5ee2916b70aa643be19c0036,477.34,477.57,Go,,0,,,,0.589999999999975,0.2300000000000182,0,False,False,1
+83,5efe907ba8384039f55a9625,477.44,477.67,you're,,0,,,,-0.12999999999999545,0.2300000000000182,0,False,True,2
+84,5ee2916b70aa643be19c0036,477.57,477.85,ahead.,,0,,,,-0.10000000000002274,0.28000000000002956,0,False,True,1
+85,5efe907ba8384039f55a9625,477.67,481.86,basically Maryland born and bred just about nice.,"Yeah, yeah,",2,5ee2916b70aa643be19c0036,480.14,481.44,-0.18000000000000682,4.189999999999998,0,False,True,8
+86,5ee2916b70aa643be19c0036,482.14,482.78,Yeah.,,0,,,,0.2799999999999727,0.6399999999999864,0,False,False,1
+87,5efe907ba8384039f55a9625,482.44,482.64,Yeah.,,0,,,,-0.339999999999975,0.19999999999998863,0,False,True,1
+88,5ee2916b70aa643be19c0036,482.79,491.25,"It's, it's, I mean it's, I love this gate. I mean it's a hot mess, but I love it. I truly feel the same way about the valley. I mean, I can't.",Yeah. Oh,2,5efe907ba8384039f55a9625,487.54,491.12,0.1500000000000341,8.45999999999998,0,False,False,37
+89,5efe907ba8384039f55a9625,491.12,501.41,"my god. Dude, I mean I'm just saying like everywhere it's it's a hot mess, it's it's insane what's going on right now, you know what I mean? But it's fun times, you know what I mean? Uh",,0,,,,-0.12999999999999545,10.29000000000002,2,False,True,45
+90,5ee2916b70aa643be19c0036,501.14,501.65,"Are you,",,0,,,,-0.27000000000003865,0.5099999999999909,0,False,True,2
+91,5efe907ba8384039f55a9625,501.42,501.85,Like I,,0,,,,-0.22999999999996135,0.4300000000000068,0,False,True,2
+92,5ee2916b70aa643be19c0036,502.04,503.56,are you in Francisco?,,0,,,,0.18999999999999773,1.5199999999999818,1,True,False,4
+93,5efe907ba8384039f55a9625,503.64,510.56,"I I am in Hayward, I'm in the outskirts of san Francisco, So I'm in a suburb about 20 minutes south of Oakland.",Okay.,1,5ee2916b70aa643be19c0036,507.14,507.65,0.07999999999998408,6.920000000000016,0,False,False,25
+94,5ee2916b70aa643be19c0036,510.94,513.96,"My ex fiance lives in a, in the mission District.",,0,,,,0.37999999999999545,3.0200000000000387,0,False,False,10
+95,5efe907ba8384039f55a9625,514.14,517.7,"Oh wow, The Mission District is fun times, that's",Mm hmm.,1,5ee2916b70aa643be19c0036,515.44,516.16,0.17999999999994998,3.560000000000059,0,False,False,10
+96,5ee2916b70aa643be19c0036,517.64,518.63,I,,0,,,,-0.06000000000005912,0.9900000000000091,0,False,True,1
+97,5efe907ba8384039f55a9625,517.7,518.55,where everything's at.,,0,,,,-0.92999999999995,0.849999999999909,0,False,True,4
+98,5ee2916b70aa643be19c0036,518.64,543.75,"know when, when we used to go back to his family there, he was like, you can't go out after five p.m. Don't talk to nobody, you don't know where I, so I didn't listen to him. And I ventured out, I ended up in some basement like place and getting a haircut. I don't speak a lick of spanish. So it was horrible. It was like how did you make it home alive?",Yeah. Uh,2,5efe907ba8384039f55a9625,526.84,535.25,0.09000000000003183,25.110000000000014,1,True,False,79
+99,5efe907ba8384039f55a9625,542.34,544.86,and you just made it also.,,0,,,,-1.4099999999999682,2.519999999999982,0,False,True,6
+100,5ee2916b70aa643be19c0036,544.14,548.86,"I don't know, maybe it was my PG County. Look I don't know. I had one day.","Yeah,",1,5efe907ba8384039f55a9625,547.64,548.63,-0.7200000000000273,4.720000000000027,0,False,True,19
+101,5efe907ba8384039f55a9625,548.63,564.08,"I know what's cool is it san Francisco is totally, everyone's totally like welcoming with people in some cases unless there unless they're mentally, you know, they have the uh you know how yeah, they're homeless and they don't have the mental capacity for anything and so those are the kind of, they're not dangerous at all either, they're just, you know,",Right? Yes. Yeah. Yeah.,4,5ee2916b70aa643be19c0036,556.74,561.56,-0.2300000000000182,15.450000000000045,0,False,True,69
+102,5ee2916b70aa643be19c0036,564.04,564.66,"No,",,0,,,,-0.04000000000007731,0.6200000000000045,0,False,True,1
+103,5efe907ba8384039f55a9625,564.08,565.44,they have Tourette's but,,0,,,,-0.5799999999999272,1.3600000000000136,0,False,True,5
+104,5ee2916b70aa643be19c0036,565.24,565.66,no.,,0,,,,-0.20000000000004547,0.4199999999999591,0,False,True,1
+105,5efe907ba8384039f55a9625,565.45,568.16,how do you like your time when you were out here? Don't mind me asking.,Oh,1,5ee2916b70aa643be19c0036,567.64,568.09,-0.2099999999999227,2.7099999999999227,1,False,True,16
+106,5ee2916b70aa643be19c0036,568.1,574.06,"I loved it. I loved you know even when I was with my ex wife's family, I loved it, hang on a second and put this up here and see if I can.",,0,,,,-0.05999999999994543,5.959999999999923,0,False,True,34
+107,5efe907ba8384039f55a9625,574.44,579.56,"No worries, no worries, that's kind of cool. So I mean how long were you out here if you don't mind me asking,",,0,,,,0.38000000000010914,5.119999999999891,0,False,False,25
+108,5ee2916b70aa643be19c0036,579.44,586.06,"I was just out here for the time when I was working on the project and then we just went and saw his family, is his family there? Um",,0,,,,-0.11999999999989086,6.619999999999891,1,False,True,29
+109,5efe907ba8384039f55a9625,585.64,586.36,I got you,,0,,,,-0.4199999999999591,0.7200000000000273,0,False,True,3
+110,5ee2916b70aa643be19c0036,586.74,595.15,"Yeah his family is still there in you know They they're in a better, I can't run where they are in San Francisco. We broke up in 2006.",,0,,,,0.37999999999999545,8.409999999999968,0,False,False,30
+111,5efe907ba8384039f55a9625,595.44,601.16,"anywhere in san Francisco. You're they're they're filthy, they're doing good, they're filthy rich.",,0,,,,0.2900000000000773,5.719999999999914,0,False,False,19
+112,5ee2916b70aa643be19c0036,600.74,609.75,"Yeah. Well yeah his family has been there for a long time. They're they're mexican but there there yeah. How did I not know a spanish, right?",Yeah. Yeah.,2,5efe907ba8384039f55a9625,603.84,606.05,-0.4199999999999591,9.009999999999991,1,True,True,29
+113,5efe907ba8384039f55a9625,609.14,610.67,I,,0,,,,-0.6100000000000136,1.5299999999999727,0,False,True,1
+114,5ee2916b70aa643be19c0036,609.76,610.64,"You know,",,0,,,,-0.9099999999999682,0.8799999999999955,0,False,True,2
+115,5efe907ba8384039f55a9625,610.68,614.45,don't know. Need phillips Tagalog and I'm filipino dude.,,0,,,,0.03999999999996362,3.7700000000000955,0,False,False,11
+116,5ee2916b70aa643be19c0036,613.64,618.93,"he used to say he used to go to lucy, I'm home.",,0,,,,-0.8100000000000591,5.289999999999964,0,False,True,13
+117,5efe907ba8384039f55a9625,617.74,619.26,Ha ha,,0,,,,-1.1899999999999409,1.5199999999999818,0,False,True,2
+118,5ee2916b70aa643be19c0036,618.94,620.14,One,,0,,,,-0.31999999999993634,1.1999999999999318,0,False,True,1
+119,5efe907ba8384039f55a9625,619.26,620.65,ha,,0,,,,-0.8799999999999955,1.3899999999999864,0,False,True,1
+120,5ee2916b70aa643be19c0036,620.15,621.86,"fan as you know, he just",,0,,,,-0.5,1.7100000000000364,0,False,True,6
+121,5efe907ba8384039f55a9625,621.44,622.84,I love lucy. Yeah.,,0,,,,-0.4199999999999591,1.3999999999999773,0,False,True,4
+122,5ee2916b70aa643be19c0036,622.64,634.95,"the best thrill out of making fun of me because even today because him and I are still friends, I can still call him like it's a hispanic, my spanish work in the house or something. I'm like, please translate this for me",Yeah.,1,5efe907ba8384039f55a9625,632.34,632.75,-0.20000000000004547,12.31000000000006,0,False,True,45
+123,5efe907ba8384039f55a9625,634.74,635.13,That's,,0,,,,-0.21000000000003638,0.38999999999998636,0,False,True,2
+124,5ee2916b70aa643be19c0036,634.96,639.16,and a speaker phone. And even so today he'll still translate for me.,cool.,1,5efe907ba8384039f55a9625,635.13,635.76,-0.16999999999995907,4.199999999999932,0,False,True,14
+125,5efe907ba8384039f55a9625,639.34,645.23,"That's really cool. Did you ever call him Ricky all the time? No,","Yeah. Oh yeah, yeah. And",3,5ee2916b70aa643be19c0036,639.84,644.91,0.18000000000006366,5.889999999999986,1,False,False,14
+126,5ee2916b70aa643be19c0036,644.91,645.66,"he was,",,0,,,,-0.32000000000005,0.75,0,False,True,2
+127,5efe907ba8384039f55a9625,645.23,645.76,that's cool.,,0,,,,-0.42999999999995,0.5299999999999727,0,False,True,3
+128,5ee2916b70aa643be19c0036,645.67,651.24,"he was very flirtatious like when like everybody like at a hotel like okay, don juan Yeah,","Yeah. Yeah. Yeah,",1,5efe907ba8384039f55a9625,650.34,651.05,-0.09000000000003183,5.57000000000005,0,False,True,17
+129,5efe907ba8384039f55a9625,651.05,654.75,"you're like, hey, I'm your I'm your focus.",,0,,,,-0.19000000000005457,3.7000000000000455,0,False,True,11
+130,5ee2916b70aa643be19c0036,653.64,656.36,"Ronnie, what are you doing talking to her?",,0,,,,-1.1100000000000136,2.7200000000000273,1,True,True,8
+131,5efe907ba8384039f55a9625,655.94,657.99,That's really,Mhm.,1,5ee2916b70aa643be19c0036,656.84,657.05,-0.4199999999999591,2.0499999999999545,0,False,True,3
+132,5ee2916b70aa643be19c0036,657.84,665.85,"It's yeah, he really, he was really great but he didn't want to, he didn't want to get an annulment so we couldn't get married and I wasn't willing to not be catholic.",cool.,1,5efe907ba8384039f55a9625,657.99,658.55,-0.14999999999997726,8.009999999999991,0,False,True,38
+133,5efe907ba8384039f55a9625,666.24,668.66,Got you. That makes sense. That makes sense. That makes sense.,Mhm. Yeah.,2,5ee2916b70aa643be19c0036,667.04,668.26,0.38999999999998636,2.419999999999959,0,False,False,11
+134,5ee2916b70aa643be19c0036,668.84,672.46,"Yeah. Being latino, you can appreciate that.",,0,,,,0.18000000000006366,3.6200000000000045,0,False,False,7
+135,5efe907ba8384039f55a9625,670.74,675.26,"No, I do I I can't I for sure. Can I get it?",,0,,,,-1.7200000000000273,4.519999999999982,1,True,True,14
+136,5ee2916b70aa643be19c0036,673.54,678.16,"Don't let's not have any stereotypes here, right?",,0,,,,-1.7200000000000273,4.6200000000000045,1,True,True,10
+137,5efe907ba8384039f55a9625,677.64,688.56,"No, no, it's funny because I see uh you have a cross up there too. I have like a jesus uh thing back here too, but it's like covered by my backdrop so",,0,,,,-0.5199999999999818,10.919999999999959,0,False,True,35
+138,5ee2916b70aa643be19c0036,687.94,696.16,"Yeah. I know sometimes I take them down, but like today I don't even care. So I've got the immaculate heart of mary and the sacred heart of jesus. Thanks.",Yeah.,1,5efe907ba8384039f55a9625,695.74,696.06,-0.6199999999998909,8.219999999999914,0,False,True,32
+139,5efe907ba8384039f55a9625,696.07,699.67,"No, no, no, I'm in the same boat to I'm in the same boat too.",Yeah.,1,5ee2916b70aa643be19c0036,697.74,698.15,-0.08999999999991815,3.599999999999909,0,False,True,17
+140,5ee2916b70aa643be19c0036,698.64,702.45,"Yeah, I know where I live. There are a lot of Filipinos.",,0,,,,-1.0299999999999727,3.810000000000059,0,False,True,12
+141,5efe907ba8384039f55a9625,702.54,704.06,"Yeah. Yeah. Yeah, I heard Marilyn.",A high,1,5ee2916b70aa643be19c0036,703.44,705.01,0.08999999999991815,1.5199999999999818,0,False,False,6
+142,5ee2916b70aa643be19c0036,705.01,713.36,"concentration. I will tell you when I was in California, I was going to the the shrine, Our Lady of Peace.",Yeah. Yeah. Uh huh.,2,5efe907ba8384039f55a9625,706.34,711.45,0.9500000000000455,8.350000000000023,0,False,False,21
+143,5efe907ba8384039f55a9625,713.44,716.35,Ah that's where I go all the time. The statue.,,0,,,,0.08000000000004093,2.909999999999968,0,False,False,11
+144,5ee2916b70aa643be19c0036,716.84,718.59,Yeah. Oh it's so gorgeous.,,0,,,,0.4900000000000091,1.75,0,False,False,6
+145,5efe907ba8384039f55a9625,718.54,718.72,It,,0,,,,-0.05000000000006821,0.18000000000006366,0,False,True,1
+146,5ee2916b70aa643be19c0036,718.6,719.45,But,,0,,,,-0.12000000000000455,0.8500000000000227,0,False,True,1
+147,5efe907ba8384039f55a9625,718.72,719.65,"is, it is, it is",,0,,,,-0.7300000000000182,0.92999999999995,0,False,True,5
+148,5ee2916b70aa643be19c0036,720.04,732.46,"I was black at the Filipinos because they're like keeping the flower people in business. I was like, I was like, I could open up a floral shop today here and make millions of dollars.",yeah.,1,5efe907ba8384039f55a9625,724.24,724.86,0.38999999999998636,12.420000000000073,0,False,False,36
+149,5efe907ba8384039f55a9625,731.64,733.65,And really nice flowers.,,0,,,,-0.82000000000005,2.009999999999991,0,False,True,4
+150,5ee2916b70aa643be19c0036,733.14,743.85,"I know, they're gorgeous. Oh my God, john paul statue, I love that. That is so pretty. I actually had those photos on my ipad","Mhm. Yeah,",2,5efe907ba8384039f55a9625,736.34,739.54,-0.5099999999999909,10.710000000000036,0,False,True,26
+151,5efe907ba8384039f55a9625,744.14,744.61,it's so,,0,,,,0.2899999999999636,0.4700000000000273,0,False,False,3
+152,5ee2916b70aa643be19c0036,744.54,745.75,just Yeah.,nice and,1,5efe907ba8384039f55a9625,744.61,745.41,-0.07000000000005002,1.2100000000000364,0,False,True,2
+153,5efe907ba8384039f55a9625,745.41,749.51,at night when you go there it's just that you know all the lights are hitting it. Um It's,Uh Yeah.,2,5ee2916b70aa643be19c0036,747.14,749.37,-0.34000000000003183,4.100000000000023,0,False,True,21
+154,5ee2916b70aa643be19c0036,749.37,750.65,I know.,,0,,,,-0.13999999999998636,1.2799999999999727,0,False,True,2
+155,5efe907ba8384039f55a9625,749.51,750.95,a really peaceful place.,,0,,,,-1.1399999999999864,1.4400000000000546,0,False,True,4
+156,5ee2916b70aa643be19c0036,751.04,751.36,And,,0,,,,0.08999999999991815,0.32000000000005,0,False,False,1
+157,5efe907ba8384039f55a9625,751.34,751.85,No,,0,,,,-0.01999999999998181,0.5099999999999909,0,False,True,1
+158,5ee2916b70aa643be19c0036,751.36,754.09,then they have statues one in the back to buy by,,0,,,,-0.4900000000000091,2.730000000000018,0,False,True,11
+159,5efe907ba8384039f55a9625,753.84,754.35,the,,0,,,,-0.25,0.5099999999999909,0,False,True,1
+160,5ee2916b70aa643be19c0036,754.09,754.66,the hall.,,0,,,,-0.2599999999999909,0.5699999999999363,0,False,True,2
+161,5efe907ba8384039f55a9625,754.35,755.16,little one right,,0,,,,-0.30999999999994543,0.8099999999999454,0,False,True,3
+162,5ee2916b70aa643be19c0036,755.24,756.16,"Yeah, there's a little one. And",,0,,,,0.08000000000004093,0.9199999999999591,0,False,False,7
+163,5efe907ba8384039f55a9625,756.14,756.56,next,,0,,,,-0.01999999999998181,0.4199999999999591,0,False,True,1
+164,5ee2916b70aa643be19c0036,756.16,756.86,then they had,,0,,,,-0.39999999999997726,0.7000000000000455,0,False,True,3
+165,5efe907ba8384039f55a9625,756.56,757.55,to the vending machines.,,0,,,,-0.3000000000000682,0.9900000000000091,0,False,True,4
+166,5ee2916b70aa643be19c0036,757.44,760.46,yeah. And then they get huge one that you can see by the intel building.,,0,,,,-0.10999999999989996,3.019999999999982,0,False,True,15
+167,5efe907ba8384039f55a9625,760.44,767.1,"Yeah, that's the one uh until building one is really nice. The statues next to the next to the uh",Yeah.,1,5ee2916b70aa643be19c0036,762.24,762.65,-0.01999999999998181,6.659999999999968,0,False,True,21
+168,5ee2916b70aa643be19c0036,766.94,767.15,Your,,0,,,,-0.15999999999996817,0.2099999999999227,0,False,True,1
+169,5efe907ba8384039f55a9625,767.11,767.2,you,,0,,,,-0.03999999999996362,0.09000000000003183,0,False,True,1
+170,5ee2916b70aa643be19c0036,767.15,767.56,state.,,0,,,,-0.05000000000006821,0.40999999999996817,0,False,True,1
+171,5efe907ba8384039f55a9625,767.2,771.96,"know it's funny, I'm thinking isn't even open now, I haven't been down there in so long.",,0,,,,-0.35999999999989996,4.759999999999991,0,False,True,21
+172,5ee2916b70aa643be19c0036,771.24,781.66,Oh my God. His friend he is uh he's probably I went in the year jubilee um When I was working it was a year of Jubilee. So it was like 2015.,Yeah.,1,5efe907ba8384039f55a9625,773.34,773.84,-0.7200000000000273,10.419999999999959,0,False,True,33
+173,5efe907ba8384039f55a9625,781.74,783.35,"Yeah, I remember that. Yeah,",,0,,,,0.08000000000004093,1.6100000000000136,0,False,False,5
+174,5ee2916b70aa643be19c0036,782.94,786.32,Yeah. The holy doors. Remember the,,0,,,,-0.40999999999996817,3.3799999999999955,0,False,True,6
+175,5efe907ba8384039f55a9625,786.24,786.39,I,,0,,,,-0.08000000000004093,0.14999999999997726,0,False,True,1
+176,5ee2916b70aa643be19c0036,786.32,786.62,whole,,0,,,,-0.06999999999993634,0.2999999999999545,0,False,True,1
+177,5efe907ba8384039f55a9625,786.39,786.96,remember that.,um,1,5ee2916b70aa643be19c0036,786.63,787.18,-0.2300000000000182,0.57000000000005,0,False,True,2
+178,5ee2916b70aa643be19c0036,787.19,792.96,the holy door on the front? They've got the two doors and they the ones the holy door look through the holy door.,"Yeah,",1,5efe907ba8384039f55a9625,790.84,791.55,0.2300000000000182,5.769999999999982,1,False,False,24
+179,5efe907ba8384039f55a9625,793.14,812.86,"that's really cool, I remember that and so uh you know lady piece that goes like this kind of like the church, it comes up, I forget what, I don't know what shape that is, but when you go in it's just a really long corridor and yeah, you know, I feel um during a land Filipinos they'll meal and walk across the whole thing.",Yeah. Yeah. Yeah. Yeah. Yes.,3,5ee2916b70aa643be19c0036,794.64,812.16,0.17999999999994998,19.720000000000027,0,False,False,69
+180,5ee2916b70aa643be19c0036,812.74,818.26,I know. I'm not surprised you were at adoration all the time.,,0,,,,-0.12000000000000455,5.519999999999982,0,False,True,13
+181,5efe907ba8384039f55a9625,817.64,819.14,It's done. I,,0,,,,-0.6200000000000045,1.5,0,False,True,4
+182,5ee2916b70aa643be19c0036,818.64,819.4,I think,,0,,,,-0.5,0.7599999999999909,0,False,True,2
+183,5efe907ba8384039f55a9625,819.15,819.76,"mean I'm,",,0,,,,-0.25,0.6100000000000136,0,False,True,3
+184,5ee2916b70aa643be19c0036,819.41,827.84,seriously adoration all the time. And that church is so hot in the summer. Oh my God. That churches.,"yeah,",1,5efe907ba8384039f55a9625,824.34,824.75,-0.35000000000002274,8.430000000000064,0,False,True,19
+185,5efe907ba8384039f55a9625,827.14,829.26,they have fans. That's it.,,0,,,,-0.7000000000000455,2.1200000000000045,0,False,True,6
+186,5ee2916b70aa643be19c0036,828.84,838.56,Yeah. And I like because they have like they have like a breakfast in the morning and like on saturday morning sunday morning camera. Which one was like a pancake breakfast?,Mm. Mhm.,2,5efe907ba8384039f55a9625,833.84,835.26,-0.4199999999999591,9.719999999999914,1,True,True,31
+187,5efe907ba8384039f55a9625,838.54,840.16,"Yeah, in the recall, right?",Yeah.,1,5ee2916b70aa643be19c0036,839.24,840.06,-0.01999999999998181,1.6200000000000045,1,True,True,5
+188,5ee2916b70aa643be19c0036,840.07,846.26,And the Red Call and the fathers of the immaculate word was it's probably macular word is,,0,,,,-0.08999999999991815,6.189999999999941,0,False,True,18
+189,5efe907ba8384039f55a9625,845.84,849.16,I think you're right. I think that's what they're called over there. Um,,0,,,,-0.4199999999999591,3.3199999999999363,0,False,True,16
+190,5ee2916b70aa643be19c0036,848.44,853.65,it's got the nuns that were the gray and the blue. The president.,Yeah. Yeah yeah. Yeah.,3,5efe907ba8384039f55a9625,850.04,853.13,-0.7199999999999136,5.209999999999923,0,False,True,14
+191,5efe907ba8384039f55a9625,853.13,854.35,They're always hanging out there.,,0,,,,-0.5199999999999818,1.2200000000000273,0,False,True,6
+192,5ee2916b70aa643be19c0036,854.44,875.36,"So what the one priest. Yeah. The virtues of the terra, the sisters of our Lord, virtues of material. We haven't here too. We have a mother house here. Yeah in in D. C. No I'm Marilyn and billy and um but they one priest I back then I smoked and so I looked like way older than I actually was and he's",Yeah. Yeah. Oh wow. Okay.,4,5efe907ba8384039f55a9625,857.64,875.56,0.09000000000003183,20.91999999999996,0,False,False,66
+193,5efe907ba8384039f55a9625,875.56,875.84,I got,,0,,,,0.1999999999999318,0.2800000000000864,0,False,False,2
+194,5ee2916b70aa643be19c0036,875.84,876.67,Like,,0,,,,0.0,0.8299999999999272,0,False,False,1
+195,5efe907ba8384039f55a9625,875.84,876.56,you. Make sense.,,0,,,,-0.8299999999999272,0.7199999999999136,0,False,True,3
+196,5ee2916b70aa643be19c0036,876.68,884.45,we can't take you if you're over 40 I'm like I'm not even close to 40. Okay.,Yeah.,1,5efe907ba8384039f55a9625,881.99,883.36,0.12000000000000455,7.7700000000000955,0,False,False,21
+197,5efe907ba8384039f55a9625,883.94,887.26,"You're like, I've just been doing this.",Yeah.,1,5ee2916b70aa643be19c0036,885.04,885.24,-0.5099999999999909,3.3199999999999363,0,False,True,9
+198,5ee2916b70aa643be19c0036,886.74,894.26,"It was just like wow I'm gonna put this down. So I quit the next year and I regained my youth. You know, I was like,",Yeah. All right. Yeah.,2,5efe907ba8384039f55a9625,889.44,894.08,-0.5199999999999818,7.519999999999982,0,False,True,28
+199,5efe907ba8384039f55a9625,894.09,900.17,No that's what's up. It happened to one of my friends too. That's where he looked like he was 45 and he,,0,,,,-0.16999999999995907,6.079999999999927,0,False,True,25
+200,5ee2916b70aa643be19c0036,900.04,900.66,"no,",,0,,,,-0.12999999999999545,0.6200000000000045,0,False,True,1
+201,5efe907ba8384039f55a9625,900.17,906.25,"stopped smoking for a whole year, started working out. I'm like damn dude, you like lost age.",,0,,,,-0.4900000000000091,6.080000000000041,0,False,True,18
+202,5ee2916b70aa643be19c0036,905.34,910.85,you know your skin stress against vitality back. You're not ready. Warren. Yes.,Yeah.,1,5efe907ba8384039f55a9625,908.24,909.04,-0.9099999999999682,5.509999999999991,0,False,True,14
+203,5efe907ba8384039f55a9625,910.14,917.85,"And just drinking lots of water and he was doing a lot of exercising and stuff like that. So you know what I'm saying? Like there is a way to reverse that trend, which is good like when she stopped smoking?","Yeah. Yes,",2,5ee2916b70aa643be19c0036,913.64,917.36,-0.7100000000000364,7.710000000000036,2,True,True,42
+204,5ee2916b70aa643be19c0036,918.24,928.48,Saturday is four years for me. Yeah. And I have never had a relapse. I've never taken a pop. Nothing. Just cold turkey. I'm gonna,"Oh, congrats. Uh huh.",2,5efe907ba8384039f55a9625,920.34,924.06,0.38999999999998636,10.240000000000009,0,False,False,28
+205,5efe907ba8384039f55a9625,928.34,928.75,That's,,0,,,,-0.13999999999998636,0.40999999999996817,0,False,True,2
+206,5ee2916b70aa643be19c0036,928.48,928.85,use,,0,,,,-0.2699999999999818,0.37000000000000455,0,False,True,1
+207,5efe907ba8384039f55a9625,928.75,929.26,good.,,0,,,,-0.10000000000002274,0.5099999999999909,0,False,True,1
+208,5ee2916b70aa643be19c0036,928.86,932.74,I got to use my way to blanket because I get over stimulated. Yeah.,"Yeah,",1,5efe907ba8384039f55a9625,932.34,932.73,-0.39999999999997726,3.8799999999999955,0,False,True,14
+209,5efe907ba8384039f55a9625,932.74,934.76,"me too. I mean your boat, you get anxiety too.",,0,,,,0.0,2.019999999999982,0,False,False,10
+210,5ee2916b70aa643be19c0036,934.94,936.35,Yeah. Big time.,,0,,,,0.18000000000006366,1.4099999999999682,0,False,False,3
+211,5efe907ba8384039f55a9625,936.54,943.16,Me too. Me too. Me too. Like I'm kind of getting it now because I only got like four hours of sleep and I get overstimulated like you do.,Yeah. Right.,2,5ee2916b70aa643be19c0036,936.74,938.25,0.18999999999994088,6.6200000000000045,0,False,False,30
+212,5ee2916b70aa643be19c0036,943.44,947.06,Yes. So let's close our eyes and talks about that.,"Yeah, exactly, exactly.",1,5efe907ba8384039f55a9625,945.54,946.71,0.2800000000000864,3.619999999999891,0,False,False,11
+213,5efe907ba8384039f55a9625,946.71,957.85,"Good idea. So I was gonna ask um I was going to ask. So uh in terms of your ex being catholic, um like how was how was that for you? You know what I mean,",Yeah.,1,5ee2916b70aa643be19c0036,947.64,947.84,-0.34999999999990905,11.139999999999986,1,False,True,37
+214,5ee2916b70aa643be19c0036,958.34,966.56,"Well he was catholic and then he went to the baptist religion because you know when you know when you get divorced wrong, you know how the churches",wow.,1,5efe907ba8384039f55a9625,962.04,962.66,0.4900000000000091,8.219999999999914,0,False,False,28
+215,5efe907ba8384039f55a9625,966.54,968.06,Yeah. They don't handle it.,,0,,,,-0.01999999999998181,1.5199999999999818,0,False,True,6
+216,5ee2916b70aa643be19c0036,968.34,986.56,"Right, right there. I think he could have gotten an annulment, but I don't think he wanted to go through the trouble because that now nowadays easy. But back then it was hard in 2006 gonna take two or three years. Okay. And then after the year of mercy it now takes a year.",Yeah. Yeah. Yeah. Yeah.,3,5efe907ba8384039f55a9625,978.04,983.54,0.2800000000000864,18.219999999999914,0,False,False,56
+217,5efe907ba8384039f55a9625,986.74,989.7,"Oh yeah, because they're a lot more forgiving with that. Yeah,",,0,,,,0.18000000000006366,2.9600000000000364,0,False,False,12
+218,5ee2916b70aa643be19c0036,989.44,990.26,We're,,0,,,,-0.2599999999999909,0.8199999999999363,0,False,True,2
+219,5efe907ba8384039f55a9625,989.7,990.25,that's true.,,0,,,,-0.5599999999999454,0.5499999999999545,0,False,True,3
+220,5ee2916b70aa643be19c0036,990.26,990.96,the new pope,,0,,,,0.009999999999990905,0.7000000000000455,0,False,False,3
+221,5efe907ba8384039f55a9625,991.34,1001.06,"It was when they Yeah, and it was when they also addressed the whole um the whole altar boy, you know the sex abuse scandal? There was a lot of that going on yet.",mm boy. Yeah.,2,5ee2916b70aa643be19c0036,991.44,999.46,0.37999999999999545,9.719999999999914,1,False,False,34
+222,5ee2916b70aa643be19c0036,1000.94,1002.65,Yeah it was a hot mess.,,0,,,,-0.11999999999989086,1.7099999999999227,0,False,True,6
+223,5efe907ba8384039f55a9625,1002.84,1003.07,So,,0,,,,0.19000000000005457,0.2300000000000182,0,False,False,1
+224,5ee2916b70aa643be19c0036,1003.04,1003.36,I,,0,,,,-0.030000000000086402,0.32000000000005,0,False,True,1
+225,5efe907ba8384039f55a9625,1003.07,1017.97,"I don't know if you've ever heard of the church, All Saints and Hayward. It's just the local church up here, but it's a pretty big community. Um Anyways, I thought we had a scandal, but we're one of the only churches in the area that hasn't had anything connected to me.",yeah wow.,2,5ee2916b70aa643be19c0036,1007.44,1017.97,-0.2899999999999636,14.899999999999977,0,False,True,58
+226,5ee2916b70aa643be19c0036,1017.98,1019.97,If your bishop bishop Gomez,,0,,,,0.009999999999990905,1.990000000000009,0,False,False,5
+227,5efe907ba8384039f55a9625,1020.44,1026.05,"No, I forgot his name at the time. It was Bishop Barbara. We have a new one though. All right john cummings at the time.",,0,,,,0.4700000000000273,5.6099999999999,0,False,False,25
+228,5ee2916b70aa643be19c0036,1026.34,1029.06,okay. Do you know your New Year's? No,"Oh,",1,5efe907ba8384039f55a9625,1027.74,1028.46,0.2899999999999636,2.7200000000000273,1,False,False,9
+229,5efe907ba8384039f55a9625,1028.84,1030.85,"Our new one is Bishop Barber,",,0,,,,-0.22000000000002728,2.009999999999991,0,False,True,6
+230,5ee2916b70aa643be19c0036,1031.14,1033.86,are you in the diocese of san Jose?,,0,,,,0.290000000000191,2.7199999999998,1,True,False,8
+231,5efe907ba8384039f55a9625,1033.94,1034.86,Alameda County.,,0,,,,0.08000000000015461,0.9199999999998454,0,False,False,2
+232,5ee2916b70aa643be19c0036,1035.74,1037.17,What diabetes is that?,,0,,,,0.8800000000001091,1.4300000000000637,1,True,False,4
+233,5efe907ba8384039f55a9625,1037.24,1043.17,"That's the one next to san Jose. It's, it's uh, I think santa Clara is the one you're talking about, right? Um",Yes.,1,5ee2916b70aa643be19c0036,1042.34,1042.7,0.06999999999993634,5.930000000000064,1,False,False,26
+234,5ee2916b70aa643be19c0036,1042.71,1046.97,Yes santa clara's and is in san Jose.,,0,,,,-0.4600000000000364,4.259999999999991,0,False,True,9
+235,5efe907ba8384039f55a9625,1046.24,1050.33,"Okay. Uh Oh, that's what they call it, the san Jose Diocese. Oh",Yes. Right.,1,5ee2916b70aa643be19c0036,1049.34,1050.24,-0.7300000000000182,4.089999999999918,0,False,True,14
+236,5ee2916b70aa643be19c0036,1050.24,1050.95,Yeah.,,0,,,,-0.08999999999991815,0.7100000000000364,0,False,True,1
+237,5efe907ba8384039f55a9625,1050.34,1051.96,wow. I didn't even realize that.,,0,,,,-0.6100000000001273,1.6200000000001182,0,False,True,7
+238,5ee2916b70aa643be19c0036,1051.94,1054.67,Yeah. Yeah that's that's in the same Jose diocese,,0,,,,-0.01999999999998181,2.730000000000018,0,False,True,11
+239,5efe907ba8384039f55a9625,1054.54,1057.44,"Yeah. No, ours is um, I'll Alameda County. Um",,0,,,,-0.13000000000010914,2.900000000000091,0,False,True,10
+240,5ee2916b70aa643be19c0036,1057.24,1057.56,and,,0,,,,-0.20000000000004547,0.31999999999993634,0,False,True,1
+241,5efe907ba8384039f55a9625,1057.45,1063.06,"It's the one, I'm not sure exactly, but it's within the Bay Area counties. I think they all work together the regionally.",,0,,,,-0.10999999999989996,5.6099999999999,0,False,True,25
+242,5ee2916b70aa643be19c0036,1063.84,1074.27,well yeah if you're a diocese because we have an archdiocese here so you have diocese so you all work together regionally. I know the diocese in L. A. Was a hot mess. Mhm,"Yeah. Yeah, for sure. Oh",3,5efe907ba8384039f55a9625,1070.44,1074.04,0.7799999999999727,10.430000000000064,0,False,False,35
+243,5efe907ba8384039f55a9625,1074.04,1074.45,yeah.,,0,,,,-0.2300000000000182,0.41000000000008185,0,False,True,1
+244,5ee2916b70aa643be19c0036,1074.84,1081.55,Mahoney who what a mess. Well but you guys didn't have nothing prepared to what we had here because,"Yes, Yeah.",2,5efe907ba8384039f55a9625,1074.94,1077.16,0.38999999999987267,6.710000000000036,0,False,False,20
+245,5efe907ba8384039f55a9625,1080.74,1081.75,"Oh my gosh,",,0,,,,-0.8099999999999454,1.009999999999991,0,False,True,3
+246,5ee2916b70aa643be19c0036,1082.14,1084.86,we had Cardinal McCarrick that was,okay.,1,5efe907ba8384039f55a9625,1084.44,1084.81,0.39000000000010004,2.7199999999998,0,False,False,6
+247,5efe907ba8384039f55a9625,1084.81,1085.67,What was that about?,,0,,,,-0.049999999999954525,0.8600000000001273,1,True,True,4
+248,5ee2916b70aa643be19c0036,1085.74,1092.46,that he was he was the cardinal who got found guilty of mess with little kids.,,0,,,,0.06999999999993634,6.720000000000027,0,False,False,16
+249,5efe907ba8384039f55a9625,1092.74,1093.55,"He was,",,0,,,,0.2799999999999727,0.8099999999999454,0,False,False,2
+250,5ee2916b70aa643be19c0036,1093.74,1134.03,"Yeah. And he was sleepless seminarians or anything. Yeah. You know Karen? Yeah, they they they they lay a size him, but he's no longer a cardinal. And then write him the guy that he made cardinal cardinal Donald world world when he was in Pittsburgh was covering up for the abuse there. So they he's still a priest. He's still he's still clergy, but he gets never show his face. Really, really rough time. So now we have this guy named Bishop Wilton Gregory from Atlanta and he's like super progressive and not really. The Filipinos are not real happy with. Yeah,","wow. Oh yeah. Yeah wow. Yeah, wow. Uh yeah, I",9,5efe907ba8384039f55a9625,1097.74,1134.07,0.19000000000005457,40.289999999999964,1,False,False,108
+251,5efe907ba8384039f55a9625,1134.08,1140.11,"know that's about, I know that's about like I'm, I'm in the middle when it comes to religious progressiveness I guess in the",,0,,,,0.049999999999954525,6.029999999999973,0,False,False,27
+252,5ee2916b70aa643be19c0036,1140.04,1140.27,I,,0,,,,-0.06999999999993634,0.2300000000000182,0,False,True,1
+253,5efe907ba8384039f55a9625,1140.11,1140.6,catholic,,0,,,,-0.16000000000008185,0.4900000000000091,0,False,True,1
+254,5ee2916b70aa643be19c0036,1140.28,1141.06,want to.,,0,,,,-0.31999999999993634,0.7799999999999727,0,False,True,2
+255,5efe907ba8384039f55a9625,1140.61,1162.05,"catholic church, you know what I mean? Like I I practice but I don't go all the time. And me and my wife, we, we, we ended up, my wife found out that she was Episcopalian before. Crazy part before she actually got baptized and and realized like, oh this is, you need to be catholic in order to be married. So she, she became catholic but she was catholic her whole life practicing catholic or her.",Yeah. Yeah.,2,5ee2916b70aa643be19c0036,1141.94,1142.77,-0.4500000000000455,21.440000000000055,1,False,True,78
+256,5ee2916b70aa643be19c0036,1161.44,1166.86,"Well, that's close. I mean if you go to the Episcopalian Church, you will not be lost at all because it's all","Yeah,",1,5efe907ba8384039f55a9625,1166.44,1166.74,-0.6099999999999,5.419999999999845,0,False,True,24
+257,5efe907ba8384039f55a9625,1166.75,1168.77,it's the same thing.,,0,,,,-0.10999999999989996,2.019999999999982,0,False,True,5
+258,5ee2916b70aa643be19c0036,1168.24,1177.96,"right. I mean, it's like my uncle, like what? I've been pissed at my church. I wanted to go to the because we literally have a million church, like a mile from my house. I'm like for you,",Yeah. Yeah exactly. Exactly.,4,5efe907ba8384039f55a9625,1169.14,1177.97,-0.5299999999999727,9.720000000000027,1,False,True,41
+259,5efe907ba8384039f55a9625,1177.97,1179.86,Dude that's it's crazy. Wait,right?,1,5ee2916b70aa643be19c0036,1178.34,1178.67,0.009999999999990905,1.8899999999998727,0,False,False,7
+260,5ee2916b70aa643be19c0036,1179.64,1180.06,I think,,0,,,,-0.2199999999997999,0.4199999999998454,0,False,True,2
+261,5efe907ba8384039f55a9625,1179.86,1182.96,so do you are you practicing catholic too if you still don't mind me asking?,,0,,,,-0.20000000000004547,3.1000000000001364,1,True,True,16
+262,5ee2916b70aa643be19c0036,1183.44,1186.39,I am. But I'm really going through a lot because I was,,0,,,,0.4800000000000182,2.9500000000000455,0,False,False,13
+263,5efe907ba8384039f55a9625,1186.14,1186.77,B. Two?,,0,,,,-0.25,0.6299999999998818,1,True,True,2
+264,5ee2916b70aa643be19c0036,1186.4,1201.41,"by the whole the whole abuse scandal, you know? And then so what happened was my parish had a child groomer in it and I wrote a child report, I wrote nice report and the priest got mad at me and kicked me out of my parish. So I",Yeah for sure. Oh wow.,4,5efe907ba8384039f55a9625,1188.84,1196.96,-0.36999999999989086,15.009999999999991,1,False,True,49
+265,5efe907ba8384039f55a9625,1201.34,1201.96,What,,0,,,,-0.07000000000016371,0.6200000000001182,0,False,True,1
+266,5ee2916b70aa643be19c0036,1201.41,1248.2,"lost all these friends. So, it just happened. One of my best friends is a priest to me. So we'll come over to my church. So I drove to his parents. So he had just heard to heal me and everything and help me, you know, to reaffirm eight and then they transferred him super pissed about that. Like you could I'm not mad than anybody. I mean I am So this happened in february and I am still angry. He knew I would be so upset. This is how bad it was. You know they're not allowed to tell you before. They can't tell people privately that they're getting transferred. He actually called me to me coming here in the confessional that's harry like at three o'clock and said at 3 30 me and I just started screaming like a mad woman just like fell to my knees and started screaming",For sure. Yeah. Oh wow wow. Yeah. Yeah. Oh wow.,7,5efe907ba8384039f55a9625,1213.24,1241.46,-0.5499999999999545,46.789999999999964,0,False,True,158
+267,5efe907ba8384039f55a9625,1248.14,1248.33,For,,0,,,,-0.05999999999994543,0.1899999999998272,0,False,True,1
+268,5ee2916b70aa643be19c0036,1248.21,1268.36,and you He was like Wendy you have to go home before somebody calls 911. And like right after after when he told the church people walked out of the map they were so angry and so like right after master but was asking him how is Wendy? Where's Wendy? Does Wendy? No. You know?,sure. Yeah. Oh wow.,4,5efe907ba8384039f55a9625,1248.33,1260.17,-0.11999999999989086,20.149999999999864,4,True,True,56
+269,5efe907ba8384039f55a9625,1269.24,1272.86,Because you were screaming and people were kind of like wondering like what's going on right?,Yeah.,1,5ee2916b70aa643be19c0036,1272.44,1273.29,0.8800000000001091,3.619999999999891,1,True,False,17
+270,5ee2916b70aa643be19c0036,1273.3,1310.77,"Well they all knew that we were hitting me and him were close friends, you know? And they're like, oh my God, this is happening to her again. You know? Like I didn't trust that last priest you picked me out and then you want to trust and you move him and they moved him to the ghetto and and they moved him to cover for a priest. You got kicked out for like, like misappropriation of funds and stuff like that and like screwing up his parish. So they moved into the ghetto, which really upset me because I like broke my heart, you know, because like I really cared about him. I grew up in the ghetto so I didn't want him living in the ghetto.",Yeah. Yeah. Yeah. Yeah. Uh Yeah. Yeah. Yeah,8,5efe907ba8384039f55a9625,1276.14,1308.75,0.44000000000005457,37.47000000000003,2,False,False,131
+271,5efe907ba8384039f55a9625,1310.34,1311.47,I know right? That's,,0,,,,-0.43000000000006366,1.1300000000001091,1,False,True,5
+272,5ee2916b70aa643be19c0036,1311.34,1311.85,Nothing.,,0,,,,-0.13000000000010914,0.5099999999999909,0,False,True,1
+273,5efe907ba8384039f55a9625,1311.47,1312.05,what I mean.,,0,,,,-0.37999999999988177,0.5799999999999272,0,False,True,3
+274,5ee2916b70aa643be19c0036,1312.09,1317.58,"I wanted him to be safe. The three star a target. Like I can take care of myself, you",Yeah.,1,5efe907ba8384039f55a9625,1313.94,1314.35,0.03999999999996362,5.490000000000009,0,False,False,19
+275,5efe907ba8384039f55a9625,1317.44,1317.83,Good,,0,,,,-0.13999999999987267,0.38999999999987267,0,False,True,1
+276,5ee2916b70aa643be19c0036,1317.58,1317.95,know?,,0,,,,-0.25,0.37000000000011823,1,True,True,1
+277,5efe907ba8384039f55a9625,1317.83,1319.45,priest. Our target for sure.,,0,,,,-0.12000000000011823,1.6200000000001182,0,False,True,5
+278,5ee2916b70aa643be19c0036,1319.54,1325.95,"Yeah, yeah, yeah. And yeah, he's kind of walk around wearing a plastic, you know, everybody knows he's a priest for sure. Yes.",Yeah for sure.,2,5efe907ba8384039f55a9625,1322.34,1325.83,0.08999999999991815,6.410000000000082,0,False,False,25
+279,5efe907ba8384039f55a9625,1325.83,1326.45,For sure.,,0,,,,-0.12000000000011823,0.6200000000001182,0,False,True,2
+280,5ee2916b70aa643be19c0036,1326.44,1348.46,"And um, So, but they transfer him again to the city that I last lived in Prince George's County. This which is a little bit better. So I'm a little bit, you know? And now he's instead of being an hour and a half away from me now, he's only 40 minutes away. Like just has seen him four times since he's gotten closer.",Mhm. Okay. Oh wow.,4,5efe907ba8384039f55a9625,1327.64,1344.35,-0.009999999999990905,22.019999999999982,1,False,True,69
+281,5efe907ba8384039f55a9625,1348.44,1364.27,"Yeah at least you can still see him. Our priest ended up moving around the same amount. The same amount of time is yours 40 minutes away. So I don't know if you're familiar with walnut creek but from Hayward it's about 40 40 yeah 40 minutes. Um That's that, it sucks man.","Yeah. Yeah, yeah, yeah. Yeah.",5,5ee2916b70aa643be19c0036,1350.54,1360.77,-0.01999999999998181,15.829999999999927,0,False,True,57
+282,5ee2916b70aa643be19c0036,1363.64,1368.05,"They really know if I hate that. I think there should be a vote. Like if you get a bad priest,",,0,,,,-0.6299999999998818,4.4099999999998545,0,False,True,21
+283,5efe907ba8384039f55a9625,1367.64,1368.45,Seriously?,,0,,,,-0.4099999999998545,0.8099999999999454,1,True,True,1
+284,5ee2916b70aa643be19c0036,1368.54,1379.27,"You can just vote them out. If you get a good priest, you both into stay because now we do have some priests who are very political who get the state for like 12 or 14 years in the same spot.",Yeah,1,5efe907ba8384039f55a9625,1372.34,1373.17,0.08999999999991815,10.730000000000018,0,False,False,41
+285,5efe907ba8384039f55a9625,1379.24,1380.17,that's what I mean.,,0,,,,-0.029999999999972715,0.9300000000000637,0,False,True,5
+286,5ee2916b70aa643be19c0036,1380.44,1384.06,But then you get these crates that you love and they move them in like 20 months.,,0,,,,0.2699999999999818,3.619999999999891,0,False,False,17
+287,5efe907ba8384039f55a9625,1384.24,1400.85,"They move them in 20 months and I'm wondering about that because it's always when you get close to the priest right yep. The priest that that uh in question the one I'm talking about, he was supposed to marry me and my wife and he ended up leaving halfway in between the whole consultation.",Yeah. Yeah. Uh huh.,3,5ee2916b70aa643be19c0036,1389.54,1397.76,0.18000000000006366,16.6099999999999,0,False,False,58
+288,5ee2916b70aa643be19c0036,1400.94,1413.75,"Right. And my friend who is a priest, he found out a big Garcia class together and transferred him says a new priest got all got the fruit of all his labour. I mean you",Mhm. Oh wow. Oh,3,5efe907ba8384039f55a9625,1402.74,1413.27,0.09000000000014552,12.809999999999945,0,False,False,35
+289,5efe907ba8384039f55a9625,1413.74,1413.92,that's,,0,,,,-0.009999999999990905,0.18000000000006366,0,False,True,2
+290,5ee2916b70aa643be19c0036,1413.75,1414.27,know.,,0,,,,-0.17000000000007276,0.5199999999999818,0,False,True,1
+291,5efe907ba8384039f55a9625,1413.92,1415.06,exactly what happened.,,0,,,,-0.34999999999990905,1.1399999999998727,0,False,True,3
+292,5ee2916b70aa643be19c0036,1414.94,1419.46,Yeah. That is so heartbreaking. I can understand why you'd be so mad at that.,,0,,,,-0.11999999999989086,4.519999999999982,0,False,True,16
+293,5efe907ba8384039f55a9625,1419.54,1423.27,I mean as a priest and as a priest they can't get mad you know,Yes.,1,5ee2916b70aa643be19c0036,1419.84,1420.67,0.07999999999992724,3.730000000000018,0,False,False,16
+294,5ee2916b70aa643be19c0036,1423.14,1423.77,What?,,0,,,,-0.12999999999988177,0.6299999999998818,1,True,True,1
+295,5efe907ba8384039f55a9625,1423.27,1425.86,"it's like oh it's God's work, is everybody working together?",,0,,,,-0.5,2.589999999999918,1,True,True,13
+296,5ee2916b70aa643be19c0036,1426.34,1437.26,"Well I mean I'd give him in a confessional like I'll go down and see how often a face to face confession and be like, hey dude why did you agree with this? Because you're a pastor, you don't have to say yes. You know",Yeah.,1,5efe907ba8384039f55a9625,1434.64,1435.05,0.4800000000000182,10.920000000000073,1,False,False,49
+297,5efe907ba8384039f55a9625,1437.24,1438.35,Yeah it is true. Right?,,0,,,,-0.01999999999998181,1.1099999999999,1,True,True,5
+298,5ee2916b70aa643be19c0036,1438.64,1444.76,"I mean they're allowed to say No. one time I was like why did you because him and I are like best keys. You know,",,0,,,,0.290000000000191,6.119999999999891,0,False,False,26
+299,5efe907ba8384039f55a9625,1444.44,1445.27,That's cool,,0,,,,-0.31999999999993634,0.8299999999999272,0,False,True,3
+300,5ee2916b70aa643be19c0036,1445.14,1475.27,"Like he's very he's the absolute opposite of me. He's an introvert and I'm an extrovert. It's more like, like he is so comfortable around me and we're just like, so close. I'm like, why did you listen through us over like this? You know, like, you know, we were both happy, finally? And he was like, well, I just obey what the church says. I'm like, well, whatever. You know, And he admitted to me that he's a pushover. I'm like, well, I knew that about you. Yeah.",for sure. Yeah. Yeah yeah,4,5efe907ba8384039f55a9625,1451.04,1475.55,-0.12999999999988177,30.12999999999988,2,False,True,99
+301,5efe907ba8384039f55a9625,1476.04,1478.67,you need some in this world.,Oh,1,5ee2916b70aa643be19c0036,1476.64,1476.85,0.7699999999999818,2.630000000000109,0,False,False,6
+302,5ee2916b70aa643be19c0036,1478.14,1483.08,"yeah, he's definitely pushing. But I love him, you know? Um you",Yeah. Yeah,1,5efe907ba8384039f55a9625,1481.54,1482.55,-0.5299999999999727,4.939999999999827,1,False,True,13
+303,5efe907ba8384039f55a9625,1482.94,1483.13,that's,,0,,,,-0.13999999999987267,0.19000000000005457,0,False,True,2
+304,5ee2916b70aa643be19c0036,1483.08,1483.36,"know,",,0,,,,-0.0500000000001819,0.2799999999999727,0,False,True,1
+305,5efe907ba8384039f55a9625,1483.13,1494.92,"kind of and it's it's really really sad um The priest and the priest I'm talking about he wasn't a pushover but he said this is literally what he said, he said they needed me more in that in that paris than they needed me",,0,,,,-0.22999999999979082,11.789999999999964,0,False,True,49
+306,5ee2916b70aa643be19c0036,1494.84,1495.28,that's,,0,,,,-0.08000000000015461,0.44000000000005457,0,False,True,2
+307,5efe907ba8384039f55a9625,1494.92,1495.27,here.,,0,,,,-0.35999999999989996,0.34999999999990905,0,False,True,1
+308,5ee2916b70aa643be19c0036,1495.28,1501.67,exactly what mine says. I think they teach them at the preliminary that's a talking bullshit talking point.,Yeah. Yeah,2,5efe907ba8384039f55a9625,1497.34,1499.17,0.009999999999990905,6.3900000000001,0,False,False,19
+309,5efe907ba8384039f55a9625,1501.04,1504.76,"that's what I mean, that's what I mean. You can say that all the time, you know what I mean?",,0,,,,-0.6300000000001091,3.7200000000000273,1,True,True,22
+310,5ee2916b70aa643be19c0036,1504.94,1514.0,"And I know that he was crying too. And he told me, and I think that it's hard for them. So they teach them to, you know like separate themselves. Yeah",Mhm. Yeah. Yeah. Yeah.,2,5efe907ba8384039f55a9625,1508.04,1513.21,0.18000000000006366,9.059999999999945,0,False,False,32
+311,5efe907ba8384039f55a9625,1513.22,1513.55,Yeah.,,0,,,,-0.7799999999999727,0.32999999999992724,0,False,True,1
+312,5ee2916b70aa643be19c0036,1514.0,1514.48,it's really,,0,,,,0.4500000000000455,0.4800000000000182,0,False,False,3
+313,5efe907ba8384039f55a9625,1514.24,1514.96,So,,0,,,,-0.2400000000000091,0.7200000000000273,0,False,True,1
+314,5ee2916b70aa643be19c0036,1514.48,1515.06,sad.,,0,,,,-0.4800000000000182,0.5799999999999272,0,False,True,1
+315,5efe907ba8384039f55a9625,1515.44,1527.35,I'm gonna ask to do you usually get close to priest because sometimes we do we've only gotten to like one or two close to to one or two priests. And also my god brother actually is a priest at Lady Our Lady Peace. Crazy.,,0,,,,0.38000000000010914,11.909999999999854,0,False,False,48
+316,5ee2916b70aa643be19c0036,1528.04,1528.22,So,,0,,,,0.6900000000000546,0.18000000000006366,0,False,False,1
+317,5efe907ba8384039f55a9625,1528.14,1528.25,He,,0,,,,-0.07999999999992724,0.10999999999989996,0,False,True,1
+318,5ee2916b70aa643be19c0036,1528.22,1528.53,he's,,0,,,,-0.029999999999972715,0.30999999999994543,0,False,True,2
+319,5efe907ba8384039f55a9625,1528.25,1528.56,became,,0,,,,-0.2799999999999727,0.30999999999994543,0,False,True,1
+320,5ee2916b70aa643be19c0036,1528.54,1531.85,he's with the father of an incarnate word.,a priest,1,5efe907ba8384039f55a9625,1528.56,1529.06,-0.01999999999998181,3.3099999999999454,0,False,True,9
+321,5efe907ba8384039f55a9625,1531.94,1536.07,I believe so he was he was a seminarian for a good 10 years over there and so he became,,0,,,,0.09000000000014552,4.129999999999882,0,False,False,20
+322,5ee2916b70aa643be19c0036,1535.84,1536.35,What's this?,a priest,1,5efe907ba8384039f55a9625,1536.07,1536.49,-0.2300000000000182,0.5099999999999909,1,True,True,3
+323,5efe907ba8384039f55a9625,1536.49,1542.36,out there. Um His name is victor victor Trinidad. Father Trinidad it would be victor.,,0,,,,0.14000000000010004,5.869999999999891,0,False,False,15
+324,5ee2916b70aa643be19c0036,1541.84,1545.16,Well. Oh is Opie?,,0,,,,-0.5199999999999818,3.3200000000001637,1,True,True,4
+325,5efe907ba8384039f55a9625,1545.74,1547.05,I'm not sure,Mhm.,1,5ee2916b70aa643be19c0036,1546.04,1546.27,0.5799999999999272,1.3099999999999454,0,False,False,4
+326,5ee2916b70aa643be19c0036,1547.0,1547.31,Thank,,0,,,,-0.049999999999954525,0.30999999999994543,0,False,True,1
+327,5efe907ba8384039f55a9625,1547.06,1547.67,I I'm not,,0,,,,-0.25,0.6100000000001273,0,False,True,4
+328,5ee2916b70aa643be19c0036,1547.53,1547.77,you.,,0,,,,-0.14000000000010004,0.2400000000000091,0,False,True,1
+329,5efe907ba8384039f55a9625,1547.67,1549.67,sure if he's a parishioner there anymore or whatnot.,,0,,,,-0.09999999999990905,2.0,0,False,True,10
+330,5ee2916b70aa643be19c0036,1550.44,1557.51,Oh because if he's if he's a priest there um they're not open because that's the order of paul. That's a,Yeah.,1,5efe907ba8384039f55a9625,1556.84,1557.38,0.7699999999999818,7.069999999999936,0,False,False,26
+331,5efe907ba8384039f55a9625,1557.39,1557.57,He's,,0,,,,-0.11999999999989086,0.1799999999998363,0,False,True,2
+332,5ee2916b70aa643be19c0036,1557.52,1557.76,that's,,0,,,,-0.049999999999954525,0.2400000000000091,0,False,True,2
+333,5efe907ba8384039f55a9625,1557.57,1558.36,probably not that.,,0,,,,-0.19000000000005457,0.7899999999999636,0,False,True,3
+334,5ee2916b70aa643be19c0036,1558.54,1560.96,that's a policy brothers. There was,Yeah. Yeah,2,5efe907ba8384039f55a9625,1560.34,1560.79,0.18000000000006366,2.4200000000000728,0,False,False,7
+335,5efe907ba8384039f55a9625,1560.79,1561.15,he's probably,,0,,,,-0.17000000000007276,0.36000000000012733,0,False,True,3
+336,5ee2916b70aa643be19c0036,1560.97,1561.34,very,,0,,,,-0.18000000000006366,0.36999999999989086,0,False,True,1
+337,5efe907ba8384039f55a9625,1561.15,1561.39,not with,,0,,,,-0.1899999999998272,0.2400000000000091,0,False,True,2
+338,5ee2916b70aa643be19c0036,1561.35,1562.4,exported.,,0,,,,-0.040000000000190994,1.050000000000182,0,False,True,1
+339,5efe907ba8384039f55a9625,1561.39,1561.86,the order.,,0,,,,-1.009999999999991,0.4699999999997999,0,False,True,2
+340,5ee2916b70aa643be19c0036,1562.41,1569.67,Um Yeah I got in close to a couple of bands but it's also like rubbed really bad with a couple of them to you know.,Uh huh.,1,5efe907ba8384039f55a9625,1565.94,1566.26,0.5500000000001819,7.259999999999991,0,False,False,27
+341,5efe907ba8384039f55a9625,1569.24,1570.35,"Yeah. Yeah. Yeah, for sure.",Yeah,1,5ee2916b70aa643be19c0036,1570.04,1570.6,-0.43000000000006366,1.1099999999999,0,False,True,5
+342,5ee2916b70aa643be19c0036,1570.61,1572.6,you know like oh gross.,,0,,,,0.2599999999999909,1.990000000000009,0,False,False,5
+343,5efe907ba8384039f55a9625,1572.24,1572.96,I get that.,,0,,,,-0.35999999999989996,0.7200000000000273,0,False,True,3
+344,5ee2916b70aa643be19c0036,1573.54,1580.06,Yeah I mean there are a couple like I could just text me at 10:00 at night if I want to but then there are a whole bunch of mm now.,,0,,,,0.5799999999999272,6.519999999999982,0,False,False,31
+345,5efe907ba8384039f55a9625,1579.64,1601.66,"No, that's what I mean. Like, like for me and my wife, we we rarely get close to priest. My mom was always getting close to a priest and always in the community and stuff like that. So my wife and I kind of got involved in our community and we got close to a lot of the people in the community, a lot of good people. Like there wasn't one bad person when I was going to All Saints where where we just wanted to leave the community, everybody was really cool and that never happened, you know what I mean?",Yeah,1,5ee2916b70aa643be19c0036,1601.04,1601.56,-0.4199999999998454,22.019999999999982,1,True,True,104
+346,5ee2916b70aa643be19c0036,1601.57,1604.58,I know I know it really does never happen. I,,0,,,,-0.09000000000014552,3.009999999999991,0,False,True,10
+347,5efe907ba8384039f55a9625,1604.54,1604.92,And,,0,,,,-0.03999999999996362,0.38000000000010914,0,False,True,1
+348,5ee2916b70aa643be19c0036,1604.58,1605.27,mean,,0,,,,-0.3400000000001455,0.6900000000000546,0,False,True,1
+349,5efe907ba8384039f55a9625,1604.92,1612.76,"never happens. It's impossible. There's always that one bad egg where you're like, oh I don't like it when he or cheese around, like God forgive me. But",,0,,,,-0.34999999999990905,7.839999999999918,0,False,True,32
+350,5ee2916b70aa643be19c0036,1612.74,1626.56,well you know and they say that you shouldn't follow the priest or you know get close to the priest but that's not natural. You mean I can't this man is forgiving my sins and give me a sacrament. You expect me to not be close to him. Yeah.,Yeah. Yeah. Exactly.,2,5efe907ba8384039f55a9625,1618.44,1626.71,-0.01999999999998181,13.819999999999936,0,False,True,52
+351,5efe907ba8384039f55a9625,1626.72,1627.18,Exactly.,,0,,,,0.16000000000008185,0.4600000000000364,0,False,False,1
+352,5ee2916b70aa643be19c0036,1627.14,1627.48,Yeah.,,0,,,,-0.03999999999996362,0.33999999999991815,0,False,True,1
+353,5efe907ba8384039f55a9625,1627.18,1627.66,Exactly.,,0,,,,-0.2999999999999545,0.4800000000000182,0,False,True,1
+354,5ee2916b70aa643be19c0036,1627.49,1628.85,"You know, but",,0,,,,-0.17000000000007276,1.3599999999999,0,False,True,3
+355,5efe907ba8384039f55a9625,1628.84,1629.02,It's,,0,,,,-0.009999999999990905,0.18000000000006366,0,False,True,2
+356,5ee2916b70aa643be19c0036,1628.85,1629.27,my,,0,,,,-0.17000000000007276,0.42000000000007276,0,False,True,1
+357,5efe907ba8384039f55a9625,1629.02,1630.67,kind of like doctors.,,0,,,,-0.25,1.650000000000091,0,False,True,4
+358,5ee2916b70aa643be19c0036,1630.64,1642.27,"Yeah, well my friend was so close to me like any time I go to the emergency room because I was really sick last year, he was always there like if I just Texas I'm in the er again he'd be like there in like 10 minutes like damn",Mhm.,1,5efe907ba8384039f55a9625,1635.54,1635.96,-0.029999999999972715,11.629999999999882,0,False,True,51
+359,5efe907ba8384039f55a9625,1641.74,1642.67,"Yeah, that's cool.",,0,,,,-0.5299999999999727,0.9300000000000637,0,False,True,4
+360,5ee2916b70aa643be19c0036,1642.28,1646.26,sure people are like well Y'all really close. Yeah.,"Yeah,",1,5efe907ba8384039f55a9625,1644.14,1644.34,-0.39000000000010004,3.980000000000018,0,False,True,9
+361,5efe907ba8384039f55a9625,1645.44,1646.67,"no, that's really cool.",,0,,,,-0.8199999999999363,1.2300000000000182,0,False,True,5
+362,5ee2916b70aa643be19c0036,1646.84,1654.56,"You know and but then you know, they expect us to love our priests and how can you not love your priest? You know?",,0,,,,0.16999999999984539,7.720000000000027,2,True,False,24
+363,5efe907ba8384039f55a9625,1654.34,1660.76,"It's insane. You have to build a relationship with someone in order to gain some sort of report some sort of personal report, you know what I mean? Um",,0,,,,-0.22000000000002728,6.420000000000073,1,False,True,30
+364,5ee2916b70aa643be19c0036,1661.01,1661.67,Perhaps,,0,,,,0.25,0.6600000000000819,0,False,False,1
+365,5efe907ba8384039f55a9625,1661.24,1661.86,And I don't,,0,,,,-0.43000000000006366,0.6199999999998909,0,False,True,4
+366,5ee2916b70aa643be19c0036,1662.14,1665.06,"because our father figures, you know? Yeah.","Yeah, exactly.",1,5efe907ba8384039f55a9625,1664.04,1665.13,0.2800000000002001,2.9199999999998454,1,False,False,7
+367,5efe907ba8384039f55a9625,1665.13,1692.17,"If you look at someone who I mean, it's the religion, you know what I'm saying, it's a spirituality of it, not not necessarily the religion, I believe it's spirituality of it, you know what I mean? Where when you get to know someone, it's not necessarily the practicing of the religion, A it's a I get to know you your your representative of God to me, you know, and so how can you not, you know what I mean? There's like in our normal life how many people are actually close to God, You know what I mean?",Yeah. Yes. Yeah.,3,5ee2916b70aa643be19c0036,1669.74,1684.44,0.07000000000016371,27.039999999999964,3,True,False,106
+368,5ee2916b70aa643be19c0036,1691.94,1696.17,Right. Right. Yeah because I don't feel close to God so I kind of depend on,Exactly.,1,5efe907ba8384039f55a9625,1695.04,1695.72,-0.2300000000000182,4.230000000000018,0,False,True,17
+369,5efe907ba8384039f55a9625,1695.73,1704.36,"You know what I mean? In some cases I feel that way too. But on the same token I'm just totally like, you know, there's some shit that's happened in my life. Excuse my language",,0,,,,-0.44000000000005457,8.629999999999882,1,False,True,38
+370,5ee2916b70aa643be19c0036,1703.84,1704.26,I think,,0,,,,-0.5199999999999818,0.42000000000007276,0,False,True,2
+371,5efe907ba8384039f55a9625,1704.84,1712.76,"where I'm just like, yeah God exists and God is looking out for me somehow. You know I mean he's testing me a lot of times so it's crazy man.",yeah,1,5ee2916b70aa643be19c0036,1711.14,1713.17,0.5799999999999272,7.920000000000073,0,False,False,33
+372,5ee2916b70aa643be19c0036,1713.54,1723.45,"I know this, I know this new priest, he's only been a priest for like three years and I told him straight up, I was like, I don't like you because you're not my priest.",Uh huh.,1,5efe907ba8384039f55a9625,1717.44,1717.85,0.7799999999999727,9.910000000000082,0,False,False,38
+373,5efe907ba8384039f55a9625,1721.64,1724.46,Uh huh. What did you what was his response?,,0,,,,-1.8099999999999454,2.8199999999999363,1,True,True,9
+374,5ee2916b70aa643be19c0036,1724.64,1728.6,"Well he's like, I understand, he's like so sweet, I like abused the hell out of him myself.",Okay.,1,5efe907ba8384039f55a9625,1725.54,1725.86,0.18000000000006366,3.959999999999809,0,False,False,20
+375,5efe907ba8384039f55a9625,1728.34,1729.77,"No, that's cool though. That",,0,,,,-0.2599999999999909,1.4300000000000637,0,False,True,6
+376,5ee2916b70aa643be19c0036,1729.54,1738.96,"No, I do because I was like, like the other week in the profession I was going to go to confession, I just decided I didn't like him that week and I came out in the confessional","yeah,",1,5efe907ba8384039f55a9625,1735.44,1735.85,-0.2300000000000182,9.420000000000073,0,False,True,38
+377,5efe907ba8384039f55a9625,1738.44,1741.17,you could come out of the confessional hole.,,0,,,,-0.5199999999999818,2.730000000000018,0,False,True,8
+378,5ee2916b70aa643be19c0036,1740.54,1773.27,"so that last saturday I was, I went to the confessional and I was, I went in there and he's like, hey, how are you doing? I was like, I just can't apologize to you and he was like, are you sure you, you don't want to, you, you come back to mass anything. I was like, no, I'm, I'm italian, I'm not a punk ass, I cussed you out to your face so I'm here to apologize to your face, you know? So that's all I got to say, you know, I'm really sorry and he tried to like 10 minutes going to go back to back mass. I'm like mm Yeah. Yeah.",Yeah. Yes. Yes. Yes. Yes. Yeah.,5,5efe907ba8384039f55a9625,1743.04,1772.56,-0.6300000000001091,32.73000000000002,2,False,True,124
+379,5efe907ba8384039f55a9625,1773.54,1778.57,That's what's up man. It as long as you can do that with priests. I,Yeah.,1,5ee2916b70aa643be19c0036,1774.04,1774.75,0.2699999999999818,5.029999999999973,0,False,False,17
+380,5ee2916b70aa643be19c0036,1778.54,1779.35,No.,,0,,,,-0.029999999999972715,0.8099999999999454,0,False,True,1
+381,5efe907ba8384039f55a9625,1778.57,1789.27,"mean if priests can take your like your your your quote unquote berating. You know what I mean? It's not really too crazy parade. You get what I'm saying? I mean? That that's good people, you know what I mean? Um","Yeah, yeah. Oh,",3,5ee2916b70aa643be19c0036,1783.54,1788.88,-0.7799999999999727,10.700000000000045,4,False,True,44
+382,5ee2916b70aa643be19c0036,1788.88,1795.05,"he's fantastic. I'm just, you know, like I'm so through with the church and he knows it. Yeah,",,0,,,,-0.38999999999987267,6.169999999999845,0,False,True,21
+383,5efe907ba8384039f55a9625,1794.14,1801.66,"Yeah. Yeah. That's good. Huh? In terms of the community out there, how is your community like you do you get along with most of the people or?","Yeah, but",1,5ee2916b70aa643be19c0036,1795.44,1796.86,-0.9099999999998545,7.519999999999982,2,True,True,29
+384,5ee2916b70aa643be19c0036,1801.14,1805.27,we'll see stretching that now is the one that I transplanted to because my best friend was there.,,0,,,,-0.5199999999999818,4.129999999999882,0,False,True,19
+385,5efe907ba8384039f55a9625,1805.04,1805.55,That's right.,,0,,,,-0.2300000000000182,0.5099999999999909,0,False,True,3
+386,5ee2916b70aa643be19c0036,1805.64,1819.05,"But this community is like, it's like 12 miles away, so it's really, it's pretty close, you know, it's not far and around here 12 miles, it's not like San Francisco 12 miles, all right around here, you can go 12 miles and six minutes, okay.",Yeah. Yeah. Yeah.,3,5efe907ba8384039f55a9625,1810.24,1816.26,0.09000000000014552,13.409999999999854,0,False,False,51
+387,5efe907ba8384039f55a9625,1818.64,1822.36,"Yeah. You're 12 miles is like, it's like a walk, a two minute walk.",,0,,,,-0.4099999999998545,3.7199999999998,0,False,True,16
+388,5ee2916b70aa643be19c0036,1821.74,1846.54,"Right, because nobody's looking, there's no stop lights, there's no trap, literally literally like cows and horses everywhere, so it's not that far, but because it's like in the country the people are very cloistered and because I'm a city girl, they they look down on me. Yeah, they like they won't let me play in the reindeer games, you know? Uh huh.","Yeah. Mhm wow, wow.",4,5efe907ba8384039f55a9625,1825.94,1847.23,-0.6199999999998909,24.799999999999955,1,False,True,70
+389,5efe907ba8384039f55a9625,1847.23,1847.66,Really?,,0,,,,0.6900000000000546,0.43000000000006366,1,True,False,1
+390,5ee2916b70aa643be19c0036,1847.94,1850.27,Yeah. Sorry mate.,,0,,,,0.2799999999999727,2.3299999999999272,0,False,False,3
+391,5efe907ba8384039f55a9625,1850.04,1853.36,"Oh no, no biggie, no biggie, no biggie, no biggie. But that's","Yeah,",1,5ee2916b70aa643be19c0036,1851.94,1853.04,-0.2300000000000182,3.3199999999999363,0,False,True,13
+392,5ee2916b70aa643be19c0036,1854.04,1854.58,they don't,,0,,,,0.6800000000000637,0.5399999999999636,0,False,False,3
+393,5efe907ba8384039f55a9625,1854.34,1855.06,what were you saying?,"yeah,",1,5ee2916b70aa643be19c0036,1854.59,1856.92,-0.2400000000000091,0.7200000000000273,1,True,True,4
+394,5ee2916b70aa643be19c0036,1856.93,1862.67,they're they're just really snobby. So it's called the seventh district. So I call them the seventh district royalty,,0,,,,1.8700000000001182,5.740000000000009,0,False,False,22
+395,5efe907ba8384039f55a9625,1862.84,1864.67,Oh wow. I can imagine.,,0,,,,0.16999999999984539,1.8300000000001546,0,False,False,5
+396,5ee2916b70aa643be19c0036,1864.74,1869.17,because you could not drop them them into print short. They would not last one minute in Prince George's County.,,0,,,,0.06999999999993634,4.430000000000064,0,False,False,21
+397,5efe907ba8384039f55a9625,1869.34,1870.77,That sucks.,Yeah.,1,5ee2916b70aa643be19c0036,1869.54,1869.95,0.16999999999984539,1.4300000000000637,0,False,False,2
+398,5ee2916b70aa643be19c0036,1871.04,1881.17,"Yeah, it's kind of like that when I was out in the bay Area because the cops would look at me because I drive really fast. Everybody in the big area of like really chill and drive",Yeah. Yeah.,2,5efe907ba8384039f55a9625,1877.54,1880.93,0.2699999999999818,10.13000000000011,0,False,False,38
+399,5efe907ba8384039f55a9625,1880.93,1882.05,Yeah. Yeah. That's how we are,,0,,,,-0.2400000000000091,1.1199999999998909,0,False,True,7
+400,5ee2916b70aa643be19c0036,1882.14,1883.55,man in guard.,,0,,,,0.09000000000014552,1.4099999999998545,0,False,False,3
+401,5efe907ba8384039f55a9625,1883.24,1885.06,and you're like whoo.,,0,,,,-0.30999999999994543,1.8199999999999363,0,False,True,5
+402,5ee2916b70aa643be19c0036,1885.14,1892.47,"Yeah, y'all shuffle your feet when you walk like I don't know, you almost go through 40 pair of shoes in a year because you're","Yeah,",1,5efe907ba8384039f55a9625,1890.84,1892.46,0.08000000000015461,7.329999999999927,0,False,False,28
+403,5efe907ba8384039f55a9625,1892.47,1892.6,the,,0,,,,0.0,0.12999999999988177,0,False,False,1
+404,5ee2916b70aa643be19c0036,1892.48,1893.56,like,,0,,,,-0.11999999999989086,1.0799999999999272,0,False,True,1
+405,5efe907ba8384039f55a9625,1892.6,1893.66,souls get booked.,,0,,,,-0.9600000000000364,1.0600000000001728,0,False,True,3
+406,5ee2916b70aa643be19c0036,1894.04,1900.18,yes. And I like pick up my feet and I walk like really fast with the new yorker and you guys,"Yeah. Yeah. Yeah,",2,5efe907ba8384039f55a9625,1898.94,1899.65,0.37999999999988177,6.1400000000001,0,False,False,21
+407,5efe907ba8384039f55a9625,1900.04,1900.21,I,,0,,,,-0.14000000000010004,0.17000000000007276,0,False,True,1
+408,5ee2916b70aa643be19c0036,1900.18,1900.46,just,,0,,,,-0.029999999999972715,0.2799999999999727,0,False,True,1
+409,5efe907ba8384039f55a9625,1900.21,1900.76,hear that.,,0,,,,-0.25,0.5499999999999545,0,False,True,2
+410,5ee2916b70aa643be19c0036,1901.14,1907.34,but they treat me like I'm an outsider if I'm like I'm about done with their shit. Really? Oh so,Yeah.,1,5efe907ba8384039f55a9625,1905.04,1905.75,0.38000000000010914,6.199999999999818,1,False,False,23
+411,5efe907ba8384039f55a9625,1906.24,1907.6,"No,",,0,,,,-1.099999999999909,1.3599999999999,0,False,True,1
+412,5ee2916b70aa643be19c0036,1907.49,1907.95,that,,0,,,,-0.10999999999989996,0.4600000000000364,0,False,True,1
+413,5efe907ba8384039f55a9625,1907.6,1908.44,that sucks.,,0,,,,-0.3500000000001364,0.8400000000001455,0,False,True,2
+414,5ee2916b70aa643be19c0036,1907.96,1909.31,either,,0,,,,-0.4800000000000182,1.349999999999909,0,False,True,1
+415,5efe907ba8384039f55a9625,1908.44,1909.41,And I,,0,,,,-0.8699999999998909,0.9700000000000273,0,False,True,2
+416,5ee2916b70aa643be19c0036,1909.31,1910.28,I either,,0,,,,-0.10000000000013642,0.9700000000000273,0,False,True,2
+417,5efe907ba8384039f55a9625,1909.42,1909.66,mean,,0,,,,-0.8599999999999,0.2400000000000091,0,False,True,1
+418,5ee2916b70aa643be19c0036,1910.28,1914.15,"I gotta leave or I got to change them one of the two, you know,",,0,,,,0.6199999999998909,3.8700000000001182,0,False,False,16
+419,5efe907ba8384039f55a9625,1913.24,1914.56,Yeah. Yeah. Yeah exactly.,,0,,,,-0.9100000000000819,1.3199999999999363,0,False,True,4
+420,5ee2916b70aa643be19c0036,1914.16,1915.75,you know? Yeah.,,0,,,,-0.3999999999998636,1.5899999999999181,1,False,True,3
+421,5efe907ba8384039f55a9625,1915.34,1918.55,"And a lot of it's going to take a lot of effort to change people, you know what I mean?",,0,,,,-0.41000000000008185,3.2100000000000364,1,True,True,21
+422,5ee2916b70aa643be19c0036,1918.14,1937.06,"You don't know it even the half of it, I'm really angry because I didn't go to their parish until my friend was a free fair. Who is this? You know this this person like infiltrating our little cloistered world, you know? Yes. I was like I don't want to be here either, but I am",Yeah. Yeah. Yeah.,3,5efe907ba8384039f55a9625,1920.64,1934.16,-0.4099999999998545,18.919999999999845,2,False,True,60
+423,5efe907ba8384039f55a9625,1936.54,1945.06,"No, I totally get that. I totally get that. It's a struggle. It sucks because it's a political power struggle in the place. That's not supposed to be political for crying out loud.","right,",1,5ee2916b70aa643be19c0036,1944.34,1944.91,-0.5199999999999818,8.519999999999982,0,False,True,36
+424,5ee2916b70aa643be19c0036,1944.92,1953.96,so bad. It's so bad. If you want you want to go back reposition representation of christ look up from christians. You know,"Yeah,",1,5efe907ba8384039f55a9625,1946.74,1947.15,-0.13999999999987267,9.039999999999964,0,False,True,24
+425,5efe907ba8384039f55a9625,1952.54,1954.92,exactly what you,,0,,,,-1.4200000000000728,2.380000000000109,0,False,True,3
+426,5ee2916b70aa643be19c0036,1954.74,1955.06,the,,0,,,,-0.18000000000006366,0.31999999999993634,0,False,True,1
+427,5efe907ba8384039f55a9625,1954.92,1958.86,"know what I'm saying? Like it's nuts, man. I don't know. It is what it is.",uh huh.,1,5ee2916b70aa643be19c0036,1955.44,1956.27,-0.13999999999987267,3.939999999999827,1,False,True,19
+428,5ee2916b70aa643be19c0036,1958.54,1982.46,"And I was taking this survey one time and it was like how do you feel about it was like they were giving like how do you feel about black people? How warm are you? 0-100? How you feel about Muslims were 200. What do you feel about? Thank you. It was like how do you feel like Christians? I was like 40, 40 y'all are really bad representation. We are. You know we're all really like my friends.","Okay. Yeah. Mhm Exactly, exactly",5,5efe907ba8384039f55a9625,1960.34,1982.72,-0.31999999999993634,23.920000000000073,5,False,True,82
+429,5efe907ba8384039f55a9625,1982.73,1990.16,"what people perceive what is actual two different fucking things. I'm sorry for my language dude, I got a curse of the stone",Yeah. Okay,2,5ee2916b70aa643be19c0036,1986.14,1989.55,0.2699999999999818,7.430000000000064,0,False,False,24
+430,5ee2916b70aa643be19c0036,1990.04,1991.22,it's,,0,,,,-0.12000000000011823,1.1800000000000637,0,False,True,2
+431,5efe907ba8384039f55a9625,1990.16,1991.85,when it comes to this.,,0,,,,-1.0599999999999454,1.6899999999998272,0,False,True,5
+432,5ee2916b70aa643be19c0036,1991.22,1994.77,fine. I don't believe me. What?,"Yeah,",1,5efe907ba8384039f55a9625,1993.74,1994.58,-0.6299999999998818,3.5499999999999545,1,True,True,7
+433,5efe907ba8384039f55a9625,1994.58,1997.96,"I'm a damn pirate, but I believe in God.",,0,,,,-0.19000000000005457,3.380000000000109,0,False,True,10
+434,5ee2916b70aa643be19c0036,1997.54,2006.06,Yeah I don't there's really nowhere in the bible because you can't courage but um chris drink smoke whatever you do. Just don't hurt other people. Uh,"Yeah, yeah,",1,5efe907ba8384039f55a9625,2000.44,2001.33,-0.42000000000007276,8.519999999999982,0,False,True,31
+435,5efe907ba8384039f55a9625,2005.64,2009.27,"yeah exactly, exactly. We got the same philosophy.",,0,,,,-0.4199999999998454,3.6299999999998818,0,False,True,8
+436,5ee2916b70aa643be19c0036,2008.84,2016.77,"I'm going to try to start going back to adoration. But you know it's kind of like, it's a rough, you know, you know,",,0,,,,-0.43000000000006366,7.930000000000064,0,False,True,27
+437,5efe907ba8384039f55a9625,2017.14,2020.18,"Yeah. You know what? Just try and see what happens if you make a friend or two, you know",,0,,,,0.37000000000011823,3.0399999999999636,1,False,False,19
+438,5ee2916b70aa643be19c0036,2020.14,2020.93,in,,0,,,,-0.03999999999996362,0.7899999999999636,0,False,True,1
+439,5efe907ba8384039f55a9625,2020.18,2020.67,what I mean?,,0,,,,-0.75,0.4900000000000091,1,True,True,3
+440,5ee2916b70aa643be19c0036,2020.93,2026.08,the morning I wake up and I'm still italian. So I still got to do something. Mm,Uh huh.,1,5efe907ba8384039f55a9625,2024.84,2025.55,0.2599999999999909,5.149999999999864,0,False,False,18
+441,5efe907ba8384039f55a9625,2026.04,2029.27,You like everybody.,hmm.,1,5ee2916b70aa643be19c0036,2026.08,2026.35,-0.03999999999996362,3.230000000000018,0,False,True,3
+442,5ee2916b70aa643be19c0036,2029.54,2032.66,"Okay. Go to the weddings of the funeral when I want to or not. You know,",Yeah.,1,5efe907ba8384039f55a9625,2030.14,2030.34,0.2699999999999818,3.1200000000001182,0,False,False,16
+443,5efe907ba8384039f55a9625,2032.44,2033.77,Yeah exactly. That's,,0,,,,-0.22000000000002728,1.3299999999999272,0,False,True,4
+444,5ee2916b70aa643be19c0036,2033.64,2033.81,you know,,0,,,,-0.12999999999988177,0.16999999999984539,0,False,True,2
+445,5efe907ba8384039f55a9625,2033.77,2033.91,how,,0,,,,-0.03999999999996362,0.14000000000010004,0,False,True,1
+446,5ee2916b70aa643be19c0036,2033.81,2034.1,that,,0,,,,-0.10000000000013642,0.2899999999999636,0,False,True,1
+447,5efe907ba8384039f55a9625,2033.91,2035.05,"it is, that's how it is.",,0,,,,-0.1899999999998272,1.1399999999998727,0,False,True,7
+448,5ee2916b70aa643be19c0036,2034.84,2039.97,"I had a choice. I think we have like one more minute, like, well just like two more minutes to make sure",,0,,,,-0.21000000000003638,5.130000000000109,0,False,True,22
+449,5efe907ba8384039f55a9625,2039.74,2041.6,"Oh yeah, you got you, got you, got you.",,0,,,,-0.2300000000000182,1.8599999999999,0,False,True,9
+450,5ee2916b70aa643be19c0036,2041.54,2043.1,we,,0,,,,-0.05999999999994543,1.5599999999999454,0,False,True,1
+451,5efe907ba8384039f55a9625,2041.61,2042.56,"Yeah, no, no, no,",,0,,,,-1.490000000000009,0.9500000000000455,0,False,True,4
+452,5ee2916b70aa643be19c0036,2043.1,2044.56,did really good town.,,0,,,,0.5399999999999636,1.4600000000000364,0,False,False,4
+453,5efe907ba8384039f55a9625,2044.24,2048.67,"no, it's been a good conversation, like I can hardly hear you but I can still get everything.",,0,,,,-0.31999999999993634,4.430000000000064,0,False,True,19
+454,5ee2916b70aa643be19c0036,2048.04,2049.97,But you can hear me right?,,0,,,,-0.6300000000001091,1.9299999999998363,1,True,True,6
+455,5efe907ba8384039f55a9625,2049.94,2050.16,I,,0,,,,-0.02999999999974534,0.2199999999997999,0,False,True,1
+456,5ee2916b70aa643be19c0036,2049.97,2050.35,"I mean,",,0,,,,-0.19000000000005457,0.38000000000010914,0,False,True,2
+457,5efe907ba8384039f55a9625,2050.16,2055.06,"can't I can't, I'm being um it's forcing me to be an active listener because the other time I was talking a ton","yeah,",1,5ee2916b70aa643be19c0036,2050.94,2051.26,-0.19000000000005457,4.900000000000091,0,False,True,27
+458,5ee2916b70aa643be19c0036,2055.64,2056.02,I,,0,,,,0.5799999999999272,0.38000000000010914,0,False,False,1
+459,5efe907ba8384039f55a9625,2055.84,2056.26,and,,0,,,,-0.1799999999998363,0.42000000000007276,0,False,True,1
+460,5ee2916b70aa643be19c0036,2056.03,2058.67,"got something to do with this webcam, I swear.",,0,,,,-0.2300000000000182,2.6399999999998727,0,False,True,9
+461,5efe907ba8384039f55a9625,2058.94,2074.56,"yeah, no, no, no. Yeah. At the other time I was talking a ton and I felt bad because I felt like I was talking a little too much and I was trying to probe questions from the other guy and so I felt bad, but this time I'm like, thank you for like, talking more. You know, I mean, it makes me and making me it's making me an active listener. It's a little easier.",Okay.,1,5ee2916b70aa643be19c0036,2067.24,2067.75,0.2699999999999818,15.61999999999989,0,False,False,79
+462,5ee2916b70aa643be19c0036,2074.84,2077.56,And we have a lot in common. So,"Yeah,",1,5efe907ba8384039f55a9625,2075.04,2075.24,0.2800000000002001,2.7199999999998,0,False,False,8
+463,5efe907ba8384039f55a9625,2076.54,2082.76,"Yeah, exactly. A ton. I didn't know you were out here. That I mean that's that's pretty cool that we can relate to, like a single place, You know what","yeah,",1,5ee2916b70aa643be19c0036,2079.94,2080.26,-1.0199999999999818,6.220000000000255,0,False,True,33
+464,5ee2916b70aa643be19c0036,2082.74,2083.76,Absolutely.,,0,,,,-0.020000000000436557,1.0200000000004366,0,False,True,1
+465,5efe907ba8384039f55a9625,2082.76,2083.17,I mean?,,0,,,,-1.0,0.4099999999998545,1,True,True,2
+466,5ee2916b70aa643be19c0036,2083.76,2084.75,Absolutely.,,0,,,,0.5900000000001455,0.9899999999997817,0,False,False,1
+467,5efe907ba8384039f55a9625,2084.84,2086.13,For sure. For sure.,,0,,,,0.09000000000014552,1.2899999999999636,0,False,False,4
+468,5ee2916b70aa643be19c0036,2085.94,2086.32,But like,,0,,,,-0.19000000000005457,0.38000000000010914,0,False,True,2
+469,5efe907ba8384039f55a9625,2086.16,2086.35,And,,0,,,,-0.16000000000030923,0.19000000000005457,0,False,True,1
+470,5ee2916b70aa643be19c0036,2086.32,2086.56,"you,",,0,,,,-0.02999999999974534,0.23999999999978172,0,False,True,1
+471,5efe907ba8384039f55a9625,2086.35,2091.05,"I think it's pretty, yeah, I think we're at 30 minutes but how are you feeling? Okay you're good.",,0,,,,-0.21000000000003638,4.700000000000273,1,False,True,22
+472,5ee2916b70aa643be19c0036,2091.24,2100.35,"yeah, I'm good. I just want to say a couple more minutes so that we know because I think you came at like three or four minutes late. Maybe that was san Francisco time. I don't know.",Okay.,1,5efe907ba8384039f55a9625,2096.74,2097.25,0.18999999999959982,9.110000000000127,0,False,False,39
+473,5efe907ba8384039f55a9625,2100.04,2105.47,Yeah I'm not sure it's like to to whatever it's at 2:00 but I'm not sure.,Okay.,1,5ee2916b70aa643be19c0036,2101.24,2101.56,-0.30999999999994543,5.429999999999836,0,False,True,20
+474,5ee2916b70aa643be19c0036,2104.64,2109.76,Mhm. Did you? Oh yeah. Yeah because it's 5:30 here. I,Yeah yeah yeah,1,5efe907ba8384039f55a9625,2108.44,2109.36,-0.8299999999999272,5.120000000000346,1,False,True,12
+475,5efe907ba8384039f55a9625,2109.74,2109.84,for,,0,,,,-0.020000000000436557,0.1000000000003638,0,False,True,1
+476,5ee2916b70aa643be19c0036,2109.77,2114.34,keep forgetting. Is the afternoon where you are? Like what?,sure. Yeah,2,5efe907ba8384039f55a9625,2109.84,2114.09,-0.07000000000016371,4.570000000000164,2,True,True,10
+477,5efe907ba8384039f55a9625,2114.1,2117.17,so it's almost evening there. It's almost evening.,Uh huh.,1,5ee2916b70aa643be19c0036,2115.74,2116.24,-0.24000000000023647,3.0700000000001637,0,False,True,10
+478,5ee2916b70aa643be19c0036,2117.54,2121.01,Oh yeah. It's like the fun is going down here soon. It's very,Ah,1,5efe907ba8384039f55a9625,2120.44,2121.06,0.36999999999989086,3.4700000000002547,0,False,False,15
+479,5efe907ba8384039f55a9625,2121.07,2121.55,Man.,,0,,,,0.05999999999994543,0.4800000000000182,0,False,False,1
+480,5ee2916b70aa643be19c0036,2121.21,2128.16,cap. And we're in hurricane season. So we haven't seen we haven't seen the real fun.,Yeah.,1,5efe907ba8384039f55a9625,2123.64,2124.26,-0.3400000000001455,6.949999999999818,0,False,True,19
+481,5efe907ba8384039f55a9625,2126.74,2128.85,Oh my gosh,,0,,,,-1.4200000000000728,2.1100000000001273,0,False,True,3
+482,5ee2916b70aa643be19c0036,2128.84,2128.91,I,,0,,,,-0.009999999999763531,0.06999999999970896,0,False,True,1
+483,5efe907ba8384039f55a9625,2128.86,2129.08,have,,0,,,,-0.04999999999972715,0.2199999999997999,0,False,True,1
+484,5ee2916b70aa643be19c0036,2128.91,2129.47,mean we,,0,,,,-0.17000000000007276,0.5599999999999454,0,False,True,2
+485,5efe907ba8384039f55a9625,2129.08,2130.25,you did did,,0,,,,-0.38999999999987267,1.1700000000000728,0,False,True,3
+486,5ee2916b70aa643be19c0036,2129.94,2130.69,we got,,0,,,,-0.30999999999994543,0.75,0,False,True,2
+487,5efe907ba8384039f55a9625,2130.25,2130.81,the current,,0,,,,-0.44000000000005457,0.5599999999999454,0,False,True,2
+488,5ee2916b70aa643be19c0036,2130.7,2131.05,one,,0,,,,-0.11000000000012733,0.3500000000003638,0,False,True,1
+489,5efe907ba8384039f55a9625,2130.81,2132.97,hurricane hit you guys? Isaias?,,0,,,,-0.24000000000023647,2.1599999999998545,2,True,True,5
+490,5ee2916b70aa643be19c0036,2132.04,2144.97,"we got yeah, we got slammed by East High. Yes, it's called by the way. I know right? Uh Yeah matter of fact where I live specifically we got we got flooded. So um",Oh wow,1,5efe907ba8384039f55a9625,2135.94,2137.26,-0.9299999999998363,12.929999999999836,1,False,True,35
+491,5efe907ba8384039f55a9625,2145.34,2154.06,dude okay you guys have floods right and hurricanes? We've got fires right now. There's like massive fires going on here. I smell smoke right now.,yeah. Oh,2,5ee2916b70aa643be19c0036,2148.04,2154.18,0.3700000000003456,8.7199999999998,1,False,False,28
+492,5ee2916b70aa643be19c0036,2154.19,2160.05,they're called fire tornadoes or something like that. Like tornado fires like,Yeah,1,5efe907ba8384039f55a9625,2159.64,2160.53,0.13000000000010914,5.860000000000127,0,False,False,13
+493,5efe907ba8384039f55a9625,2160.54,2163.05,in my head I'm like Armageddon.,,0,,,,0.4899999999997817,2.5100000000002183,0,False,False,7
+494,5ee2916b70aa643be19c0036,2162.53,2165.75,that's that's terrifying. A shit.,,0,,,,-0.5199999999999818,3.2199999999998,0,False,True,7
+495,5efe907ba8384039f55a9625,2164.83,2169.66,No I mean look like literally looks like see I have I have,,0,,,,-0.9200000000000728,4.829999999999927,0,False,True,13
+496,5ee2916b70aa643be19c0036,2169.73,2171.85,Seriously?,,0,,,,0.07000000000016371,2.119999999999891,1,True,False,1
+497,5efe907ba8384039f55a9625,2171.83,2180.34,yes I mean it's it's nuts man. What's going on? Like I don't know if you know about these um ST Benedict a little.,,0,,,,-0.01999999999998181,8.510000000000218,1,False,True,28
+498,5ee2916b70aa643be19c0036,2180.83,2184.46,"All the cross. Yeah, I have four of them.",Yeah,1,5efe907ba8384039f55a9625,2181.93,2182.34,0.4899999999997817,3.630000000000109,0,False,False,9
+499,5efe907ba8384039f55a9625,2184.03,2186.88,yeah exactly. They protect you during like really crazy times,,0,,,,-0.4299999999998363,2.849999999999909,0,False,True,10
+500,5ee2916b70aa643be19c0036,2186.63,2187.03,You need,,0,,,,-0.25,0.40000000000009095,0,False,True,2
+501,5efe907ba8384039f55a9625,2186.89,2187.54,apparently.,,0,,,,-0.14000000000032742,0.650000000000091,0,False,True,1
+502,5ee2916b70aa643be19c0036,2187.03,2189.35,to get you need to get a brown scapular.,,0,,,,-0.5099999999997635,2.319999999999709,0,False,True,9
+503,5efe907ba8384039f55a9625,2189.53,2195.65,Yeah. No no no I got you. All right well I have I have one but mine's broke. Look it's all broken.,,0,,,,0.18000000000029104,6.119999999999891,0,False,False,24
+504,5ee2916b70aa643be19c0036,2194.93,2199.29,Yeah. I I just haven't know where mine because I've been pissy with the church.,,0,,,,-0.7200000000002547,4.360000000000127,0,False,True,17
+505,5efe907ba8384039f55a9625,2198.93,2200.8,Yeah I get,,0,,,,-0.36000000000012733,1.8700000000003456,0,False,True,3
+506,5ee2916b70aa643be19c0036,2200.53,2201.54,Hopefully,,0,,,,-0.2699999999999818,1.0099999999997635,0,False,True,1
+507,5efe907ba8384039f55a9625,2200.8,2200.96,it.,,0,,,,-0.7399999999997817,0.15999999999985448,0,False,True,1
+508,5ee2916b70aa643be19c0036,2201.54,2204.55,our lady of Mount Carmel will forgive me.,,0,,,,0.5799999999999272,3.0100000000002183,0,False,False,8
+509,5efe907ba8384039f55a9625,2203.63,2212.45,You know I mean? Dude you know what it is you know it is. I don't know if they will but guys like come on come on come back.,"Oh yeah, yeah.",3,5ee2916b70aa643be19c0036,2205.13,2209.96,-0.9200000000000728,8.819999999999709,1,False,True,30
+510,5ee2916b70aa643be19c0036,2211.83,2214.35,Come on. Of course. Cool.,,0,,,,-0.6199999999998909,2.519999999999982,0,False,True,5
+511,5efe907ba8384039f55a9625,2213.93,2225.54,"He's like it's cool. It's jail. Oh my god. I'm thinking it's funny because I just had a thought and I'm wondering how the new nuns, I'm like how millennials and gen Z nuns would be.",Yeah.,1,5ee2916b70aa643be19c0036,2216.03,2216.23,-0.42000000000007276,11.610000000000127,0,False,True,43
+512,5ee2916b70aa643be19c0036,2224.83,2234.46,"Getting them to try to obey. They're gonna off rules. All the rules. We don't know that anybody. We talked, we talked to God in texas.",Yeah. Yeah. Yeah.,3,5efe907ba8384039f55a9625,2227.43,2233.16,-0.7100000000000364,9.63000000000011,0,False,True,29
+513,5efe907ba8384039f55a9625,2234.93,2238.95,Yeah. We talked to God through youtube.,,0,,,,0.4699999999997999,4.019999999999982,0,False,False,7
+514,5ee2916b70aa643be19c0036,2238.33,2244.35,That's great. It's God for Youtube. Oh my goodness. Yeah.,Yeah,1,5efe907ba8384039f55a9625,2239.53,2240.96,-0.6199999999998909,6.019999999999982,0,False,True,12
+515,5efe907ba8384039f55a9625,2243.63,2244.62,it's a good it's,,0,,,,-0.7199999999997999,0.9899999999997817,0,False,True,6
+516,5ee2916b70aa643be19c0036,2244.73,2250.75,"I'm sure that is probably really hard because you know, they take away their technology and my",yeah,1,5efe907ba8384039f55a9625,2249.23,2250.46,0.11000000000012733,6.019999999999982,0,False,False,18
+517,5efe907ba8384039f55a9625,2250.47,2251.35,that's what I'm saying.,,0,,,,-0.2800000000002001,0.8800000000001091,0,False,True,6
+518,5ee2916b70aa643be19c0036,2251.13,2255.16,well Bernie's daughter is is a nun but she's one in Nashville for like the,,0,,,,-0.2199999999997999,4.029999999999745,0,False,True,17
+519,5efe907ba8384039f55a9625,2255.13,2255.44,Wait,,0,,,,-0.02999999999974534,0.30999999999994543,0,False,True,1
+520,5ee2916b70aa643be19c0036,2255.16,2255.54,Dominican,,0,,,,-0.2800000000002001,0.38000000000010914,0,False,True,1
+521,5efe907ba8384039f55a9625,2255.44,2256.56,how old is she if you don't mind,,0,,,,-0.09999999999990905,1.1199999999998909,0,False,True,9
+522,5ee2916b70aa643be19c0036,2256.53,2257.89,24,,0,,,,-0.02999999999974534,1.3599999999996726,0,False,True,1
+523,5efe907ba8384039f55a9625,2256.56,2256.96,me asking,,0,,,,-1.3299999999999272,0.40000000000009095,0,False,True,2
+524,5ee2916b70aa643be19c0036,2257.89,2263.84,"25 and so she's a she's a Dominican nun so they're pretty extroverted,",wow. Mhm.,2,5efe907ba8384039f55a9625,2258.03,2260.35,0.9299999999998363,5.950000000000273,0,False,False,16
+525,5efe907ba8384039f55a9625,2263.43,2264.35,Yeah. Yeah. Yeah. Yeah,,0,,,,-0.41000000000030923,0.9200000000000728,0,False,True,4
+526,5ee2916b70aa643be19c0036,2264.23,2266.35,hoist her so she's,for sure,1,5efe907ba8384039f55a9625,2264.36,2264.75,-0.11999999999989086,2.119999999999891,0,False,True,5
+527,5efe907ba8384039f55a9625,2265.93,2267.34,Dominican they go out right,,0,,,,-0.42000000000007276,1.4100000000003092,0,False,True,5
+528,5ee2916b70aa643be19c0036,2267.53,2273.96,"right. Yeah, so she's cool. Yeah. Yeah. They were all white in the in the I remember what it but it's mostly white,",okay.,1,5efe907ba8384039f55a9625,2269.23,2269.65,0.19000000000005457,6.429999999999836,0,False,False,25
+529,5efe907ba8384039f55a9625,2274.23,2275.0,I got you.,,0,,,,0.2699999999999818,0.7699999999999818,0,False,False,3
+530,5ee2916b70aa643be19c0036,2274.83,2275.05,it's,,0,,,,-0.17000000000007276,0.22000000000025466,0,False,True,2
+531,5efe907ba8384039f55a9625,2275.01,2275.13,I,,0,,,,-0.03999999999996362,0.11999999999989086,0,False,True,1
+532,5ee2916b70aa643be19c0036,2275.05,2275.27,like,,0,,,,-0.07999999999992724,0.2199999999997999,0,False,True,1
+533,5efe907ba8384039f55a9625,2275.13,2275.35,got,,0,,,,-0.13999999999987267,0.2199999999997999,0,False,True,1
+534,5ee2916b70aa643be19c0036,2275.28,2275.93,almost,,0,,,,-0.06999999999970896,0.6499999999996362,0,False,True,1
+535,5efe907ba8384039f55a9625,2275.35,2275.85,you. I got you.,,0,,,,-0.5799999999999272,0.5,0,False,True,4
+536,5ee2916b70aa643be19c0036,2275.93,2278.55,mostly white and they go out. So,,0,,,,0.07999999999992724,2.6200000000003456,0,False,False,7
+537,5efe907ba8384039f55a9625,2279.03,2280.95,That's crazy.,,0,,,,0.4800000000000182,1.919999999999618,0,False,False,3
+538,5ee2916b70aa643be19c0036,2281.32,2281.95,I know,,0,,,,0.3700000000003456,0.6299999999996544,0,False,False,2
+539,5efe907ba8384039f55a9625,2281.52,2285.95,Yeah. No it's funny because um so you consider being a nun at one point in your life.,,0,,,,-0.4299999999998363,4.429999999999836,0,False,True,19
+540,5ee2916b70aa643be19c0036,2286.02,2287.37,"I did I didn't,",,0,,,,0.07000000000016371,1.349999999999909,0,False,False,5
+541,5efe907ba8384039f55a9625,2287.22,2287.37,I,,0,,,,-0.15000000000009095,0.15000000000009095,0,False,True,1
+542,5ee2916b70aa643be19c0036,2287.37,2287.75,I,,0,,,,0.0,0.38000000000010914,0,False,False,1
+543,5efe907ba8384039f55a9625,2287.37,2289.04,consider being a priest. No life.,,0,,,,-0.38000000000010914,1.6700000000000728,0,False,True,6
+544,5ee2916b70aa643be19c0036,2288.72,2293.25,"I sailed the nun interview like I told me feel that they're like, you would not",Uh huh.,1,5efe907ba8384039f55a9625,2291.32,2292.15,-0.3200000000001637,4.5300000000002,0,False,True,17
+545,5efe907ba8384039f55a9625,2293.12,2293.4,I,,0,,,,-0.13000000000010914,0.2800000000002001,0,False,True,1
+546,5ee2916b70aa643be19c0036,2293.25,2293.42,make,,0,,,,-0.15000000000009095,0.17000000000007276,0,False,True,1
+547,5efe907ba8384039f55a9625,2293.4,2293.7,did.,,0,,,,-0.01999999999998181,0.29999999999972715,0,False,True,1
+548,5ee2916b70aa643be19c0036,2293.42,2293.88,it,,0,,,,-0.27999999999974534,0.4600000000000364,0,False,True,1
+549,5efe907ba8384039f55a9625,2293.7,2294.2,So,,0,,,,-0.18000000000029104,0.5,0,False,True,1
+550,5ee2916b70aa643be19c0036,2293.89,2294.73,like,,0,,,,-0.30999999999994543,0.8400000000001455,0,False,True,1
+551,5efe907ba8384039f55a9625,2294.21,2294.99,I felt the priest,,0,,,,-0.5199999999999818,0.7799999999997453,0,False,True,4
+552,5ee2916b70aa643be19c0036,2294.74,2295.11,I was,,0,,,,-0.25,0.3700000000003456,0,False,True,2
+553,5efe907ba8384039f55a9625,2294.99,2295.54,interview.,,0,,,,-0.12000000000034561,0.5500000000001819,0,False,True,1
+554,5ee2916b70aa643be19c0036,2295.12,2311.54,"like, like I didn't even have to leave the building and they had already told me you would not make a good night. I was rejected by the Carmelite, the Franciscans, The sisters of bond succor. I couldn't even get into bonds back or do you know how lame you gotta be to not be able to get into bonds the core.",Oh yeah,2,5efe907ba8384039f55a9625,2299.62,2308.44,-0.42000000000007276,16.420000000000073,0,False,True,65
+555,5efe907ba8384039f55a9625,2311.22,2313.74,I'm not even familiar but that sucks.,,0,,,,-0.3200000000001637,2.519999999999982,0,False,True,8
+556,5ee2916b70aa643be19c0036,2312.92,2319.5,They're like a really tripper laid back. They don't even wear habits and I couldn't even get in there. Like,,0,,,,-0.819999999999709,6.579999999999927,0,False,True,23
+557,5efe907ba8384039f55a9625,2318.72,2319.34,What,,0,,,,-0.7800000000002001,0.6200000000003456,0,False,True,1
+558,5ee2916b70aa643be19c0036,2319.51,2320.95,we don't want chip to get out,,0,,,,0.17000000000007276,1.4399999999995998,0,False,False,8
+559,5efe907ba8384039f55a9625,2320.92,2321.36,what,,0,,,,-0.02999999999974534,0.44000000000005457,0,False,True,1
+560,5ee2916b70aa643be19c0036,2320.95,2321.34,of here.,,0,,,,-0.41000000000030923,0.3900000000003274,0,False,True,2
+561,5efe907ba8384039f55a9625,2321.36,2321.94,the heck,,0,,,,0.01999999999998181,0.5799999999999272,0,False,False,2
+562,5ee2916b70aa643be19c0036,2321.92,2322.75,You,,0,,,,-0.01999999999998181,0.8299999999999272,0,False,True,1
+563,5efe907ba8384039f55a9625,2321.94,2322.54,dude,,0,,,,-0.8099999999999454,0.599999999999909,0,False,True,1
+564,5ee2916b70aa643be19c0036,2322.75,2325.04,religious life reject.,,0,,,,0.21000000000003638,2.2899999999999636,0,False,False,3
+565,5efe907ba8384039f55a9625,2324.62,2331.45,"what? I know in my head like I've already feeling, I feel like with your vibe you'd make a good one, you know what I'm saying? Just my opinion.","Yeah, a",2,5ee2916b70aa643be19c0036,2325.42,2331.64,-0.42000000000007276,6.829999999999927,2,False,True,32
+566,5ee2916b70aa643be19c0036,2331.65,2333.24,fantastic none. But I'd probably,,0,,,,0.20000000000027285,1.5899999999996908,0,False,False,6
+567,5efe907ba8384039f55a9625,2333.22,2333.38,That's,,0,,,,-0.01999999999998181,0.16000000000030923,0,False,True,2
+568,5ee2916b70aa643be19c0036,2333.24,2333.54,run.,,0,,,,-0.14000000000032742,0.3000000000001819,0,False,True,1
+569,5efe907ba8384039f55a9625,2333.38,2334.03,what I mean.,,0,,,,-0.15999999999985448,0.650000000000091,0,False,True,3
+570,5ee2916b70aa643be19c0036,2334.22,2340.34,"I'd be always date number one. I'm, I gotta be reverend mother because I can't do this shit.",,0,,,,0.18999999999959982,6.120000000000346,0,False,False,22
+571,5efe907ba8384039f55a9625,2338.82,2346.44,Well you know it's funny if I became a priest became a nun may be the only ones to be cursing up a storm.,,0,,,,-1.5199999999999818,7.619999999999891,0,False,True,25
+572,5ee2916b70aa643be19c0036,2345.72,2348.54,"Oh, Oh no, we would not.",,0,,,,-0.7200000000002547,2.8200000000001637,0,False,True,6
+573,5efe907ba8384039f55a9625,2348.12,2349.95,Oh yeah no I heard one I heard,,0,,,,-0.42000000000007276,1.8299999999999272,0,False,True,8
+574,5ee2916b70aa643be19c0036,2349.82,2350.89,I,,0,,,,-0.1299999999996544,1.069999999999709,0,False,True,1
+575,5efe907ba8384039f55a9625,2349.95,2350.94,11 was like,,0,,,,-0.9400000000000546,0.9900000000002365,0,False,True,3
+576,5ee2916b70aa643be19c0036,2350.9,2361.24,"don't have friends who are pretty, pretty, pretty right there. Well I think we should close this. Um But it's an amazing meeting you",yeah,1,5efe907ba8384039f55a9625,2354.82,2356.64,-0.03999999999996362,10.33999999999969,0,False,True,26
+577,5efe907ba8384039f55a9625,2361.32,2363.37,yeah no it was amazing meeting youtube,,0,,,,0.08000000000038199,2.049999999999727,0,False,False,7
+578,5ee2916b70aa643be19c0036,2363.32,2363.47,and,,0,,,,-0.04999999999972715,0.1499999999996362,0,False,True,1
+579,5efe907ba8384039f55a9625,2363.38,2363.64,one,,0,,,,-0.08999999999969077,0.25999999999976353,0,False,True,1
+580,5ee2916b70aa643be19c0036,2363.47,2363.74,I hope,,0,,,,-0.17000000000007276,0.2699999999999818,0,False,True,2
+581,5efe907ba8384039f55a9625,2363.64,2368.25,time one more last time. I always seem to forget at the end of uh end of a conversation. But what's your name?,,0,,,,-0.09999999999990905,4.610000000000127,1,True,True,24
+582,5ee2916b70aa643be19c0036,2368.52,2369.24,Wendy.,,0,,,,0.2699999999999818,0.7199999999997999,0,False,False,1
+583,5efe907ba8384039f55a9625,2369.42,2371.64,Wendy? Pleasure to meet you. I'm tim Yes it's,Nice,1,5ee2916b70aa643be19c0036,2371.12,2371.56,0.18000000000029104,2.2199999999998,1,False,False,11
+584,5ee2916b70aa643be19c0036,2371.56,2374.15,change. I hope you have a great day.,a pleasure.,1,5efe907ba8384039f55a9625,2371.64,2372.24,-0.07999999999992724,2.5900000000001455,0,False,True,8
+585,5efe907ba8384039f55a9625,2373.72,2383.64,"I hope you do too. And you don't think God bless you know what I mean? Be safe, be safe. Yeah. Yes exactly. All right Wendy",God bless. Mhm.,2,5ee2916b70aa643be19c0036,2377.02,2379.74,-0.43000000000029104,9.920000000000073,1,False,True,27
+586,5ee2916b70aa643be19c0036,2383.62,2385.24,Bye bye.,,0,,,,-0.01999999999998181,1.6199999999998909,0,False,True,2
+587,5efe907ba8384039f55a9625,2384.12,2385.34,pleasure was it?,,0,,,,-1.1199999999998909,1.2200000000002547,1,True,True,3

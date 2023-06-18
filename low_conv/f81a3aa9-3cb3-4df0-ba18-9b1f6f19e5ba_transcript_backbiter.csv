@@ -1,0 +1,476 @@
+turn_id,speaker,start,stop,utterance,backchannel,backchannel_count,backchannel_speaker,backchannel_start,backchannel_stop,interval,delta,questions,end_question,overlap,n_words
+0,5eebc4bdbc56df3150e4ed27,17.24,281.76,"Yeah, thank you. Hi,",,0,,,,,264.52,0,False,False,4
+1,5ee391b86d4aaf01d972a327,282.04,283.66,Hi.,,0,,,,0.28000000000002956,1.6200000000000045,0,False,False,1
+2,5eebc4bdbc56df3150e4ed27,282.14,287.86,"can you hear me? There we are, how's it going? Good",,0,,,,-1.5200000000000387,5.720000000000027,2,False,True,12
+3,5ee391b86d4aaf01d972a327,286.44,287.46,"Good, how are you?",,0,,,,-1.420000000000016,1.0199999999999818,1,True,True,4
+4,5eebc4bdbc56df3150e4ed27,287.87,295.75,thanks. Just just chilling. Your hair is so pretty.,Yeah. Yes.,2,5ee391b86d4aaf01d972a327,288.54,293.55,0.410000000000025,7.8799999999999955,0,False,False,9
+5,5ee391b86d4aaf01d972a327,295.84,297.06,Oh thank you.,,0,,,,0.08999999999997499,1.2200000000000273,0,False,False,3
+6,5eebc4bdbc56df3150e4ed27,296.84,297.13,We're,,0,,,,-0.22000000000002728,0.29000000000002046,0,False,True,2
+7,5ee391b86d4aaf01d972a327,297.07,297.17,I,,0,,,,-0.060000000000002274,0.10000000000002274,0,False,True,1
+8,5eebc4bdbc56df3150e4ed27,297.13,297.56,well,,0,,,,-0.040000000000020464,0.4300000000000068,0,False,True,1
+9,5ee391b86d4aaf01d972a327,297.17,300.36,haven't done my roots in a very long time.,,0,,,,-0.38999999999998636,3.1899999999999977,0,False,True,10
+10,5eebc4bdbc56df3150e4ed27,299.14,307.25,"it honestly looks good though because it almost looks like faded like it's kind of got like an ombre effect so I like it. Okay,",,0,,,,-1.2200000000000273,8.110000000000014,0,False,True,26
+11,5ee391b86d4aaf01d972a327,308.24,308.96,Well thank you.,,0,,,,0.9900000000000091,0.7199999999999704,0,False,False,3
+12,5eebc4bdbc56df3150e4ed27,309.04,318.35,you're welcome. So let's see. Uh I don't know what you want to talk about.,,0,,,,0.08000000000004093,9.310000000000002,0,False,False,18
+13,5ee391b86d4aaf01d972a327,318.64,321.76,I thought they said they gave questions to talk about.,,0,,,,0.2899999999999636,3.1200000000000045,0,False,False,10
+14,5eebc4bdbc56df3150e4ed27,321.54,322.56,Oh they did.,,0,,,,-0.21999999999997044,1.0199999999999818,0,False,True,3
+15,5ee391b86d4aaf01d972a327,322.24,331.84,I assume that what do you know? I thought that's what it said. And one of the uh emails that said I would send you. I thought so. Maybe I'm wrong. Yeah.,Oh really? I,1,5eebc4bdbc56df3150e4ed27,330.44,331.71,-0.3199999999999932,9.599999999999966,1,False,True,34
+16,5eebc4bdbc56df3150e4ed27,331.71,368.85,"didn't see any questions. Um Let me see. But I also haven't checked in my check my email so it could be that if they sent it there, but who is he on this class page? Like the survey page, it says you can talk about whatever you like. Just imagine you've met someone at a social event and you're getting to know each other so that's all I have. But",Yeah. Oh,2,5ee391b86d4aaf01d972a327,337.14,368.56,-0.12999999999999545,37.14000000000004,1,False,True,76
+17,5ee391b86d4aaf01d972a327,369.24,371.46,okay. That's my mom when I have them.,,0,,,,0.38999999999998636,2.2199999999999704,0,False,False,9
+18,5eebc4bdbc56df3150e4ed27,371.74,380.65,perfect. Perfect. So how you doing are you gonna what are you working and stuff with all this? Covid nonsense?,,0,,,,0.28000000000002956,8.909999999999968,2,True,False,21
+19,5ee391b86d4aaf01d972a327,380.14,381.46,"No, I don't work.",,0,,,,-0.5099999999999909,1.3199999999999932,0,False,True,5
+20,5eebc4bdbc56df3150e4ed27,381.74,387.07,"Oh yeah, you knew that right now at least. But so how do you spend",Yeah. Yeah.,2,5ee391b86d4aaf01d972a327,383.64,385.05,0.28000000000002956,5.329999999999984,0,False,False,15
+21,5ee391b86d4aaf01d972a327,386.83,387.42,My,,0,,,,-0.2400000000000091,0.5900000000000318,0,False,True,1
+22,5eebc4bdbc56df3150e4ed27,387.07,387.86,your time,,0,,,,-0.35000000000002274,0.7900000000000205,0,False,True,2
+23,5ee391b86d4aaf01d972a327,387.42,390.75,"boyfriend, I hang out at home.",mm,1,5eebc4bdbc56df3150e4ed27,388.44,388.95,-0.4399999999999977,3.329999999999984,0,False,True,6
+24,5eebc4bdbc56df3150e4ed27,391.14,391.95,I love it.,,0,,,,0.38999999999998636,0.8100000000000023,0,False,False,3
+25,5ee391b86d4aaf01d972a327,392.04,393.05,"I have a dog,",,0,,,,0.09000000000003183,1.009999999999991,0,False,False,4
+26,5eebc4bdbc56df3150e4ed27,393.34,394.29,You do. What kind of,,0,,,,0.2899999999999636,0.9500000000000455,0,False,False,5
+27,5ee391b86d4aaf01d972a327,394.24,394.31,I,,0,,,,-0.05000000000001137,0.06999999999999318,0,False,True,1
+28,5eebc4bdbc56df3150e4ed27,394.29,394.74,dog,,0,,,,-0.01999999999998181,0.44999999999998863,0,False,True,1
+29,5ee391b86d4aaf01d972a327,394.31,395.26,have two cats.,,0,,,,-0.4300000000000068,0.9499999999999886,0,False,True,3
+30,5eebc4bdbc56df3150e4ed27,395.84,396.35,of?,,0,,,,0.5799999999999841,0.5100000000000477,1,True,False,1
+31,5ee391b86d4aaf01d972a327,395.94,398.85,I have a miniature pinter. If you give me one second I'll show you.,,0,,,,-0.410000000000025,2.910000000000025,0,False,True,15
+32,5eebc4bdbc56df3150e4ed27,398.94,401.45,Oh I would love to see. Mhm.,Yeah.,1,5ee391b86d4aaf01d972a327,399.94,400.14,0.08999999999997499,2.509999999999991,0,False,False,7
+33,5ee391b86d4aaf01d972a327,403.54,408.88,Come here my. Okay. Yeah.,Mhm.,1,5eebc4bdbc56df3150e4ed27,405.44,405.65,2.090000000000032,5.339999999999975,0,False,False,5
+34,5eebc4bdbc56df3150e4ed27,410.64,424.56,Yeah. Yeah. Mhm. Oh,,0,,,,1.759999999999991,13.920000000000016,0,False,False,4
+35,5ee391b86d4aaf01d972a327,422.34,424.95,That's my cat. He's hard to say. That's Tommy.,,0,,,,-2.2200000000000273,2.6100000000000136,0,False,True,12
+36,5eebc4bdbc56df3150e4ed27,424.57,428.05,so cute. Oh my,Yeah.,1,5ee391b86d4aaf01d972a327,427.14,427.64,-0.37999999999999545,3.480000000000018,0,False,True,4
+37,5ee391b86d4aaf01d972a327,428.04,428.36,Uh,,0,,,,-0.009999999999990905,0.3199999999999932,0,False,True,1
+38,5eebc4bdbc56df3150e4ed27,428.05,429.24,gosh.,,0,,,,-0.3100000000000023,1.1899999999999977,0,False,True,1
+39,5ee391b86d4aaf01d972a327,428.37,429.15,Sam.,,0,,,,-0.8700000000000045,0.7799999999999727,0,False,True,1
+40,5eebc4bdbc56df3150e4ed27,430.44,432.7,Oh my God she's beautiful.,,0,,,,1.2900000000000205,2.259999999999991,0,False,False,6
+41,5ee391b86d4aaf01d972a327,431.64,432.75,Hey buddy.,,0,,,,-1.0600000000000023,1.1100000000000136,0,False,True,2
+42,5eebc4bdbc56df3150e4ed27,433.64,437.25,Oh hi poppy how old is he?,Okay.,1,5ee391b86d4aaf01d972a327,436.04,437.86,0.8899999999999864,3.6100000000000136,1,True,False,7
+43,5ee391b86d4aaf01d972a327,438.44,439.16,12.,,0,,,,1.1899999999999977,0.7200000000000273,0,False,False,1
+44,5eebc4bdbc56df3150e4ed27,439.54,447.25,Oh my gosh they're so cute. They just they look like forever puppies. You know what I mean like they're so sweet.,"Okay. Mhm. Yes,",3,5ee391b86d4aaf01d972a327,441.84,446.06,0.37999999999999545,7.7099999999999795,0,False,False,24
+45,5ee391b86d4aaf01d972a327,447.14,448.96,heroin asked how old your puppy?,,0,,,,-0.11000000000001364,1.8199999999999932,1,True,True,6
+46,5eebc4bdbc56df3150e4ed27,449.24,450.61,Yeah. No no,,0,,,,0.28000000000002956,1.3700000000000045,0,False,False,3
+47,5ee391b86d4aaf01d972a327,450.44,450.87,He,,0,,,,-0.17000000000001592,0.4300000000000068,0,False,True,1
+48,5eebc4bdbc56df3150e4ed27,450.62,451.32,because,,0,,,,-0.25,0.6999999999999886,0,False,True,1
+49,5ee391b86d4aaf01d972a327,450.87,451.36,hasn't been a,,0,,,,-0.44999999999998863,0.4900000000000091,0,False,True,4
+50,5eebc4bdbc56df3150e4ed27,451.32,451.85,I,,0,,,,-0.040000000000020464,0.5300000000000296,0,False,True,1
+51,5ee391b86d4aaf01d972a327,451.36,452.45,puppy for a long time.,,0,,,,-0.4900000000000091,1.089999999999975,0,False,True,5
+52,5eebc4bdbc56df3150e4ed27,452.44,459.86,yeah he looks it looks like a puppy but miniature pinchers. What are the what's the bigger dogs that they kind of look like? They?,,0,,,,-0.009999999999990905,7.420000000000016,2,True,True,26
+53,5ee391b86d4aaf01d972a327,459.74,460.76,The government.,,0,,,,-0.12000000000000455,1.0199999999999818,0,False,True,2
+54,5eebc4bdbc56df3150e4ed27,460.34,476.76,Adalbert that's that's what it is. Yeah. No sorry happen to know about like what the breed is but he does look like a little puppy. I can't wait to get a dog of my own. My landlord doesn't allow them so I got a rabbit instead. That was,Yeah. Mhm. Mhm.,3,5ee391b86d4aaf01d972a327,465.74,471.46,-0.4200000000000159,16.420000000000016,0,False,True,53
+55,5ee391b86d4aaf01d972a327,476.64,477.86,I'm jealous,,0,,,,-0.12000000000000455,1.2200000000000273,0,False,True,3
+56,5eebc4bdbc56df3150e4ed27,477.64,479.16,you want to see. She's really big.,,0,,,,-0.22000000000002728,1.5200000000000387,0,False,True,8
+57,5ee391b86d4aaf01d972a327,479.14,479.76,Violet.,,0,,,,-0.020000000000038654,0.6200000000000045,0,False,True,1
+58,5eebc4bdbc56df3150e4ed27,480.54,483.36,I'll get ahold. Mhm.,Yes. Right.,2,5ee391b86d4aaf01d972a327,480.54,481.85,0.7800000000000296,2.819999999999993,0,False,False,5
+59,5ee391b86d4aaf01d972a327,483.24,486.15,So. Oh yeah.,All right.,1,5eebc4bdbc56df3150e4ed27,484.14,484.65,-0.12000000000000455,2.909999999999968,0,False,True,3
+60,5eebc4bdbc56df3150e4ed27,486.84,487.04,Yeah.,,0,,,,0.6899999999999977,0.20000000000004547,0,False,False,1
+61,5ee391b86d4aaf01d972a327,486.94,493.76,Yeah. Okay. Yeah.,,0,,,,-0.10000000000002274,6.819999999999993,0,False,True,3
+62,5eebc4bdbc56df3150e4ed27,493.77,499.76,"This is Coco. Oh,",Oh wow.,1,5ee391b86d4aaf01d972a327,496.14,497.16,0.009999999999990905,5.990000000000009,0,False,False,4
+63,5ee391b86d4aaf01d972a327,499.24,500.05,"Oh, I love her.",,0,,,,-0.5199999999999818,0.8100000000000023,0,False,True,4
+64,5eebc4bdbc56df3150e4ed27,500.64,518.86,"well she's the best, but she's here. I'm gonna put it down. But But yeah, she was my compromise because I love cats, but I'm allergic and then can't get a dog with the landlord. So, and like I live right above the leasing office. Like there wasn't a way I was gonna sneak them in.",Yeah. Right.,2,5ee391b86d4aaf01d972a327,501.04,516.66,0.589999999999975,18.220000000000027,0,False,False,64
+65,5ee391b86d4aaf01d972a327,518.44,519.55,Oh yeah. That's no good.,,0,,,,-0.4199999999999591,1.1099999999999,0,False,True,6
+66,5eebc4bdbc56df3150e4ed27,519.54,520.86,No. So,,0,,,,-0.009999999999990905,1.32000000000005,0,False,True,2
+67,5ee391b86d4aaf01d972a327,521.04,522.45,You just leave her run around.,,0,,,,0.17999999999994998,1.4100000000000819,0,False,False,6
+68,5eebc4bdbc56df3150e4ed27,522.64,530.75,"yeah, they can be litter box trained and everything so which I had no idea when I got him. But yeah. So.",,0,,,,0.18999999999994088,8.110000000000014,0,False,False,22
+69,5ee391b86d4aaf01d972a327,530.34,539.66,I had rabbits when I was a teenager and I let her run around as we chewed up my phone cords. So I stopped letting her run around.,Oh yeah. Oh. Oh yeah.,3,5eebc4bdbc56df3150e4ed27,532.94,537.66,-0.40999999999996817,9.319999999999936,0,False,True,28
+70,5eebc4bdbc56df3150e4ed27,538.74,563.15,"Yeah. It took a while to figure it out. Like, like to kind of bunny proof the place in the last place that I lived in. She chewed the cord on my refrigerator. So I had to like emergency call my dad and be like, can you teach me how to fix this? And he like walked me through fixing it. And so she's definitely caused some serious trouble.",Yeah. Oh no.,2,5ee391b86d4aaf01d972a327,545.62,552.86,-0.9199999999999591,24.409999999999968,1,False,True,70
+71,5ee391b86d4aaf01d972a327,565.04,570.77,"I remember when I had, when I was sleeping to jump on my bed and pull my hair. That","Oh yeah,",1,5eebc4bdbc56df3150e4ed27,569.84,570.72,1.8899999999999864,5.730000000000018,0,False,False,19
+72,5eebc4bdbc56df3150e4ed27,570.73,570.83,I,,0,,,,-0.03999999999996362,0.10000000000002274,0,False,True,1
+73,5ee391b86d4aaf01d972a327,570.77,571.65,hurt.,,0,,,,-0.06000000000005912,0.8799999999999955,0,False,True,1
+74,5eebc4bdbc56df3150e4ed27,570.83,582.12,"have. It's so funny you say that because this morning she jumped onto my face while I was in bed and give me two scratches, like you probably can't see them, but to scratches something. Yeah,",Yeah. Yeah. A little,3,5ee391b86d4aaf01d972a327,574.24,581.57,-0.8199999999999363,11.289999999999964,0,False,True,38
+75,5ee391b86d4aaf01d972a327,581.57,581.95,bit.,,0,,,,-0.5499999999999545,0.37999999999999545,0,False,True,1
+76,5eebc4bdbc56df3150e4ed27,582.13,586.16,she just jumped right on the movie. So rude. But,,0,,,,0.17999999999994998,4.029999999999973,0,False,False,10
+77,5ee391b86d4aaf01d972a327,586.34,587.15,Where are you from?,,0,,,,0.18000000000006366,0.8099999999999454,1,True,False,4
+78,5eebc4bdbc56df3150e4ed27,587.54,589.36,um I live right outside of Philly.,,0,,,,0.38999999999998636,1.82000000000005,0,False,False,7
+79,5ee391b86d4aaf01d972a327,588.84,591.26,"I saw your penn state, honey. Okay.",Oh,1,5eebc4bdbc56df3150e4ed27,590.44,590.66,-0.5199999999999818,2.419999999999959,0,False,True,7
+80,5eebc4bdbc56df3150e4ed27,590.66,591.79,"yeah, yeah, this was,",,0,,,,-0.6000000000000227,1.1299999999999955,0,False,True,4
+81,5ee391b86d4aaf01d972a327,591.64,591.88,I'm in,,0,,,,-0.14999999999997726,0.2400000000000091,0,False,True,3
+82,5eebc4bdbc56df3150e4ed27,591.8,592.01,my,,0,,,,-0.08000000000004093,0.21000000000003638,0,False,True,1
+83,5ee391b86d4aaf01d972a327,591.88,592.44,Pittsburgh.,,0,,,,-0.12999999999999545,0.5600000000000591,0,False,True,1
+84,5eebc4bdbc56df3150e4ed27,592.01,595.26,"boyfriend went to Penn State, so. Oh yeah, that's awesome.",Okay.,1,5ee391b86d4aaf01d972a327,594.74,595.46,-0.43000000000006366,3.25,0,False,True,11
+85,5ee391b86d4aaf01d972a327,595.84,596.25,Yeah.,,0,,,,0.5800000000000409,0.40999999999996817,0,False,False,1
+86,5eebc4bdbc56df3150e4ed27,596.14,608.36,"Did you grow up in Pittsburgh? Oh, that's awesome. I've never been, but I would love to like, I love the cities and like the city and stuff, so it's awesome. Did you go to pit?",Yes. Right.,2,5ee391b86d4aaf01d972a327,598.64,604.36,-0.11000000000001364,12.220000000000027,2,True,True,39
+87,5ee391b86d4aaf01d972a327,608.54,615.36,"What they're No, I didn't. My boyfriend did he liked it there",Mhm. Yeah. Okay. Yeah.,3,5eebc4bdbc56df3150e4ed27,610.34,614.36,0.17999999999994998,6.82000000000005,0,False,False,14
+88,5eebc4bdbc56df3150e4ed27,615.74,621.91,"Yeah, I know a ton of people who want to pit, so that's awesome. How",,0,,,,0.37999999999999545,6.169999999999959,0,False,False,16
+89,5ee391b86d4aaf01d972a327,621.54,622.26,first.,,0,,,,-0.37000000000000455,0.7200000000000273,0,False,True,1
+90,5eebc4bdbc56df3150e4ed27,621.91,622.85,did you guys meet?,,0,,,,-0.35000000000002274,0.9400000000000546,1,True,True,4
+91,5ee391b86d4aaf01d972a327,622.84,626.06,There's not a whole lot to do around here. We met online.,Really?,1,5eebc4bdbc56df3150e4ed27,624.34,625.15,-0.009999999999990905,3.2199999999999136,0,False,True,13
+92,5eebc4bdbc56df3150e4ed27,625.94,626.65,You did I was,,0,,,,-0.11999999999989086,0.7099999999999227,0,False,True,4
+93,5ee391b86d4aaf01d972a327,626.54,627.05,Well.,,0,,,,-0.11000000000001364,0.5099999999999909,0,False,True,1
+94,5eebc4bdbc56df3150e4ed27,626.65,630.3,staying with me and my boyfriend. That's awesome. How long have you been,Mhm.,1,5ee391b86d4aaf01d972a327,627.74,628.46,-0.39999999999997726,3.6499999999999773,0,False,True,14
+95,5ee391b86d4aaf01d972a327,630.24,630.45,Well,,0,,,,-0.05999999999994543,0.21000000000003638,0,False,True,1
+96,5eebc4bdbc56df3150e4ed27,630.3,630.86,together?,,0,,,,-0.15000000000009095,0.5600000000000591,1,True,True,1
+97,5ee391b86d4aaf01d972a327,630.84,634.16,that's cool. Eight years.,Yeah.,1,5eebc4bdbc56df3150e4ed27,631.74,632.24,-0.01999999999998181,3.3199999999999363,0,False,True,5
+98,5eebc4bdbc56df3150e4ed27,633.84,642.66,Oh yeah. I feel you girl. 5.5 ish over here wolf. That's it. That's funny.,Yeah.,1,5ee391b86d4aaf01d972a327,640.84,641.55,-0.31999999999993634,8.819999999999936,0,False,True,17
+99,5ee391b86d4aaf01d972a327,642.34,644.56,I just turned 30 times a ticket.,,0,,,,-0.31999999999993634,2.2199999999999136,0,False,True,7
+100,5eebc4bdbc56df3150e4ed27,644.54,650.06,It's a Yeah. Right. Yeah. You got a ring any ring? I'll beat him up,,0,,,,-0.01999999999998181,5.519999999999982,1,False,True,17
+101,5ee391b86d4aaf01d972a327,650.04,650.55,"No,",,0,,,,-0.01999999999998181,0.5099999999999909,0,False,True,1
+102,5eebc4bdbc56df3150e4ed27,650.07,652.99,for you until he I,,0,,,,-0.4799999999999045,2.919999999999959,0,False,True,5
+103,5ee391b86d4aaf01d972a327,651.14,651.86,not yet.,,0,,,,-1.8500000000000227,0.7200000000000273,0,False,True,2
+104,5eebc4bdbc56df3150e4ed27,653.0,678.66,"got you girl. That's really funny, wow. That's a long time. So what do you what like platform did you meet on online? Okay. Oh yeah. Okay. I tried that like when I was back in the day single, but we met on tenders. So fun stuff.",Mhm. Yeah. Yeah. Okay. Cupid. Uh huh.,5,5ee391b86d4aaf01d972a327,654.44,676.34,1.1399999999999864,25.659999999999968,1,False,False,49
+105,5ee391b86d4aaf01d972a327,680.04,683.25,Yeah. That came out after we were together. Never tried it.,,0,,,,1.3799999999999955,3.2100000000000364,0,False,False,11
+106,5eebc4bdbc56df3150e4ed27,683.84,687.35,"Wait, sorry. Say that again. Mhm.",Yeah. Right.,2,5ee391b86d4aaf01d972a327,683.94,686.35,0.5900000000000318,3.509999999999991,0,False,False,6
+107,5ee391b86d4aaf01d972a327,687.24,689.19,That came out after we were already together,,0,,,,-0.11000000000001364,1.9500000000000455,0,False,True,8
+108,5eebc4bdbc56df3150e4ed27,689.04,689.55,Our,,0,,,,-0.15000000000009095,0.5099999999999909,0,False,True,1
+109,5ee391b86d4aaf01d972a327,689.19,690.18,so I never tried,,0,,,,-0.35999999999989996,0.9899999999998954,0,False,True,4
+110,5eebc4bdbc56df3150e4ed27,690.14,690.41,got,,0,,,,-0.03999999999996362,0.2699999999999818,0,False,True,1
+111,5ee391b86d4aaf01d972a327,690.18,690.36,it.,,0,,,,-0.2300000000000182,0.18000000000006366,0,False,True,1
+112,5eebc4bdbc56df3150e4ed27,690.41,704.66,"your gadget. Yeah. I tried to like at the beginning of all of that, all that stuff. Right. Yeah. That's right. That's crazy. So have you ever been to the side of the state? Like to the Philly area?",,0,,,,0.049999999999954525,14.25,2,True,False,41
+113,5ee391b86d4aaf01d972a327,705.74,708.16,We go to Pocono,,0,,,,1.080000000000041,2.419999999999959,0,False,False,4
+114,5eebc4bdbc56df3150e4ed27,708.04,709.96,Okay so that's pretty close to me.,,0,,,,-0.12000000000000455,1.9200000000000728,0,False,True,8
+115,5ee391b86d4aaf01d972a327,711.54,714.56,we go to Indy car races at the racetrack.,Mhm.,1,5eebc4bdbc56df3150e4ed27,713.34,713.55,1.5799999999999272,3.019999999999982,0,False,False,9
+116,5eebc4bdbc56df3150e4ed27,714.14,716.14,Really? That's fine. Yeah.,Um,1,5ee391b86d4aaf01d972a327,715.24,715.86,-0.4199999999999591,2.0,1,False,True,5
+117,5ee391b86d4aaf01d972a327,716.34,717.96,We went a couple years for that,,0,,,,0.20000000000004547,1.6200000000000045,0,False,False,7
+118,5eebc4bdbc56df3150e4ed27,717.94,722.37,Really? That's super fun like in the Poconos?,,0,,,,-0.01999999999998181,4.42999999999995,2,True,True,9
+119,5ee391b86d4aaf01d972a327,721.74,726.76,"couple years ago. We took the, yes. Yeah we go camping out there and stuff.",Yeah.,1,5eebc4bdbc56df3150e4ed27,724.14,724.64,-0.6299999999999955,5.019999999999982,0,False,True,15
+120,5eebc4bdbc56df3150e4ed27,726.74,727.76,That's awesome.,,0,,,,-0.01999999999998181,1.0199999999999818,0,False,True,3
+121,5ee391b86d4aaf01d972a327,727.64,732.86,Um A couple years ago we took an Amtrak to new york city.,,0,,,,-0.12000000000000455,5.220000000000027,0,False,True,13
+122,5eebc4bdbc56df3150e4ed27,732.84,739.31,Oh yeah that's where I grew up or I grew up right outside of the city so I would like go in all the time and,Yeah. Oh,2,5ee391b86d4aaf01d972a327,734.64,739.12,-0.01999999999998181,6.469999999999914,0,False,True,27
+123,5ee391b86d4aaf01d972a327,739.12,739.86,that's cool.,yeah,1,5eebc4bdbc56df3150e4ed27,739.32,740.44,-0.18999999999994088,0.7400000000000091,0,False,True,3
+124,5eebc4bdbc56df3150e4ed27,740.45,749.05,that's but that's perfect. That's the way to do it. Like just take Amtrak right in. Did you have fun in new york? Mhm. Mhm.,All right. Yes. Mostly,2,5ee391b86d4aaf01d972a327,743.74,749.25,0.5900000000000318,8.599999999999909,1,False,False,28
+125,5ee391b86d4aaf01d972a327,749.25,749.86,it was hot.,,0,,,,0.20000000000004547,0.6100000000000136,0,False,False,3
+126,5eebc4bdbc56df3150e4ed27,750.54,764.85,Oh yeah. If you did you go during the summer? Oh yeah and then it smells like like crap everywhere like like it's even it's even worse. Oh yeah. What did you do in the city when you were there? Mhm.,Yeah. Right.,2,5ee391b86d4aaf01d972a327,758.84,762.76,0.67999999999995,14.31000000000006,2,False,False,43
+127,5ee391b86d4aaf01d972a327,765.04,770.46,Um So they have electric race cars and we went to see those in Brooklyn.,,0,,,,0.18999999999994088,5.420000000000073,0,False,False,15
+128,5eebc4bdbc56df3150e4ed27,770.24,782.36,Oh that's awesome. So you guys are super into the race car stuff? Dawson. That's awesome. How did you get into that? Did you kind of get into it through each other?,Yeah. Mhm.,2,5ee391b86d4aaf01d972a327,776.44,779.96,-0.22000000000002728,12.120000000000005,3,True,True,34
+129,5ee391b86d4aaf01d972a327,781.94,784.36,He was into it. Yeah he was into it,Yeah.,1,5eebc4bdbc56df3150e4ed27,782.94,783.56,-0.4199999999999591,2.419999999999959,0,False,True,9
+130,5eebc4bdbc56df3150e4ed27,784.44,785.36,That's awesome.,,0,,,,0.08000000000004093,0.9199999999999591,0,False,False,3
+131,5ee391b86d4aaf01d972a327,785.24,796.56,and he took me one time and I was absolutely miserable and then I'm not a bunch of race car drivers and like oh this is all right yeah,Really? Okay. Yeah exactly. I,3,5eebc4bdbc56df3150e4ed27,788.74,796.32,-0.12000000000000455,11.319999999999936,0,False,True,30
+132,5eebc4bdbc56df3150e4ed27,796.33,807.49,love that. That's awesome. I've never been to erase or anything. I've seen some on T. V. And stuff but that's really cool. I don't know,,0,,,,-0.2299999999999045,11.159999999999968,0,False,True,31
+133,5ee391b86d4aaf01d972a327,807.44,807.92,the,,0,,,,-0.049999999999954525,0.4799999999999045,0,False,True,1
+134,5eebc4bdbc56df3150e4ed27,807.49,807.97,anything,,0,,,,-0.42999999999995,0.4800000000000182,0,False,True,1
+135,5ee391b86d4aaf01d972a327,807.92,808.13,Indy,,0,,,,-0.05000000000006821,0.21000000000003638,0,False,True,1
+136,5eebc4bdbc56df3150e4ed27,807.97,808.36,about.,,0,,,,-0.15999999999996817,0.38999999999998636,0,False,True,1
+137,5ee391b86d4aaf01d972a327,808.13,823.56,cars are a little bit better because they go like on like streets we'll close down section of the city streets and race there. Yeah that's what they did in Brooklyn for those formula it's called. But the nascar's are the ones that just go in a noble that are boring. That,Yeah. Really? Oh right.,4,5eebc4bdbc56df3150e4ed27,809.64,823.53,-0.2300000000000182,15.42999999999995,0,False,True,56
+138,5eebc4bdbc56df3150e4ed27,823.54,824.4,Like that. I don't know,,0,,,,-0.01999999999998181,0.8600000000000136,0,False,True,6
+139,5ee391b86d4aaf01d972a327,824.34,825.07,doesn't,,0,,,,-0.05999999999994543,0.7300000000000182,0,False,True,2
+140,5eebc4bdbc56df3150e4ed27,824.4,825.21,if I can get down,,0,,,,-0.6700000000000728,0.8100000000000591,0,False,True,5
+141,5ee391b86d4aaf01d972a327,825.11,825.39,do much,,0,,,,-0.10000000000002274,0.2799999999999727,0,False,True,2
+142,5eebc4bdbc56df3150e4ed27,825.21,825.66,with,,0,,,,-0.17999999999994998,0.4499999999999318,0,False,True,1
+143,5ee391b86d4aaf01d972a327,825.39,826.86,good. No.,uh.,1,5eebc4bdbc56df3150e4ed27,825.67,826.38,-0.2699999999999818,1.4700000000000273,0,False,True,2
+144,5eebc4bdbc56df3150e4ed27,826.39,834.31,Yeah like it's like really? They've gone like 500 laps or whatever. That's,Yeah,1,5ee391b86d4aaf01d972a327,833.04,833.66,-0.4700000000000273,7.919999999999959,1,False,True,16
+145,5ee391b86d4aaf01d972a327,834.14,835.95,it's been four hours. We're still doing,really cool. Yeah,3,5eebc4bdbc56df3150e4ed27,834.31,835.91,-0.16999999999995907,1.8100000000000591,0,False,True,9
+146,5eebc4bdbc56df3150e4ed27,835.92,836.11,like,,0,,,,-0.030000000000086402,0.19000000000005457,0,False,True,1
+147,5ee391b86d4aaf01d972a327,835.95,836.36,this.,,0,,,,-0.15999999999996817,0.40999999999996817,0,False,True,1
+148,5eebc4bdbc56df3150e4ed27,836.12,841.33,you guys aren't you getting dizzy but on the streets?,Yeah.,1,5ee391b86d4aaf01d972a327,840.24,840.65,-0.2400000000000091,5.210000000000036,1,True,True,11
+149,5ee391b86d4aaf01d972a327,841.24,841.66,Life.,,0,,,,-0.09000000000003183,0.4199999999999591,0,False,True,1
+150,5eebc4bdbc56df3150e4ed27,841.33,856.56,"That's really cool. So what? But they're still racing so how do you, they must just like close off the streets and that's that's kind of cool. It sounds like a like action movie watching them go like down the street.",Yeah. Oh. Mhm. Uh huh.,4,5ee391b86d4aaf01d972a327,843.44,856.26,-0.32999999999992724,15.229999999999905,1,False,True,45
+151,5ee391b86d4aaf01d972a327,856.84,858.15,Yeah some of those yeah,,0,,,,0.2800000000000864,1.3099999999999454,0,False,False,5
+152,5eebc4bdbc56df3150e4ed27,857.94,864.14,That's really cool. It's awesome. What else do you do in your free time? Yeah.,,0,,,,-0.2099999999999227,6.199999999999932,1,False,True,17
+153,5ee391b86d4aaf01d972a327,865.34,869.28,"my garden I miss round outside. I have a rabbit, a wild rabbit.",,0,,,,1.2000000000000455,3.939999999999941,0,False,False,13
+154,5eebc4bdbc56df3150e4ed27,868.94,869.41,All,,0,,,,-0.33999999999991815,0.4699999999999136,0,False,True,1
+155,5ee391b86d4aaf01d972a327,869.29,869.6,I cut,,0,,,,-0.12000000000000455,0.3100000000000591,0,False,True,2
+156,5eebc4bdbc56df3150e4ed27,869.41,869.97,rooms?,,0,,,,-0.19000000000005457,0.5600000000000591,1,True,True,1
+157,5ee391b86d4aaf01d972a327,869.6,871.55,up apples car and feed her outside.,,0,,,,-0.37000000000000455,1.9499999999999318,0,False,True,7
+158,5eebc4bdbc56df3150e4ed27,871.24,880.26,"Oh that's so sweet. I love I love roberts. I got to say what are you, what are you growing? Are you growing like vegetables?",Yeah,1,5ee391b86d4aaf01d972a327,877.44,878.15,-0.30999999999994543,9.019999999999982,2,True,True,26
+159,5ee391b86d4aaf01d972a327,880.64,881.86,flowers just,,0,,,,0.37999999999999545,1.2200000000000273,0,False,False,2
+160,5eebc4bdbc56df3150e4ed27,881.74,882.66,That's awesome.,,0,,,,-0.12000000000000455,0.9199999999999591,0,False,True,3
+161,5ee391b86d4aaf01d972a327,882.74,883.55,flowers.,,0,,,,0.08000000000004093,0.8099999999999454,0,False,False,1
+162,5eebc4bdbc56df3150e4ed27,883.24,896.75,"Yeah, I have a lot of plants in my apartment and yeah, I have shockingly a strawberry plant that's growing that somebody gave me as a gift that somehow growing inside. Really?",Yeah,1,5ee391b86d4aaf01d972a327,894.04,894.45,-0.30999999999994543,13.509999999999991,1,True,True,33
+163,5ee391b86d4aaf01d972a327,897.34,898.15,mm,,0,,,,0.5900000000000318,0.8099999999999454,0,False,False,1
+164,5eebc4bdbc56df3150e4ed27,897.84,905.25,"I don't know how, but um but yeah, that's fine now. It's awesome.",,0,,,,-0.30999999999994543,7.409999999999968,0,False,True,16
+165,5ee391b86d4aaf01d972a327,904.84,909.16,Something seemed to grow like weeds and some stuff just doesn't grow at all.,,0,,,,-0.40999999999996817,4.319999999999936,0,False,True,15
+166,5eebc4bdbc56df3150e4ed27,909.14,921.34,"I totally know what you mean. Total. I do kind of like, that looks so, but when there are certain things that grow like weeds, like kind of like a wild flower, like almost yeah,",Yeah,1,5ee391b86d4aaf01d972a327,919.94,920.86,-0.01999999999998181,12.200000000000045,0,False,True,35
+167,5ee391b86d4aaf01d972a327,921.64,924.06,that's kind of what's going on in my garden.,,0,,,,0.2999999999999545,2.419999999999959,0,False,False,11
+168,5eebc4bdbc56df3150e4ed27,922.94,924.82,I love that. Yeah. So what is,,0,,,,-1.1199999999998909,1.8799999999999955,0,False,True,7
+169,5ee391b86d4aaf01d972a327,924.74,925.19,We,,0,,,,-0.08000000000004093,0.4500000000000455,0,False,True,1
+170,5eebc4bdbc56df3150e4ed27,924.82,925.55,"your,",,0,,,,-0.37000000000000455,0.7299999999999045,0,False,True,1
+171,5ee391b86d4aaf01d972a327,925.19,925.96,get these like,,0,,,,-0.35999999999989996,0.7699999999999818,0,False,True,3
+172,5eebc4bdbc56df3150e4ed27,926.44,926.79,"No, go",,0,,,,0.4800000000000182,0.34999999999990905,0,False,False,2
+173,5ee391b86d4aaf01d972a327,926.74,926.88,I'm,,0,,,,-0.049999999999954525,0.13999999999998636,0,False,True,2
+174,5eebc4bdbc56df3150e4ed27,926.79,927.05,"ahead,",,0,,,,-0.09000000000003183,0.2599999999999909,0,False,True,1
+175,5ee391b86d4aaf01d972a327,926.88,927.25,sorry.,,0,,,,-0.16999999999995907,0.37000000000000455,0,False,True,1
+176,5eebc4bdbc56df3150e4ed27,927.09,928.37,"no, no, no, go ahead first.",,0,,,,-0.15999999999996817,1.2799999999999727,0,False,True,6
+177,5ee391b86d4aaf01d972a327,928.94,932.36,Oh do we get these like cactuses and stuff,,0,,,,0.57000000000005,3.419999999999959,0,False,False,9
+178,5eebc4bdbc56df3150e4ed27,931.94,933.86,"Oh yeah, I have.",,0,,,,-0.4199999999999591,1.919999999999959,0,False,True,4
+179,5ee391b86d4aaf01d972a327,933.54,935.36,and I can never keep them alive.,,0,,,,-0.32000000000005,1.82000000000005,0,False,True,7
+180,5eebc4bdbc56df3150e4ed27,935.14,951.43,"I always kill them too. This is the first time I have the cactus over here, like a succulent that I'm finally keeping alive. But I always go, it's really bad. It's really bad. But oh they're so",Yeah. Right,2,5ee391b86d4aaf01d972a327,946.48,949.35,-0.22000000000002728,16.289999999999964,0,False,True,42
+181,5ee391b86d4aaf01d972a327,951.34,951.71,that's,,0,,,,-0.08999999999991815,0.37000000000000455,0,False,True,2
+182,5eebc4bdbc56df3150e4ed27,951.43,952.37,pretty.,,0,,,,-0.2800000000000864,0.9400000000000546,0,False,True,1
+183,5ee391b86d4aaf01d972a327,951.71,953.8,Murphy. That's my other,Oh,1,5eebc4bdbc56df3150e4ed27,952.38,953.61,-0.6599999999999682,2.089999999999918,0,False,True,5
+184,5eebc4bdbc56df3150e4ed27,953.62,954.53,so,,0,,,,-0.17999999999994998,0.9099999999999682,0,False,True,1
+185,5ee391b86d4aaf01d972a327,953.8,954.25,cat.,,0,,,,-0.7300000000000182,0.4500000000000455,0,False,True,1
+186,5eebc4bdbc56df3150e4ed27,954.54,959.24,"cute. My God, I love cats. Yeah.",,0,,,,0.2899999999999636,4.7000000000000455,0,False,False,7
+187,5ee391b86d4aaf01d972a327,959.34,963.15,We weren't allowed enough cuts either. And then our landlord give our hearse.,Uh huh.,1,5eebc4bdbc56df3150e4ed27,961.44,961.85,0.10000000000002274,3.8099999999999454,0,False,False,14
+188,5eebc4bdbc56df3150e4ed27,963.04,967.15,Oh my gosh. That's really funny. Really? Your dog too?,Mhm.,1,5ee391b86d4aaf01d972a327,964.44,964.86,-0.11000000000001364,4.110000000000014,2,True,True,11
+189,5ee391b86d4aaf01d972a327,968.04,970.46,Not the dog. Just that one cat.,Okay.,1,5eebc4bdbc56df3150e4ed27,968.94,969.56,0.8899999999999864,2.4200000000000728,0,False,False,7
+190,5eebc4bdbc56df3150e4ed27,970.34,986.74,"Okay. That's so funny. That's awesome. They're really really cute. Cats are hilarious, they crack me up. Yeah. Oh how beautiful! Oh my gosh,",Right. Uh huh. Okay.,4,5ee391b86d4aaf01d972a327,973.04,982.95,-0.12000000000000455,16.399999999999977,0,False,True,27
+191,5ee391b86d4aaf01d972a327,986.74,990.46,There's a it's just that little bit there but there's a ton of stuff growing in there,,0,,,,0.0,3.7200000000000273,0,False,False,20
+192,5eebc4bdbc56df3150e4ed27,990.44,991.84,that's beautiful.,,0,,,,-0.01999999999998181,1.3999999999999773,0,False,True,3
+193,5ee391b86d4aaf01d972a327,991.34,991.96,so far.,,0,,,,-0.5,0.6200000000000045,0,False,True,2
+194,5eebc4bdbc56df3150e4ed27,992.42,1004.85,"But that's gorgeous, The flowers coming out and everything. Oh so pretty. Oh I can't wait to have like a house in the backyard or I can do all of that. Mhm. Okay.",Uh huh. Mhm. Yeah.,3,5ee391b86d4aaf01d972a327,996.04,1004.71,0.4599999999999227,12.430000000000064,0,False,False,35
+195,5ee391b86d4aaf01d972a327,1004.71,1016.66,We live in like a duplex and we used to live upstairs there when the people moved out downstairs. I just I couldn't I hated just going up there and then you're inside and that's it.,Oh yeah.,2,5eebc4bdbc56df3150e4ed27,1008.44,1009.06,-0.13999999999998636,11.949999999999932,0,False,True,39
+196,5eebc4bdbc56df3150e4ed27,1015.24,1052.46,"Right. Yeah. It's such a pain. Yeah. That's kind of how I feel now. But it's pretty, we live like in a bunch of neighborhoods and stuff kind of apartment building so it's easy to like go and walk outside but it's still it's like you don't have your own backyard. We wanted to get like a place with a deck or something. but you know you got to make compromises and mhm. So I can't be telling the police where I can have like a little garden and a space for like a dog to run around and Yeah, that's awesome. That's awesome. So what does your boyfriend do for a living?",Mhm. Yeah. All right. Yeah. Yeah.,5,5ee391b86d4aaf01d972a327,1024.14,1052.26,-1.419999999999959,37.22000000000003,1,True,True,123
+197,5ee391b86d4aaf01d972a327,1053.44,1055.56,He's a software engineer,,0,,,,0.9800000000000182,2.119999999999891,0,False,False,5
+198,5eebc4bdbc56df3150e4ed27,1055.44,1061.27,Fun? I don't know anything about that. Yeah. I don't know.,,0,,,,-0.11999999999989086,5.829999999999927,1,False,True,13
+199,5ee391b86d4aaf01d972a327,1061.04,1064.46,hey type and makes money so,Yeah.,1,5eebc4bdbc56df3150e4ed27,1061.64,1063.04,-0.2300000000000182,3.4200000000000728,0,False,True,6
+200,5eebc4bdbc56df3150e4ed27,1064.54,1066.16,Yeah. So I assume he's,,0,,,,0.07999999999992724,1.6200000000001182,0,False,False,6
+201,5ee391b86d4aaf01d972a327,1065.64,1066.56,he does good at it.,,0,,,,-0.5199999999999818,0.9199999999998454,0,False,True,5
+202,5eebc4bdbc56df3150e4ed27,1066.64,1072.36,"that's good hey, that's all you need. So I assume he's been working from home lately.",Mhm.,1,5ee391b86d4aaf01d972a327,1068.34,1071.46,0.08000000000015461,5.7199999999998,0,False,False,19
+203,5ee391b86d4aaf01d972a327,1073.34,1076.06,Yeah. For three months now,,0,,,,0.9800000000000182,2.7200000000000273,0,False,False,5
+204,5eebc4bdbc56df3150e4ed27,1076.44,1077.5,Yeah. It's pretty,,0,,,,0.38000000000010914,1.0599999999999454,0,False,False,4
+205,5ee391b86d4aaf01d972a327,1077.24,1077.73,they said,,0,,,,-0.2599999999999909,0.4900000000000091,0,False,True,2
+206,5eebc4bdbc56df3150e4ed27,1077.5,1078.06,crazy.,,0,,,,-0.2300000000000182,0.5599999999999454,0,False,True,1
+207,5ee391b86d4aaf01d972a327,1077.74,1081.46,maybe by september they'll start letting some people back.,,0,,,,-0.31999999999993634,3.7200000000000273,0,False,True,10
+208,5eebc4bdbc56df3150e4ed27,1081.54,1092.06,"Oh my gosh. Yeah just like I feel like it's not going to happen for anyone, you know what I mean? Like who knows? But I don't know,",Yeah.,1,5ee391b86d4aaf01d972a327,1089.04,1090.05,0.07999999999992724,10.519999999999982,2,False,False,30
+209,5ee391b86d4aaf01d972a327,1092.44,1095.56,They started opening up things now and,,0,,,,0.38000000000010914,3.119999999999891,0,False,False,7
+210,5eebc4bdbc56df3150e4ed27,1097.24,1097.83,I know,,0,,,,1.6800000000000637,0.5899999999999181,0,False,False,2
+211,5ee391b86d4aaf01d972a327,1097.54,1097.89,people are,,0,,,,-0.2899999999999636,0.3500000000001364,0,False,True,2
+212,5eebc4bdbc56df3150e4ed27,1097.86,1101.36,that it's not going to hot.,getting sick.,1,5ee391b86d4aaf01d972a327,1097.89,1098.67,-0.03000000000020009,3.5,0,False,True,7
+213,5ee391b86d4aaf01d972a327,1101.34,1101.85,No.,,0,,,,-0.01999999999998181,0.5099999999999909,0,False,True,1
+214,5eebc4bdbc56df3150e4ed27,1102.24,1104.85,I don't know. It's crazy. Do you know anyone who's gotten it?,Yeah.,1,5ee391b86d4aaf01d972a327,1103.14,1103.46,0.39000000000010004,2.6099999999999,1,True,False,15
+215,5ee391b86d4aaf01d972a327,1106.64,1138.41,"There was a lady who are three houses up from me. I didn't really know her and we should walk by with her granddaughter and her her son got sick and then her granddaughter got sick and they got better and she got sick and she was an immigrant from somewhere. I forget where she was from. Not Russia, but one of those tech countries and she didn't have insurance. So she said everyone else got better. So she didn't go to the hospital. She","Mhm. Oh yeah. Yeah. Oh no. Yeah, mm. Oh",8,5eebc4bdbc56df3150e4ed27,1108.64,1138.4,1.790000000000191,31.769999999999982,0,False,False,88
+216,5eebc4bdbc56df3150e4ed27,1138.4,1138.56,my,,0,,,,-0.009999999999990905,0.15999999999985448,0,False,True,1
+217,5ee391b86d4aaf01d972a327,1138.41,1138.86,died.,,0,,,,-0.14999999999986358,0.4499999999998181,0,False,True,1
+218,5eebc4bdbc56df3150e4ed27,1138.56,1150.45,"God. Oh that's so sad, jeez. It's crazy though, it's it's really really crazy and it was it's",Yeah.,1,5ee391b86d4aaf01d972a327,1142.94,1143.56,-0.2999999999999545,11.8900000000001,0,False,True,23
+219,5ee391b86d4aaf01d972a327,1150.34,1153.55,And you know anyone I mean living in apartments that can't be easy.,,0,,,,-0.11000000000012733,3.2100000000000364,0,False,True,14
+220,5eebc4bdbc56df3150e4ed27,1153.64,1193.67,"yeah, I don't know, I don't know if there's anything that's gone on in our apartments, it's hard to tell because like I don't know uh nobody that I know of in our apartments, but like and we also moved in pretty recently so we don't know that many people here. But um but my boyfriend's mom is a nurse and she got it, she's she's okay, like she recovered. But um and she had pretty mild symptoms comparatively like she had a fever and coughs and lack of taste and that kind of thing but is like better now. But it's crazy just. Yeah,","All right. Right. Oh wow, wow.",4,5ee391b86d4aaf01d972a327,1165.14,1192.66,0.09000000000014552,40.02999999999997,0,False,False,116
+221,5ee391b86d4aaf01d972a327,1193.14,1199.67,Yeah. It's crazy that some people just aren't even sick and then some people were just dropping dead.,,0,,,,-0.5299999999999727,6.529999999999973,0,False,True,20
+222,5eebc4bdbc56df3150e4ed27,1199.64,1211.2,"I know it's it's scary, it's weird, it's scary. Is that a piercing on your lip? That's awesome. I love it.","Yes,",1,5ee391b86d4aaf01d972a327,1209.24,1210.05,-0.029999999999972715,11.559999999999945,1,False,True,26
+223,5ee391b86d4aaf01d972a327,1210.94,1213.36,I have one here too and I lost the top of it.,,0,,,,-0.2599999999999909,2.4199999999998454,0,False,True,12
+224,5eebc4bdbc56df3150e4ed27,1213.54,1220.62,"Oh. Oh that stinks, how do you lose the top of it with it and it's still in? Hello?",Yeah.,1,5ee391b86d4aaf01d972a327,1219.84,1220.25,0.18000000000006366,7.079999999999927,2,True,False,20
+225,5ee391b86d4aaf01d972a327,1220.26,1220.97,So the post,,0,,,,-0.35999999999989996,0.7100000000000364,0,False,True,3
+226,5eebc4bdbc56df3150e4ed27,1220.62,1221.27,I see.,,0,,,,-0.3500000000001364,0.650000000000091,0,False,True,2
+227,5ee391b86d4aaf01d972a327,1220.97,1222.79,is in the skin and the,"Oh,",1,5eebc4bdbc56df3150e4ed27,1222.34,1222.68,-0.2999999999999545,1.8199999999999363,0,False,True,6
+228,5eebc4bdbc56df3150e4ed27,1222.68,1222.85,I,,0,,,,-0.10999999999989996,0.16999999999984539,0,False,True,1
+229,5ee391b86d4aaf01d972a327,1222.79,1223.13,top,,0,,,,-0.05999999999994543,0.3400000000001455,0,False,True,1
+230,5eebc4bdbc56df3150e4ed27,1222.85,1223.17,see.,,0,,,,-0.2800000000002001,0.3200000000001637,0,False,True,1
+231,5ee391b86d4aaf01d972a327,1223.13,1224.55,screw on so you can change them.,,0,,,,-0.03999999999996362,1.4199999999998454,0,False,True,7
+232,5eebc4bdbc56df3150e4ed27,1224.64,1226.17,"Oh, that's cool.",,0,,,,0.09000000000014552,1.5299999999999727,0,False,False,4
+233,5ee391b86d4aaf01d972a327,1226.34,1227.96,Just fell out.,Mhm.,1,5eebc4bdbc56df3150e4ed27,1227.14,1227.46,0.16999999999984539,1.6200000000001182,0,False,False,3
+234,5eebc4bdbc56df3150e4ed27,1227.94,1237.56,"Do you have other piercings or like, I think I saw a tattoo on your finger. Got it.",Mhm. Yes.,2,5ee391b86d4aaf01d972a327,1228.74,1234.27,-0.01999999999998181,9.61999999999989,0,False,True,18
+235,5ee391b86d4aaf01d972a327,1237.44,1241.85,"Yeah. I have a 15 tattoos now, I think 14, 15.",Uh Mhm.,2,5eebc4bdbc56df3150e4ed27,1238.24,1240.56,-0.11999999999989086,4.4099999999998545,0,False,True,11
+236,5eebc4bdbc56df3150e4ed27,1241.74,1243.06,Really? What do they have?,,0,,,,-0.10999999999989996,1.3199999999999363,2,True,True,5
+237,5ee391b86d4aaf01d972a327,1245.14,1249.35,"Yeah. Oh, I got these ones on my arms",,0,,,,2.0800000000001546,4.209999999999809,0,False,False,9
+238,5eebc4bdbc56df3150e4ed27,1249.64,1250.73,That's so cool.,,0,,,,0.290000000000191,1.0899999999999181,0,False,False,4
+239,5ee391b86d4aaf01d972a327,1250.54,1257.05,"and I had thought on my wrist, I went to hair school so I got with a little pair of scissors",Yeah. Um,2,5eebc4bdbc56df3150e4ed27,1252.24,1255.95,-0.19000000000005457,6.509999999999991,0,False,True,21
+240,5eebc4bdbc56df3150e4ed27,1256.84,1263.96,That's so cool. I love that. Do you still do,,0,,,,-0.21000000000003638,7.120000000000118,0,False,True,11
+241,5ee391b86d4aaf01d972a327,1263.44,1264.55,and,,0,,,,-0.5199999999999818,1.1099999999999,0,False,True,1
+242,5eebc4bdbc56df3150e4ed27,1263.96,1264.66,hair ever?,,0,,,,-0.5899999999999181,0.7000000000000455,1,True,True,2
+243,5ee391b86d4aaf01d972a327,1266.34,1270.45,sometimes not really not as much as I should. Yes.,"Yeah. Right. Well,",2,5eebc4bdbc56df3150e4ed27,1267.24,1270.55,1.6799999999998363,4.110000000000127,0,False,False,10
+244,5eebc4bdbc56df3150e4ed27,1271.44,1281.36,"that's up to you, you know? No wonder your hair looks good, still in quarantine or whatever, like. Great. What are your","Yeah. Yeah. Yeah,",3,5ee391b86d4aaf01d972a327,1274.14,1280.44,0.9900000000000091,9.919999999999845,1,False,False,23
+245,5ee391b86d4aaf01d972a327,1281.34,1281.56,I,,0,,,,-0.01999999999998181,0.22000000000002728,0,False,True,1
+246,5eebc4bdbc56df3150e4ed27,1281.36,1282.26,their tattoos?,,0,,,,-0.20000000000004547,0.900000000000091,1,True,True,2
+247,5ee391b86d4aaf01d972a327,1281.56,1286.35,just waxed my eyebrows for the first time since it started and that was morally,Oh.,1,5eebc4bdbc56df3150e4ed27,1285.34,1286.38,-0.7000000000000455,4.789999999999964,0,False,True,15
+248,5eebc4bdbc56df3150e4ed27,1286.39,1297.95,"Oh yeah, I feel, yeah, I'm shocked you're even wearing makeup and stuff. I haven't done any of that. Like, the idea of putting on real pants is just like, nope, not gonna happen.",Yeah. Uh huh.,2,5ee391b86d4aaf01d972a327,1292.34,1294.54,0.040000000000190994,11.559999999999945,0,False,False,38
+249,5ee391b86d4aaf01d972a327,1297.64,1305.77,Uh huh. I wasn't sure what this was gonna be safer on some eyeliner mascara.,,0,,,,-0.30999999999994543,8.129999999999882,0,False,True,17
+250,5eebc4bdbc56df3150e4ed27,1305.04,1313.77,I was like whatever. I'll just I wasn't sure either. But what a girl their tattoos so.,Yeah.,1,5ee391b86d4aaf01d972a327,1308.74,1309.84,-0.7300000000000182,8.730000000000018,0,False,True,19
+251,5ee391b86d4aaf01d972a327,1315.04,1321.46,"Oh, I got these bows on both my ankles",Yeah. Mhm.,1,5eebc4bdbc56df3150e4ed27,1317.44,1318.85,1.2699999999999818,6.420000000000073,0,False,False,9
+252,5eebc4bdbc56df3150e4ed27,1321.74,1322.96,That's pretty.,,0,,,,0.2799999999999727,1.2200000000000273,0,False,False,3
+253,5ee391b86d4aaf01d972a327,1322.34,1327.76,"and my God. Yeah, A flower on my foot on",Mhm.,1,5eebc4bdbc56df3150e4ed27,1324.54,1324.77,-0.6200000000001182,5.420000000000073,0,False,True,10
+254,5eebc4bdbc56df3150e4ed27,1327.44,1327.86,What?,,0,,,,-0.31999999999993634,0.4199999999998454,1,True,True,1
+255,5ee391b86d4aaf01d972a327,1328.14,1329.27,knights touched up.,"Yeah,",1,5eebc4bdbc56df3150e4ed27,1328.44,1328.67,0.2800000000002001,1.1299999999998818,0,False,False,3
+256,5eebc4bdbc56df3150e4ed27,1329.64,1338.27,I love it. Is there It's really no one's really pretty. Is there any significance to it? Or did you pick things like the look of them?,"Yeah. Yeah,",2,5ee391b86d4aaf01d972a327,1330.94,1333.65,0.37000000000011823,8.629999999999882,2,True,False,29
+257,5ee391b86d4aaf01d972a327,1339.14,1341.86,"I saw a picture of it and was like, oh that's pretty cool.",,0,,,,0.8700000000001182,2.7199999999998,0,False,False,14
+258,5eebc4bdbc56df3150e4ed27,1342.34,1348.96,"Yeah, I know, I feel you. That's a good reason to me. And the same thing with the bows. Yeah.",Yeah. Okay.,2,5ee391b86d4aaf01d972a327,1343.44,1348.05,0.4800000000000182,6.620000000000118,0,False,False,21
+259,5ee391b86d4aaf01d972a327,1348.94,1349.44,Yeah.,,0,,,,-0.01999999999998181,0.5,0,False,True,1
+260,5eebc4bdbc56df3150e4ed27,1349.44,1354.55,That's awesome. Did I see what? I'm your hand? Okay. Okay.,,0,,,,0.0,5.1099999999999,2,False,False,13
+261,5ee391b86d4aaf01d972a327,1354.74,1356.45,"Yeah, I got a heart",,0,,,,0.19000000000005457,1.7100000000000364,0,False,False,5
+262,5eebc4bdbc56df3150e4ed27,1356.54,1357.35,So pretty.,,0,,,,0.08999999999991815,0.8099999999999454,0,False,False,2
+263,5ee391b86d4aaf01d972a327,1357.24,1361.77,"about our question marks and a cockpit,",Yes.,1,5eebc4bdbc56df3150e4ed27,1358.54,1359.67,-0.10999999999989996,4.529999999999973,0,False,True,7
+264,5eebc4bdbc56df3150e4ed27,1361.94,1371.16,"Oh, I love the cupcake. So cute. Mm That's awesome. Does your boyfriend have tattoos?",wow.,1,5ee391b86d4aaf01d972a327,1368.54,1368.94,0.17000000000007276,9.220000000000027,1,True,False,16
+265,5ee391b86d4aaf01d972a327,1372.24,1374.36,"No, he hates them.",,0,,,,1.0799999999999272,2.119999999999891,0,False,False,4
+266,5eebc4bdbc56df3150e4ed27,1373.64,1375.67,Really? Does he hate them on you?,Yeah.,1,5ee391b86d4aaf01d972a327,1374.94,1375.17,-0.7199999999997999,2.0299999999999727,2,True,True,7
+267,5ee391b86d4aaf01d972a327,1375.54,1378.56,Right. Most of them.,,0,,,,-0.13000000000010914,3.019999999999982,0,False,True,4
+268,5eebc4bdbc56df3150e4ed27,1378.34,1395.36,What? How rude. That can't have that kind of opinion if you're not giving a ring? Mm That's funny.,Uh huh. Yeah. Yeah.,2,5ee391b86d4aaf01d972a327,1381.14,1384.66,-0.22000000000002728,17.019999999999982,2,False,True,22
+269,5ee391b86d4aaf01d972a327,1394.84,1398.56,He got me my last couple so I guess he doesn't hate them. Too bad. So,,0,,,,-0.5199999999999818,3.7200000000000273,0,False,True,17
+270,5eebc4bdbc56df3150e4ed27,1398.64,1416.16,That's good. I hope not. I like them. Mm. Mm. Uh huh. So you gonna make anything for dinner or get dinner or something?,Yeah.,1,5ee391b86d4aaf01d972a327,1403.44,1405.56,0.08000000000015461,17.519999999999982,1,True,False,26
+271,5ee391b86d4aaf01d972a327,1417.94,1421.17,"Oh, I don't know. I haven't thought that far ahead yet.",,0,,,,1.7799999999999727,3.230000000000018,0,False,False,13
+272,5eebc4bdbc56df3150e4ed27,1421.44,1429.45,I know many. I'm just in my kitchen. I'm starting to get hungry. That's when I start to think about it.,Yeah.,1,5ee391b86d4aaf01d972a327,1421.84,1422.25,0.2699999999999818,8.009999999999991,0,False,False,24
+273,5ee391b86d4aaf01d972a327,1429.34,1438.36,Yeah. It's so hard. He doesn't eat meat so I can make stuff to help me,Oh really?,1,5eebc4bdbc56df3150e4ed27,1435.74,1436.67,-0.11000000000012733,9.019999999999982,0,False,True,18
+274,5eebc4bdbc56df3150e4ed27,1438.34,1442.57,Does that mean that you don't eat meat now or like,,0,,,,-0.01999999999998181,4.230000000000018,0,False,True,12
+275,5ee391b86d4aaf01d972a327,1442.44,1443.36,sometimes.,,0,,,,-0.12999999999988177,0.9199999999998454,0,False,True,1
+276,5eebc4bdbc56df3150e4ed27,1442.57,1451.45,a lot of the time? Yeah. That's hard. That's hard. Did he just start doing that? It kind of sounds like okay.,Yeah.,1,5ee391b86d4aaf01d972a327,1445.34,1446.05,-0.7899999999999636,8.88000000000011,2,False,True,24
+277,5ee391b86d4aaf01d972a327,1451.84,1458.38,"No, he's never beaten me eight chicken sometimes so",Really? Yeah. Yeah.,2,5eebc4bdbc56df3150e4ed27,1454.14,1458.24,0.38999999999987267,6.540000000000191,0,False,False,10
+278,5eebc4bdbc56df3150e4ed27,1458.25,1458.45,Does,,0,,,,-0.13000000000010914,0.20000000000004547,0,False,True,1
+279,5ee391b86d4aaf01d972a327,1458.38,1458.52,it,,0,,,,-0.06999999999993634,0.13999999999987267,0,False,True,1
+280,5eebc4bdbc56df3150e4ed27,1458.45,1458.6,he,,0,,,,-0.06999999999993634,0.14999999999986358,0,False,True,1
+281,5ee391b86d4aaf01d972a327,1458.52,1459.26,helps,,0,,,,-0.07999999999992724,0.7400000000000091,0,False,True,1
+282,5eebc4bdbc56df3150e4ed27,1458.6,1459.86,eat like fish?,,0,,,,-0.6600000000000819,1.259999999999991,1,True,True,3
+283,5ee391b86d4aaf01d972a327,1459.27,1464.36,but nope.,,0,,,,-0.5899999999999181,5.089999999999918,0,False,True,2
+284,5eebc4bdbc56df3150e4ed27,1462.54,1468.81,Really? But he's checking sometimes. That makes no sense. Mm Okay.,Mhm Yeah,2,5ee391b86d4aaf01d972a327,1465.54,1468.35,-1.8199999999999363,6.269999999999982,1,False,True,12
+285,5ee391b86d4aaf01d972a327,1468.74,1471.26,wings. He loved ones. Those are his favorite.,,0,,,,-0.06999999999993634,2.519999999999982,0,False,True,8
+286,5eebc4bdbc56df3150e4ed27,1471.24,1476.17,Well that's hilarious. I like that. He makes an exception for wings.,Uh huh,2,5ee391b86d4aaf01d972a327,1474.04,1475.26,-0.01999999999998181,4.930000000000064,0,False,True,13
+287,5ee391b86d4aaf01d972a327,1476.44,1479.12,"She I would you got to,",Uh huh.,1,5eebc4bdbc56df3150e4ed27,1476.54,1477.34,0.2699999999999818,2.6799999999998363,0,False,False,6
+288,5eebc4bdbc56df3150e4ed27,1478.84,1479.34,You have,,0,,,,-0.2799999999999727,0.5,0,False,True,2
+289,5ee391b86d4aaf01d972a327,1479.13,1479.4,I don't,,0,,,,-0.209999999999809,0.2699999999999818,0,False,True,3
+290,5eebc4bdbc56df3150e4ed27,1479.34,1479.54,to,,0,,,,-0.060000000000172804,0.20000000000004547,0,False,True,1
+291,5ee391b86d4aaf01d972a327,1479.4,1479.65,know who,,0,,,,-0.13999999999987267,0.25,0,False,True,2
+292,5eebc4bdbc56df3150e4ed27,1479.55,1480.86,I,,0,,,,-0.10000000000013642,1.3099999999999454,0,False,True,1
+293,5ee391b86d4aaf01d972a327,1479.65,1480.67,doesn't night ones.,,0,,,,-1.209999999999809,1.0199999999999818,0,False,True,4
+294,5eebc4bdbc56df3150e4ed27,1480.87,1491.67,"listened. I am definitely a fan of them. I don't blame them. That's hard though. Yeah, I don't,",Yeah.,1,5ee391b86d4aaf01d972a327,1489.94,1490.17,0.1999999999998181,10.800000000000182,0,False,False,21
+295,5ee391b86d4aaf01d972a327,1491.24,1499.27,Yeah. Especially growing up dinner was always a piece of meat. A potato or vegetable and now I don't know what to do.,"yes,",1,5eebc4bdbc56df3150e4ed27,1496.84,1497.35,-0.43000000000006366,8.029999999999973,0,False,True,24
+296,5eebc4bdbc56df3150e4ed27,1499.54,1529.96,"I try to not eat like a ton of meat or make a ton of meat just mostly for the fact that like it can get expensive. So like I try to like work around that, you know what I mean? So, but it's hard. It's hard. I feel. Yeah, it's like, that's, that's what my dinners were always growing up to like meet like rice, some kind of grain and vegetable actually.",Right. Yeah. Mm,3,5ee391b86d4aaf01d972a327,1515.74,1527.06,0.2699999999999818,30.420000000000073,1,False,False,78
+297,5ee391b86d4aaf01d972a327,1530.44,1539.56,Right. Yeah. We eat a lot of rights now and vegetables and helpful sometimes.,Yeah.,1,5eebc4bdbc56df3150e4ed27,1535.14,1535.67,0.4800000000000182,9.11999999999989,0,False,False,14
+298,5eebc4bdbc56df3150e4ed27,1539.14,1550.46,"Yeah. It's hard, it's just like hard to find things that are filling. Like we eat a lot of beans, you know that's a big one.",Yeah.,1,5ee391b86d4aaf01d972a327,1545.54,1546.16,-0.4199999999998454,11.319999999999936,0,False,True,29
+299,5ee391b86d4aaf01d972a327,1550.44,1552.42,I hate beans.,,0,,,,-0.01999999999998181,1.9800000000000182,0,False,True,3
+300,5eebc4bdbc56df3150e4ed27,1551.84,1552.67,Do you?,,0,,,,-0.5800000000001546,0.8300000000001546,1,True,True,2
+301,5ee391b86d4aaf01d972a327,1552.43,1554.27,I hate beans,,0,,,,-0.2400000000000091,1.8399999999999181,0,False,True,3
+302,5eebc4bdbc56df3150e4ed27,1553.24,1557.86,I don't blame you there. So boring. But,,0,,,,-1.0299999999999727,4.619999999999891,0,False,True,9
+303,5ee391b86d4aaf01d972a327,1557.94,1564.36,"and he always likes going on for mexican and everything has white rice and big things and I just, I can't",,0,,,,0.08000000000015461,6.419999999999845,0,False,False,22
+304,5eebc4bdbc56df3150e4ed27,1564.34,1567.51,do you like any mexican food then? Because I feel like a lot of it,"yeah,",1,5ee391b86d4aaf01d972a327,1564.94,1565.65,-0.01999999999998181,3.1700000000000728,1,False,True,15
+305,5ee391b86d4aaf01d972a327,1567.44,1568.25,some,,0,,,,-0.06999999999993634,0.8099999999999454,0,False,True,1
+306,5eebc4bdbc56df3150e4ed27,1567.52,1568.33,is rice,,0,,,,-0.7300000000000182,0.8099999999999454,0,False,True,2
+307,5ee391b86d4aaf01d972a327,1568.25,1568.5,like,,0,,,,-0.07999999999992724,0.25,0,False,True,1
+308,5eebc4bdbc56df3150e4ed27,1568.33,1568.77,and beef.,,0,,,,-0.17000000000007276,0.44000000000005457,0,False,True,2
+309,5ee391b86d4aaf01d972a327,1568.5,1570.17,"I like, I like meat and cheese.",,0,,,,-0.2699999999999818,1.6700000000000728,0,False,True,7
+310,5eebc4bdbc56df3150e4ed27,1569.74,1624.44,"Yeah. Yeah. Yeah. You could do some kind of like, I don't know like burrito situation at home or like taco situation where you can mostly do meat and cheese and then he can have like rice and beans whatever or your frozen shoot. Oh, there you are. Yeah.",,0,,,,-0.43000000000006366,54.700000000000045,0,False,True,50
+311,5ee391b86d4aaf01d972a327,1624.74,1628.27,Uh huh. Very fresh that I don't know if that hurts me or not.,Uh huh.,1,5eebc4bdbc56df3150e4ed27,1627.84,1628.04,0.2999999999999545,3.5299999999999727,0,False,False,15
+312,5eebc4bdbc56df3150e4ed27,1628.54,1647.22,"I don't think so. I think as long as you don't close it, hopefully it's okay, fingers fast but should be all right. Yes. Oh, but what I was thinking was you could do some kind of like taco situation where you have more meat and cheese and then he can have like rice and beans in it, you know what",Uh huh. Right.,2,5ee391b86d4aaf01d972a327,1634.24,1637.56,0.2699999999999818,18.680000000000064,0,False,False,64
+313,5ee391b86d4aaf01d972a327,1647.14,1647.77,Hey.,,0,,,,-0.07999999999992724,0.6299999999998818,0,False,True,1
+314,5eebc4bdbc56df3150e4ed27,1647.22,1648.86,I mean like?,,0,,,,-0.5499999999999545,1.6399999999998727,1,True,True,3
+315,5ee391b86d4aaf01d972a327,1648.94,1656.86,"Yeah. So he gets the fake me, they make a fake ground meat. They're actually really good.",Oh really?,2,5eebc4bdbc56df3150e4ed27,1652.64,1653.77,0.08000000000015461,7.919999999999845,0,False,False,18
+316,5eebc4bdbc56df3150e4ed27,1656.44,1657.76,"Wait, really? What kind?",,0,,,,-0.4199999999998454,1.3199999999999363,2,True,True,4
+317,5ee391b86d4aaf01d972a327,1657.64,1661.77,"The Morningstar farms ones, they come into green pack, they're frozen",Oh.,1,5eebc4bdbc56df3150e4ed27,1659.44,1660.67,-0.11999999999989086,4.129999999999882,0,False,True,12
+318,5eebc4bdbc56df3150e4ed27,1662.04,1663.11,"Oh, I've seen",,0,,,,0.2699999999999818,1.0699999999999363,0,False,False,4
+319,5ee391b86d4aaf01d972a327,1662.84,1663.46,and images,,0,,,,-0.2699999999999818,0.6200000000001182,0,False,True,2
+320,5eebc4bdbc56df3150e4ed27,1663.12,1663.98,the like,,0,,,,-0.3400000000001455,0.8600000000001273,0,False,True,2
+321,5ee391b86d4aaf01d972a327,1663.46,1664.85,them up with cheese.,,0,,,,-0.5199999999999818,1.3899999999998727,0,False,True,4
+322,5eebc4bdbc56df3150e4ed27,1663.99,1672.77,"oh that's so smart. Remember had I've had the bacon, one of the Morningstar farms, I think I've like tried a piece of it.",,0,,,,-0.8599999999999,8.779999999999973,0,False,True,27
+323,5ee391b86d4aaf01d972a327,1672.64,1674.95,Yeah. He said the bacon wasn't very good,"Yeah,",1,5eebc4bdbc56df3150e4ed27,1674.44,1675.56,-0.12999999999988177,2.3099999999999454,0,False,True,9
+324,5eebc4bdbc56df3150e4ed27,1675.57,1677.67,"I didn't like that much, but",,0,,,,0.6199999999998909,2.1000000000001364,0,False,False,7
+325,5ee391b86d4aaf01d972a327,1677.83,1680.96,and,,0,,,,0.15999999999985448,3.130000000000109,0,False,False,1
+326,5eebc4bdbc56df3150e4ed27,1678.24,1680.76,that's a smart idea.,,0,,,,-2.7200000000000273,2.519999999999982,0,False,True,5
+327,5ee391b86d4aaf01d972a327,1681.34,1683.27,he gets these eggs sausages.,,0,,,,0.5799999999999272,1.9300000000000637,0,False,False,5
+328,5eebc4bdbc56df3150e4ed27,1682.24,1686.46,"Oh, that's so smart.",,0,,,,-1.0299999999999727,4.220000000000027,0,False,True,5
+329,5ee391b86d4aaf01d972a327,1684.64,1686.35,Those are really good.,,0,,,,-1.8199999999999363,1.709999999999809,0,False,True,4
+330,5eebc4bdbc56df3150e4ed27,1687.14,1693.75,That hopefully makes it a little bit easier to like make meals with that. Yeah.,Mhm. Yeah. Yeah.,3,5ee391b86d4aaf01d972a327,1689.74,1693.88,0.790000000000191,6.6099999999999,0,False,False,15
+331,5ee391b86d4aaf01d972a327,1693.89,1695.17,"Yeah, absolutely.",,0,,,,0.14000000000010004,1.2799999999999727,0,False,False,2
+332,5eebc4bdbc56df3150e4ed27,1695.94,1696.44,Yeah.,,0,,,,0.7699999999999818,0.5,0,False,False,1
+333,5ee391b86d4aaf01d972a327,1696.64,1699.76,"I mean they're not the same, but they're so good,",Right.,1,5eebc4bdbc56df3150e4ed27,1698.34,1698.96,0.20000000000004547,3.119999999999891,0,False,False,12
+334,5eebc4bdbc56df3150e4ed27,1699.44,1705.46,It's still right. Right. He's not all the way like vegan. Right.,wow.,1,5ee391b86d4aaf01d972a327,1704.14,1704.35,-0.31999999999993634,6.019999999999982,0,False,True,14
+335,5ee391b86d4aaf01d972a327,1705.94,1706.6,"No,",,0,,,,0.4800000000000182,0.6599999999998545,0,False,False,1
+336,5eebc4bdbc56df3150e4ed27,1706.44,1707.89,"No,",,0,,,,-0.15999999999985448,1.4500000000000455,0,False,True,1
+337,5ee391b86d4aaf01d972a327,1706.61,1708.77,"no, we","God,",1,5eebc4bdbc56df3150e4ed27,1707.9,1708.45,-1.2800000000002,2.160000000000082,0,False,True,2
+338,5eebc4bdbc56df3150e4ed27,1708.45,1709.86,no. Mhm.,Mhm.,1,5ee391b86d4aaf01d972a327,1709.34,1709.67,-0.31999999999993634,1.4099999999998545,0,False,True,2
+339,5ee391b86d4aaf01d972a327,1710.04,1711.96,I couldn't live without eating cheese.,,0,,,,0.18000000000006366,1.9200000000000728,0,False,False,7
+340,5eebc4bdbc56df3150e4ed27,1711.64,1730.27,"Oh my God, I live for cheese. I I live for it. I had so much cheese for dinner last night but I was going to sleep and I was like, well I can feel it like in my throat so it was so worth it. What's your favorite?",Yeah. Yeah. Yeah.,3,5ee391b86d4aaf01d972a327,1723.34,1729.27,-0.31999999999993634,18.62999999999988,1,True,True,50
+341,5ee391b86d4aaf01d972a327,1730.04,1732.86,Yeah. I'm furthers times we've just eaten cheese for dinner.,,0,,,,-0.2300000000000182,2.8199999999999363,0,False,True,12
+342,5eebc4bdbc56df3150e4ed27,1732.64,1744.94,"Oh yeah, that was, that's the dream. Honestly, like a glass of wine and cheese for dinner. Oh, that's all I need. You have a favorite cheese. Yeah.",Uh huh. Yeah. Yeah.,3,5ee391b86d4aaf01d972a327,1736.64,1743.67,-0.2199999999997999,12.299999999999955,0,False,True,30
+343,5ee391b86d4aaf01d972a327,1746.84,1750.35,"I like blue trees, but I like it on my bacon burgers.",,0,,,,1.8999999999998636,3.509999999999991,0,False,False,12
+344,5eebc4bdbc56df3150e4ed27,1749.44,1762.17,"Oh, I hate jesus. That's like my, the only, jeez, I can't do. I recently have become okay with blue cheese dressing, like I don't like to like chunky stuff in it, but",Yeah. Yeah. Mhm. Okay.,4,5ee391b86d4aaf01d972a327,1752.16,1761.55,-0.9099999999998545,12.730000000000018,0,False,True,36
+345,5ee391b86d4aaf01d972a327,1762.84,1763.61,"Oh, that's the best",,0,,,,0.6699999999998454,0.7699999999999818,0,False,False,5
+346,5eebc4bdbc56df3150e4ed27,1763.54,1764.15,no.,,0,,,,-0.06999999999993634,0.6100000000001273,0,False,True,1
+347,5ee391b86d4aaf01d972a327,1763.61,1764.06,part.,,0,,,,-0.540000000000191,0.4500000000000455,0,False,True,1
+348,5eebc4bdbc56df3150e4ed27,1764.16,1781.77,"Oh God, that's what my mom says. Uh Well no, but oh God, no, no, no, no, no, it doesn't, it bother you like thinking about how you're eating like mold.",Yeah. Okay.,2,5ee391b86d4aaf01d972a327,1767.08,1777.36,0.10000000000013642,17.6099999999999,0,False,False,34
+349,5ee391b86d4aaf01d972a327,1782.24,1782.87,It tastes,,0,,,,0.4700000000000273,0.6299999999998818,0,False,False,2
+350,5eebc4bdbc56df3150e4ed27,1782.74,1783.06,"Well,",,0,,,,-0.12999999999988177,0.31999999999993634,0,False,True,1
+351,5ee391b86d4aaf01d972a327,1782.87,1784.96,"good. I eat mushrooms. I mean,","okay,",1,5eebc4bdbc56df3150e4ed27,1783.54,1784.69,-0.19000000000005457,2.0900000000001455,0,False,True,6
+352,5eebc4bdbc56df3150e4ed27,1784.69,1791.85,"that's true. I do eat mushrooms. Oh no, now I'm gonna be freaking out about mushrooms.",Yes.,1,5ee391b86d4aaf01d972a327,1790.24,1790.45,-0.2699999999999818,7.1599999999998545,0,False,True,19
+353,5ee391b86d4aaf01d972a327,1791.14,1801.46,Uh there's a little baby dove. I don't know if you consume or not,Yeah. Oh.,2,5eebc4bdbc56df3150e4ed27,1796.74,1799.56,-0.709999999999809,10.319999999999936,0,False,True,16
+354,5eebc4bdbc56df3150e4ed27,1801.34,1804.94,"Oh, I see. Oh, so cute. Yeah.",,0,,,,-0.12000000000011823,3.6000000000001364,0,False,True,7
+355,5ee391b86d4aaf01d972a327,1805.64,1806.27,or,,0,,,,0.7000000000000455,0.6299999999998818,0,False,False,1
+356,5eebc4bdbc56df3150e4ed27,1806.24,1812.08,"Oh, that's a terrible. I just",Okay.,1,5ee391b86d4aaf01d972a327,1811.14,1811.46,-0.029999999999972715,5.839999999999918,0,False,True,7
+357,5ee391b86d4aaf01d972a327,1811.94,1812.95,Training,,0,,,,-0.13999999999987267,1.009999999999991,0,False,True,1
+358,5eebc4bdbc56df3150e4ed27,1812.08,1813.06,love animals.,,0,,,,-0.8700000000001182,0.9800000000000182,0,False,True,2
+359,5ee391b86d4aaf01d972a327,1812.95,1814.36,outside. I think you got what?,,0,,,,-0.10999999999989996,1.4099999999998545,1,True,True,6
+360,5eebc4bdbc56df3150e4ed27,1814.54,1816.06,Oh no. Is he okay?,,0,,,,0.18000000000006366,1.5199999999999818,1,True,False,5
+361,5ee391b86d4aaf01d972a327,1817.34,1819.86,"Yeah, it looks fine.",,0,,,,1.2799999999999727,2.519999999999982,0,False,False,4
+362,5eebc4bdbc56df3150e4ed27,1819.54,1820.05,"Sorry,",,0,,,,-0.31999999999993634,0.5099999999999909,0,False,True,1
+363,5ee391b86d4aaf01d972a327,1820.54,1821.56,The small.,,0,,,,0.4900000000000091,1.0199999999999818,0,False,False,2
+364,5eebc4bdbc56df3150e4ed27,1821.44,1830.56,"you just small? How cute. Oh, I love animals. Oh","Mhm. Yeah. Yeah,",3,5ee391b86d4aaf01d972a327,1823.84,1830.36,-0.11999999999989086,9.11999999999989,1,False,True,10
+365,5ee391b86d4aaf01d972a327,1830.36,1832.84,he's just real,,0,,,,-0.20000000000004547,2.480000000000018,0,False,True,4
+366,5eebc4bdbc56df3150e4ed27,1831.84,1832.25,he's,,0,,,,-1.0,0.41000000000008185,0,False,True,2
+367,5ee391b86d4aaf01d972a327,1832.84,1834.86,smaller there.,,0,,,,0.5899999999999181,2.019999999999982,0,False,False,2
+368,5eebc4bdbc56df3150e4ed27,1834.54,1840.36,Yeah. Oh so cute. That's so sweet.,,0,,,,-0.31999999999993634,5.819999999999936,0,False,True,8
+369,5ee391b86d4aaf01d972a327,1842.84,1848.56,We have a awning here and have a bird's nest up in the awning that they built,,0,,,,2.480000000000018,5.720000000000027,0,False,False,18
+370,5eebc4bdbc56df3150e4ed27,1848.54,1853.88,That's so nice. I love that you have this like awning situation,"right,",1,5ee391b86d4aaf01d972a327,1849.04,1849.36,-0.01999999999998181,5.3400000000001455,0,False,True,13
+371,5ee391b86d4aaf01d972a327,1855.14,1860.58,"our mailbox, we've had birds in there. I",really,1,5eebc4bdbc56df3150e4ed27,1856.94,1857.96,1.259999999999991,5.439999999999827,0,False,False,9
+372,5eebc4bdbc56df3150e4ed27,1860.44,1860.92,after.,,0,,,,-0.13999999999987267,0.4800000000000182,0,False,True,1
+373,5ee391b86d4aaf01d972a327,1860.59,1872.55,"said to my boyfriend, what are you putting sticks in the mailbox? He said, I don't know why would I put sticks in the mailbox because it was it wasn't being used at the time. And when I said that a bird fluid.",Yes. Uh huh.,3,5eebc4bdbc56df3150e4ed27,1864.24,1870.54,-0.3300000000001546,11.960000000000036,1,False,True,45
+374,5eebc4bdbc56df3150e4ed27,1872.04,1876.96,But you're like oh that's hilarious. Your cracks.,"Yeah,",1,5ee391b86d4aaf01d972a327,1873.64,1874.05,-0.5099999999999909,4.920000000000073,0,False,True,10
+375,5ee391b86d4aaf01d972a327,1876.64,1880.12,that makes more sense than I want to fill it out with sticks.,Yes,1,5eebc4bdbc56df3150e4ed27,1879.34,1879.69,-0.31999999999993634,3.479999999999791,0,False,True,13
+376,5eebc4bdbc56df3150e4ed27,1879.69,1886.85,it is. Someone's pulling this like really subtle prank on you. That's hilarious. At my,,0,,,,-0.4299999999998363,7.1599999999998545,0,False,True,17
+377,5ee391b86d4aaf01d972a327,1886.74,1887.76,Just,,0,,,,-0.10999999999989996,1.0199999999999818,0,False,True,1
+378,5eebc4bdbc56df3150e4ed27,1886.85,1887.95,parents house.,,0,,,,-0.9100000000000819,1.1000000000001364,0,False,True,2
+379,5ee391b86d4aaf01d972a327,1887.76,1888.78,"adding sticks,",,0,,,,-0.19000000000005457,1.0199999999999818,0,False,True,2
+380,5eebc4bdbc56df3150e4ed27,1888.44,1925.77,"Yeah just like one by one the sticks at my parents house, they have like a big glass window that has some trees outside of it. And and one day like like last spring I think whatever. Last year we started to see a bird's nest forming and then she would like send me pictures and then start to see the the yeah it was cool like see them on like bring stuff to build a nest and then the eggs and then eggs hatch and you see the baby birds and she feeds them. It was so cool to watch the different stages. Mhm.",wow.,1,5ee391b86d4aaf01d972a327,1911.24,1912.26,-0.33999999999991815,37.32999999999993,0,False,True,106
+381,5ee391b86d4aaf01d972a327,1927.04,1937.85,"Yeah, he's still was kind of like out of the way where we don't really look at it. So we don't, I go and look every once in a while but better when it's outside of a window. So come on.",Yeah.,1,5eebc4bdbc56df3150e4ed27,1933.14,1933.67,1.2699999999999818,10.809999999999945,0,False,False,45
+382,5eebc4bdbc56df3150e4ed27,1937.44,1941.86,Yeah. For sure. Let's see.,Yeah.,1,5ee391b86d4aaf01d972a327,1941.14,1941.34,-0.4099999999998545,4.419999999999845,0,False,True,6
+383,5ee391b86d4aaf01d972a327,1942.04,1953.05,Play a little buddy. He's still just worse here.,,0,,,,0.18000000000006366,11.009999999999991,0,False,False,10
+384,5eebc4bdbc56df3150e4ed27,1952.34,1954.42,Oh probably is hiding.,,0,,,,-0.7100000000000364,2.0800000000001546,0,False,True,4
+385,5ee391b86d4aaf01d972a327,1954.04,1960.85,Oh he's he's way out on the lake. Yeah he's like way in the corner there.,Yeah.,1,5eebc4bdbc56df3150e4ed27,1957.24,1958.04,-0.38000000000010914,6.809999999999945,0,False,True,19
+386,5eebc4bdbc56df3150e4ed27,1960.44,1971.96,Yeah. It's so cute cole Well it was so nice to meet you. I think we're supposed to do 25 minutes. Is that right?,Oh. Mhm. Yeah. Yeah true.,4,5ee391b86d4aaf01d972a327,1962.14,1970.27,-0.4099999999998545,11.519999999999982,1,True,True,26
+387,5ee391b86d4aaf01d972a327,1972.34,1973.05,That sounds about,,0,,,,0.37999999999988177,0.7100000000000364,0,False,False,3
+388,5eebc4bdbc56df3150e4ed27,1972.94,1979.67,I think it was 25 years. It's been about that definitely been at least 25.,right. Okay.,2,5ee391b86d4aaf01d972a327,1973.05,1976.55,-0.10999999999989996,6.730000000000018,0,False,True,16
+389,5ee391b86d4aaf01d972a327,1980.44,1983.44,Yeah. It feels like it well it doesn't feel,,0,,,,0.7699999999999818,3.0,0,False,False,10
+390,5eebc4bdbc56df3150e4ed27,1983.34,1984.54,I,,0,,,,-0.10000000000013642,1.2000000000000455,0,False,True,1
+391,5ee391b86d4aaf01d972a327,1983.44,1984.06,like it but,,0,,,,-1.099999999999909,0.6199999999998909,0,False,True,3
+392,5eebc4bdbc56df3150e4ed27,1984.55,1984.66,know,,0,,,,0.4900000000000091,0.11000000000012733,0,False,False,1
+393,5ee391b86d4aaf01d972a327,1984.64,1984.85,what,,0,,,,-0.01999999999998181,0.209999999999809,0,False,True,1
+394,5eebc4bdbc56df3150e4ed27,1984.66,1988.03,"what you mean, the words super nice to meet",,0,,,,-0.1899999999998272,3.369999999999891,0,False,True,9
+395,5ee391b86d4aaf01d972a327,1987.94,1989.05,so,,0,,,,-0.08999999999991815,1.1099999999999,0,False,True,1
+396,5eebc4bdbc56df3150e4ed27,1988.03,1989.25,you. Yeah.,,0,,,,-1.0199999999999818,1.2200000000000273,0,False,True,2
+397,5ee391b86d4aaf01d972a327,1989.74,1997.1,No you to this morning I woke up and there was a deer laying. Well we're here but it will swing,Yeah. Really?,2,5eebc4bdbc56df3150e4ed27,1990.24,1994.67,0.4900000000000091,7.3599999999999,0,False,False,22
+398,5eebc4bdbc56df3150e4ed27,1996.84,1997.26,"Oh my gosh,",,0,,,,-0.2599999999999909,0.42000000000007276,0,False,True,3
+399,5ee391b86d4aaf01d972a327,1997.1,1997.36,set.,,0,,,,-0.16000000000008185,0.2599999999999909,0,False,True,1
+400,5eebc4bdbc56df3150e4ed27,1997.26,2008.46,"I'm so jealous with all of these like little animals you have around. It's like a I don't know, some like Disney princess crap or something.",,0,,,,-0.09999999999990905,11.200000000000045,0,False,True,29
+401,5ee391b86d4aaf01d972a327,2007.24,2013.17,I have a squirrel that comes in each peanuts out of my hand.,,0,,,,-1.2200000000000273,5.930000000000064,0,False,True,13
+402,5eebc4bdbc56df3150e4ed27,2012.14,2015.86,Stop it. Seriously. That's my dream.,,0,,,,-1.0299999999999727,3.7199999999998,0,False,True,7
+403,5ee391b86d4aaf01d972a327,2016.44,2018.21,So,,0,,,,0.5800000000001546,1.7699999999999818,0,False,False,1
+404,5eebc4bdbc56df3150e4ed27,2016.64,2018.05,I'm so jealous.,,0,,,,-1.5699999999999363,1.4099999999998545,0,False,True,4
+405,5ee391b86d4aaf01d972a327,2018.21,2027.17,I started buying a bunch of peanuts and I feed I thought peanuts out when she started coming around me. I got finger falls of peanut butter,Yeah.,1,5eebc4bdbc56df3150e4ed27,2019.54,2020.25,0.16000000000008185,8.960000000000036,0,False,False,27
+406,5eebc4bdbc56df3150e4ed27,2026.94,2028.17,Oh my gosh that's,,0,,,,-0.2300000000000182,1.2300000000000182,0,False,True,5
+407,5ee391b86d4aaf01d972a327,2028.44,2030.78,and she comes and eats the peanut,,0,,,,0.2699999999999818,2.339999999999918,0,False,False,7
+408,5eebc4bdbc56df3150e4ed27,2030.74,2031.07,wait,,0,,,,-0.03999999999996362,0.32999999999992724,0,False,True,1
+409,5ee391b86d4aaf01d972a327,2030.78,2031.17,butter.,,0,,,,-0.2899999999999636,0.39000000000010004,0,False,True,1
+410,5eebc4bdbc56df3150e4ed27,2031.07,2041.04,that's hilarious. That's so cute. These are all the reasons why I wanna backyard. Oh,,0,,,,-0.10000000000013642,9.970000000000027,0,False,True,17
+411,5ee391b86d4aaf01d972a327,2039.64,2040.06,Keep,,0,,,,-1.3999999999998636,0.4199999999998454,0,False,True,1
+412,5eebc4bdbc56df3150e4ed27,2041.04,2048.76,"stop it. Oh I'm so jealous. Oh my gosh, they're so cute. Is she holding her hands",Uh huh.,1,5ee391b86d4aaf01d972a327,2046.94,2047.26,0.9800000000000182,7.720000000000255,0,False,False,19
+413,5ee391b86d4aaf01d972a327,2050.74,2051.67,Well I was holding her,,0,,,,1.9799999999995634,0.930000000000291,0,False,False,5
+414,5eebc4bdbc56df3150e4ed27,2051.64,2051.9,"well,",,0,,,,-0.03000000000020009,0.2600000000002183,0,False,True,1
+415,5ee391b86d4aaf01d972a327,2051.67,2053.35,hand.,,0,,,,-0.2300000000000182,1.6799999999998363,0,False,True,1
+416,5eebc4bdbc56df3150e4ed27,2051.9,2057.46,"yeah, you're right. I'm just, I'm just wishful thinking she's grabbing on.","Yeah,",1,5ee391b86d4aaf01d972a327,2053.84,2055.06,-1.449999999999818,5.559999999999945,0,False,True,16
+417,5ee391b86d4aaf01d972a327,2057.34,2059.03,I just want to just scratch,,0,,,,-0.11999999999989086,1.6900000000000546,0,False,True,6
+418,5eebc4bdbc56df3150e4ed27,2058.84,2059.26,I am,,0,,,,-0.19000000000005457,0.42000000000007276,0,False,True,2
+419,5ee391b86d4aaf01d972a327,2059.03,2059.41,her.,,0,,,,-0.2300000000000182,0.3799999999996544,0,False,True,1
+420,5eebc4bdbc56df3150e4ed27,2059.26,2059.68,"just,",,0,,,,-0.1499999999996362,0.419999999999618,0,False,True,1
+421,5ee391b86d4aaf01d972a327,2059.42,2060.76,She won't let me scratch her.,"oh,",1,5eebc4bdbc56df3150e4ed27,2059.69,2061.21,-0.25999999999976353,1.3400000000001455,0,False,True,7
+422,5eebc4bdbc56df3150e4ed27,2061.22,2064.53,you'll get there. I assume she still comes around.,,0,,,,0.45999999999958163,3.3100000000004,0,False,False,10
+423,5ee391b86d4aaf01d972a327,2064.14,2066.47,I hope so. Yeah,Oh yeah.,1,5eebc4bdbc56df3150e4ed27,2064.54,2065.25,-0.3900000000003274,2.3299999999999272,0,False,True,4
+424,5eebc4bdbc56df3150e4ed27,2066.04,2067.36,"Oh yeah, you'll get there.",,0,,,,-0.4299999999998363,1.3200000000001637,0,False,True,6
+425,5ee391b86d4aaf01d972a327,2067.04,2069.67,she had babies somewhere. I think they're grown now. But,Oh,1,5eebc4bdbc56df3150e4ed27,2069.34,2069.55,-0.3200000000001637,2.630000000000109,0,False,True,11
+426,5eebc4bdbc56df3150e4ed27,2069.55,2075.95,"my gosh, I do it. Oh my gosh. I need a background, but I need a squirrel and",yeah. Mhm.,2,5ee391b86d4aaf01d972a327,2070.44,2073.47,-0.11999999999989086,6.399999999999636,0,False,True,18
+427,5ee391b86d4aaf01d972a327,2075.94,2076.96,Hi,,0,,,,-0.009999999999763531,1.0199999999999818,0,False,True,1
+428,5eebc4bdbc56df3150e4ed27,2075.96,2081.55,feed. Oh my gosh. Oh my gosh. Well,,0,,,,-1.0,5.5900000000001455,0,False,True,8
+429,5ee391b86d4aaf01d972a327,2081.44,2085.06,one last thing before I let you go,,0,,,,-0.11000000000012733,3.619999999999891,0,False,True,8
+430,5eebc4bdbc56df3150e4ed27,2084.94,2085.66,he,,0,,,,-0.11999999999989086,0.7199999999997999,0,False,True,1
+431,5ee391b86d4aaf01d972a327,2085.74,2087.55,it runs in my family. I'm,,0,,,,0.07999999999992724,1.8100000000004002,0,False,False,7
+432,5eebc4bdbc56df3150e4ed27,2087.44,2087.92,"no,",,0,,,,-0.11000000000012733,0.4800000000000182,0,False,True,1
+433,5ee391b86d4aaf01d972a327,2087.55,2088.17,sorry.,,0,,,,-0.36999999999989086,0.6199999999998909,0,False,True,1
+434,5eebc4bdbc56df3150e4ed27,2087.92,2089.17,I love it. Are you kidding?,,0,,,,-0.25,1.25,1,True,True,6
+435,5ee391b86d4aaf01d972a327,2088.74,2100.66,We're actually planning on going to over by Penn State at some point. There's um a cave over there and you got to take a boat ride through the cave.,Okay.,1,5eebc4bdbc56df3150e4ed27,2097.44,2098.36,-0.43000000000029104,11.920000000000073,0,False,True,32
+436,5eebc4bdbc56df3150e4ed27,2100.64,2103.92,Oh really? I've never heard of this.,Yes,1,5ee391b86d4aaf01d972a327,2103.04,2103.85,-0.01999999999998181,3.2800000000002,1,False,True,8
+437,5ee391b86d4aaf01d972a327,2106.54,2112.88,puns cavern I think it's called. That's it's really cool.,"Okay. Oh,",1,5eebc4bdbc56df3150e4ed27,2108.64,2110.86,2.619999999999891,6.3400000000001455,0,False,False,13
+438,5eebc4bdbc56df3150e4ed27,2112.34,2113.36,that's also,,0,,,,-0.5399999999999636,1.0199999999999818,0,False,True,3
+439,5ee391b86d4aaf01d972a327,2112.89,2114.97,I just have the pictures on google so,,0,,,,-0.47000000000025466,2.0799999999999272,0,False,True,8
+440,5eebc4bdbc56df3150e4ed27,2114.54,2120.3,that's awesome. I'm definitely going to have to look into it. We don't know. He's actually a,Yeah.,1,5ee391b86d4aaf01d972a327,2118.64,2119.35,-0.4299999999998363,5.760000000000218,0,False,True,21
+441,5ee391b86d4aaf01d972a327,2119.94,2120.17,Uh huh.,,0,,,,-0.36000000000012733,0.2300000000000182,0,False,True,2
+442,5eebc4bdbc56df3150e4ed27,2120.31,2125.42,season ticket holder. Penn State Football like loves it. So we're up there,Uh huh.,1,5ee391b86d4aaf01d972a327,2120.64,2120.84,0.13999999999987267,5.110000000000127,0,False,False,14
+443,5ee391b86d4aaf01d972a327,2125.34,2126.26,That's cool.,a lot,1,5eebc4bdbc56df3150e4ed27,2125.43,2125.9,-0.07999999999992724,0.9200000000000728,0,False,True,3
+444,5eebc4bdbc56df3150e4ed27,2125.9,2129.46,during football season. Uh huh.,,0,,,,-0.36000000000012733,3.5599999999999454,0,False,True,5
+445,5ee391b86d4aaf01d972a327,2129.34,2133.17,Yeah they're supposed to be playing college football so.,"Yeah,",1,5eebc4bdbc56df3150e4ed27,2132.54,2132.86,-0.11999999999989086,3.8299999999999272,0,False,True,10
+446,5eebc4bdbc56df3150e4ed27,2132.87,2139.17,we'll see if it happens. I don't know. I honestly don't know. So that's so cool though.,Yeah. Yeah,2,5ee391b86d4aaf01d972a327,2135.14,2136.75,-0.3000000000001819,6.300000000000182,0,False,True,21
+447,5ee391b86d4aaf01d972a327,2139.24,2148.25,Yeah all this stuff all this stuff we usually do over the summer has been cancelled so trying to find something else to do. Oh.,"Yeah, exactly. Exactly. Exactly. Exactly.",3,5eebc4bdbc56df3150e4ed27,2143.04,2149.97,0.06999999999970896,9.010000000000218,0,False,False,25
+448,5eebc4bdbc56df3150e4ed27,2150.34,2155.05,"All right. I think I'm gonna go make dinner getting really hungry, especially after talking",Oh,1,5ee391b86d4aaf01d972a327,2151.84,2152.05,2.0900000000001455,4.710000000000036,0,False,False,17
+449,5ee391b86d4aaf01d972a327,2154.94,2155.19,that,,0,,,,-0.11000000000012733,0.25,0,False,True,1
+450,5eebc4bdbc56df3150e4ed27,2155.05,2155.41,about,,0,,,,-0.13999999999987267,0.3599999999996726,0,False,True,1
+451,5ee391b86d4aaf01d972a327,2155.19,2155.42,sounds,,0,,,,-0.2199999999997999,0.2300000000000182,0,False,True,1
+452,5eebc4bdbc56df3150e4ed27,2155.41,2155.72,food,,0,,,,-0.010000000000218279,0.30999999999994543,0,False,True,1
+453,5ee391b86d4aaf01d972a327,2155.42,2156.17,a good idea.,,0,,,,-0.29999999999972715,0.75,0,False,True,3
+454,5eebc4bdbc56df3150e4ed27,2155.72,2160.43,with you. It was so nice to meet you and give your animals all like,Yeah. Yeah.,2,5ee391b86d4aaf01d972a327,2156.54,2160.32,-0.45000000000027285,4.710000000000036,0,False,True,15
+455,5ee391b86d4aaf01d972a327,2160.32,2160.52,You,,0,,,,-0.10999999999967258,0.1999999999998181,0,False,True,1
+456,5eebc4bdbc56df3150e4ed27,2160.44,2160.83,extra,,0,,,,-0.07999999999992724,0.38999999999987267,0,False,True,1
+457,5ee391b86d4aaf01d972a327,2160.52,2161.17,too.,,0,,,,-0.30999999999994543,0.650000000000091,0,False,True,1
+458,5eebc4bdbc56df3150e4ed27,2160.83,2167.06,pets for me and give them like Kiffin's. Yes. I have a great rest of your night.,Oh absolutely.,1,5ee391b86d4aaf01d972a327,2162.84,2166.17,-0.3400000000001455,6.230000000000018,0,False,True,18
+459,5ee391b86d4aaf01d972a327,2166.74,2169.35,And yeah you too.,,0,,,,-0.3200000000001637,2.6100000000001273,0,False,True,4
+460,5eebc4bdbc56df3150e4ed27,2168.74,2169.36,Hi.,,0,,,,-0.6100000000001273,0.6200000000003456,0,False,True,1
+461,5ee391b86d4aaf01d972a327,2169.45,2170.28,I'm crystal by,"Oh,",1,5eebc4bdbc56df3150e4ed27,2170.04,2170.25,0.08999999999969077,0.830000000000382,0,False,False,4
+462,5eebc4bdbc56df3150e4ed27,2170.25,2170.42,I'm,,0,,,,-0.03000000000020009,0.17000000000007276,0,False,True,2
+463,5ee391b86d4aaf01d972a327,2170.28,2170.85,the way.,,0,,,,-0.13999999999987267,0.569999999999709,0,False,True,2
+464,5eebc4bdbc56df3150e4ed27,2170.42,2176.44,"Rachel. I can't believe I never said crystal. So nice to meet you. Well, maybe we'll run into each other around",Uh huh.,1,5ee391b86d4aaf01d972a327,2172.34,2175.15,-0.4299999999998363,6.019999999999982,0,False,True,23
+465,5ee391b86d4aaf01d972a327,2176.24,2176.45,Hey,,0,,,,-0.20000000000027285,0.21000000000003638,0,False,True,1
+466,5eebc4bdbc56df3150e4ed27,2176.44,2176.66,Penn,,0,,,,-0.009999999999763531,0.2199999999997999,0,False,True,1
+467,5ee391b86d4aaf01d972a327,2176.45,2177.05,you too?,,0,,,,-0.21000000000003638,0.6000000000003638,1,True,True,2
+468,5eebc4bdbc56df3150e4ed27,2176.66,2179.27,"state or something. I'll be like, where do",Yeah,1,5ee391b86d4aaf01d972a327,2178.94,2179.18,-0.3900000000003274,2.6100000000001273,0,False,True,9
+469,5ee391b86d4aaf01d972a327,2179.18,2179.34,that'd,,0,,,,-0.09000000000014552,0.16000000000030923,0,False,True,2
+470,5eebc4bdbc56df3150e4ed27,2179.27,2184.31,"I know her from? All right, Delete",be cool. Yeah.,2,5ee391b86d4aaf01d972a327,2179.34,2182.46,-0.07000000000016371,5.039999999999964,1,False,True,7
+471,5ee391b86d4aaf01d972a327,2184.24,2184.56,All,,0,,,,-0.07000000000016371,0.3200000000001637,0,False,True,1
+472,5eebc4bdbc56df3150e4ed27,2184.31,2185.47,or have a good night.,right,1,5ee391b86d4aaf01d972a327,2184.56,2185.69,-0.25,1.1599999999998545,0,False,True,5
+473,5ee391b86d4aaf01d972a327,2185.7,2186.61,bye.,,0,,,,0.2300000000000182,0.9100000000003092,0,False,False,1
+474,5eebc4bdbc56df3150e4ed27,2186.04,2186.55,Bye.,,0,,,,-0.5700000000001637,0.5100000000002183,0,False,True,1

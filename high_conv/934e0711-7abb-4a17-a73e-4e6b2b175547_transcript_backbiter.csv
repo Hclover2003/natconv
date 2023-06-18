@@ -1,0 +1,410 @@
+turn_id,speaker,start,stop,utterance,backchannel,backchannel_count,backchannel_speaker,backchannel_start,backchannel_stop,interval,delta,questions,end_question,overlap,n_words
+0,5ca6bbf13b5fcf00100996e9,3.64,89.46,"this thing 123 he's working? Okay. Mhm. Yeah, mm. Mhm, mm. Mhm. The company? Yeah. Yeah. Mhm. Yeah. Yeah. You know. Yeah. Mhm. The report. Hi.",a,1,5f14cf327627fb00097f9a8a,86.54,88.36,,85.82,2,False,False,27
+1,5f14cf327627fb00097f9a8a,89.24,91.86,"sorry, I",,0,,,,-0.21999999999999886,2.6200000000000045,0,False,True,2
+2,5ca6bbf13b5fcf00100996e9,90.84,91.86,Okay. It's a,,0,,,,-1.019999999999996,1.019999999999996,0,False,True,4
+3,5f14cf327627fb00097f9a8a,91.87,99.36,"only hit the next button and I'm like, oh my God, I think I would have figured this out. I start with this already.",yeah.,1,5ca6bbf13b5fcf00100996e9,95.34,96.14,0.010000000000005116,7.489999999999995,0,False,False,25
+4,5ca6bbf13b5fcf00100996e9,99.74,107.52,"Yeah, because I clicked it on like about 10 50 then I can I never read directions and then then it said like don't",,0,,,,0.37999999999999545,7.780000000000001,0,False,False,25
+5,5f14cf327627fb00097f9a8a,107.44,107.64,Don't,,0,,,,-0.0799999999999983,0.20000000000000284,0,False,True,2
+6,5ca6bbf13b5fcf00100996e9,107.52,107.74,don't,,0,,,,-0.12000000000000455,0.21999999999999886,0,False,True,2
+7,5f14cf327627fb00097f9a8a,107.64,107.76,do,,0,,,,-0.09999999999999432,0.12000000000000455,0,False,True,1
+8,5ca6bbf13b5fcf00100996e9,107.74,107.98,find,,0,,,,-0.020000000000010232,0.2400000000000091,0,False,True,1
+9,5f14cf327627fb00097f9a8a,107.76,108.0,it ahead,,0,,,,-0.21999999999999886,0.23999999999999488,0,False,True,2
+10,5ca6bbf13b5fcf00100996e9,107.98,108.16,it.,,0,,,,-0.01999999999999602,0.1799999999999926,0,False,True,1
+11,5f14cf327627fb00097f9a8a,108.0,109.06,of time.,,0,,,,-0.1599999999999966,1.0600000000000023,0,False,True,2
+12,5ca6bbf13b5fcf00100996e9,108.54,113.36,Yeah. So then I turned it off and I was scared like well that work again. But it did. Yeah.,,0,,,,-0.519999999999996,4.819999999999993,0,False,True,20
+13,5f14cf327627fb00097f9a8a,113.44,117.16,It did. How are you?,Uh huh. Um,2,5ca6bbf13b5fcf00100996e9,114.64,116.96,0.0799999999999983,3.719999999999999,1,True,False,5
+14,5ca6bbf13b5fcf00100996e9,117.44,120.46,I'm good. How are you it,,0,,,,0.28000000000000114,3.019999999999996,0,False,False,7
+15,5f14cf327627fb00097f9a8a,118.54,120.66,Not too bad. My name's angel.,,0,,,,-1.9199999999999875,2.1199999999999903,0,False,True,7
+16,5ca6bbf13b5fcf00100996e9,121.64,137.36,"sorry, just one second. You know what the fuck you're broadcasting now? Yeah. Anyway. Okay. Sorry?","Mm hmm. Yeah,",2,5f14cf327627fb00097f9a8a,124.64,127.94,0.980000000000004,15.720000000000013,2,True,False,17
+17,5f14cf327627fb00097f9a8a,137.74,138.36,no worries.,Um,1,5ca6bbf13b5fcf00100996e9,137.84,138.3,0.37999999999999545,0.6200000000000045,0,False,False,2
+18,5ca6bbf13b5fcf00100996e9,138.31,140.66,"Yeah, so I'm in florida",,0,,,,-0.05000000000001137,2.3499999999999943,0,False,True,6
+19,5f14cf327627fb00097f9a8a,141.04,143.95,"Are you me to me to worry about, whereabouts are you at","okay,",1,5ca6bbf13b5fcf00100996e9,142.34,142.96,0.37999999999999545,2.9099999999999966,0,False,False,12
+20,5ca6bbf13b5fcf00100996e9,144.54,146.16,I'm in Haines City.,,0,,,,0.5900000000000034,1.6200000000000045,0,False,False,5
+21,5f14cf327627fb00097f9a8a,146.54,151.04,Spain City? I'm in Pensacola. Yeah.,"Okay. Yeah,",1,5ca6bbf13b5fcf00100996e9,148.34,150.99,0.37999999999999545,4.5,1,False,False,7
+22,5ca6bbf13b5fcf00100996e9,151.0,155.67,so and like I recently went back to work which is kind of cool. There,Yeah. We,1,5f14cf327627fb00097f9a8a,154.74,155.46,-0.03999999999999204,4.6699999999999875,0,False,True,15
+23,5f14cf327627fb00097f9a8a,155.46,155.75,were out,,0,,,,-0.20999999999997954,0.28999999999999204,0,False,True,2
+24,5ca6bbf13b5fcf00100996e9,155.67,155.81,was,,0,,,,-0.0800000000000125,0.14000000000001478,0,False,True,1
+25,5f14cf327627fb00097f9a8a,155.75,155.86,for,,0,,,,-0.060000000000002274,0.11000000000001364,0,False,True,1
+26,5ca6bbf13b5fcf00100996e9,155.81,156.02,no,,0,,,,-0.05000000000001137,0.21000000000000796,0,False,True,1
+27,5f14cf327627fb00097f9a8a,155.86,157.26,"a while because of Covid,",yeah,1,5ca6bbf13b5fcf00100996e9,156.74,157.29,-0.1599999999999966,1.3999999999999773,0,False,True,5
+28,5ca6bbf13b5fcf00100996e9,157.3,181.65,"four months and and I just didn't I just didn't know and I still don't know because I'm back. But like it just seems like a little bit, I work at Seaworld so it's a it's a little bit rocky, we're not busy and it's just like they do wear reservations and stuff, but but I mean it's strange like it's like I'm working a lot, I'm getting over time so I'm making money and it just seems like it will keep on marching on.","wow. Yeah. Uh huh. Yeah, exactly.",5,5f14cf327627fb00097f9a8a,158.94,173.66,0.040000000000020464,24.349999999999994,0,False,False,98
+29,5f14cf327627fb00097f9a8a,181.94,214.45,"I know. I hope it. I hope so. I mean, I hope things start to little out, you know, a little bit. Um, I home school my 16 year old here at home and I work from home and I have a three year old as well. Um, which is, you know, it takes all my time. I barely have time to find work and my work is cut back. Some clients decided not to come to me for taxes this year, you know, because the money situation and things like that. So it's been hard, definitely an adjustment",Yeah. Mhm. Yeah. Okay.,4,5ca6bbf13b5fcf00100996e9,182.34,210.85,0.28999999999999204,32.50999999999999,0,False,False,100
+30,5ca6bbf13b5fcf00100996e9,214.24,214.56,What?,,0,,,,-0.20999999999997954,0.3199999999999932,1,True,True,1
+31,5f14cf327627fb00097f9a8a,214.45,221.56,"for all of us. I mean, I don't know if the world to go back to normal really. You know, I mean generally hopefully, but I mean there's so many","Yeah,",1,5ca6bbf13b5fcf00100996e9,221.14,221.41,-0.11000000000001364,7.110000000000014,0,False,True,32
+32,5ca6bbf13b5fcf00100996e9,221.41,221.68,I think,,0,,,,-0.15000000000000568,0.27000000000001023,0,False,True,2
+33,5f14cf327627fb00097f9a8a,221.56,222.26,things,,0,,,,-0.12000000000000455,0.6999999999999886,0,False,True,1
+34,5ca6bbf13b5fcf00100996e9,221.68,229.22,"it I think it will, but I think now people got introduced to wearing masks, so maybe some people will want",,0,,,,-0.5799999999999841,7.539999999999992,0,False,True,21
+35,5f14cf327627fb00097f9a8a,229.14,229.48,carry,,0,,,,-0.0800000000000125,0.3400000000000034,0,False,True,1
+36,5ca6bbf13b5fcf00100996e9,229.22,229.51,to keep,,0,,,,-0.2599999999999909,0.28999999999999204,0,False,True,2
+37,5f14cf327627fb00097f9a8a,229.48,229.95,on,,0,,,,-0.030000000000001137,0.46999999999999886,0,False,True,1
+38,5ca6bbf13b5fcf00100996e9,229.51,230.84,on doing. Yeah.,,0,,,,-0.4399999999999977,1.3300000000000125,0,False,True,3
+39,5f14cf327627fb00097f9a8a,231.84,244.46,"possibly. I mean it doesn't bother me. It's the least I can do to make sure everybody's safe. I'm not going to bother me as long as I get a nice breathable mask, you know, got",Yeah. Mhm. Yeah.,2,5ca6bbf13b5fcf00100996e9,235.74,243.05,1.0,12.620000000000005,0,False,False,40
+40,5ca6bbf13b5fcf00100996e9,244.24,244.63,And,,0,,,,-0.21999999999999886,0.38999999999998636,0,False,True,1
+41,5f14cf327627fb00097f9a8a,244.46,244.55,it.,,0,,,,-0.1699999999999875,0.09000000000000341,0,False,True,1
+42,5ca6bbf13b5fcf00100996e9,244.63,254.05,"I wear I wear it at work, but there's plenty of chances where I'm not sick street near anybody where I get a break, I can take it off, you know, and just feel like I don't have to wear for a second and","Yeah,",1,5f14cf327627fb00097f9a8a,250.44,251.06,0.07999999999998408,9.420000000000016,0,False,False,47
+43,5f14cf327627fb00097f9a8a,254.04,254.43,that's,,0,,,,-0.010000000000019327,0.3900000000000148,0,False,True,2
+44,5ca6bbf13b5fcf00100996e9,254.05,254.58,then go ahead,,0,,,,-0.37999999999999545,0.5300000000000011,0,False,True,3
+45,5f14cf327627fb00097f9a8a,254.43,254.81,fine.,,0,,,,-0.15000000000000568,0.37999999999999545,0,False,True,1
+46,5ca6bbf13b5fcf00100996e9,254.58,258.44,and put it back on. Yeah.,Right.,1,5f14cf327627fb00097f9a8a,256.04,256.66,-0.22999999999998977,3.859999999999985,0,False,True,6
+47,5f14cf327627fb00097f9a8a,257.64,263.99,"I know. Sometimes I get, get in the car and I totally forgot to have it on for a minute. I'm like, wait a minute. What am I doing? The thing?","Yeah,",1,5ca6bbf13b5fcf00100996e9,262.84,263.86,-0.8000000000000114,6.350000000000023,2,True,True,32
+48,5ca6bbf13b5fcf00100996e9,263.87,264.15,that's,,0,,,,-0.12000000000000455,0.2799999999999727,0,False,True,2
+49,5f14cf327627fb00097f9a8a,263.99,264.29,I five,,0,,,,-0.15999999999996817,0.30000000000001137,0,False,True,2
+50,5ca6bbf13b5fcf00100996e9,264.15,264.44,true.,,0,,,,-0.1400000000000432,0.29000000000002046,0,False,True,1
+51,5f14cf327627fb00097f9a8a,264.3,264.66,million.,,0,,,,-0.13999999999998636,0.36000000000001364,0,False,True,1
+52,5ca6bbf13b5fcf00100996e9,264.44,266.14,"And Yeah,",Uh,1,5f14cf327627fb00097f9a8a,265.24,265.65,-0.22000000000002728,1.6999999999999886,0,False,True,2
+53,5f14cf327627fb00097f9a8a,265.65,267.34,"huh. Yeah,",,0,,,,-0.4900000000000091,1.6899999999999977,0,False,True,2
+54,5ca6bbf13b5fcf00100996e9,268.14,269.84,because because I didn't I didn't wear the,,0,,,,0.8000000000000114,1.6999999999999886,0,False,False,10
+55,5f14cf327627fb00097f9a8a,269.74,270.06,good,,0,,,,-0.0999999999999659,0.3199999999999932,0,False,True,1
+56,5ca6bbf13b5fcf00100996e9,269.84,273.33,mask before july 20th and then when they made it mandated you,,0,,,,-0.22000000000002728,3.490000000000009,0,False,True,12
+57,5f14cf327627fb00097f9a8a,273.24,273.86,mandated.,,0,,,,-0.08999999999997499,0.6200000000000045,0,False,True,1
+58,5ca6bbf13b5fcf00100996e9,273.33,278.66,"had to wear it, so then then then I wore it, but until then I didn't wear",Yeah. Yeah.,2,5f14cf327627fb00097f9a8a,274.64,277.65,-0.5300000000000296,5.330000000000041,0,False,True,18
+59,5f14cf327627fb00097f9a8a,278.94,279.4,I've been,,0,,,,0.2799999999999727,0.45999999999997954,0,False,False,3
+60,5ca6bbf13b5fcf00100996e9,279.34,279.76,and,,0,,,,-0.060000000000002274,0.4200000000000159,0,False,True,1
+61,5f14cf327627fb00097f9a8a,279.4,294.05,"wearing one the whole time. I do live with my elderly mother though. I take care of her and you know, with that and having my youngest. I don't want to do it more for everybody else than for myself. You know just the unknown you know I mean","Okay. Yeah, wow. Uh huh.",4,5ca6bbf13b5fcf00100996e9,284.04,292.66,-0.36000000000001364,14.650000000000034,0,False,True,50
+62,5ca6bbf13b5fcf00100996e9,294.64,312.86,"Yeah, I guess, I mean we'll say but it's sometimes there's people that that on my facebook, some of my friends talk about her immunity, like where just like if you're out there and you get it and then you get through it and then you keep passing around the more it'll it'll break it down and it won't",Yeah,1,5f14cf327627fb00097f9a8a,311.04,311.54,0.589999999999975,18.220000000000027,0,False,False,66
+63,5f14cf327627fb00097f9a8a,312.74,312.95,it,,0,,,,-0.12000000000000455,0.20999999999997954,0,False,True,1
+64,5ca6bbf13b5fcf00100996e9,312.86,312.96,be,,0,,,,-0.08999999999997499,0.0999999999999659,0,False,True,1
+65,5f14cf327627fb00097f9a8a,312.95,313.25,will,,0,,,,-0.009999999999990905,0.30000000000001137,0,False,True,1
+66,5ca6bbf13b5fcf00100996e9,312.96,314.35,as strong.,,0,,,,-0.29000000000002046,1.3900000000000432,0,False,True,2
+67,5f14cf327627fb00097f9a8a,313.25,337.05,it will break through yeah it wants a certain percentage of the world gets it will it'll level out you know and and I totally agree with that. Scientists have proved that you know that's their theories because I did a couple surveys on that actually um on how it'll end up breaking down eventually. Um Yeah that's a cool surveys out there lately. Do you do a lot of the survey?,Mhm. Mhm. Yeah. Yeah. Uh,5,5ca6bbf13b5fcf00100996e9,318.24,336.4,-1.1000000000000227,23.80000000000001,1,True,True,76
+68,5ca6bbf13b5fcf00100996e9,336.4,354.76,"huh I've done a bunch of them. Well actually I kind of like since I went back to work, I I kind of like tailed off a little bit. Yeah, but but during their enough four months when I was home I made a bunch of money and it was kind of neat like I used I don't use the mturk from amazon that.",Yeah. Right. Yeah.,3,5f14cf327627fb00097f9a8a,338.84,351.44,-0.6500000000000341,18.360000000000014,0,False,True,66
+69,5f14cf327627fb00097f9a8a,354.14,361.16,Yes. Yeah. I've been I've been trying to I got to get my number's up though you know I'm still like on the below 100 so,Mhm. Yeah mm,3,5ca6bbf13b5fcf00100996e9,356.84,360.35,-0.6200000000000045,7.020000000000039,0,False,True,30
+70,5ca6bbf13b5fcf00100996e9,361.04,368.22,right once you once you get a certain like 100 is certain level and you get to get more surveys and then we're going to reach 500,,0,,,,-0.12000000000000455,7.180000000000007,0,False,True,28
+71,5f14cf327627fb00097f9a8a,368.14,368.82,500.,,0,,,,-0.08000000000004093,0.6800000000000068,0,False,True,1
+72,5ca6bbf13b5fcf00100996e9,368.22,368.96,that you've done,,0,,,,-0.5999999999999659,0.7399999999999523,0,False,True,4
+73,5f14cf327627fb00097f9a8a,368.82,369.37,Yeah. That's,,0,,,,-0.13999999999998636,0.5500000000000114,0,False,True,3
+74,5ca6bbf13b5fcf00100996e9,369.34,369.73,and,,0,,,,-0.03000000000002956,0.3900000000000432,0,False,True,1
+75,5f14cf327627fb00097f9a8a,369.37,369.96,what I heard.,,0,,,,-0.36000000000001364,0.589999999999975,0,False,True,3
+76,5ca6bbf13b5fcf00100996e9,369.73,385.17,then a lot a lot more will open up and it also just it just seems like um the way things are going in the world that amazon is a little bit slower because like like last year around these summer months I I made like about 3 to 400 bucks just,Yeah. Yeah.,2,5f14cf327627fb00097f9a8a,371.74,380.14,-0.22999999999996135,15.439999999999998,0,False,True,52
+77,5f14cf327627fb00097f9a8a,384.94,385.24,That's,,0,,,,-0.2300000000000182,0.30000000000001137,0,False,True,2
+78,5ca6bbf13b5fcf00100996e9,385.17,385.33,from,,0,,,,-0.06999999999999318,0.15999999999996817,0,False,True,1
+79,5f14cf327627fb00097f9a8a,385.24,385.56,horrible.,,0,,,,-0.08999999999997499,0.3199999999999932,0,False,True,1
+80,5ca6bbf13b5fcf00100996e9,385.33,386.06,the mturk,,0,,,,-0.2300000000000182,0.7300000000000182,0,False,True,2
+81,5f14cf327627fb00097f9a8a,386.24,386.86,Sweet.,,0,,,,0.18000000000000682,0.6200000000000045,0,False,False,1
+82,5ca6bbf13b5fcf00100996e9,386.54,388.02,and yeah and then,Yeah.,1,5f14cf327627fb00097f9a8a,387.34,387.94,-0.3199999999999932,1.4799999999999613,0,False,True,4
+83,5f14cf327627fb00097f9a8a,387.94,388.54,I know.,,0,,,,-0.07999999999998408,0.6000000000000227,0,False,True,2
+84,5ca6bbf13b5fcf00100996e9,388.02,405.55,like no problem and then this this summer like the it tailed off right around like um july and august and stuff like that but like around like uh april and May of this year I made about 600 each month from them.,Yeah.,1,5f14cf327627fb00097f9a8a,396.74,397.24,-0.5200000000000387,17.53000000000003,0,False,True,43
+85,5f14cf327627fb00097f9a8a,405.84,406.35,Great,,0,,,,0.2899999999999636,0.5100000000000477,0,False,False,1
+86,5ca6bbf13b5fcf00100996e9,406.04,411.12,So I was I was just so happy. It's like all the money is coming in and then the unemployment finally,,0,,,,-0.3100000000000023,5.079999999999984,0,False,True,22
+87,5f14cf327627fb00097f9a8a,410.74,411.39,and that right.,,0,,,,-0.37999999999999545,0.6499999999999773,0,False,True,3
+88,5ca6bbf13b5fcf00100996e9,411.12,411.76,came.,,0,,,,-0.2699999999999818,0.6399999999999864,0,False,True,1
+89,5f14cf327627fb00097f9a8a,411.39,413.9,You were you were rolling in the money your,Yeah,1,5ca6bbf13b5fcf00100996e9,413.04,413.27,-0.37000000000000455,2.509999999999991,0,False,True,9
+90,5ca6bbf13b5fcf00100996e9,413.27,413.96,I know,,0,,,,-0.6299999999999955,0.6899999999999977,0,False,True,2
+91,5f14cf327627fb00097f9a8a,413.9,415.56,unemployment?,,0,,,,-0.060000000000002274,1.660000000000025,1,True,True,1
+92,5ca6bbf13b5fcf00100996e9,413.97,419.09,but I knew I knew I would get it but it took it took a long time to work things,Yes,1,5f14cf327627fb00097f9a8a,418.54,418.87,-1.589999999999975,5.119999999999948,0,False,True,20
+93,5f14cf327627fb00097f9a8a,418.87,419.46,I'm here,,0,,,,-0.21999999999997044,0.589999999999975,0,False,True,3
+94,5ca6bbf13b5fcf00100996e9,419.09,419.46,out.,,0,,,,-0.37000000000000455,0.37000000000000455,0,False,True,1
+95,5f14cf327627fb00097f9a8a,419.94,423.56,came here and then I got like a huge chunk you know it gave me,Yeah mm Yeah,3,5ca6bbf13b5fcf00100996e9,420.04,423.4,0.4800000000000182,3.6200000000000045,0,False,False,15
+96,5ca6bbf13b5fcf00100996e9,423.41,427.66,"until I was scared and the guy that there it is okay. Cool, everything's okay. Yeah.",right? Yeah,2,5f14cf327627fb00097f9a8a,424.14,427.75,-0.14999999999997726,4.25,0,False,True,17
+97,5f14cf327627fb00097f9a8a,427.76,429.15,now it's gone,,0,,,,0.0999999999999659,1.3899999999999864,0,False,False,4
+98,5ca6bbf13b5fcf00100996e9,429.34,430.45,Yeah. I know.,,0,,,,0.18999999999999773,1.1100000000000136,0,False,False,3
+99,5f14cf327627fb00097f9a8a,429.84,458.86,place your back to work. There's a lot of people that are definitely still struggling you know I'm not gonna say I'm struggling as bad as anybody else. I think I have my husband he works you know so at least we have money coming in. Okay. Yeah I like doing surveys. I've been doing a lot more lately. I like I like horrific because they're short and just keeping things something out quick but it seems to be that way too but I'm still stuck in like the James billing surveys.,Yeah. Mhm. Mhm. Mhm. Yeah.,5,5ca6bbf13b5fcf00100996e9,431.54,453.35,-0.6100000000000136,29.02000000000004,0,False,True,99
+100,5ca6bbf13b5fcf00100996e9,457.74,473.36,Right. Yeah the thing is like both both sites like their their professional and like they pretty much won't allow any of the crappy er surveys where it just like it goes on forever. Like you made your buck but it's like they tortured you for like 50 minutes.,Yes exactly. Yes.,3,5f14cf327627fb00097f9a8a,466.64,471.86,-1.1200000000000045,15.620000000000005,0,False,True,51
+101,5f14cf327627fb00097f9a8a,473.14,478.75,Yeah they're like 15 minutes and it's like 40 minutes later you're like what? That,Uh huh. Yeah,3,5ca6bbf13b5fcf00100996e9,473.74,477.65,-0.22000000000002728,5.610000000000014,1,False,True,18
+102,5ca6bbf13b5fcf00100996e9,478.44,506.36,"because like when I was aggressive we're trying to make survey money. I would I would do interrupting prolific is the main ones. It is easier ways to make money. But then what I used to call like a label in my mind, like the crappy er sites like this, they're junky ones and everyone's along with those though, you get like a gem where it's like you don't something popped up where it's like oh you can be uh one. I did one where I was a mock jury and I got a $200 check for it.",yes. Yes mm,3,5f14cf327627fb00097f9a8a,484.04,490.36,-0.3100000000000023,27.920000000000016,0,False,True,105
+103,5f14cf327627fb00097f9a8a,505.14,507.45,sweet. Yeah I gotta do this every now and then.,,0,,,,-1.2200000000000273,2.3100000000000023,0,False,True,11
+104,5ca6bbf13b5fcf00100996e9,507.24,513.7,"It's like it took about three or four hours to do it. But like, hey for the money it was well worth it. Okay. Uh",Yeah. Yeah.,2,5f14cf327627fb00097f9a8a,508.54,512.85,-0.20999999999997954,6.460000000000036,0,False,True,26
+105,5f14cf327627fb00097f9a8a,513.54,513.95,Yeah.,,0,,,,-0.16000000000008185,0.41000000000008185,0,False,True,1
+106,5ca6bbf13b5fcf00100996e9,513.71,520.66,Occasionally there'll be one like where you can you get like a bunch of money from amazon gift cards and those are cool too.,Yeah.,1,5f14cf327627fb00097f9a8a,518.74,519.96,-0.2400000000000091,6.949999999999932,0,False,True,25
+107,5f14cf327627fb00097f9a8a,520.44,530.75,"I've had those two. Yeah you know by 10 or 15 like that. And then a lot of the product testing products, I like doing those, those are pretty cool. And","Yeah. Mhm. Yeah,",3,5ca6bbf13b5fcf00100996e9,524.34,530.34,-0.2199999999999136,10.309999999999945,0,False,True,32
+108,5ca6bbf13b5fcf00100996e9,530.34,531.85,I don't a few of those two.,,0,,,,-0.40999999999996817,1.509999999999991,0,False,True,8
+109,5f14cf327627fb00097f9a8a,531.54,540.06,"yeah, I got a couple of diaries I'm supposed to be keeping up with right now for and I just I'm like $35.25. And I'm like is it really worth it? You know?",Mhm. Mhm.,2,5ca6bbf13b5fcf00100996e9,535.24,536.46,-0.3100000000000591,8.519999999999982,2,True,True,37
+110,5ca6bbf13b5fcf00100996e9,539.84,550.0,"Yeah. No, I know I did a few of those and sometimes they don't quite some, they don't fall through, they don't pay you. But I've done a few few diaries where I did get the money and so that's cool. I kind",Yeah. Yeah.,2,5f14cf327627fb00097f9a8a,545.24,549.81,-0.2199999999999136,10.159999999999968,0,False,True,48
+111,5f14cf327627fb00097f9a8a,549.82,550.26,Like,,0,,,,-0.17999999999994998,0.4399999999999409,0,False,True,1
+112,5ca6bbf13b5fcf00100996e9,550.0,551.06,of doing,,0,,,,-0.2599999999999909,1.0599999999999454,0,False,True,2
+113,5f14cf327627fb00097f9a8a,550.94,551.5,my point,a bunch,1,5ca6bbf13b5fcf00100996e9,551.06,551.31,-0.11999999999989086,0.5599999999999454,0,False,True,2
+114,5ca6bbf13b5fcf00100996e9,551.31,551.62,of David,,0,,,,-0.19000000000005457,0.3100000000000591,0,False,True,2
+115,5f14cf327627fb00097f9a8a,551.5,551.66,is,,0,,,,-0.12000000000000455,0.15999999999996817,0,False,True,1
+116,5ca6bbf13b5fcf00100996e9,551.62,552.05,wants,,0,,,,-0.03999999999996362,0.42999999999995,0,False,True,1
+117,5f14cf327627fb00097f9a8a,552.14,565.25,light points is pretty good. I think they stick pretty quick quick of their surveys the time and they pay out pretty quick. Some of them are yankee said I really bad. I keep wanting to go on user testing because I hear they're pretty good with,"um,",1,5ca6bbf13b5fcf00100996e9,556.24,556.75,0.09000000000003183,13.110000000000014,0,False,False,48
+118,5ca6bbf13b5fcf00100996e9,565.24,566.71,me too and,,0,,,,-0.009999999999990905,1.4700000000000273,0,False,True,3
+119,5f14cf327627fb00097f9a8a,566.44,566.74,once you,,0,,,,-0.2699999999999818,0.2999999999999545,0,False,True,2
+120,5ca6bbf13b5fcf00100996e9,566.72,567.16,I'm,,0,,,,-0.01999999999998181,0.4399999999999409,0,False,True,2
+121,5f14cf327627fb00097f9a8a,566.74,571.96,"get in there and you got to take that whole, I just haven't sat down to do my whole registration thing yet.","right,",1,5ca6bbf13b5fcf00100996e9,568.84,569.26,-0.4199999999999591,5.220000000000027,0,False,True,23
+122,5ca6bbf13b5fcf00100996e9,572.24,573.74,I've done mine and,,0,,,,0.2799999999999727,1.5,0,False,False,5
+123,5f14cf327627fb00097f9a8a,573.64,573.77,We,,0,,,,-0.10000000000002274,0.12999999999999545,0,False,True,1
+124,5ca6bbf13b5fcf00100996e9,573.75,573.88,I,,0,,,,-0.01999999999998181,0.12999999999999545,0,False,True,1
+125,5f14cf327627fb00097f9a8a,573.77,574.15,did.,,0,,,,-0.11000000000001364,0.37999999999999545,0,False,True,1
+126,5ca6bbf13b5fcf00100996e9,573.88,580.46,"don't know, maybe I haven't paid attention to it, but like I've probably done at least like 50 of them trying to get one and I've","Oh, you",1,5f14cf327627fb00097f9a8a,579.84,580.14,-0.2699999999999818,6.580000000000041,0,False,True,30
+127,5f14cf327627fb00097f9a8a,580.14,580.56,have?,,0,,,,-0.32000000000005,0.4199999999999591,1,True,True,1
+128,5ca6bbf13b5fcf00100996e9,580.47,581.06,never,,0,,,,-0.08999999999991815,0.5899999999999181,0,False,True,1
+129,5f14cf327627fb00097f9a8a,581.04,581.08,I,,0,,,,-0.01999999999998181,0.04000000000007731,0,False,True,1
+130,5ca6bbf13b5fcf00100996e9,581.06,581.29,got,,0,,,,-0.020000000000095497,0.2300000000000182,0,False,True,1
+131,5f14cf327627fb00097f9a8a,581.09,581.51,haven't,,0,,,,-0.1999999999999318,0.4199999999999591,0,False,True,2
+132,5ca6bbf13b5fcf00100996e9,581.29,582.16,one. So I'm like,"yeah,",1,5f14cf327627fb00097f9a8a,581.52,582.63,-0.22000000000002728,0.8700000000000045,0,False,True,5
+133,5f14cf327627fb00097f9a8a,582.64,584.03,"I hear they are, there are hard",,0,,,,0.4800000000000182,1.3899999999999864,0,False,False,7
+134,5ca6bbf13b5fcf00100996e9,583.94,584.08,the,,0,,,,-0.08999999999991815,0.13999999999998636,0,False,True,1
+135,5f14cf327627fb00097f9a8a,584.03,584.11,to,,0,,,,-0.05000000000006821,0.08000000000004093,0,False,True,1
+136,5ca6bbf13b5fcf00100996e9,584.08,584.45,sun.,,0,,,,-0.029999999999972715,0.37000000000000455,0,False,True,1
+137,5f14cf327627fb00097f9a8a,584.11,585.1,get their,,0,,,,-0.34000000000003183,0.9900000000000091,0,False,True,2
+138,5ca6bbf13b5fcf00100996e9,584.84,585.3,So I give,,0,,,,-0.2599999999999909,0.4599999999999227,0,False,True,3
+139,5f14cf327627fb00097f9a8a,585.1,585.53,easier,,0,,,,-0.1999999999999318,0.42999999999995,0,False,True,1
+140,5ca6bbf13b5fcf00100996e9,585.3,585.86,up on,,0,,,,-0.2300000000000182,0.5600000000000591,0,False,True,2
+141,5f14cf327627fb00097f9a8a,585.53,604.46,"for us because we're in the States, but I know I still haven't, I keep up on Reddit. I like to look at the work, you know that beer money side on Reddit and the mturk side as well. Trying to try to keep up a little bit with that. See if there's any yeah, like you said anymore gyms out there.",mm hmm. Okay. Mhm. Oh,4,5ca6bbf13b5fcf00100996e9,587.54,602.26,-0.3300000000000409,18.930000000000064,0,False,True,65
+142,5ca6bbf13b5fcf00100996e9,604.14,630.62,"right. Because sometimes what mturk did something called batch work where it could be dicey. Where like you could do like maybe like 100 of them for 50 cents each. And so that's good money. But then also like you want to make sure like sometimes it's good, I'm going to give you their approval rating. So like if I see something we hail, you could do 100 jobs for 50 cents each and it's quick and you make maybe 50 bucks. But then you see the approval rating is like 53%. Well that's a risk. I'll skip",Yeah. Yeah.,2,5f14cf327627fb00097f9a8a,620.44,626.45,-0.32000000000005,26.480000000000018,0,False,True,104
+143,5f14cf327627fb00097f9a8a,630.44,630.73,Because they,,0,,,,-0.17999999999994998,0.2899999999999636,0,False,True,2
+144,5ca6bbf13b5fcf00100996e9,630.62,630.86,it.,,0,,,,-0.11000000000001364,0.2400000000000091,0,False,True,1
+145,5f14cf327627fb00097f9a8a,630.73,632.15,might not pay out. Right.,Yeah.,1,5ca6bbf13b5fcf00100996e9,631.74,632.16,-0.12999999999999545,1.419999999999959,0,False,True,5
+146,5ca6bbf13b5fcf00100996e9,632.17,635.84,"No, not that. But like maybe they'll reject them all. Then all of a sudden like",,0,,,,0.01999999999998181,3.6700000000000728,0,False,False,17
+147,5f14cf327627fb00097f9a8a,635.84,636.37,All,,0,,,,0.0,0.5299999999999727,0,False,False,1
+148,5ca6bbf13b5fcf00100996e9,635.85,640.79,"you get a hunt hunt, you do them all. You feel like you did them right and you get 100 rejections and your",right. Right,2,5f14cf327627fb00097f9a8a,636.37,640.66,-0.5199999999999818,4.939999999999941,0,False,True,23
+149,5f14cf327627fb00097f9a8a,640.67,640.82,now,,0,,,,-0.12000000000000455,0.15000000000009095,0,False,True,1
+150,5ca6bbf13b5fcf00100996e9,640.8,640.92,and,,0,,,,-0.020000000000095497,0.12000000000000455,0,False,True,1
+151,5f14cf327627fb00097f9a8a,640.82,641.01,that,,0,,,,-0.09999999999990905,0.18999999999994088,0,False,True,1
+152,5ca6bbf13b5fcf00100996e9,640.92,641.46,your.,,0,,,,-0.09000000000003183,0.5400000000000773,0,False,True,1
+153,5f14cf327627fb00097f9a8a,641.01,644.26,would really suck. That would be bad for you.,Yeah.,1,5ca6bbf13b5fcf00100996e9,642.14,642.94,-0.4500000000000455,3.25,0,False,True,9
+154,5ca6bbf13b5fcf00100996e9,643.84,650.51,"Because when I, when I researched Amtrak, they all said like, oh you want to keep it 99% your approval rating, 99 point something.",,0,,,,-0.4199999999999591,6.669999999999959,0,False,True,24
+155,5f14cf327627fb00097f9a8a,650.44,650.61,I,,0,,,,-0.06999999999993634,0.16999999999995907,0,False,True,1
+156,5ca6bbf13b5fcf00100996e9,650.52,650.88,And,,0,,,,-0.09000000000003183,0.36000000000001364,0,False,True,1
+157,5f14cf327627fb00097f9a8a,650.61,651.25,"know,",,0,,,,-0.2699999999999818,0.6399999999999864,0,False,True,1
+158,5ca6bbf13b5fcf00100996e9,650.88,656.02,"they and they kept that saying 99.9 is the best. And I was like, well what's",,0,,,,-0.37000000000000455,5.139999999999986,0,False,True,17
+159,5f14cf327627fb00097f9a8a,655.94,656.56,obviously.,,0,,,,-0.07999999999992724,0.6199999999998909,0,False,True,1
+160,5ca6bbf13b5fcf00100996e9,656.02,660.98,the point? Like if you're 99.1 you're still in that bracket? So my,Yeah. Yeah.,2,5f14cf327627fb00097f9a8a,658.74,660.82,-0.5399999999999636,4.960000000000036,2,False,True,15
+161,5f14cf327627fb00097f9a8a,660.82,664.58,"I mean I can get everything right. You know, I mean that's","Yeah,",1,5ca6bbf13b5fcf00100996e9,660.99,662.35,-0.15999999999996817,3.759999999999991,0,False,True,13
+162,5ca6bbf13b5fcf00100996e9,664.54,664.92,well,,0,,,,-0.04000000000007731,0.37999999999999545,0,False,True,1
+163,5f14cf327627fb00097f9a8a,664.58,665.05,just great.,,0,,,,-0.33999999999991815,0.4699999999999136,0,False,True,2
+164,5ca6bbf13b5fcf00100996e9,664.93,674.47,"it's always subjected to like a lot of times, it'll just be the researchers saying we don't think he did it too fast and they get a little weird. So so",Yeah. Right.,2,5f14cf327627fb00097f9a8a,671.54,673.96,-0.12000000000000455,9.540000000000077,0,False,True,34
+165,5f14cf327627fb00097f9a8a,674.44,675.94,I,,0,,,,-0.029999999999972715,1.5,0,False,True,1
+166,5ca6bbf13b5fcf00100996e9,674.47,676.25,my approval over 99,,0,,,,-1.4700000000000273,1.7799999999999727,0,False,True,4
+167,5f14cf327627fb00097f9a8a,675.95,695.85,"slow down sometimes because I'm like, if they're going to think that I'm just, you know, breezing through this, but I'm just, I'm used to doing it, you know, and the questions are pretty much labeled the same as make sure I read through, make sure it's not, you know, one of those select beige or just like I agree, something like that. What was your name?",right? Yeah. Yeah. Uh huh. Yeah.,5,5ca6bbf13b5fcf00100996e9,685.34,694.75,-0.2999999999999545,19.899999999999977,1,True,True,73
+168,5ca6bbf13b5fcf00100996e9,696.34,696.96,Nick,,0,,,,0.4900000000000091,0.6200000000000045,0,False,False,1
+169,5f14cf327627fb00097f9a8a,697.04,698.15,Nick? I'm angel.,,0,,,,0.07999999999992724,1.1100000000000136,1,False,False,4
+170,5ca6bbf13b5fcf00100996e9,698.44,699.25,hey Angel.,,0,,,,0.2900000000000773,0.8099999999999454,0,False,False,2
+171,5f14cf327627fb00097f9a8a,699.24,702.9,"Yes. Are you italian? Yeah,",Yeah.,1,5ca6bbf13b5fcf00100996e9,702.04,702.64,-0.009999999999990905,3.659999999999968,1,False,True,5
+172,5ca6bbf13b5fcf00100996e9,702.65,703.33,Italian,,0,,,,-0.25,0.6800000000000637,0,False,True,1
+173,5f14cf327627fb00097f9a8a,702.91,703.35,me too.,,0,,,,-0.42000000000007276,0.44000000000005457,0,False,True,2
+174,5ca6bbf13b5fcf00100996e9,703.34,704.26,and irish. Okay.,,0,,,,-0.009999999999990905,0.9199999999999591,0,False,True,3
+175,5f14cf327627fb00097f9a8a,704.24,706.46,And irish have italian and german.,,0,,,,-0.01999999999998181,2.2200000000000273,0,False,True,6
+176,5ca6bbf13b5fcf00100996e9,705.54,735.06,"Yeah. Remember the last time I did this prolific one with the chat, I don't want to say that a lot of they made a mistake, but they paid me like almost $40. I was like, yeah, because like I I got that sense like 14.45 in british pounds, I got that. And then there was some kind of like bonus they threw in there and then like it would end up paying me like $33 in british pounds, 33 point something. Then when you convert it, it was like a little bit over 40 bucks. I was like wow.",Mhm. Mhm. Really? Right. Yeah. Yeah. Oh,7,5f14cf327627fb00097f9a8a,710.14,734.69,-0.9200000000000728,29.519999999999982,0,False,True,103
+177,5f14cf327627fb00097f9a8a,734.69,734.95,yeah.,,0,,,,-0.36999999999989086,0.2599999999999909,0,False,True,1
+178,5ca6bbf13b5fcf00100996e9,735.54,735.72,I,,0,,,,0.5899999999999181,0.18000000000006366,0,False,False,1
+179,5f14cf327627fb00097f9a8a,735.64,735.92,Maybe,,0,,,,-0.08000000000004093,0.2799999999999727,0,False,True,1
+180,5ca6bbf13b5fcf00100996e9,735.72,736.16,know.,,0,,,,-0.1999999999999318,0.4399999999999409,0,False,True,1
+181,5f14cf327627fb00097f9a8a,735.92,739.56,an extra bonus that you got maybe for doing such a good job.,Mhm.,1,5ca6bbf13b5fcf00100996e9,737.34,737.76,-0.2400000000000091,3.6399999999999864,0,False,True,13
+182,5ca6bbf13b5fcf00100996e9,739.44,747.56,"Yeah, I know, I remember I was talking to someone, I was an asian guy and it was good, it just you know sometimes it just flows and",,0,,,,-0.11999999999989086,8.11999999999989,0,False,True,28
+183,5f14cf327627fb00097f9a8a,747.04,763.87,"Yeah. It's pretty cool. And this is going is going well to you. I had a younger um college girl last time, but it went really well too. You know, I mean as long as you're kind of personable, I think people can strike up a conversation, especially in this time of the world. There's so","yeah. Mhm. Yeah,",3,5ca6bbf13b5fcf00100996e9,747.57,762.65,-0.5199999999999818,16.83000000000004,0,False,True,59
+184,5ca6bbf13b5fcf00100996e9,763.84,763.97,I,,0,,,,-0.029999999999972715,0.12999999999999545,0,False,True,1
+185,5f14cf327627fb00097f9a8a,763.87,764.09,much,,0,,,,-0.10000000000002274,0.22000000000002728,0,False,True,1
+186,5ca6bbf13b5fcf00100996e9,763.97,764.26,know.,,0,,,,-0.12000000000000455,0.2899999999999636,0,False,True,1
+187,5f14cf327627fb00097f9a8a,764.09,769.75,"to talk about, look at us. We haven't, even though they got off surveys,","Right, right.",1,5ca6bbf13b5fcf00100996e9,765.24,766.35,-0.16999999999995907,5.659999999999968,0,False,True,15
+188,5ca6bbf13b5fcf00100996e9,769.84,771.06,Yeah. I don't know,,0,,,,0.09000000000003183,1.2199999999999136,0,False,False,5
+189,5f14cf327627fb00097f9a8a,771.24,772.95,go on with those forever.,,0,,,,0.18000000000006366,1.7100000000000364,0,False,False,5
+190,5ca6bbf13b5fcf00100996e9,773.34,822.74,"because like what what's good too is like for me uh we're in Haines City, we recently bought a house like about a year and a half ago and our neighbors are just like, so there are professional, people are handy like what one guys next to me is a mechanic and he fixes my car for me cheap and then the other day like I I was trying to fix something outside with our water and I try to change a pipe and then I broke it and I quickly had to shut the water off and my wife said, what did you do that? That's why I go, I thought I was doing it right and, and as soon as I like I broke it, I shut the valve off and my neighbor right across the street, he's like the kingpin, he doesn't do much for me, but he knows everything and he goes, goes to houses down, he's a plumber because he can fix it. He goes like you fix it in two minutes. I was like, I was all nervous, okay. So I, you know, I never knocked on the guy's door, he came over just like that and","Mm awesome. Oh no. Okay. Uh huh. Yeah, yeah. Yeah.",8,5f14cf327627fb00097f9a8a,780.24,822.14,0.38999999999998636,49.39999999999998,1,False,False,210
+191,5f14cf327627fb00097f9a8a,822.54,822.84,That's,,0,,,,-0.20000000000004547,0.3000000000000682,0,False,True,2
+192,5ca6bbf13b5fcf00100996e9,822.74,837.69,"within 10 minutes and then I offered him, I go, I'll give you some money and he goes just 10 bucks and I only got a 20 so here just take it. And then he was like, I had no changes, it's no problem because if I were to call the plumber to come out, you",awesome. Okay.,2,5f14cf327627fb00097f9a8a,822.84,837.65,-0.10000000000002274,14.950000000000045,0,False,True,58
+193,5f14cf327627fb00097f9a8a,837.66,837.88,I've,,0,,,,-0.030000000000086402,0.22000000000002728,0,False,True,2
+194,5ca6bbf13b5fcf00100996e9,837.69,837.96,know,,0,,,,-0.18999999999994088,0.2699999999999818,0,False,True,1
+195,5f14cf327627fb00097f9a8a,837.88,839.78,"been $80 just to come out,",,0,,,,-0.08000000000004093,1.8999999999999773,0,False,True,7
+196,5ca6bbf13b5fcf00100996e9,839.64,839.81,to,,0,,,,-0.13999999999998636,0.16999999999995907,0,False,True,1
+197,5f14cf327627fb00097f9a8a,839.78,839.89,you,,0,,,,-0.029999999999972715,0.11000000000001364,0,False,True,1
+198,5ca6bbf13b5fcf00100996e9,839.81,840.13,come,,0,,,,-0.08000000000004093,0.32000000000005,0,False,True,1
+199,5f14cf327627fb00097f9a8a,839.89,840.15,know?,,0,,,,-0.2400000000000091,0.2599999999999909,1,True,True,1
+200,5ca6bbf13b5fcf00100996e9,840.14,846.45,"to come out and maybe 200 bucks we're all said and done. I was just so ecstatic that it was so cheap too,","Oh yeah,",1,5f14cf327627fb00097f9a8a,843.74,844.36,-0.009999999999990905,6.310000000000059,0,False,True,24
+201,5f14cf327627fb00097f9a8a,845.74,846.85,That's wonderful.,,0,,,,-0.7100000000000364,1.1100000000000136,0,False,True,3
+202,5ca6bbf13b5fcf00100996e9,847.14,847.42,so it's,,0,,,,0.2899999999999636,0.2799999999999727,0,False,False,3
+203,5f14cf327627fb00097f9a8a,847.34,850.87,You got your own little personal maintenance?,cool.,1,5ca6bbf13b5fcf00100996e9,847.42,847.86,-0.07999999999992724,3.5299999999999727,1,True,True,7
+204,5ca6bbf13b5fcf00100996e9,850.24,853.33,Yeah they help each other. There,Yes.,1,5f14cf327627fb00097f9a8a,852.54,853.0,-0.6299999999999955,3.090000000000032,0,False,True,6
+205,5f14cf327627fb00097f9a8a,853.0,853.6,That's not,,0,,,,-0.3300000000000409,0.6000000000000227,0,False,True,3
+206,5ca6bbf13b5fcf00100996e9,853.33,853.68,are there are,,0,,,,-0.2699999999999818,0.34999999999990905,0,False,True,3
+207,5f14cf327627fb00097f9a8a,853.62,854.33,paying,,0,,,,-0.05999999999994543,0.7100000000000364,0,False,True,1
+208,5ca6bbf13b5fcf00100996e9,853.69,854.76,there all,,0,,,,-0.6399999999999864,1.0699999999999363,0,False,True,2
+209,5f14cf327627fb00097f9a8a,854.33,856.16,it forward is what it's about.,,0,,,,-0.42999999999995,1.8299999999999272,0,False,True,7
+210,5ca6bbf13b5fcf00100996e9,855.34,869.56,"walking? They're all from Puerto rico, So sometimes like they speak english really well but then sometimes I'm a little bit nervous to approach and then the second I broke the pipe, I was like well forget about being nervous, you know, I don't want to spend 200 bucks","Yeah,",1,5f14cf327627fb00097f9a8a,861.24,861.74,-0.8199999999999363,14.219999999999914,1,False,True,52
+211,5f14cf327627fb00097f9a8a,869.24,870.05,no doubt.,,0,,,,-0.31999999999993634,0.8099999999999454,0,False,True,2
+212,5ca6bbf13b5fcf00100996e9,870.24,874.05,so I just talked to the guys door and it was just so super friendly.,,0,,,,0.19000000000005457,3.8099999999999454,0,False,False,15
+213,5f14cf327627fb00097f9a8a,874.24,875.13,That's,,0,,,,0.19000000000005457,0.8899999999999864,0,False,False,2
+214,5ca6bbf13b5fcf00100996e9,874.84,875.65,Well that's cool.,cool.,1,5f14cf327627fb00097f9a8a,875.13,875.65,-0.2899999999999636,0.8099999999999454,0,False,True,4
+215,5f14cf327627fb00097f9a8a,875.66,883.36,"That's awesome. I'm glad that things seemed to go well for you with a new home and new neighbors and mm,","Yeah. Yeah, it",2,5ca6bbf13b5fcf00100996e9,880.14,883.07,0.009999999999990905,7.7000000000000455,0,False,False,23
+216,5ca6bbf13b5fcf00100996e9,883.07,888.72,"was always lived in an apartment, so finally we got out of an apartment and kind of kind of no more rules because",a,1,5f14cf327627fb00097f9a8a,888.54,888.65,-0.2899999999999636,5.649999999999977,0,False,True,23
+217,5f14cf327627fb00097f9a8a,888.66,889.14,"lot,",,0,,,,-0.06000000000005912,0.4800000000000182,0,False,True,1
+218,5ca6bbf13b5fcf00100996e9,888.72,889.25,you got that.,,0,,,,-0.4199999999999591,0.5299999999999727,0,False,True,3
+219,5f14cf327627fb00097f9a8a,889.15,956.06,"a lot nicer having to have a lot more responsibility, but it's a lot nicer, you know, having your own place. That's for sure. I'm actually, I moved back here. I'm from san a frontier Pensacola, but I moved from Tampa three years ago. I moved there when I was 18 and lived pretty much my whole life there. Um, and then I moved back here just three years ago to start taking care of my mom and my kids. And my oldest is still hating me because of it obviously because his friends are all down there. So he gets to visit a lot and his dad still lives down there. So And yeah, it's been a bit of a tank. I'm actually living in my childhood home, in my childhood room, taking care of my mother and you know, doing all the all that stuff, there's been a big adjustment that's for sure. But we're trying to get into a place where we wouldn't get our own home. But then I'm like, what do I do with her? You know, it's so hard and I mean good nursing homes are so expensive and we're not at the point right now, we could probably even pay part of it. My older brother probably could. My other older brother, I don't think he could pay anything for her so",Yeah. Mhm. Okay. Okay. Uh Okay. Uh huh. Yeah. Yeah.,10,5ca6bbf13b5fcf00100996e9,892.74,947.85,-0.10000000000002274,66.90999999999997,1,False,True,243
+220,5ca6bbf13b5fcf00100996e9,956.34,959.31,And she's also safer right where she is right now because of,mm,1,5f14cf327627fb00097f9a8a,957.14,957.46,0.2800000000000864,2.9699999999999136,0,False,False,13
+221,5f14cf327627fb00097f9a8a,959.24,959.83,She,,0,,,,-0.06999999999993634,0.5900000000000318,0,False,True,1
+222,5ca6bbf13b5fcf00100996e9,959.32,959.85,covid?,,0,,,,-0.5099999999999909,0.5299999999999727,1,True,True,1
+223,5f14cf327627fb00097f9a8a,959.83,973.03,"is yeah as long as we're here but you know we went on home and we don't have any room here at all. It's yes, stuff like packing that february, you can see behind me here, that's like trying to meddle in my office and I","Yeah, wow.",2,5ca6bbf13b5fcf00100996e9,960.54,965.16,-0.01999999999998181,13.199999999999932,0,False,True,50
+224,5ca6bbf13b5fcf00100996e9,972.44,972.89,Are,,0,,,,-0.5899999999999181,0.4499999999999318,0,False,True,1
+225,5f14cf327627fb00097f9a8a,973.04,994.56,got a bunch of other stuff trying to get rid of for the kids clothes and always something that's for sure. Mhm. My youngest or my oldest is sitting here staring at me always trying to take my my my google nest or what is it? Uh Many. The nest. Many yeah,Mhm. Yeah.,2,5ca6bbf13b5fcf00100996e9,976.44,983.16,0.14999999999997726,21.519999999999982,1,False,False,53
+226,5ca6bbf13b5fcf00100996e9,994.04,1002.19,"Okay. I just disconnected something like that. We have the Alexa or something and she got that same pairing parent is like, so I just pulled the plug",,0,,,,-0.5199999999999818,8.150000000000091,0,False,True,28
+227,5f14cf327627fb00097f9a8a,1002.14,1002.4,or,,0,,,,-0.05000000000006821,0.2599999999999909,0,False,True,1
+228,5ca6bbf13b5fcf00100996e9,1002.19,1002.47,on it.,,0,,,,-0.2099999999999227,0.2799999999999727,0,False,True,2
+229,5f14cf327627fb00097f9a8a,1002.4,1004.77,the flag Yeah yes,"Yeah, I",1,5ca6bbf13b5fcf00100996e9,1003.34,1004.54,-0.07000000000005002,2.3700000000000045,0,False,True,4
+230,5ca6bbf13b5fcf00100996e9,1004.54,1005.86,"want to use it, but",,0,,,,-0.2300000000000182,1.32000000000005,0,False,True,5
+231,5f14cf327627fb00097f9a8a,1005.44,1044.06,"sometimes if you just pull it out and let it sit for a little bit plug it back in it'll sink right back up as long as you got the wifi hooked up and everything. Yeah, we went we went kind of more automated like that for christmas, that was my christmas present, like my oldest and myself early, but we got some of the light bulbs, we got, you know the smart door lock and smart, which came with the security system anyway and the doorbell and the thermostat, which is really cool because you can just yeah, you're hot, you can just put your phone on and just turn a step down or up or whatever you want to do. Cool.","Yeah. Yeah. Okay. Okay. Okay. Yeah,",6,5ca6bbf13b5fcf00100996e9,1008.14,1040.17,-0.4199999999999591,38.61999999999989,0,False,True,125
+232,5ca6bbf13b5fcf00100996e9,1043.64,1045.9,I know. We,,0,,,,-0.4199999999998454,2.259999999999991,0,False,True,3
+233,5f14cf327627fb00097f9a8a,1045.84,1045.96,All,,0,,,,-0.060000000000172804,0.12000000000011823,0,False,True,1
+234,5ca6bbf13b5fcf00100996e9,1045.9,1053.02,"got we got that, we got to get the houses, they call it a smart house, we have like the dorm and you","right, yeah,",2,5f14cf327627fb00097f9a8a,1045.96,1050.46,-0.05999999999994543,7.119999999999891,0,False,True,23
+235,5f14cf327627fb00097f9a8a,1052.94,1053.05,you,,0,,,,-0.07999999999992724,0.10999999999989996,0,False,True,1
+236,5ca6bbf13b5fcf00100996e9,1053.02,1053.18,could,,0,,,,-0.029999999999972715,0.16000000000008185,0,False,True,1
+237,5f14cf327627fb00097f9a8a,1053.05,1053.32,got that,,0,,,,-0.13000000000010914,0.2699999999999818,0,False,True,2
+238,5ca6bbf13b5fcf00100996e9,1053.18,1053.55,see,,0,,,,-0.13999999999987267,0.36999999999989086,0,False,True,1
+239,5f14cf327627fb00097f9a8a,1053.32,1053.66,too.,,0,,,,-0.2300000000000182,0.3400000000001455,0,False,True,1
+240,5ca6bbf13b5fcf00100996e9,1053.56,1056.77,"camp the camera, what kind of stuff? So it's","Yes,",1,5f14cf327627fb00097f9a8a,1054.94,1055.45,-0.10000000000013642,3.2100000000000364,1,False,True,10
+241,5f14cf327627fb00097f9a8a,1056.74,1056.99,that's,,0,,,,-0.029999999999972715,0.25,0,False,True,2
+242,5ca6bbf13b5fcf00100996e9,1056.77,1057.0,kind of,,0,,,,-0.22000000000002728,0.2300000000000182,0,False,True,2
+243,5f14cf327627fb00097f9a8a,1056.99,1057.55,absolutely,,0,,,,-0.009999999999990905,0.5599999999999454,0,False,True,1
+244,5ca6bbf13b5fcf00100996e9,1057.0,1057.35,neat.,,0,,,,-0.5499999999999545,0.34999999999990905,0,False,True,1
+245,5f14cf327627fb00097f9a8a,1058.04,1079.36,"yes, it's helpful. It really is. I mean I think I don't get to go anywhere right now and I haven't really made any local friends still or anything, so trying to get him with the moms group, but right now I think Alex is my best friend, it's pretty bad, I'm always talking to Alexa and she she doesn't talk back so she's a good friend. Uh",Yeah. Yeah.,2,5ca6bbf13b5fcf00100996e9,1071.04,1078.04,0.6900000000000546,21.319999999999936,0,False,False,75
+246,5ca6bbf13b5fcf00100996e9,1080.34,1080.99,Uh,,0,,,,0.9800000000000182,0.650000000000091,0,False,False,1
+247,5f14cf327627fb00097f9a8a,1080.34,1081.26,Yeah.,,0,,,,-0.650000000000091,0.9200000000000728,0,False,True,1
+248,5ca6bbf13b5fcf00100996e9,1081.0,1085.88,"And it's cool how you can like you maybe you go out, you think could be locked the door and then you can fix it, you can lock",Yeah.,1,5f14cf327627fb00097f9a8a,1085.24,1085.69,-0.2599999999999909,4.880000000000109,0,False,True,29
+249,5f14cf327627fb00097f9a8a,1085.7,1085.89,Make,,0,,,,-0.18000000000006366,0.19000000000005457,0,False,True,1
+250,5ca6bbf13b5fcf00100996e9,1085.88,1086.36,the door.,sure,1,5f14cf327627fb00097f9a8a,1085.89,1086.06,-0.009999999999990905,0.4799999999997908,0,False,True,2
+251,5f14cf327627fb00097f9a8a,1086.06,1104.56,"you lock it. Yes, it is very helpful. Yeah, lots of it's really helpful. And I mean any honey, somebody comes up to the door, you know, I get a little ring on my phone and then you can just check the camera right then or see what it is. Yeah, I'm gonna it'll be like a bug crawling right by the camera. So",Mhm.,1,5ca6bbf13b5fcf00100996e9,1095.74,1096.27,-0.2999999999999545,18.5,0,False,True,68
+252,5ca6bbf13b5fcf00100996e9,1104.34,1104.96,I'm here.,,0,,,,-0.22000000000002728,0.6200000000001182,0,False,True,3
+253,5f14cf327627fb00097f9a8a,1104.57,1110.36,at nighttime about that happened a few times. Mm It's funny.,Mhm,1,5ca6bbf13b5fcf00100996e9,1108.34,1108.76,-0.39000000000010004,5.789999999999964,0,False,True,12
+254,5ca6bbf13b5fcf00100996e9,1110.04,1111.46,"Oh, I know.",,0,,,,-0.31999999999993634,1.4200000000000728,0,False,True,3
+255,5f14cf327627fb00097f9a8a,1111.54,1113.46,Are you married kids or anything?,Yeah.,1,5ca6bbf13b5fcf00100996e9,1112.94,1113.35,0.07999999999992724,1.9200000000000728,1,True,False,6
+256,5ca6bbf13b5fcf00100996e9,1113.74,1120.35,I married my wife walked in before he yelled at me because I'm sitting on a decorative chair. Yeah.,Mm,1,5f14cf327627fb00097f9a8a,1117.94,1118.36,0.2799999999999727,6.6099999999999,0,False,False,20
+257,5f14cf327627fb00097f9a8a,1120.64,1121.05,Yeah.,,0,,,,0.290000000000191,0.4099999999998545,0,False,False,1
+258,5ca6bbf13b5fcf00100996e9,1120.74,1134.35,"Yeah, because like, because like everyone, like before I sign on, like there's like, let's just playing music and I keep telling my kids like I have this thing and like, so I have to have a fun place to go mm",Yeah. Yeah. Yeah.,2,5f14cf327627fb00097f9a8a,1130.44,1134.43,-0.30999999999994543,13.6099999999999,0,False,True,44
+259,5f14cf327627fb00097f9a8a,1134.44,1135.96,Yeah. So I told my oldest,,0,,,,0.09000000000014552,1.5199999999999818,0,False,False,6
+260,5ca6bbf13b5fcf00100996e9,1135.94,1136.77,frequently.,,0,,,,-0.01999999999998181,0.8299999999999272,0,False,True,1
+261,5f14cf327627fb00097f9a8a,1135.96,1140.86,"season I'm like just don't bother me for 30 minutes, a little thing you do.",Uh huh,1,5ca6bbf13b5fcf00100996e9,1138.44,1139.06,-0.8099999999999454,4.899999999999864,0,False,True,17
+262,5ca6bbf13b5fcf00100996e9,1141.24,1147.46,"there. But it's just like, it's such a thrill to to get the money and the money helps so much.",Yeah.,1,5f14cf327627fb00097f9a8a,1142.04,1143.17,0.38000000000010914,6.220000000000027,0,False,False,22
+263,5f14cf327627fb00097f9a8a,1147.34,1155.27,"It does, it really does. You know, I'm just trying not to spend, like you said too much time on certain things. Does that mean?",,0,,,,-0.12000000000011823,7.930000000000064,1,True,True,26
+264,5ca6bbf13b5fcf00100996e9,1155.24,1166.45,"Well, I mean, I always, I always fly through it. I mean I try to like, I do, I go as fast as I can as as I could read it, I'm kind of scanning for the, you know, please hit this",Yeah right.,2,5f14cf327627fb00097f9a8a,1157.94,1164.35,-0.029999999999972715,11.210000000000036,0,False,True,43
+265,5f14cf327627fb00097f9a8a,1166.44,1166.55,The,,0,,,,-0.009999999999990905,0.10999999999989996,0,False,True,1
+266,5ca6bbf13b5fcf00100996e9,1166.45,1166.66,one,,0,,,,-0.09999999999990905,0.21000000000003638,0,False,True,1
+267,5f14cf327627fb00097f9a8a,1166.55,1167.05,words,,0,,,,-0.11000000000012733,0.5,0,False,True,1
+268,5ca6bbf13b5fcf00100996e9,1166.66,1173.23,or get rejected. That's but it's super cool to make the money and,"Yeah, exactly. Yeah.",3,5f14cf327627fb00097f9a8a,1167.06,1170.17,-0.38999999999987267,6.569999999999936,0,False,True,15
+269,5f14cf327627fb00097f9a8a,1173.04,1173.25,It,,0,,,,-0.19000000000005457,0.21000000000003638,0,False,True,1
+270,5ca6bbf13b5fcf00100996e9,1173.23,1173.62,"then,",,0,,,,-0.01999999999998181,0.38999999999987267,0,False,True,1
+271,5f14cf327627fb00097f9a8a,1173.25,1173.67,is.,,0,,,,-0.36999999999989086,0.42000000000007276,0,False,True,1
+272,5ca6bbf13b5fcf00100996e9,1173.9,1183.56,and I'm just trying to get back into it because like I made my my own took account is barely a year old. It's like a year and a few months and they made 6000.,"Yeah,",1,5f14cf327627fb00097f9a8a,1182.74,1182.88,0.2300000000000182,9.659999999999854,0,False,False,37
+273,5f14cf327627fb00097f9a8a,1182.88,1185.64,I know. That's awesome.,Yeah.,1,5ca6bbf13b5fcf00100996e9,1184.44,1184.94,-0.6799999999998363,2.759999999999991,0,False,True,5
+274,5ca6bbf13b5fcf00100996e9,1185.54,1185.96,Yeah.,,0,,,,-0.10000000000013642,0.42000000000007276,0,False,True,1
+275,5f14cf327627fb00097f9a8a,1185.72,1185.98,That's,,0,,,,-0.2400000000000091,0.2599999999999909,0,False,True,2
+276,5ca6bbf13b5fcf00100996e9,1185.97,1186.12,So,,0,,,,-0.009999999999990905,0.14999999999986358,0,False,True,1
+277,5f14cf327627fb00097f9a8a,1185.98,1186.25,great.,,0,,,,-0.13999999999987267,0.2699999999999818,0,False,True,1
+278,5ca6bbf13b5fcf00100996e9,1186.12,1186.43,like,,0,,,,-0.13000000000010914,0.3100000000001728,0,False,True,1
+279,5f14cf327627fb00097f9a8a,1186.25,1186.56,Nick.,,0,,,,-0.18000000000006366,0.30999999999994543,0,False,True,1
+280,5ca6bbf13b5fcf00100996e9,1186.44,1187.08,I,,0,,,,-0.11999999999989086,0.6399999999998727,0,False,True,1
+281,5f14cf327627fb00097f9a8a,1187.04,1187.35,I,,0,,,,-0.03999999999996362,0.30999999999994543,0,False,True,1
+282,5ca6bbf13b5fcf00100996e9,1187.09,1187.76,"just loved,",,0,,,,-0.2599999999999909,0.6700000000000728,0,False,True,2
+283,5f14cf327627fb00097f9a8a,1187.36,1191.17,can't be incentive now now I'm going to start putting some,,0,,,,-0.40000000000009095,3.810000000000173,0,False,True,13
+284,5ca6bbf13b5fcf00100996e9,1190.04,1214.21,yeah it's worth it. And as soon as you get hit those levels like you did 100 hits 500 hits. 1000 kind of helps. But once you get to around 1000 you're fine. And then it opens up so many more avenues to make some survey money and then you will find the good batch ones where they're easy. Like some of them just like you listen to it uh tell the quality of an audio thing you listen to for about three minutes and answer some questions on it,Yeah. Uh huh wow.,3,5f14cf327627fb00097f9a8a,1199.04,1213.27,-1.1300000000001091,24.170000000000073,0,False,True,93
+285,5f14cf327627fb00097f9a8a,1214.44,1214.69,That's,,0,,,,0.2300000000000182,0.25,0,False,False,2
+286,5ca6bbf13b5fcf00100996e9,1214.46,1214.7,takes,,0,,,,-0.2300000000000182,0.2400000000000091,0,False,True,1
+287,5f14cf327627fb00097f9a8a,1214.69,1215.23,like,,0,,,,-0.009999999999990905,0.5399999999999636,0,False,True,1
+288,5ca6bbf13b5fcf00100996e9,1214.7,1217.18,"about three minutes, three minutes and you get 50 cents and then",,0,,,,-0.5299999999999727,2.480000000000018,0,False,True,12
+289,5f14cf327627fb00097f9a8a,1217.14,1217.36,that's,,0,,,,-0.03999999999996362,0.2199999999997999,0,False,True,2
+290,5ca6bbf13b5fcf00100996e9,1217.19,1222.05,you do like I think that one's like you do like 60 of them. It's like a $30.,awesome.,1,5f14cf327627fb00097f9a8a,1217.36,1217.95,-0.16999999999984539,4.8599999999999,0,False,True,21
+291,5f14cf327627fb00097f9a8a,1222.14,1223.27,That's great.,,0,,,,0.09000000000014552,1.1299999999998818,0,False,False,3
+292,5ca6bbf13b5fcf00100996e9,1223.24,1226.27,Yeah and then they pay you a bonus for if we do all 60,,0,,,,-0.029999999999972715,3.0299999999999727,0,False,True,14
+293,5f14cf327627fb00097f9a8a,1226.94,1227.56,Safe.,,0,,,,0.6700000000000728,0.6199999999998909,0,False,False,1
+294,5ca6bbf13b5fcf00100996e9,1227.34,1228.66,you know so it's called to.,,0,,,,-0.22000000000002728,1.3200000000001637,0,False,True,7
+295,5f14cf327627fb00097f9a8a,1228.94,1233.67,Yeah. That is cool. I'm excited. I'm gonna start working on some more of those then.,Yeah.,1,5ca6bbf13b5fcf00100996e9,1230.04,1230.27,0.2799999999999727,4.730000000000018,0,False,False,19
+296,5ca6bbf13b5fcf00100996e9,1233.84,1244.17,And what I like to is just it's just like I treat certainly it is a second job but I've always said to myself I never wanted to do like a second really second job because it's just too much to,Right.,1,5f14cf327627fb00097f9a8a,1242.94,1243.36,0.16999999999984539,10.330000000000155,0,False,False,44
+297,5f14cf327627fb00097f9a8a,1244.14,1244.33,Just,,0,,,,-0.029999999999972715,0.1899999999998272,0,False,True,1
+298,5ca6bbf13b5fcf00100996e9,1244.17,1244.47,deal,,0,,,,-0.15999999999985448,0.2999999999999545,0,False,True,1
+299,5f14cf327627fb00097f9a8a,1244.33,1244.63,something,,0,,,,-0.14000000000010004,0.3000000000001819,0,False,True,1
+300,5ca6bbf13b5fcf00100996e9,1244.47,1245.44,with.,,0,,,,-0.16000000000008185,0.9700000000000273,0,False,True,1
+301,5f14cf327627fb00097f9a8a,1244.63,1246.71,that you can do when I know I'm gonna want to work.,,0,,,,-0.8099999999999454,2.0799999999999272,0,False,True,14
+302,5ca6bbf13b5fcf00100996e9,1246.54,1246.72,I'm,,0,,,,-0.17000000000007276,0.18000000000006366,0,False,True,2
+303,5f14cf327627fb00097f9a8a,1246.71,1246.76,I,,0,,,,-0.009999999999990905,0.049999999999954525,0,False,True,1
+304,5ca6bbf13b5fcf00100996e9,1246.73,1247.78,home.,,0,,,,-0.029999999999972715,1.0499999999999545,0,False,True,1
+305,5f14cf327627fb00097f9a8a,1246.76,1247.56,can work,,0,,,,-1.0199999999999818,0.7999999999999545,0,False,True,2
+306,5ca6bbf13b5fcf00100996e9,1247.79,1252.86,I could be like on the drive thru somewhere getting some food and I was something there.,,0,,,,0.2300000000000182,5.069999999999936,0,False,False,17
+307,5f14cf327627fb00097f9a8a,1252.44,1255.64,yeah do it. Yeah. Doing a survey.,Mhm.,1,5ca6bbf13b5fcf00100996e9,1253.54,1254.35,-0.4199999999998454,3.2000000000000455,0,False,True,7
+308,5ca6bbf13b5fcf00100996e9,1255.24,1256.79,It's,,0,,,,-0.40000000000009095,1.5499999999999545,0,False,True,2
+309,5f14cf327627fb00097f9a8a,1255.64,1256.85,"You know, I'm right there with",,0,,,,-1.1499999999998636,1.209999999999809,0,False,True,7
+310,5ca6bbf13b5fcf00100996e9,1256.79,1256.98,just,,0,,,,-0.05999999999994543,0.19000000000005457,0,False,True,1
+311,5f14cf327627fb00097f9a8a,1256.85,1257.53,you.,,0,,,,-0.13000000000010914,0.6800000000000637,0,False,True,1
+312,5ca6bbf13b5fcf00100996e9,1256.98,1257.84,"so cold,",,0,,,,-0.5499999999999545,0.8599999999999,0,False,True,2
+313,5f14cf327627fb00097f9a8a,1257.54,1258.26,It's,,0,,,,-0.2999999999999545,0.7200000000000273,0,False,True,2
+314,5ca6bbf13b5fcf00100996e9,1257.85,1258.35,it's so,,0,,,,-0.41000000000008185,0.5,0,False,True,3
+315,5f14cf327627fb00097f9a8a,1258.26,1258.58,become,,0,,,,-0.08999999999991815,0.31999999999993634,0,False,True,1
+316,5ca6bbf13b5fcf00100996e9,1258.35,1258.77,cold,,0,,,,-0.2300000000000182,0.42000000000007276,0,False,True,1
+317,5f14cf327627fb00097f9a8a,1258.58,1264.26,"like my second life. I'm like always on my phone with a survey, open some some survey or another. I'm like always doing something.",,0,,,,-0.19000000000005457,5.680000000000064,0,False,True,26
+318,5ca6bbf13b5fcf00100996e9,1263.84,1270.35,and I guess I'm Tara it's been around for a bunch of years at least. I can't remember exactly. But maybe.,"Yeah,",1,5f14cf327627fb00097f9a8a,1269.14,1269.64,-0.42000000000007276,6.509999999999991,0,False,True,24
+319,5f14cf327627fb00097f9a8a,1269.65,1271.66,"that's the first I've ever heard of this surprisingly,",,0,,,,-0.6999999999998181,2.009999999999991,0,False,True,11
+320,5ca6bbf13b5fcf00100996e9,1271.14,1277.1,Yeah me too. Maybe like something around 2000 and seven or 2000 and 10 or so. So I I,,0,,,,-0.5199999999999818,5.959999999999809,0,False,True,19
+321,5f14cf327627fb00097f9a8a,1277.04,1277.19,you,,0,,,,-0.05999999999994543,0.15000000000009095,0,False,True,1
+322,5ca6bbf13b5fcf00100996e9,1277.1,1277.27,just,,0,,,,-0.09000000000014552,0.17000000000007276,0,False,True,1
+323,5f14cf327627fb00097f9a8a,1277.19,1277.46,know.,,0,,,,-0.07999999999992724,0.2699999999999818,0,False,True,1
+324,5ca6bbf13b5fcf00100996e9,1277.27,1278.95,wish I knew what I knew about it sooner.,,0,,,,-0.19000000000005457,1.6800000000000637,0,False,True,9
+325,5f14cf327627fb00097f9a8a,1279.74,1283.67,"Yeah, no doubt me to then I'd be able to thousands.",Mm,1,5ca6bbf13b5fcf00100996e9,1281.04,1281.36,0.7899999999999636,3.9300000000000637,0,False,False,12
+326,5ca6bbf13b5fcf00100996e9,1283.44,1299.99,"Yeah, I know because sometimes in the beginning when I went back to Sea World I was feeling like, oh I can't do is I'm it was tired for being a home for four months that's kind of thinking like I don't want to work there anymore, maybe I'll drive Uber or something but now, but now it's um my stamina is coming back and things",Yeah. Yeah. Right,2,5f14cf327627fb00097f9a8a,1290.04,1296.67,-0.2300000000000182,16.549999999999955,0,False,True,72
+327,5f14cf327627fb00097f9a8a,1299.94,1300.45,head.,,0,,,,-0.049999999999954525,0.5099999999999909,0,False,True,1
+328,5ca6bbf13b5fcf00100996e9,1299.99,1302.25,are getting but yeah.,,0,,,,-0.4600000000000364,2.259999999999991,0,False,True,4
+329,5f14cf327627fb00097f9a8a,1301.94,1344.97,"Yeah, I'm sure it takes a little bit to get back into that when you're off that long. I know uh you know we're talking about if we move out to a house you get a house, I'm gonna have to find, you know, full time work, you know, so we can make it and live comfortably and just thinking about going back to work for somebody. I mean I've worked you know for myself so long but just got to get more accounts on my bookkeeper. So I did bookkeeping taxes, things like that. But you got a put yourself out there and now I'm just I don't know, I think my mother, I must make a living doing this or it's things like this, you know uh that make more money. I don't know, I like",Mhm Yeah. Yeah. Mhm. Okay. Mhm. Yeah.,7,5ca6bbf13b5fcf00100996e9,1303.24,1341.27,-0.30999999999994543,43.02999999999997,0,False,True,148
+330,5ca6bbf13b5fcf00100996e9,1344.54,1344.88,Then,,0,,,,-0.43000000000006366,0.3400000000001455,0,False,True,1
+331,5f14cf327627fb00097f9a8a,1344.98,1349.05,my opinion about stuff and get paid for. It's pretty cool. Mhm.,"yeah,",1,5ca6bbf13b5fcf00100996e9,1348.04,1348.66,0.09999999999990905,4.069999999999936,0,False,False,13
+332,5ca6bbf13b5fcf00100996e9,1349.44,1357.75,"because I got, when I went back to work they switch switch my location to another place where is outside more. So I'm used to",Yeah.,1,5f14cf327627fb00097f9a8a,1356.74,1357.36,0.39000000000010004,8.309999999999945,0,False,False,26
+333,5f14cf327627fb00097f9a8a,1357.74,1358.06,Come,,0,,,,-0.009999999999990905,0.31999999999993634,0,False,True,1
+334,5ca6bbf13b5fcf00100996e9,1357.75,1369.37,"that now. But also what I like to is that I'm like the only one running to play some running. So like it's like easy when my day is over. I leave when I used to work in a restaurant with other leaders, like,",Yeah.,1,5f14cf327627fb00097f9a8a,1365.44,1366.06,-0.30999999999994543,11.61999999999989,0,False,True,46
+335,5f14cf327627fb00097f9a8a,1369.14,1369.54,Need,,0,,,,-0.22999999999979082,0.3999999999998636,0,False,True,1
+336,5ca6bbf13b5fcf00100996e9,1369.37,1369.78,"hey,",,0,,,,-0.17000000000007276,0.41000000000008185,0,False,True,1
+337,5f14cf327627fb00097f9a8a,1369.55,1369.86,help.,,0,,,,-0.2300000000000182,0.30999999999994543,0,False,True,1
+338,5ca6bbf13b5fcf00100996e9,1369.79,1372.35,I'm gonna go and it's always a little etiquette,Yeah.,1,5f14cf327627fb00097f9a8a,1370.34,1370.54,-0.06999999999993634,2.5599999999999454,0,False,True,12
+339,5f14cf327627fb00097f9a8a,1372.14,1372.56,Yet.,,0,,,,-0.209999999999809,0.4199999999998454,0,False,True,1
+340,5ca6bbf13b5fcf00100996e9,1372.35,1378.26,"like, and like they would say, yeah, but sometimes we're like, well whatever, we still have to do this, and it's like,",Yeah.,1,5f14cf327627fb00097f9a8a,1377.84,1378.13,-0.21000000000003638,5.910000000000082,0,False,True,24
+341,5f14cf327627fb00097f9a8a,1378.13,1380.16,Check out what I'm gonna do this because,"yeah,",1,5ca6bbf13b5fcf00100996e9,1379.54,1379.81,-0.12999999999988177,2.0299999999999727,0,False,True,10
+342,5ca6bbf13b5fcf00100996e9,1379.81,1380.74,"I know,",,0,,,,-0.3500000000001364,0.9300000000000637,0,False,True,2
+343,5f14cf327627fb00097f9a8a,1380.38,1380.99,I work.,,0,,,,-0.35999999999989996,0.6099999999999,0,False,True,2
+344,5ca6bbf13b5fcf00100996e9,1380.75,1385.17,and now it's like when I'm done go and that's what I really like to.,Yeah. Mm.,2,5f14cf327627fb00097f9a8a,1380.99,1382.66,-0.2400000000000091,4.420000000000073,0,False,True,18
+345,5f14cf327627fb00097f9a8a,1385.14,1404.77,"Yeah it is nice and I thought about going back and serving, you know I mean? But my husband just left actually Longhorn he was like the lead cook there and he went to Publix now he's doing meat cutting mayor because you can make a career at that. Um But he's that, that servers even during the day there make about $600 a week. I'm like holy crap,",Mhm. Okay.,2,5ca6bbf13b5fcf00100996e9,1386.44,1397.86,-0.029999999999972715,19.62999999999988,1,False,True,73
+346,5ca6bbf13b5fcf00100996e9,1405.04,1405.96,"Well yeah,",,0,,,,0.2699999999999818,0.9200000000000728,0,False,False,2
+347,5f14cf327627fb00097f9a8a,1405.44,1407.56,that's good money. Yeah.,,0,,,,-0.5199999999999818,2.119999999999891,0,False,True,5
+348,5ca6bbf13b5fcf00100996e9,1407.34,1428.44,"I know because I worked at a restaurant before the pandemic and there's a bar attached to it and, and the thing is like all the bartenders, I mean they make crazy crazy money, sometimes they make like $1000 in tips in one day. And yeah, I know I'm sitting there, I'm not spending their money, but I'm thinking like I don't like they want to do a lot of money, you know? You",Mm. Yeah. Yeah wow. Oh yeah. Yeah,7,5f14cf327627fb00097f9a8a,1413.14,1427.34,-0.22000000000002728,21.100000000000136,1,False,True,80
+349,5f14cf327627fb00097f9a8a,1428.14,1429.96,no doubt.,,0,,,,-0.2999999999999545,1.8199999999999363,0,False,True,2
+350,5ca6bbf13b5fcf00100996e9,1428.44,1443.77,"know? Yeah. And also it's kind of like a little bit of a secret, not after one of the park knows it and there's other people working as a service in other parts of the park making next to nothing and you know, and there's only there's only three bartenders and they were all making that kind of money, but",Right.,1,5f14cf327627fb00097f9a8a,1438.64,1439.27,-1.5199999999999818,15.329999999999927,1,False,True,64
+351,5f14cf327627fb00097f9a8a,1443.64,1445.04,1000.,,0,,,,-0.12999999999988177,1.3999999999998636,0,False,True,1
+352,5ca6bbf13b5fcf00100996e9,1444.94,1451.16,"you know, But then the pandemic kind of screwed them over because they all came back part time, but they're still making some money. So",Yeah.,1,5f14cf327627fb00097f9a8a,1445.05,1445.46,-0.09999999999990905,6.220000000000027,0,False,True,26
+353,5f14cf327627fb00097f9a8a,1450.74,1456.72,"Yeah that's good. So you said, well you do the call center there, you know he said",,0,,,,-0.42000000000007276,5.980000000000018,0,False,True,18
+354,5ca6bbf13b5fcf00100996e9,1456.04,1461.69,"now I'm a culinary leader, so like before, before I was in the restaurant,",okay,1,5f14cf327627fb00097f9a8a,1458.94,1460.05,-0.6800000000000637,5.650000000000091,0,False,True,15
+355,5f14cf327627fb00097f9a8a,1461.34,1461.55,well,,0,,,,-0.3500000000001364,0.21000000000003638,0,False,True,1
+356,5ca6bbf13b5fcf00100996e9,1461.7,1474.55,"but it's like a big restaurant, so there will be like four or five liters with me and and now I went to like a small location that's like almost like a cart, but like a small stand, so I'm the only one overseeing that.","right. Yeah,",2,5f14cf327627fb00097f9a8a,1465.74,1472.27,0.15000000000009095,12.849999999999909,0,False,False,48
+357,5f14cf327627fb00097f9a8a,1474.18,1477.45,"that that's good. Yeah, definitely.","Yeah,",1,5ca6bbf13b5fcf00100996e9,1475.14,1475.55,-0.36999999999989086,3.269999999999982,0,False,True,6
+358,5ca6bbf13b5fcf00100996e9,1476.94,1479.46,"so that's why I got some freedom when I can leave,",,0,,,,-0.5099999999999909,2.519999999999982,0,False,True,12
+359,5f14cf327627fb00097f9a8a,1478.94,1479.96,"Yeah, it's",,0,,,,-0.5199999999999818,1.0199999999999818,0,False,True,3
+360,5ca6bbf13b5fcf00100996e9,1479.94,1480.36,you know?,nice,1,5f14cf327627fb00097f9a8a,1479.96,1480.16,-0.01999999999998181,0.4199999999998454,1,True,True,2
+361,5f14cf327627fb00097f9a8a,1480.16,1482.36,"to be outside a little more to like you said,",,0,,,,-0.1999999999998181,2.199999999999818,0,False,True,10
+362,5ca6bbf13b5fcf00100996e9,1482.14,1488.46,"Yeah. And also, what's cool? Who is that essentially, the summer is almost over for see walt.","okay. Oh yeah,",3,5f14cf327627fb00097f9a8a,1482.84,1487.66,-0.2199999999997999,6.319999999999936,1,False,True,18
+363,5f14cf327627fb00097f9a8a,1487.67,1490.46,it's kind of getting cool. It's gonna be nice out.,,0,,,,-0.7899999999999636,2.7899999999999636,0,False,True,13
+364,5ca6bbf13b5fcf00100996e9,1489.84,1496.17,So I came back in mid july and then I feel like I did miss most of summer. So that's good. That's good.,Okay.,1,5f14cf327627fb00097f9a8a,1492.94,1493.27,-0.6200000000001182,6.330000000000155,0,False,True,25
+365,5f14cf327627fb00097f9a8a,1496.34,1499.36,Yeah. Yeah. I miss all the hard stuff.,,0,,,,0.16999999999984539,3.019999999999982,0,False,False,8
+366,5ca6bbf13b5fcf00100996e9,1499.64,1503.56,"Yeah. And then it gets slower, you know, in september and the kids go back to school",,0,,,,0.2800000000002001,3.9199999999998454,0,False,False,17
+367,5f14cf327627fb00097f9a8a,1504.04,1508.56,Yeah. Yeah. You guys are going back to school to yeah. How are you feeling about that?,,0,,,,0.4800000000000182,4.519999999999982,1,True,False,17
+368,5ca6bbf13b5fcf00100996e9,1509.14,1517.84,"when my kids out of school. But I guess, I think they're going back to school. I think they'll be fine as far as covid and you know, if they get it to get it to get rid of it. So it's very","Yeah,",1,5f14cf327627fb00097f9a8a,1517.04,1517.57,0.5800000000001546,8.699999999999818,0,False,False,46
+369,5f14cf327627fb00097f9a8a,1517.57,1517.93,"I mean, you",,0,,,,-0.2699999999999818,0.36000000000012733,0,False,True,3
+370,5ca6bbf13b5fcf00100996e9,1517.84,1518.05,good,,0,,,,-0.09000000000014552,0.21000000000003638,0,False,True,1
+371,5f14cf327627fb00097f9a8a,1517.93,1523.15,"know 99% of the people, you know, get it and they get over it just like, you know. Okay.",,0,,,,-0.11999999999989086,5.220000000000027,0,False,True,19
+372,5ca6bbf13b5fcf00100996e9,1523.04,1523.49,"and, and",,0,,,,-0.11000000000012733,0.4500000000000455,0,False,True,2
+373,5f14cf327627fb00097f9a8a,1523.26,1523.66,That is,a,1,5ca6bbf13b5fcf00100996e9,1523.49,1523.54,-0.2300000000000182,0.40000000000009095,0,False,True,2
+374,5ca6bbf13b5fcf00100996e9,1523.54,1528.17,bunch don't even know that they had it and just like sort of cold for them.,yeah. Right. Yeah.,3,5f14cf327627fb00097f9a8a,1526.34,1528.04,-0.12000000000011823,4.630000000000109,0,False,True,17
+375,5f14cf327627fb00097f9a8a,1528.44,1528.62,That's,,0,,,,0.2699999999999818,0.1799999999998363,0,False,False,2
+376,5ca6bbf13b5fcf00100996e9,1528.54,1528.74,And,,0,,,,-0.07999999999992724,0.20000000000004547,0,False,True,1
+377,5f14cf327627fb00097f9a8a,1528.62,1528.83,what my,,0,,,,-0.12000000000011823,0.21000000000003638,0,False,True,2
+378,5ca6bbf13b5fcf00100996e9,1528.74,1529.26,so,,0,,,,-0.08999999999991815,0.5199999999999818,0,False,True,1
+379,5f14cf327627fb00097f9a8a,1528.83,1540.26,"mom and I were saying because we have this really bad cough like at the end of uh last year, beginning in january and just would not go away. I was like, who knows? We could have had a string of at them, you know?",,0,,,,-0.43000000000006366,11.430000000000064,2,True,True,45
+380,5ca6bbf13b5fcf00100996e9,1540.64,1559.67,"yeah, I know, because during, during the covid times when I was out of work, I did have a cough, but it went away about maybe five or six days. But like I was, in my mind, I was like, well, I don't care, just a cough. I mean if I have other symptoms, I would do something. Like I had a fever of the story, but I'm not gonna go running to get tested cause I got a car",Right. Yeah. Yeah. Yeah.,4,5f14cf327627fb00097f9a8a,1555.04,1557.25,0.38000000000010914,19.029999999999973,0,False,False,83
+381,5f14cf327627fb00097f9a8a,1559.74,1560.36,Now.,,0,,,,0.06999999999993634,0.6199999999998909,0,False,False,1
+382,5ca6bbf13b5fcf00100996e9,1560.24,1563.96,"and then I worked and it worked out and said, so it's cool.",,0,,,,-0.11999999999989086,3.7200000000000273,0,False,True,14
+383,5f14cf327627fb00097f9a8a,1563.74,1567.16,"Yeah. Yeah. I'm just right,","Oh,",1,5ca6bbf13b5fcf00100996e9,1566.54,1566.96,-0.22000000000002728,3.4200000000000728,0,False,True,6
+384,5ca6bbf13b5fcf00100996e9,1566.97,1588.28,"what do you say to about the covid? It was like, what a bunch of doctors in California to doctors actually. They were just kind of reworking the math and they're saying that you're not understanding that their, their singing with the covid death rate. They're saying like, you're not accounting for all the people who actually had, it didn't get tested. If you put them into the equation, then the death",right.,1,5f14cf327627fb00097f9a8a,1585.14,1585.77,-0.19000000000005457,21.309999999999945,1,False,True,77
+385,5f14cf327627fb00097f9a8a,1588.24,1588.5,That's,,0,,,,-0.03999999999996362,0.2599999999999909,0,False,True,2
+386,5ca6bbf13b5fcf00100996e9,1588.28,1604.71,rate is very similar to the flu. And we're looking at something exactly like the flu if you're only taking what was tested and who died and I think the rate was like 5%. But we go back and find other people who weren't tested but did have it and didn't didn't die,right. Yes. Right. Yeah. Mhm. Yeah.,6,5f14cf327627fb00097f9a8a,1588.5,1602.34,-0.22000000000002728,16.430000000000064,0,False,True,58
+387,5f14cf327627fb00097f9a8a,1604.54,1604.85,Like,,0,,,,-0.17000000000007276,0.30999999999994543,0,False,True,1
+388,5ca6bbf13b5fcf00100996e9,1604.72,1605.26,there.,,0,,,,-0.12999999999988177,0.5399999999999636,0,False,True,1
+389,5f14cf327627fb00097f9a8a,1604.85,1606.06,"1% you know,",,0,,,,-0.41000000000008185,1.2100000000000364,0,False,True,3
+390,5ca6bbf13b5fcf00100996e9,1605.84,1607.57,Yeah it's like really under 1%.,,0,,,,-0.22000000000002728,1.7300000000000182,0,False,True,7
+391,5f14cf327627fb00097f9a8a,1607.54,1607.78,I'm,,0,,,,-0.029999999999972715,0.2400000000000091,0,False,True,2
+392,5ca6bbf13b5fcf00100996e9,1607.57,1608.06,It's just,,0,,,,-0.21000000000003638,0.4900000000000091,0,False,True,3
+393,5f14cf327627fb00097f9a8a,1607.78,1608.01,gonna,,0,,,,-0.2799999999999727,0.2300000000000182,0,False,True,2
+394,5ca6bbf13b5fcf00100996e9,1608.06,1630.9,"like just just like the flu and really not none of the shutdown which you really need it. But I don't know I actually to me I love the shutdown because I made a couple of bucks and and then everyone I know or to see well we're tired. We don't always want we would walk around the park forever like 30,000 types of day. So we got to have that three months off. It was great. But with",Yeah. Yeah. Yeah. Yeah. Right.,5,5f14cf327627fb00097f9a8a,1609.94,1630.06,0.049999999999954525,22.840000000000146,0,False,False,82
+395,5f14cf327627fb00097f9a8a,1630.84,1631.21,That's,,0,,,,-0.060000000000172804,0.37000000000011823,0,False,True,2
+396,5ca6bbf13b5fcf00100996e9,1630.9,1636.62,exception though there's like a good handful people that I know they didn't get to come back. So that,right. Yeah. Mm.,3,5f14cf327627fb00097f9a8a,1631.21,1635.95,-0.30999999999994543,5.7199999999998,0,False,True,21
+397,5f14cf327627fb00097f9a8a,1636.34,1636.69,And so,,0,,,,-0.2799999999999727,0.3500000000001364,0,False,True,2
+398,5ca6bbf13b5fcf00100996e9,1636.62,1637.23,that,,0,,,,-0.07000000000016371,0.6100000000001273,0,False,True,1
+399,5f14cf327627fb00097f9a8a,1636.69,1637.86,and are,,0,,,,-0.5399999999999636,1.1699999999998454,0,False,True,2
+400,5ca6bbf13b5fcf00100996e9,1637.24,1638.45,that part is Yeah.,,0,,,,-0.6199999999998909,1.2100000000000364,0,False,True,4
+401,5f14cf327627fb00097f9a8a,1638.84,1646.67,"Yeah, definitely. I mean they can't it's kind of slower right now like you said. So I can't keep everybody on.",,0,,,,0.38999999999987267,7.830000000000155,0,False,False,24
+402,5ca6bbf13b5fcf00100996e9,1646.74,1670.67,"Yeah. I mean there's a chance they might still bring him back, but like, even like we have like a website and the wording is very like cryptic. It's and like we're staff for now and this is kind of like kind of like, it's kind of like it and they're holding on a glimmer like, well maybe, you know, down the road, we could bring some more people back, but they're not really. Yeah. Anyway, we made our 25 minute mark.",Yeah. Yeah. Yeah. Yeah.,4,5f14cf327627fb00097f9a8a,1651.74,1666.86,0.06999999999993634,23.930000000000064,0,False,False,88
+403,5f14cf327627fb00097f9a8a,1670.94,1674.96,Oh we showed in look at that around 28 minutes and,Yeah. Yeah. All right.,3,5ca6bbf13b5fcf00100996e9,1672.54,1674.98,0.2699999999999818,4.019999999999982,0,False,False,11
+404,5ca6bbf13b5fcf00100996e9,1675.01,1676.56,"That was good talking to you angel,",,0,,,,0.049999999999954525,1.5499999999999545,0,False,False,7
+405,5f14cf327627fb00097f9a8a,1676.14,1677.16,it's your neck.,,0,,,,-0.4199999999998454,1.0199999999999818,0,False,True,4
+406,5ca6bbf13b5fcf00100996e9,1677.34,1679.86,and hopefully we'll get a nice bonus.,,0,,,,0.1799999999998363,2.519999999999982,0,False,False,8
+407,5f14cf327627fb00097f9a8a,1678.94,1680.86,Yeah. Take care.,,0,,,,-0.9199999999998454,1.9199999999998454,0,False,True,3
+408,5ca6bbf13b5fcf00100996e9,1680.44,1682.17,"Are you too? Okay, bye bye.",,0,,,,-0.4199999999998454,1.7300000000000182,1,False,True,6

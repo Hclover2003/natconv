@@ -1,0 +1,343 @@
+turn_id,speaker,start,stop,utterance,backchannel,backchannel_count,backchannel_speaker,backchannel_start,backchannel_stop,interval,delta,questions,end_question,overlap,n_words
+0,5e3ac9d20d41ad2da023d9ae,28.44,89.95,"Yeah. Mhm, mm. Yeah. Okay. Oh mm. Oh okay. Yeah. Yeah yeah. Mhm.",Yeah,1,5db2cfc2aa1295000aa719c1,88.54,88.86,,61.510000000000005,0,False,False,13
+1,5db2cfc2aa1295000aa719c1,94.64,99.34,true. Okay. Yeah.,Mhm.,1,5e3ac9d20d41ad2da023d9ae,95.44,95.76,4.689999999999998,4.700000000000003,0,False,False,3
+2,5e3ac9d20d41ad2da023d9ae,99.24,100.16,I don't know.,,0,,,,-0.10000000000000853,0.9200000000000017,0,False,True,4
+3,5db2cfc2aa1295000aa719c1,100.44,103.96,Hey can you hear me? Hey man how you doing?,Yeah.,1,5e3ac9d20d41ad2da023d9ae,101.44,102.54,0.28000000000000114,3.519999999999996,2,True,False,10
+4,5e3ac9d20d41ad2da023d9ae,103.44,105.56,"Good, How about you?",,0,,,,-0.519999999999996,2.1200000000000045,1,True,True,4
+5,5db2cfc2aa1295000aa719c1,105.24,106.43,Good thank,,0,,,,-0.3200000000000074,1.190000000000012,0,False,True,2
+6,5e3ac9d20d41ad2da023d9ae,106.24,107.51,Second,,0,,,,-0.19000000000001194,1.2700000000000102,0,False,True,1
+7,5db2cfc2aa1295000aa719c1,106.43,107.85,you. Sure I have,,0,,,,-1.0799999999999983,1.4199999999999875,0,False,True,4
+8,5e3ac9d20d41ad2da023d9ae,107.51,113.85,"hair? Sorry, I'm trying to use my headphones and it's coming out of my speakers here",yeah. Yeah,2,5db2cfc2aa1295000aa719c1,108.24,110.04,-0.3399999999999892,6.339999999999989,1,False,True,18
+9,5db2cfc2aa1295000aa719c1,113.54,117.84,I see. Yeah.,um Just,1,5e3ac9d20d41ad2da023d9ae,114.64,118.54,-0.30999999999998806,4.299999999999997,0,False,True,3
+10,5e3ac9d20d41ad2da023d9ae,118.54,121.96,a second. Um,,0,,,,0.7000000000000028,3.4199999999999875,0,False,False,3
+11,5db2cfc2aa1295000aa719c1,122.24,123.56,Country. Mhm.,Okay,1,5e3ac9d20d41ad2da023d9ae,122.34,122.66,0.28000000000000114,1.3200000000000074,0,False,False,2
+12,5e3ac9d20d41ad2da023d9ae,123.34,125.56,"uh sorry, I'm going to set up.",,0,,,,-0.21999999999999886,2.219999999999999,0,False,True,8
+13,5db2cfc2aa1295000aa719c1,125.24,127.06,What Well no problem.,,0,,,,-0.3200000000000074,1.8200000000000074,0,False,True,4
+14,5e3ac9d20d41ad2da023d9ae,127.24,139.24,Yeah. Yeah. Yeah okay so Uh huh. Yeah,Oh.,1,5db2cfc2aa1295000aa719c1,134.54,134.75,0.1799999999999926,12.000000000000014,0,False,False,8
+15,5db2cfc2aa1295000aa719c1,139.14,139.35,Mhm.,,0,,,,-0.10000000000002274,0.21000000000000796,0,False,True,1
+16,5e3ac9d20d41ad2da023d9ae,143.14,145.05,"there yeah,",,0,,,,3.789999999999992,1.910000000000025,0,False,False,2
+17,5db2cfc2aa1295000aa719c1,144.94,146.94,Perfect. Yeah,,0,,,,-0.11000000000001364,2.0,0,False,True,2
+18,5e3ac9d20d41ad2da023d9ae,147.14,152.06,so I'm not entirely sure what we're supposed to be talking about,,0,,,,0.19999999999998863,4.920000000000016,0,False,False,14
+19,5db2cfc2aa1295000aa719c1,151.64,153.32,I don't know man how,,0,,,,-0.4200000000000159,1.6800000000000068,0,False,True,6
+20,5e3ac9d20d41ad2da023d9ae,153.14,153.86,what,,0,,,,-0.18000000000000682,0.7200000000000273,0,False,True,1
+21,5db2cfc2aa1295000aa719c1,153.32,155.15,things were going for you generally?,,0,,,,-0.5400000000000205,1.8300000000000125,1,True,True,6
+22,5e3ac9d20d41ad2da023d9ae,156.24,161.76,"Pretty good, I mean, you know the whole corona things been pretty crazy.",Yeah. Yeah.,2,5db2cfc2aa1295000aa719c1,158.94,160.66,1.0900000000000034,5.519999999999982,0,False,False,13
+23,5db2cfc2aa1295000aa719c1,161.74,163.96,Yeah it's an unusual situation.,,0,,,,-0.01999999999998181,2.219999999999999,0,False,True,6
+24,5e3ac9d20d41ad2da023d9ae,163.44,170.36,"Uh huh. Yeah, just kind of getting used to it now I guess.",,0,,,,-0.5200000000000102,6.920000000000016,0,False,True,13
+25,5db2cfc2aa1295000aa719c1,170.34,179.76,"Yeah it's been, how long have you been? I know the like rules have been different in different places but how long have you been like staying at home for most of the time?",Uh huh. Oh. Mhm.,3,5e3ac9d20d41ad2da023d9ae,170.94,179.45,-0.020000000000010232,9.419999999999987,2,True,True,35
+26,5e3ac9d20d41ad2da023d9ae,179.84,192.91,Well I'm still going to work actually um Yeah because I work in the transit and transportation company so um,Oh wow okay. Mhm. Okay.,3,5db2cfc2aa1295000aa719c1,182.84,192.44,0.0800000000000125,13.069999999999993,0,False,False,21
+27,5db2cfc2aa1295000aa719c1,192.67,193.26,I see.,,0,,,,-0.2400000000000091,0.5900000000000034,0,False,True,2
+28,5e3ac9d20d41ad2da023d9ae,192.92,210.36,"we're essential workers I guess, but uh I've been working remote sometimes as well, so it's been like I don't know, probably two months now I guess. Yeah.",Yeah. Mhm wow okay. Yeah.,3,5db2cfc2aa1295000aa719c1,195.74,209.79,-0.3400000000000034,17.440000000000026,0,False,True,32
+29,5db2cfc2aa1295000aa719c1,209.8,214.46,Yeah you get used to the lifestyle after a while and now.,Yeah,1,5e3ac9d20d41ad2da023d9ae,213.74,214.54,-0.5600000000000023,4.659999999999997,0,False,True,12
+30,5e3ac9d20d41ad2da023d9ae,214.55,220.54,"totally, totally. How long have a year? How long have you? Yeah.",Yeah. Um,2,5db2cfc2aa1295000aa719c1,216.04,221.0,0.09000000000000341,5.989999999999981,2,False,False,12
+31,5db2cfc2aa1295000aa719c1,221.01,244.96,I think it's been like a month and a half since I started working remotely full time. Uh huh. So yeah it's crazy it's just uh I live right near a beach and I see people like standing right outside of it wanting to go like wanting to resume their normal activities surfing and what not and it's just like yeah,"Mhm. Yes. Uh huh. Yeah,",5,5e3ac9d20d41ad2da023d9ae,226.74,244.06,0.46999999999999886,23.950000000000017,0,False,False,65
+32,5e3ac9d20d41ad2da023d9ae,244.07,257.84,"that's it, it's weird like get rid of, you know, when you go to the store and he's wearing like a mask and stuff, it's just like, oh, it's like that movie or Yeah. Yeah.","okay awesome. Yeah, yeah yeah. No,",5,5db2cfc2aa1295000aa719c1,245.44,257.74,-0.8900000000000148,13.769999999999982,0,False,True,40
+33,5db2cfc2aa1295000aa719c1,257.75,262.56,"uh, I don't know if you've heard of or seen the movie contagion but",Yeah.,1,5e3ac9d20d41ad2da023d9ae,259.14,259.46,-0.08999999999997499,4.810000000000002,0,False,True,16
+34,5e3ac9d20d41ad2da023d9ae,262.44,264.41,"River, you need to watch",,0,,,,-0.12000000000000455,1.9700000000000273,0,False,True,5
+35,5db2cfc2aa1295000aa719c1,264.34,264.76,war,,0,,,,-0.07000000000005002,0.4200000000000159,0,False,True,1
+36,5e3ac9d20d41ad2da023d9ae,264.41,265.26,it.,,0,,,,-0.3499999999999659,0.8499999999999659,0,False,True,1
+37,5db2cfc2aa1295000aa719c1,265.24,270.75,"Well it's probably like 10 years old, but the streaming rates of it went way up",,0,,,,-0.01999999999998181,5.509999999999991,0,False,True,17
+38,5e3ac9d20d41ad2da023d9ae,271.44,273.05,"Yeah, I think I heard that.",,0,,,,0.6899999999999977,1.6100000000000136,0,False,False,6
+39,5db2cfc2aa1295000aa719c1,272.64,276.35,then. All sense of the outbreak started.,Yeah. Oh,2,5e3ac9d20d41ad2da023d9ae,273.06,275.25,-0.410000000000025,3.7100000000000364,0,False,True,7
+40,5e3ac9d20d41ad2da023d9ae,276.84,284.45,"yeah. Yeah, totally. It's, that's weird. But you're able to work and everything like remotely 100%.",Yeah.,1,5db2cfc2aa1295000aa719c1,283.44,284.09,0.48999999999995225,7.610000000000014,0,False,False,19
+41,5db2cfc2aa1295000aa719c1,284.1,285.75,So I'm are,,0,,,,-0.3499999999999659,1.6499999999999773,0,False,True,4
+42,5e3ac9d20d41ad2da023d9ae,286.34,286.66,"Well,",,0,,,,0.589999999999975,0.32000000000005,0,False,False,1
+43,5db2cfc2aa1295000aa719c1,286.34,306.16,"PhD researcher. I'm a PhD student. I do chemistry research in the lab and probably like 50-75% of my job. I can do remotely. Um, I'm just doing those things. I mean some projects are on hold obviously, but I'm doing what I can.",no. Nice. Mhm.,2,5e3ac9d20d41ad2da023d9ae,289.54,300.06,-0.32000000000005,19.82000000000005,0,False,True,48
+44,5e3ac9d20d41ad2da023d9ae,306.94,308.76,How nice. That's awesome. Let's,"Yeah, and",1,5db2cfc2aa1295000aa719c1,307.84,308.67,0.7799999999999727,1.8199999999999932,0,False,False,7
+45,5db2cfc2aa1295000aa719c1,308.67,308.88,I'm,,0,,,,-0.08999999999997499,0.20999999999997954,0,False,True,2
+46,5e3ac9d20d41ad2da023d9ae,308.76,309.26,go.,,0,,,,-0.12000000000000455,0.5,0,False,True,1
+47,5db2cfc2aa1295000aa719c1,308.89,310.26,"thinking, hey, thank God.",,0,,,,-0.37000000000000455,1.3700000000000045,0,False,True,4
+48,5e3ac9d20d41ad2da023d9ae,310.84,312.7,"Yeah, totally. I know it's crazy.","Yeah,",1,5db2cfc2aa1295000aa719c1,311.94,312.55,0.5799999999999841,1.8600000000000136,0,False,False,7
+49,5db2cfc2aa1295000aa719c1,312.56,313.46,Private paycheck.,,0,,,,-0.13999999999998636,0.8999999999999773,0,False,True,2
+50,5e3ac9d20d41ad2da023d9ae,314.14,331.56,"Yes. So many people like, that's crazy. They work for like a transit agency and like data analyst and uh they laid off like 300 people like through the bus drivers like on friday and it was just like, oh God,","Oh my God,",2,5db2cfc2aa1295000aa719c1,327.64,328.86,0.6800000000000068,17.420000000000016,0,False,False,42
+51,5db2cfc2aa1295000aa719c1,331.34,333.76,The longest period on a friday. Huh?,,0,,,,-0.22000000000002728,2.420000000000016,1,True,True,7
+52,5e3ac9d20d41ad2da023d9ae,333.34,338.13,"Yeah, exactly. Like you can come pick up your sex. I mean, they kind",Yeah.,1,5db2cfc2aa1295000aa719c1,335.54,335.95,-0.4200000000000159,4.7900000000000205,0,False,True,14
+53,5db2cfc2aa1295000aa719c1,337.94,338.15,What?,,0,,,,-0.18999999999999773,0.20999999999997954,1,True,True,1
+54,5e3ac9d20d41ad2da023d9ae,338.13,344.06,"of do, they weren't working really and anticipate. Yeah.",Right. Yeah.,2,5db2cfc2aa1295000aa719c1,340.14,343.3,-0.01999999999998181,5.930000000000007,0,False,True,10
+55,5db2cfc2aa1295000aa719c1,343.31,364.56,"And like I'm like people aren't riding the bus as much and stuff, but you know, there's like, I was surprised how many companies are like apparently always just on the verge of not being a company anymore. You know it's like a few months of like fund saved or whatever. I don't know how companies work really. But",Mhm. Yeah. Yeah.,3,5e3ac9d20d41ad2da023d9ae,347.34,361.26,-0.75,21.25,0,False,True,64
+56,5e3ac9d20d41ad2da023d9ae,364.34,370.85,You think like the bigger like kind of corporations would have stuff in place?,,0,,,,-0.22000000000002728,6.510000000000048,1,True,True,14
+57,5db2cfc2aa1295000aa719c1,369.94,376.18,american airlines. Yeah it's like one week with no flights and you're just like completely fucked forever.,Yes. Yeah. Yeah.,3,5e3ac9d20d41ad2da023d9ae,372.04,377.24,-0.910000000000025,6.240000000000009,0,False,True,19
+58,5e3ac9d20d41ad2da023d9ae,377.25,378.76,"No, totally.",,0,,,,1.0699999999999932,1.509999999999991,0,False,False,2
+59,5db2cfc2aa1295000aa719c1,377.54,379.96,I will not more ready.,,0,,,,-1.2199999999999704,2.419999999999959,0,False,True,5
+60,5e3ac9d20d41ad2da023d9ae,379.64,385.25,"I know, but I mean, I understand like, you know, like a local like mom and Pops place like,",,0,,,,-0.3199999999999932,5.610000000000014,0,False,True,19
+61,5db2cfc2aa1295000aa719c1,384.74,385.93,Right. I'm really,,0,,,,-0.5099999999999909,1.1899999999999977,0,False,True,4
+62,5e3ac9d20d41ad2da023d9ae,385.74,386.46,you know.,,0,,,,-0.18999999999999773,0.7199999999999704,0,False,True,2
+63,5db2cfc2aa1295000aa719c1,385.93,389.86,worth. Do you have any favorite local businesses nearby that you're worried about?,Yeah. Yeah.,2,5e3ac9d20d41ad2da023d9ae,386.84,389.46,-0.5299999999999727,3.930000000000007,1,True,True,14
+64,5e3ac9d20d41ad2da023d9ae,390.64,414.72,"Yeah, like a bunch of them really and getting into, they're all doing like, like uh The takeout stuff right now, but like it's just like, I don't know, is it like 20%,, you know, your normal way, you know, revenue stream or whatever? That's crazy. But",Yeah. Yeah. Right. Yeah. Yeah. Um Yeah.,7,5db2cfc2aa1295000aa719c1,393.24,411.25,0.7799999999999727,24.08000000000004,1,False,False,51
+65,5db2cfc2aa1295000aa719c1,413.44,414.06,What is it?,,0,,,,-1.2800000000000296,0.6200000000000045,1,True,True,3
+66,5e3ac9d20d41ad2da023d9ae,414.73,421.56,"uh hopefully, I mean, doesn't sound like it's going to a new attempt soon, but",,0,,,,0.6700000000000159,6.829999999999984,0,False,False,17
+67,5db2cfc2aa1295000aa719c1,419.94,421.79,I know. Yeah. It could be a year.,,0,,,,-1.6200000000000045,1.8500000000000227,0,False,True,8
+68,5e3ac9d20d41ad2da023d9ae,421.57,430.25,"yeah. Yeah. It's, I'm starting to get a cab in favor of it place, blah locked",Yeah.,1,5db2cfc2aa1295000aa719c1,428.54,429.16,-0.22000000000002728,8.680000000000007,0,False,True,18
+69,5db2cfc2aa1295000aa719c1,429.74,430.53,Is the,,0,,,,-0.5099999999999909,0.7899999999999636,0,False,True,2
+70,5e3ac9d20d41ad2da023d9ae,430.25,430.65,up,,0,,,,-0.2799999999999727,0.39999999999997726,0,False,True,1
+71,5db2cfc2aa1295000aa719c1,430.54,433.36,weather like nice enough where you live you can just step outside.,,0,,,,-0.1099999999999568,2.819999999999993,0,False,True,12
+72,5e3ac9d20d41ad2da023d9ae,433.14,435.26,now.,,0,,,,-0.22000000000002728,2.1200000000000045,0,False,True,1
+73,5db2cfc2aa1295000aa719c1,434.04,436.06,"It is impossible, wow.",,0,,,,-1.2199999999999704,2.019999999999982,0,False,True,4
+74,5e3ac9d20d41ad2da023d9ae,435.64,439.26,"Um Sometimes it is, you have a minute organs, so.",,0,,,,-0.4200000000000159,3.6200000000000045,0,False,True,10
+75,5db2cfc2aa1295000aa719c1,439.44,441.75,"Oh I see. Yeah, clue.",Yeah.,1,5e3ac9d20d41ad2da023d9ae,440.34,441.74,0.18000000000000682,2.3100000000000023,0,False,False,5
+76,5e3ac9d20d41ad2da023d9ae,442.44,453.16,"Yeah, we get a lot of right in here. Yeah. So, but I mean it's not been getting nicer like what about of it? But Yeah. Oh yeah.",Yeah. Mhm. Yeah.,3,5db2cfc2aa1295000aa719c1,444.24,452.65,0.6899999999999977,10.720000000000027,1,False,False,29
+77,5db2cfc2aa1295000aa719c1,453.44,461.35,I live in SAn Diego so thankfully back here. Yeah. Um Yeah I,Yeah.,1,5e3ac9d20d41ad2da023d9ae,457.54,458.94,0.2799999999999727,7.910000000000025,0,False,False,13
+78,5e3ac9d20d41ad2da023d9ae,461.34,462.14,Yeah.,,0,,,,-0.010000000000047748,0.8000000000000114,0,False,True,1
+79,5db2cfc2aa1295000aa719c1,461.35,471.86,used to live in Minneapolis and I talked to some of my friends used to live there and like the first few weeks of quarantine it was snowing still like I can't even imagine nothing.,Yeah.,1,5e3ac9d20d41ad2da023d9ae,469.94,470.35,-0.7899999999999636,10.509999999999991,0,False,True,36
+80,5e3ac9d20d41ad2da023d9ae,471.34,485.45,"Yeah. Yeah. That would be what I mean. It's not it's not too bad here like I mean I can get out, you know, there's you know there's a lot of trails and stuff and could go on a walk and",Yeah. Yeah.,2,5db2cfc2aa1295000aa719c1,474.64,484.36,-0.5200000000000387,14.110000000000014,0,False,True,45
+81,5db2cfc2aa1295000aa719c1,484.74,487.26,You got a formula. Our hope.,"yeah,",1,5e3ac9d20d41ad2da023d9ae,485.94,487.16,-0.7099999999999795,2.519999999999982,0,False,True,6
+82,5e3ac9d20d41ad2da023d9ae,487.17,488.55,it's an amount.,,0,,,,-0.08999999999997499,1.3799999999999955,0,False,True,4
+83,5db2cfc2aa1295000aa719c1,488.24,492.06,Did you do that for quarantine? Started to like something?,Uh huh. Yeah.,2,5e3ac9d20d41ad2da023d9ae,488.94,491.98,-0.3100000000000023,3.819999999999993,2,True,True,10
+84,5e3ac9d20d41ad2da023d9ae,491.99,510.96,"Yeah. Yeah. It's funny like right when it started to pick up, I was kind of on a big big hike and it's kind of weird like there's people still. Yeah like but uh yeah they've closed all the trails and stuff now so.",Yeah. Okay. Yeah.,3,5db2cfc2aa1295000aa719c1,497.84,509.87,-0.06999999999999318,18.96999999999997,0,False,True,48
+85,5db2cfc2aa1295000aa719c1,509.87,511.46,"I mean around here, Yeah,",,0,,,,-1.089999999999975,1.589999999999975,0,False,True,5
+86,5e3ac9d20d41ad2da023d9ae,511.64,519.86,Yeah. But it seems like they're starting to open up a little bit. So it's like,,0,,,,0.18000000000000682,8.220000000000027,0,False,False,18
+87,5db2cfc2aa1295000aa719c1,519.34,532.22,"There one full, but yeah, I'm worried that they will be like a big second wave of infections on stuff when things reopen and people are, we'll","yeah. Oh. Oh yeah,",4,5e3ac9d20d41ad2da023d9ae,521.14,532.11,-0.5199999999999818,12.879999999999995,0,False,True,29
+88,5e3ac9d20d41ad2da023d9ae,532.12,532.49,I know.,,0,,,,-0.10000000000002274,0.37000000000000455,0,False,True,2
+89,5db2cfc2aa1295000aa719c1,532.22,532.55,see.,,0,,,,-0.2699999999999818,0.32999999999992724,0,False,True,1
+90,5e3ac9d20d41ad2da023d9ae,532.49,550.23,"It's like yeah my sister is like uh she's just she's just finishing a medical school and she's starting to residency and june and I'm like, that's gonna be crazy.",Uh huh. Yeah.,2,5db2cfc2aa1295000aa719c1,542.34,548.81,-0.05999999999994543,17.74000000000001,0,False,True,37
+91,5db2cfc2aa1295000aa719c1,548.82,550.05,Crazy time to start.,,0,,,,-1.4099999999999682,1.2299999999999045,0,False,True,4
+92,5e3ac9d20d41ad2da023d9ae,550.24,554.36,Yeah. Exactly. So just like,,0,,,,0.19000000000005457,4.1200000000000045,0,False,False,5
+93,5db2cfc2aa1295000aa719c1,553.44,553.65,What?,,0,,,,-0.9199999999999591,0.2099999999999227,1,True,True,1
+94,5e3ac9d20d41ad2da023d9ae,554.37,555.96,kind of worry about those people. But,Yeah.,1,5db2cfc2aa1295000aa719c1,555.54,556.34,0.7200000000000273,1.5900000000000318,0,False,False,7
+95,5db2cfc2aa1295000aa719c1,556.35,557.78,"No, for sure.",,0,,,,0.38999999999998636,1.42999999999995,0,False,False,3
+96,5e3ac9d20d41ad2da023d9ae,557.64,557.87,do,,0,,,,-0.13999999999998636,0.2300000000000182,0,False,True,1
+97,5db2cfc2aa1295000aa719c1,557.79,558.26,Different,,0,,,,-0.08000000000004093,0.4700000000000273,0,False,True,1
+98,5e3ac9d20d41ad2da023d9ae,557.87,561.66,you know anybody that it's like god made or anything.,sure.,1,5db2cfc2aa1295000aa719c1,559.64,559.96,-0.38999999999998636,3.7899999999999636,0,False,True,11
+99,5db2cfc2aa1295000aa719c1,561.54,578.15,"Um, no one directly that I know is like confirmed infected with it. But like friends of friends are like friends, family members. A few people I know have been like tested positive. Um, probably a few other people have it but never got tested. They just",Mm hmm. All right. Yeah.,3,5e3ac9d20d41ad2da023d9ae,570.54,577.14,-0.12000000000000455,16.610000000000014,0,False,True,47
+100,5e3ac9d20d41ad2da023d9ae,578.14,578.35,"Well,",,0,,,,-0.009999999999990905,0.21000000000003638,0,False,True,1
+101,5db2cfc2aa1295000aa719c1,578.15,593.79,"say because you? Re all these, these reports, like there's a huge shortage of tests and things and people just if their, their symptoms aren't like that severe, they just assume they have it quarantine for a few weeks and and then",yeah. Yeah. Yeah.,3,5e3ac9d20d41ad2da023d9ae,579.94,595.14,-0.20000000000004547,15.639999999999986,1,False,True,44
+102,5e3ac9d20d41ad2da023d9ae,595.15,611.46,"Yeah. They had somebody that might work like was around somebody who tested positive. And he's like, they were like, okay, you can come and work anymore. And they had like guys come in with like Hazmat suits and like spray the place down.",Uh huh. Okay. Yeah.,4,5db2cfc2aa1295000aa719c1,600.14,603.05,1.3600000000000136,16.31000000000006,0,False,False,45
+103,5db2cfc2aa1295000aa719c1,611.18,612.36,Is it like an author?,Yeah.,1,5e3ac9d20d41ad2da023d9ae,611.84,612.89,-0.2800000000000864,1.1800000000000637,1,True,True,5
+104,5e3ac9d20d41ad2da023d9ae,612.9,613.94,Yeah. I was in,,0,,,,0.5399999999999636,1.0400000000000773,0,False,False,4
+105,5db2cfc2aa1295000aa719c1,613.9,614.36,All,,0,,,,-0.04000000000007731,0.4600000000000364,0,False,True,1
+106,5e3ac9d20d41ad2da023d9ae,613.94,619.76,"office like and I have like, there's nobody that works around being like, like,",,0,,,,-0.4199999999999591,5.819999999999936,0,False,True,15
+107,5db2cfc2aa1295000aa719c1,618.94,619.45,I'm all,,0,,,,-0.8199999999999363,0.5099999999999909,0,False,True,3
+108,5e3ac9d20d41ad2da023d9ae,620.24,630.04,"You know, like a 30-foot radius. I'm like the only person. But they still were like, yeah, we're gonna come in here and spread. Yeah.",okay,1,5db2cfc2aa1295000aa719c1,624.24,624.75,0.7899999999999636,9.799999999999955,0,False,False,28
+109,5db2cfc2aa1295000aa719c1,627.14,630.85,wow. What is that like a lonely set up at work?,,0,,,,-2.8999999999999773,3.7100000000000364,1,True,True,11
+110,5e3ac9d20d41ad2da023d9ae,630.74,638.46,"Mhm. Um So it's not, it wasn't always like that, but it has been since this whole",Okay.,1,5db2cfc2aa1295000aa719c1,636.54,637.05,-0.11000000000001364,7.720000000000027,0,False,True,19
+111,5db2cfc2aa1295000aa719c1,638.44,638.56,All,,0,,,,-0.01999999999998181,0.11999999999989086,0,False,True,1
+112,5e3ac9d20d41ad2da023d9ae,638.46,640.76,thing um,right.,1,5db2cfc2aa1295000aa719c1,638.56,638.86,-0.09999999999990905,2.2999999999999545,0,False,True,2
+113,5db2cfc2aa1295000aa719c1,640.14,640.76,Okay.,,0,,,,-0.6200000000000045,0.6200000000000045,0,False,True,1
+114,5e3ac9d20d41ad2da023d9ae,641.14,649.91,"like uh we just one of the guys that kind of does similar, similar stuff to me and",,0,,,,0.37999999999999545,8.769999999999982,0,False,False,18
+115,5db2cfc2aa1295000aa719c1,649.14,649.56,Perhaps.,,0,,,,-0.7699999999999818,0.4199999999999591,0,False,True,1
+116,5e3ac9d20d41ad2da023d9ae,649.92,687.96,"he's a lot older and he's like, you know, and he's like kind of a, you know, he has some health issues so he's like I'm just going to be working from home and you're going to be the one that's going in and making sure this this ship sails. So but it's kind of I mean it's just like the only person I talked to every day is like the the front desk administrator. You know, I'm just like, hey how's it going? It's kind of strange. But yeah, got the place to myself.",Yeah. Right. Yeah. Yeah. Mhm. Yeah. Yeah.,7,5db2cfc2aa1295000aa719c1,652.44,685.36,0.36000000000001364,38.04000000000008,1,False,False,107
+117,5db2cfc2aa1295000aa719c1,688.44,690.36,Yeah. What kind of work do you,"Yeah,",1,5e3ac9d20d41ad2da023d9ae,689.54,690.34,0.4800000000000182,1.919999999999959,0,False,False,7
+118,5e3ac9d20d41ad2da023d9ae,691.34,730.06,"so I work for the local transit agency up here in Portland and I work for the they have like a pair of transits side so it's like for people with disabilities and beginning no rather normal bus systems. So yeah, I guess my titles like data analyst, but a lot of it is like supporting the system and doing a lot of kind of like, you know, writing reports and all sorts of stuff like that.",then? Mhm. Okay. Right. Yeah. Mhm. Okay.,6,5db2cfc2aa1295000aa719c1,697.14,729.25,0.9800000000000182,38.719999999999914,0,False,False,78
+119,5db2cfc2aa1295000aa719c1,729.74,731.45,Do you have any like coding or?,,0,,,,-0.31999999999993634,1.7100000000000364,1,True,True,7
+120,5e3ac9d20d41ad2da023d9ae,731.54,739.25,"Yeah. You do like python stuff, um, some data analysis with that just to kind",Okay. Okay. Yeah.,3,5db2cfc2aa1295000aa719c1,732.74,739.14,0.08999999999991815,7.710000000000036,0,False,False,15
+121,5db2cfc2aa1295000aa719c1,739.14,739.36,I don't,,0,,,,-0.11000000000001364,0.22000000000002728,0,False,True,3
+122,5e3ac9d20d41ad2da023d9ae,739.25,739.46,"of,",,0,,,,-0.11000000000001364,0.21000000000003638,0,False,True,1
+123,5db2cfc2aa1295000aa719c1,739.36,742.85,know any coding but yeah.,"Oh, really?",2,5e3ac9d20d41ad2da023d9ae,739.94,742.76,-0.10000000000002274,3.490000000000009,0,False,True,5
+124,5e3ac9d20d41ad2da023d9ae,743.44,744.36,"Yeah,",,0,,,,0.5900000000000318,0.9199999999999591,0,False,False,1
+125,5db2cfc2aa1295000aa719c1,743.44,744.66,Were you sts major?,,0,,,,-0.9199999999999591,1.2199999999999136,1,True,True,4
+126,5e3ac9d20d41ad2da023d9ae,745.64,771.66,"I got a Master's and information systems a couple of years ago. Um, but I actually did my undergrad and like completely different fields. Um and I, yeah, like actually did like education and talk for a little bit overseas actually. And I was like, I don't know if I can do teacher.",Okay. Okay. Right. Yeah.,4,5db2cfc2aa1295000aa719c1,749.44,768.95,0.9800000000000182,26.019999999999982,0,False,False,55
+127,5db2cfc2aa1295000aa719c1,771.94,773.56,Yeah. What age were you teaching?,"Yeah,",1,5e3ac9d20d41ad2da023d9ae,772.64,773.74,0.2800000000000864,1.6199999999998909,1,True,False,6
+128,5e3ac9d20d41ad2da023d9ae,774.64,780.06,"just, it was like elementary school age. Yeah. So.",Okay.,1,5db2cfc2aa1295000aa719c1,777.44,777.95,1.080000000000041,5.419999999999959,0,False,False,9
+129,5db2cfc2aa1295000aa719c1,779.74,780.96,"And you're kind of, you did that",,0,,,,-0.31999999999993634,1.2200000000000273,0,False,True,8
+130,5e3ac9d20d41ad2da023d9ae,780.94,781.26,No.,,0,,,,-0.01999999999998181,0.31999999999993634,0,False,True,1
+131,5db2cfc2aa1295000aa719c1,780.96,785.36,"for a bit and you're just like, yeah. Okay.","Right. Yeah, exactly. Yeah.",2,5e3ac9d20d41ad2da023d9ae,782.04,785.25,-0.2999999999999545,4.399999999999977,0,False,True,10
+132,5e3ac9d20d41ad2da023d9ae,785.74,788.35,Yeah. So.,,0,,,,0.37999999999999545,2.6100000000000136,0,False,False,2
+133,5db2cfc2aa1295000aa719c1,788.24,788.99,Do you like your current,,0,,,,-0.11000000000001364,0.75,0,False,True,5
+134,5e3ac9d20d41ad2da023d9ae,788.74,795.56,"Right. Yeah, it's interesting and I don't know.",yeah.,1,5db2cfc2aa1295000aa719c1,793.04,793.54,-0.25,6.819999999999936,0,False,True,10
+135,5db2cfc2aa1295000aa719c1,795.64,798.96,Is that what brought you to Portland or did you already live there?,"Yes,",1,5e3ac9d20d41ad2da023d9ae,795.94,796.75,0.08000000000004093,3.32000000000005,1,True,False,13
+136,5e3ac9d20d41ad2da023d9ae,798.74,801.12,I'm from here. Yeah.,Okay. All,1,5db2cfc2aa1295000aa719c1,799.84,800.71,-0.22000000000002728,2.3799999999999955,0,False,True,5
+137,5db2cfc2aa1295000aa719c1,800.71,800.95,right.,,0,,,,-0.40999999999996817,0.2400000000000091,0,False,True,1
+138,5e3ac9d20d41ad2da023d9ae,801.13,802.04,Yeah.,,0,,,,0.17999999999994998,0.9099999999999682,0,False,False,1
+139,5db2cfc2aa1295000aa719c1,801.34,802.96,I've never been. I heard it's nice,,0,,,,-0.6999999999999318,1.6200000000000045,0,False,True,9
+140,5e3ac9d20d41ad2da023d9ae,803.44,804.38,"Yeah, that's the next",,0,,,,0.4800000000000182,0.9399999999999409,0,False,False,5
+141,5db2cfc2aa1295000aa719c1,804.14,804.68,gradually,,0,,,,-0.2400000000000091,0.5399999999999636,0,False,True,1
+142,5e3ac9d20d41ad2da023d9ae,804.38,805.26,place.,,0,,,,-0.2999999999999545,0.8799999999999955,0,False,True,1
+143,5db2cfc2aa1295000aa719c1,804.69,806.48,or I,"Yeah,",1,5e3ac9d20d41ad2da023d9ae,805.64,806.43,-0.5699999999999363,1.7899999999999636,0,False,True,2
+144,5e3ac9d20d41ad2da023d9ae,806.44,807.2,absolutely.,,0,,,,-0.03999999999996362,0.7599999999999909,0,False,True,1
+145,5db2cfc2aa1295000aa719c1,806.49,815.63,"want, yeah, I watched the show Portlandia when it came out. Um I know how accurate of a depiction that is but","Mm Yeah,",2,5e3ac9d20d41ad2da023d9ae,808.64,813.66,-0.7100000000000364,9.139999999999986,0,False,True,22
+146,5e3ac9d20d41ad2da023d9ae,815.64,817.27,"there's,",,0,,,,0.009999999999990905,1.6299999999999955,0,False,False,2
+147,5db2cfc2aa1295000aa719c1,815.64,816.86,it looks like a fun way.,,0,,,,-1.6299999999999955,1.2200000000000273,0,False,True,6
+148,5e3ac9d20d41ad2da023d9ae,817.27,818.08,there's some,,0,,,,0.40999999999996817,0.8100000000000591,0,False,False,3
+149,5db2cfc2aa1295000aa719c1,818.04,818.24,I'm,,0,,,,-0.04000000000007731,0.20000000000004547,0,False,True,2
+150,5e3ac9d20d41ad2da023d9ae,818.09,818.6,accurate,,0,,,,-0.14999999999997726,0.5099999999999909,0,False,True,1
+151,5db2cfc2aa1295000aa719c1,818.24,818.72,sure it's a,,0,,,,-0.36000000000001364,0.4800000000000182,0,False,True,4
+152,5e3ac9d20d41ad2da023d9ae,818.6,819.26,theater.,,0,,,,-0.12000000000000455,0.6599999999999682,0,False,True,1
+153,5db2cfc2aa1295000aa719c1,818.73,821.54,"pleasure or, wow. Yeah.","Yeah,",1,5e3ac9d20d41ad2da023d9ae,819.64,821.07,-0.5299999999999727,2.8099999999999454,0,False,True,4
+154,5e3ac9d20d41ad2da023d9ae,821.08,827.16,"but they filmed it like on site and everything so it's like, yeah,",Right.,1,5db2cfc2aa1295000aa719c1,823.54,824.05,-0.4599999999999227,6.079999999999927,0,False,True,14
+155,5db2cfc2aa1295000aa719c1,824.64,826.65,Right. That's cool.,,0,,,,-2.519999999999982,2.009999999999991,0,False,True,4
+156,5e3ac9d20d41ad2da023d9ae,827.54,832.45,"so that's cool. But yeah, no, but yeah, san Diego though, it's",,0,,,,0.8899999999999864,4.910000000000082,0,False,False,14
+157,5db2cfc2aa1295000aa719c1,832.34,832.9,It's,,0,,,,-0.11000000000001364,0.5599999999999454,0,False,True,2
+158,5e3ac9d20d41ad2da023d9ae,832.45,834.56,like the dream,nice.,1,5db2cfc2aa1295000aa719c1,832.9,833.27,-0.4499999999999318,2.1099999999999,0,False,True,3
+159,5db2cfc2aa1295000aa719c1,833.28,838.26,Yeah I'm from the midwest and moved out here. Uh It's expensive.,,0,,,,-1.2799999999999727,4.980000000000018,0,False,True,14
+160,5e3ac9d20d41ad2da023d9ae,837.64,838.15,it,,0,,,,-0.6200000000000045,0.5099999999999909,0,False,True,1
+161,5db2cfc2aa1295000aa719c1,838.27,839.44,I'm sure Portland's expensive,,0,,,,0.12000000000000455,1.1700000000000728,0,False,False,6
+162,5e3ac9d20d41ad2da023d9ae,839.44,839.86,hey.,,0,,,,0.0,0.4199999999999591,0,False,False,1
+163,5db2cfc2aa1295000aa719c1,839.44,840.85,too. Yes.,"Yeah,",1,5e3ac9d20d41ad2da023d9ae,840.44,840.69,-0.4199999999999591,1.4099999999999682,0,False,True,2
+164,5e3ac9d20d41ad2da023d9ae,840.69,843.68,I don't think it's as bad as like,Yeah,1,5db2cfc2aa1295000aa719c1,842.64,843.27,-0.15999999999996817,2.9899999999998954,0,False,True,10
+165,5db2cfc2aa1295000aa719c1,843.28,844.05,it's um,,0,,,,-0.39999999999997726,0.7699999999999818,0,False,True,3
+166,5e3ac9d20d41ad2da023d9ae,843.69,845.66,san Diego California.,,0,,,,-0.35999999999989996,1.9699999999999136,0,False,True,3
+167,5db2cfc2aa1295000aa719c1,846.14,857.29,"but it's great down here. I love it. I love it. Mexican, superb. Uh climates obviously great. It's kind of crowded but whatever nice",Yes. Yeah. Yeah.,3,5e3ac9d20d41ad2da023d9ae,848.84,857.28,0.4800000000000182,11.149999999999977,0,False,False,26
+168,5e3ac9d20d41ad2da023d9ae,857.29,857.86,Yeah.,,0,,,,0.0,0.57000000000005,0,False,False,1
+169,5db2cfc2aa1295000aa719c1,857.29,858.95,place people over there. Yeah.,,0,,,,-0.57000000000005,1.6600000000000819,0,False,True,5
+170,5e3ac9d20d41ad2da023d9ae,859.04,863.16,"It's not as bad as like L. A. Um Yeah,",Oh yeah.,1,5db2cfc2aa1295000aa719c1,861.44,862.24,0.08999999999991815,4.1200000000000045,0,False,False,11
+171,5db2cfc2aa1295000aa719c1,863.04,864.09,Yeah definitely.,,0,,,,-0.12000000000000455,1.0500000000000682,0,False,True,2
+172,5e3ac9d20d41ad2da023d9ae,864.44,876.05,my brother lived in L. A. For a couple of years and uh yeah uh you got to get out of there.,Mhm.,1,5db2cfc2aa1295000aa719c1,868.44,868.86,0.35000000000002274,11.6099999999999,0,False,False,22
+173,5db2cfc2aa1295000aa719c1,876.14,896.74,Yeah. I've been I've not every like no one I've lived here for three years. I've not heard anyone in san Diego say that they love L. A. Or that they loved living in L. A. Or that it's like a fun place to been a long time. I visited a few times and had a good time. But I can see like not wanting to live there for sure. It just seems like,Mhm. Yeah. Yeah.,3,5e3ac9d20d41ad2da023d9ae,887.84,896.74,0.09000000000003183,20.600000000000023,0,False,False,79
+174,5e3ac9d20d41ad2da023d9ae,897.44,914.56,"Yeah I went like visited him and he's like right on the beach and I was like, you know, for like three days I was there, I was like this is this is awesome. But then you're like okay, it costs a ton of money and",all right. Right.,2,5db2cfc2aa1295000aa719c1,906.24,910.36,0.7000000000000455,17.11999999999989,0,False,False,48
+175,5db2cfc2aa1295000aa719c1,913.84,922.36,It takes me 90 minutes to get to work. It takes me 30 minutes to get anywhere.,"yeah, exactly. Yeah.",1,5e3ac9d20d41ad2da023d9ae,915.44,919.66,-0.7199999999999136,8.519999999999982,0,False,True,17
+176,5e3ac9d20d41ad2da023d9ae,922.04,924.6,Yeah right now it's pretty,,0,,,,-0.32000000000005,2.560000000000059,0,False,True,6
+177,5db2cfc2aa1295000aa719c1,924.24,926.16,I'm oh yeah I imagine.,nice,1,5e3ac9d20d41ad2da023d9ae,924.6,925.46,-0.36000000000001364,1.919999999999959,0,False,True,6
+178,5e3ac9d20d41ad2da023d9ae,926.14,932.06,"driving around, there's no traffic that's for sure.",Yeah. Yeah.,2,5db2cfc2aa1295000aa719c1,928.34,931.04,-0.01999999999998181,5.919999999999959,0,False,True,10
+179,5db2cfc2aa1295000aa719c1,932.24,932.53,So you,,0,,,,0.18000000000006366,0.2899999999999636,0,False,False,2
+180,5e3ac9d20d41ad2da023d9ae,932.44,933.07,Who's?,,0,,,,-0.08999999999991815,0.6299999999999955,1,True,True,2
+181,5db2cfc2aa1295000aa719c1,932.53,935.76,live in Portland now too Right.,Yeah.,1,5e3ac9d20d41ad2da023d9ae,934.34,935.14,-0.5400000000000773,3.230000000000018,0,False,True,6
+182,5e3ac9d20d41ad2da023d9ae,936.24,939.65,Yeah.,,0,,,,0.4800000000000182,3.409999999999968,0,False,False,1
+183,5db2cfc2aa1295000aa719c1,936.84,937.46,Very nice.,,0,,,,-2.8099999999999454,0.6200000000000045,0,False,True,2
+184,5e3ac9d20d41ad2da023d9ae,940.04,942.05,So are you setting chemistry?,,0,,,,2.5799999999999272,2.009999999999991,1,True,False,5
+185,5db2cfc2aa1295000aa719c1,942.24,948.65,Yeah I am yeah I've been here for like 2.5. Almost three years.,"Nice,",1,5e3ac9d20d41ad2da023d9ae,944.24,945.16,0.19000000000005457,6.409999999999968,0,False,False,14
+186,5e3ac9d20d41ad2da023d9ae,949.6,951.53,Nice. That's awesome.,,0,,,,0.9500000000000455,1.92999999999995,0,False,False,4
+187,5db2cfc2aa1295000aa719c1,951.24,951.96,Yeah it's been great.,,0,,,,-0.2899999999999636,0.7200000000000273,0,False,True,5
+188,5e3ac9d20d41ad2da023d9ae,953.04,955.86,Like what kind of feel that?,Yeah.,1,5db2cfc2aa1295000aa719c1,954.74,956.47,1.0799999999999272,2.82000000000005,1,True,False,6
+189,5db2cfc2aa1295000aa719c1,956.48,977.38,"Um I study, so technically I study physical chemistry but essentially I study atmospheric chemical reaction. So I recreate important reactions that happen in the atmosphere in a vacuum chamber in my lab. And then I studied how they happen. I make molecules and then I shoot them with a laser and study","Oh, nice.",2,5e3ac9d20d41ad2da023d9ae,972.34,973.45,0.6200000000000045,20.899999999999977,0,False,False,53
+190,5e3ac9d20d41ad2da023d9ae,977.34,977.51,That's,,0,,,,-0.03999999999996362,0.16999999999995907,0,False,True,2
+191,5db2cfc2aa1295000aa719c1,977.38,978.06,how they.,,0,,,,-0.12999999999999545,0.67999999999995,0,False,True,2
+192,5e3ac9d20d41ad2da023d9ae,977.51,978.56,crazy.,,0,,,,-0.5499999999999545,1.0499999999999545,0,False,True,1
+193,5db2cfc2aa1295000aa719c1,978.07,1003.76,"It's really cool. It's really hard. It's really really work. But I enjoyed a lot. I'm learning a lot of useful things that will help me hopefully get a job. The job market right now is not great but I got probably two more years of school here so. And san Diego is a great place. I'm sure you've got a masters in something you can't. That's grad school is really hard and shitty sometimes, but nice to be in a cool place for it.","Yeah. Yeah. Yeah. Yeah, mm hmm. Yeah. Mhm. Yeah.",9,5e3ac9d20d41ad2da023d9ae,980.84,1002.86,-0.4899999999998954,25.68999999999994,0,False,True,93
+194,5e3ac9d20d41ad2da023d9ae,1004.34,1005.78,"Yeah, totally san",,0,,,,0.5800000000000409,1.4399999999999409,0,False,False,3
+195,5db2cfc2aa1295000aa719c1,1005.54,1005.87,"We are,",,0,,,,-0.2400000000000091,0.3300000000000409,0,False,True,2
+196,5e3ac9d20d41ad2da023d9ae,1005.78,1011.57,Diego would be uh top choice for sure.,"yeah,",1,5db2cfc2aa1295000aa719c1,1006.74,1007.15,-0.09000000000003183,5.790000000000077,0,False,True,8
+197,5db2cfc2aa1295000aa719c1,1009.64,1010.15,for,,0,,,,-1.9300000000000637,0.5099999999999909,0,False,True,1
+198,5e3ac9d20d41ad2da023d9ae,1011.94,1015.47,"Yeah, that's cool. So how long is that? We said it's",,0,,,,1.7900000000000773,3.5299999999999727,1,False,False,13
+199,5db2cfc2aa1295000aa719c1,1015.44,1022.86,"in total average is like 5.5 years. It very personal person, but it's between five and six years usually.","mhm, wow,",2,5e3ac9d20d41ad2da023d9ae,1016.74,1020.07,-0.029999999999972715,7.419999999999959,0,False,True,20
+200,5e3ac9d20d41ad2da023d9ae,1023.04,1027.95,"just kind of like going to get your research time and stuff right, Like yeah,",Yeah.,1,5db2cfc2aa1295000aa719c1,1025.94,1026.95,0.17999999999994998,4.910000000000082,0,False,False,15
+201,5db2cfc2aa1295000aa719c1,1027.34,1031.96,"Yeah, so you take classes for like a year and then it's pretty much all research",,0,,,,-0.6100000000001273,4.620000000000118,0,False,True,17
+202,5e3ac9d20d41ad2da023d9ae,1032.94,1034.25,that's crazy. Yeah.,,0,,,,0.9800000000000182,1.3099999999999454,0,False,False,4
+203,5db2cfc2aa1295000aa719c1,1033.94,1038.45,"depend on your field, but yeah. Right.","Yeah. God,",1,5e3ac9d20d41ad2da023d9ae,1037.14,1039.36,-0.30999999999994543,4.509999999999991,0,False,True,7
+204,5e3ac9d20d41ad2da023d9ae,1039.37,1039.67,I don't,,0,,,,0.9199999999998454,0.3000000000001819,0,False,False,3
+205,5db2cfc2aa1295000aa719c1,1039.62,1040.22,All,,0,,,,-0.0500000000001819,0.6000000000001364,0,False,True,1
+206,5e3ac9d20d41ad2da023d9ae,1039.67,1040.26,"know,",,0,,,,-0.5499999999999545,0.5899999999999181,0,False,True,1
+207,5db2cfc2aa1295000aa719c1,1040.22,1041.06,of your masters.,,0,,,,-0.03999999999996362,0.8399999999999181,0,False,True,3
+208,5e3ac9d20d41ad2da023d9ae,1041.34,1047.77,It was two years. I did it in Chicago. DePaul.,Yeah.,1,5db2cfc2aa1295000aa719c1,1043.54,1043.95,0.2799999999999727,6.430000000000064,0,False,False,10
+209,5db2cfc2aa1295000aa719c1,1048.04,1054.36,Oh nice. I have a friend in a PhD program there right now. It's what you like going there,Mhm. Yeah. Nice. Yeah.,3,5e3ac9d20d41ad2da023d9ae,1048.64,1053.15,0.2699999999999818,6.319999999999936,0,False,False,20
+210,5e3ac9d20d41ad2da023d9ae,1054.94,1059.15,"Yeah, it was nice. Uh you know. Yeah,",,0,,,,0.5800000000001546,4.210000000000036,0,False,False,8
+211,5db2cfc2aa1295000aa719c1,1058.94,1069.78,while I was like the one big city I went to A lot of the kids. I have a soft spot in my heart for Chicago. I love it. But it's definitely different. Did you like working,"Yeah, Yeah, Yeah.",3,5e3ac9d20d41ad2da023d9ae,1064.84,1069.74,-0.21000000000003638,10.839999999999918,0,False,True,38
+212,5e3ac9d20d41ad2da023d9ae,1069.75,1069.91,From,,0,,,,-0.029999999999972715,0.16000000000008185,0,False,True,1
+213,5db2cfc2aa1295000aa719c1,1069.78,1070.17,there?,,0,,,,-0.13000000000010914,0.39000000000010004,1,True,True,1
+214,5e3ac9d20d41ad2da023d9ae,1069.91,1074.96,"the west coast. Yeah, it was nice. I've lived in new york for a little bit and","All right,",1,5db2cfc2aa1295000aa719c1,1071.84,1072.46,-0.2599999999999909,5.0499999999999545,0,False,True,18
+215,5db2cfc2aa1295000aa719c1,1074.44,1075.55,okay. What was that like?,,0,,,,-0.5199999999999818,1.1099999999999,1,True,True,5
+216,5e3ac9d20d41ad2da023d9ae,1076.54,1087.0,"that was awesome right after, right after I did my undergrad and move there and I didn't really know what I was going to do at that point in my life and I was just like just",Yeah. Right. Uh,3,5db2cfc2aa1295000aa719c1,1077.64,1085.05,0.9900000000000091,10.460000000000036,0,False,False,38
+217,5db2cfc2aa1295000aa719c1,1086.94,1087.18,Did,,0,,,,-0.05999999999994543,0.2400000000000091,0,False,True,1
+218,5e3ac9d20d41ad2da023d9ae,1087.0,1087.43,get their,,0,,,,-0.18000000000006366,0.43000000000006366,0,False,True,2
+219,5db2cfc2aa1295000aa719c1,1087.18,1087.44,"you,",,0,,,,-0.25,0.2599999999999909,0,False,True,1
+220,5e3ac9d20d41ad2da023d9ae,1087.43,1088.06,hair.,,0,,,,-0.009999999999990905,0.6299999999998818,0,False,True,1
+221,5db2cfc2aa1295000aa719c1,1087.45,1089.83,"did you call you, were there a little bit or",,0,,,,-0.6099999999999,2.3799999999998818,0,False,True,10
+222,5e3ac9d20d41ad2da023d9ae,1089.64,1089.93,There,,0,,,,-0.1899999999998272,0.2899999999999636,0,False,True,1
+223,5db2cfc2aa1295000aa719c1,1089.84,1090.45,what,,0,,,,-0.09000000000014552,0.6100000000001273,0,False,True,1
+224,5e3ac9d20d41ad2da023d9ae,1089.93,1090.45,"were,",,0,,,,-0.5199999999999818,0.5199999999999818,0,False,True,1
+225,5db2cfc2aa1295000aa719c1,1090.46,1092.76,did you teach in new york or what kind of,,0,,,,0.009999999999990905,2.2999999999999545,0,False,False,10
+226,5e3ac9d20d41ad2da023d9ae,1092.74,1093.0,I,,0,,,,-0.01999999999998181,0.2599999999999909,0,False,True,1
+227,5db2cfc2aa1295000aa719c1,1092.76,1093.13,work did,,0,,,,-0.2400000000000091,0.37000000000011823,0,False,True,2
+228,5e3ac9d20d41ad2da023d9ae,1093.01,1093.2,did,,0,,,,-0.12000000000011823,0.19000000000005457,0,False,True,1
+229,5db2cfc2aa1295000aa719c1,1093.14,1093.55,you?,,0,,,,-0.05999999999994543,0.4099999999998545,1,True,True,1
+230,5e3ac9d20d41ad2da023d9ae,1093.2,1122.56,"a little bit, I did kind of did like substitute station and then I was like, it was right after the yeah, Like the 2008 recession, so it was like kind of like not the best timing, but and then I uh just like waiting tables and looking for a year and a half, two years and then it's like I have had enough, but it was visible places, a huge city, you know, and like possible.",Oh yeah. Right. Yeah. Yeah. Yeah. Yeah. A,8,5db2cfc2aa1295000aa719c1,1097.04,1122.01,-0.34999999999990905,29.3599999999999,0,False,True,78
+231,5db2cfc2aa1295000aa719c1,1122.02,1144.27,"couple of my friends from college or from new york, and then After we graduated, like 10 of them all moved to New York and they live in various places and hang out all the time. I'm pretty jealous. But yeah, they're like a lot of them are like part time volunteering at something related to what they want to do and then they're waiting tables are washing dishes or something, sort of how it is.",Mm. Yeah. Yeah. Mhm. Right. Yeah.,6,5e3ac9d20d41ad2da023d9ae,1126.04,1143.25,-0.5399999999999636,22.25,0,False,True,79
+232,5e3ac9d20d41ad2da023d9ae,1145.04,1163.64,"Yeah. That's it felt like, yeah, when I was there, everybody was like, You know, grinding, you know, doing like 20 different internships at a time and like, you know. Yeah. Yeah, it was, it was an extra same experience",Yeah. Yeah. Um Oh yeah. Mhm.,6,5db2cfc2aa1295000aa719c1,1145.64,1162.46,0.7699999999999818,18.600000000000136,0,False,False,41
+233,5db2cfc2aa1295000aa719c1,1163.24,1165.36,Where did we live?,for sure.,1,5e3ac9d20d41ad2da023d9ae,1163.64,1164.17,-0.40000000000009095,2.119999999999891,1,True,True,4
+234,5e3ac9d20d41ad2da023d9ae,1165.94,1174.17,I lived in um like little lower west side. I heard a kind of rash village area.,Oh,1,5db2cfc2aa1295000aa719c1,1171.74,1172.36,0.5800000000001546,8.230000000000018,0,False,False,17
+235,5db2cfc2aa1295000aa719c1,1173.84,1175.27,no. All right.,,0,,,,-0.3300000000001546,1.4300000000000637,0,False,True,3
+236,5e3ac9d20d41ad2da023d9ae,1174.94,1188.03,"Yeah, yeah, West Village Off of 6th Street Actually, the small apartment with my girlfriend at the time. And uh yeah, it was a cool spot. It was",,0,,,,-0.32999999999992724,13.089999999999918,0,False,True,28
+237,5db2cfc2aa1295000aa719c1,1188.0,1188.49,And that's it.,really cool,2,5e3ac9d20d41ad2da023d9ae,1188.04,1188.54,-0.029999999999972715,0.4900000000000091,0,False,True,4
+238,5e3ac9d20d41ad2da023d9ae,1188.54,1194.56,spot. Yeah. Great in Manhattan. Yeah.,Very cool.,1,5db2cfc2aa1295000aa719c1,1192.64,1193.27,0.049999999999954525,6.019999999999982,0,False,False,6
+239,5db2cfc2aa1295000aa719c1,1193.74,1200.58,"Yeah. I visited once had a great time. I would love to live there someday. We'll see, we'll see",Yeah. Yeah.,2,5e3ac9d20d41ad2da023d9ae,1196.24,1200.05,-0.8199999999999363,6.839999999999918,0,False,True,21
+240,5e3ac9d20d41ad2da023d9ae,1200.54,1200.77,Not,,0,,,,-0.03999999999996362,0.2300000000000182,0,False,True,1
+241,5db2cfc2aa1295000aa719c1,1200.58,1205.25,"your life. Yeah, we know there now. Uh huh,",right now. Right. Yeah.,3,5e3ac9d20d41ad2da023d9ae,1200.77,1204.75,-0.19000000000005457,4.670000000000073,0,False,True,9
+242,5e3ac9d20d41ad2da023d9ae,1206.04,1213.27,"Yeah. So did you, so you lived in the midwest and then you move just moved to San Diego and",wow.,1,5db2cfc2aa1295000aa719c1,1211.04,1211.67,0.7899999999999636,7.230000000000018,0,False,False,20
+243,5db2cfc2aa1295000aa719c1,1213.04,1217.45,"Yeah. Yeah, I'm from Iowa and I went to undergrad in Minnesota",,0,,,,-0.2300000000000182,4.410000000000082,0,False,True,13
+244,5e3ac9d20d41ad2da023d9ae,1218.14,1219.27,"that's,",,0,,,,0.6900000000000546,1.1299999999998818,0,False,False,2
+245,5db2cfc2aa1295000aa719c1,1218.14,1223.56,"and then straight out of undergrad I moved to san Diego, didn't know anybody here. Uh",,0,,,,-1.1299999999998818,5.419999999999845,0,False,True,17
+246,5e3ac9d20d41ad2da023d9ae,1224.14,1224.91,that's,,0,,,,0.5800000000001546,0.7699999999999818,0,False,False,2
+247,5db2cfc2aa1295000aa719c1,1224.54,1225.76,I,,0,,,,-0.37000000000011823,1.2200000000000273,0,False,True,1
+248,5e3ac9d20d41ad2da023d9ae,1224.91,1225.46,good.,,0,,,,-0.849999999999909,0.5499999999999545,0,False,True,1
+249,5db2cfc2aa1295000aa719c1,1225.77,1234.59,"mean the climate was great and it was you know, a great place to move to but I was like 22. I've never lived on my, I had","Mm. Mhm. Yeah,",3,5e3ac9d20d41ad2da023d9ae,1226.54,1234.58,0.30999999999994543,8.819999999999936,0,False,False,29
+250,5e3ac9d20d41ad2da023d9ae,1234.59,1238.75,"and certainly don't know many people, right, Like it's just yeah,",a ruble. Oh yeah. Yeah.,2,5db2cfc2aa1295000aa719c1,1234.59,1237.55,0.0,4.160000000000082,0,False,False,13
+251,5db2cfc2aa1295000aa719c1,1238.74,1239.36,Um,,0,,,,-0.009999999999990905,0.6199999999998909,0,False,True,1
+252,5e3ac9d20d41ad2da023d9ae,1239.84,1244.06,what? And it's a lot different than than the midwest.,uh,1,5db2cfc2aa1295000aa719c1,1240.54,1241.17,0.4800000000000182,4.220000000000027,1,False,False,11
+253,5db2cfc2aa1295000aa719c1,1243.64,1261.46,"Oh yeah and it was hard to, it was hard to find housing like remotely housing around created around the university where I live. It's crazy like undergrounds are doing unbelievable things to afford housing. But I had I like","Uh huh. Yeah. Yeah. Yeah. Mhm. Yeah,",6,5e3ac9d20d41ad2da023d9ae,1245.24,1261.28,-0.4199999999998454,17.819999999999936,0,False,True,41
+254,5e3ac9d20d41ad2da023d9ae,1261.28,1262.06,he knows.,,0,,,,-0.18000000000006366,0.7799999999999727,0,False,True,2
+255,5db2cfc2aa1295000aa719c1,1262.34,1288.17,"I was like so they have grad student housing that's like subsidized. Uh but I was on the wait list and I was on the wait list and I was on the wait list and they kept like and it just came down to like two weeks before I was supposed to move. I was like I know where to live, so I had to accept like a spot in a a two bedroom plus a loft apartment with five people that I had never met.","Mm. Mhm. Right. Mhm. Oh,",4,5e3ac9d20d41ad2da023d9ae,1267.14,1288.05,0.2799999999999727,25.830000000000155,0,False,False,87
+256,5e3ac9d20d41ad2da023d9ae,1288.06,1289.17,cheers.,,0,,,,-0.11000000000012733,1.1100000000001273,0,False,True,1
+257,5db2cfc2aa1295000aa719c1,1289.04,1298.81,"And I talked to one of them over facebook once I was like I need to get there, I for sure have a place to live and like I can't keep waiting for this grand housing thing. So for","Oh God,",2,5e3ac9d20d41ad2da023d9ae,1292.54,1293.56,-0.13000000000010914,9.769999999999982,0,False,True,40
+258,5e3ac9d20d41ad2da023d9ae,1298.74,1298.91,how,,0,,,,-0.06999999999993634,0.17000000000007276,0,False,True,1
+259,5db2cfc2aa1295000aa719c1,1298.81,1299.77,like,,0,,,,-0.10000000000013642,0.9600000000000364,0,False,True,1
+260,5e3ac9d20d41ad2da023d9ae,1298.91,1299.55,did it go?,,0,,,,-0.8599999999999,0.6399999999998727,1,True,True,3
+261,5db2cfc2aa1295000aa719c1,1300.14,1310.97,For like six months there were six of us in that department. And thank God they turned out to be like pretty cool dudes and it was all okay but wow that could have been so terrible and,"Oh yeah,",1,5e3ac9d20d41ad2da023d9ae,1309.84,1310.74,0.5900000000001455,10.829999999999927,0,False,False,38
+262,5e3ac9d20d41ad2da023d9ae,1310.75,1311.29,totally.,,0,,,,-0.22000000000002728,0.5399999999999636,0,False,True,1
+263,5db2cfc2aa1295000aa719c1,1310.97,1322.88,it will still like not there but once I once I was here for like a year and more secure social footing I found some better living arrangements. But yeah,Yeah. Yeah. Mm,3,5e3ac9d20d41ad2da023d9ae,1311.3,1321.99,-0.31999999999993634,11.910000000000082,0,False,True,30
+264,5e3ac9d20d41ad2da023d9ae,1321.99,1323.17,hmm. No.,,0,,,,-0.8900000000001,1.1800000000000637,0,False,True,2
+265,5db2cfc2aa1295000aa719c1,1322.89,1325.27,moving to san Diego was with a weird experience but,,0,,,,-0.2799999999999727,2.3799999999998818,0,False,True,10
+266,5e3ac9d20d41ad2da023d9ae,1325.84,1336.93,"Yeah, it's not. I mean, yeah, no, there's some cities where, you know, you could probably get a house for super cheap. Yeah.",Oh yeah Iowa,1,5db2cfc2aa1295000aa719c1,1334.74,1336.36,0.5699999999999363,11.090000000000146,0,False,False,25
+267,5db2cfc2aa1295000aa719c1,1336.37,1337.66,my parents yeah,Exactly.,1,5e3ac9d20d41ad2da023d9ae,1336.94,1337.61,-0.5600000000001728,1.290000000000191,0,False,True,3
+268,5e3ac9d20d41ad2da023d9ae,1337.62,1340.24,"Yeah. Yeah,",,0,,,,-0.040000000000190994,2.6200000000001182,0,False,True,2
+269,5db2cfc2aa1295000aa719c1,1340.14,1340.77,wow.,,0,,,,-0.09999999999990905,0.6299999999998818,0,False,True,1
+270,5e3ac9d20d41ad2da023d9ae,1340.25,1343.66,but san Diego is one of those places. Yes.,,0,,,,-0.5199999999999818,3.410000000000082,0,False,True,9
+271,5db2cfc2aa1295000aa719c1,1343.04,1348.46,Yeah but under their people were like renting out like subleasing their living rooms and like,,0,,,,-0.6200000000001182,5.420000000000073,0,False,True,16
+272,5e3ac9d20d41ad2da023d9ae,1349.04,1350.67,"God, that's crazy. Like garages",,0,,,,0.5799999999999272,1.6300000000001091,0,False,False,6
+273,5db2cfc2aa1295000aa719c1,1350.24,1350.74,well,,0,,,,-0.43000000000006366,0.5,0,False,True,1
+274,5e3ac9d20d41ad2da023d9ae,1350.67,1351.67,and stuff.,,0,,,,-0.06999999999993634,1.0,0,False,True,2
+275,5db2cfc2aa1295000aa719c1,1351.0,1355.34,for all these and stuff. Yeah like it's,Yeah.,1,5e3ac9d20d41ad2da023d9ae,1352.04,1352.96,-0.6700000000000728,4.339999999999918,0,False,True,9
+276,5e3ac9d20d41ad2da023d9ae,1355.34,1355.5,Do,,0,,,,0.0,0.16000000000008185,0,False,False,1
+277,5db2cfc2aa1295000aa719c1,1355.34,1355.55,pretty,,0,,,,-0.16000000000008185,0.21000000000003638,0,False,True,1
+278,5e3ac9d20d41ad2da023d9ae,1355.5,1355.56,you,,0,,,,-0.049999999999954525,0.05999999999994543,0,False,True,1
+279,5db2cfc2aa1295000aa719c1,1355.55,1355.95,wild.,,0,,,,-0.009999999999990905,0.40000000000009095,0,False,True,1
+280,5e3ac9d20d41ad2da023d9ae,1355.56,1358.34,"ever go, do you ever go like Tijuana?",,0,,,,-0.39000000000010004,2.7799999999999727,1,True,True,8
+281,5db2cfc2aa1295000aa719c1,1358.24,1364.31,"I have been once, it's a very popular thing to do here. They","Yeah,",1,5e3ac9d20d41ad2da023d9ae,1362.44,1364.03,-0.09999999999990905,6.069999999999936,0,False,True,14
+282,5e3ac9d20d41ad2da023d9ae,1364.04,1365.05,I uh,,0,,,,-0.2699999999999818,1.009999999999991,0,False,True,2
+283,5db2cfc2aa1295000aa719c1,1364.32,1369.76,"just don't but I think especially if you want to go out like go party, it's a good place to go.",,0,,,,-0.7300000000000182,5.440000000000055,0,False,True,23
+284,5e3ac9d20d41ad2da023d9ae,1369.44,1373.72,oh it's just so crazy that people go hard to that. But then I,Yeah,1,5db2cfc2aa1295000aa719c1,1372.74,1373.67,-0.31999999999993634,4.279999999999973,0,False,True,15
+285,5db2cfc2aa1295000aa719c1,1373.68,1373.93,it's,,0,,,,-0.03999999999996362,0.25,0,False,True,2
+286,5e3ac9d20d41ad2da023d9ae,1373.72,1374.53,guess it's pretty,really,1,5db2cfc2aa1295000aa719c1,1373.93,1374.4,-0.21000000000003638,0.8099999999999454,0,False,True,4
+287,5db2cfc2aa1295000aa719c1,1374.52,1375.56,like,,0,,,,-0.009999999999990905,1.0399999999999636,0,False,True,1
+288,5e3ac9d20d41ad2da023d9ae,1374.53,1379.55,"much just do the right thing. It's like a suburb were like connected, so.",,0,,,,-1.0299999999999727,5.019999999999982,0,False,True,15
+289,5db2cfc2aa1295000aa719c1,1379.24,1402.19,"yeah it's pretty close um the border crossing can be like time consuming depending on which way you're going and what time of day, but they have, people will like Uber to the border and then walk across and that takes like uh like I think driving across is what takes forever. But yeah people",Mhm. Uh huh. Yeah. Uh huh.,5,5e3ac9d20d41ad2da023d9ae,1388.94,1401.44,-0.30999999999994543,22.950000000000045,0,False,True,57
+290,5e3ac9d20d41ad2da023d9ae,1402.14,1402.35,Mhm.,,0,,,,-0.049999999999954525,0.209999999999809,0,False,True,1
+291,5db2cfc2aa1295000aa719c1,1402.19,1409.05,"go there like really really good food, it's really cheap, you can get beer for like a dollar. Um",,0,,,,-0.15999999999985448,6.8599999999999,0,False,True,20
+292,5e3ac9d20d41ad2da023d9ae,1410.54,1410.67,I,,0,,,,1.490000000000009,0.13000000000010914,0,False,False,1
+293,5db2cfc2aa1295000aa719c1,1410.64,1410.86,It's,,0,,,,-0.029999999999972715,0.2199999999997999,0,False,True,2
+294,5e3ac9d20d41ad2da023d9ae,1410.67,1411.19,"remember,",,0,,,,-0.1899999999998272,0.5199999999999818,0,False,True,1
+295,5db2cfc2aa1295000aa719c1,1410.86,1411.36,a phone call.,,0,,,,-0.3300000000001546,0.5,0,False,True,3
+296,5e3ac9d20d41ad2da023d9ae,1411.2,1415.63,"yeah, my I went there when I was like in high school, I went to san",,0,,,,-0.15999999999985448,4.430000000000064,0,False,True,16
+297,5db2cfc2aa1295000aa719c1,1415.44,1415.86,There are.,,0,,,,-0.19000000000005457,0.4199999999998454,0,False,True,2
+298,5e3ac9d20d41ad2da023d9ae,1415.63,1443.55,"Diego with like some trip for some basketball thing that one of my sisters was in and We went to Tijuana and I was like 17 and I was like, I thought I was hot shit and was like I'm going to get a beer and like, you know, they're like here you go. Yeah, that was years ago. But I'm sure it's quite a bit different now, but I just remember it was like, yeah, I'm in Mexico. Yeah.",Uh huh. Yeah. Yeah. Yeah. Yeah,5,5db2cfc2aa1295000aa719c1,1421.84,1442.04,-0.22999999999979082,27.919999999999845,0,False,True,85
+299,5db2cfc2aa1295000aa719c1,1443.34,1451.67,it's cool. Um But yeah moving out here was a crazy experience. Yeah,"Mhm. Yeah. Yeah,",2,5e3ac9d20d41ad2da023d9ae,1445.24,1452.09,-0.21000000000003638,8.330000000000155,0,False,True,14
+300,5e3ac9d20d41ad2da023d9ae,1452.1,1452.85,but just,,0,,,,0.4299999999998363,0.75,0,False,False,2
+301,5db2cfc2aa1295000aa719c1,1452.84,1453.39,people,,0,,,,-0.009999999999990905,0.5500000000001819,0,False,True,1
+302,5e3ac9d20d41ad2da023d9ae,1452.85,1453.66,committed to,,0,,,,-0.540000000000191,0.8100000000001728,0,False,True,2
+303,5db2cfc2aa1295000aa719c1,1454.05,1465.86,"people in the midwest like have no accurate perception of like what California is like the culture or anything, do you sir? Okay. It's like no I don't I don't",Okay. Yeah. Yeah.,3,5e3ac9d20d41ad2da023d9ae,1455.34,1462.65,0.38999999999987267,11.809999999999945,1,False,False,33
+304,5e3ac9d20d41ad2da023d9ae,1465.84,1465.99,It's,,0,,,,-0.01999999999998181,0.15000000000009095,0,False,True,2
+305,5db2cfc2aa1295000aa719c1,1465.86,1465.99,have,,0,,,,-0.13000000000010914,0.13000000000010914,0,False,True,1
+306,5e3ac9d20d41ad2da023d9ae,1465.99,1466.26,funny,,0,,,,0.0,0.2699999999999818,0,False,False,1
+307,5db2cfc2aa1295000aa719c1,1465.99,1466.36,time.,,0,,,,-0.2699999999999818,0.36999999999989086,0,False,True,1
+308,5e3ac9d20d41ad2da023d9ae,1466.27,1485.77,"because like, I don't know, like organs I guess is kind of the west coast, but it's a little, it's, you know, kind of different than California. But um but yeah, like I could imagine like, you know, so maybe the midwest being like, yeah, like saved by the bell.",Yeah.,1,5db2cfc2aa1295000aa719c1,1474.74,1475.27,-0.08999999999991815,19.5,0,False,True,53
+309,5db2cfc2aa1295000aa719c1,1483.44,1498.95,"Oh yeah and they don't realize how big California is. Like my and uncle were like in uh san Francisco and then they bay area and then they went to Redding California, have you heard of that? I think it's near","Yeah. Yeah,",2,5e3ac9d20d41ad2da023d9ae,1493.54,1498.03,-2.3299999999999272,15.509999999999991,1,False,True,43
+310,5e3ac9d20d41ad2da023d9ae,1498.03,1499.83,"I've been there. Yeah,",,0,,,,-0.9200000000000728,1.7999999999999545,0,False,True,5
+311,5db2cfc2aa1295000aa719c1,1499.34,1500.06,And they're like,,0,,,,-0.4900000000000091,0.7200000000000273,0,False,True,4
+312,5e3ac9d20d41ad2da023d9ae,1499.84,1503.44,it's probably in between san Francisco Oregon. Yeah.,okay,1,5db2cfc2aa1295000aa719c1,1501.24,1501.86,-0.22000000000002728,3.6000000000001364,0,False,True,9
+313,5db2cfc2aa1295000aa719c1,1502.54,1512.56,"Yeah and they're like maybe we'll just like drive down and see you. I was like do you have like 183 hours like each way like no you won't rest down,",Mm Yeah.,2,5e3ac9d20d41ad2da023d9ae,1507.54,1509.66,-0.900000000000091,10.019999999999982,0,False,True,34
+314,5e3ac9d20d41ad2da023d9ae,1511.84,1527.35,"Yeah. Yeah, I like to drive like people like You can drive from like Portland to L. A. And it's like if you are just cruising like not stopping, it would be like 18 hours. Yeah.",right? Mhm. Yeah. And,3,5db2cfc2aa1295000aa719c1,1516.64,1526.88,-0.7200000000000273,15.509999999999991,0,False,True,37
+315,5db2cfc2aa1295000aa719c1,1526.89,1529.77,yeah that won't be the case. Will be traffic,,0,,,,-0.459999999999809,2.8799999999998818,0,False,True,10
+316,5e3ac9d20d41ad2da023d9ae,1529.34,1546.12,"Yeah, exactly. Yeah. Yeah. So yeah. Yeah, I've been in California millions of times just if you could go there like every year, like my dad's from there. So. Yeah. Uh huh.",big. Yeah. Mhm.,2,5db2cfc2aa1295000aa719c1,1531.54,1541.46,-0.43000000000006366,16.779999999999973,0,False,True,34
+317,5db2cfc2aa1295000aa719c1,1545.64,1547.05,What are some?,,0,,,,-0.4799999999997908,1.4099999999998545,1,True,True,3
+318,5e3ac9d20d41ad2da023d9ae,1547.54,1557.86,"It's from kind of the bay Area. Kind of a not the greatest city, it's called Stockton. I don't yeah, it's kind of a rough rough spot. But",Okay. Okay,2,5db2cfc2aa1295000aa719c1,1550.34,1554.56,0.4900000000000091,10.319999999999936,0,False,False,32
+319,5db2cfc2aa1295000aa719c1,1557.74,1558.46,thank you.,,0,,,,-0.11999999999989086,0.7200000000000273,0,False,True,2
+320,5e3ac9d20d41ad2da023d9ae,1558.74,1569.94,"Yeah, it's like a in the valley uh probably 90 miles east of sectors. Yeah.",Okay. Okay.,1,5db2cfc2aa1295000aa719c1,1567.94,1569.56,0.2799999999999727,11.200000000000045,0,False,False,16
+321,5db2cfc2aa1295000aa719c1,1570.44,1570.95,Okay.,,0,,,,0.5,0.5099999999999909,0,False,False,1
+322,5e3ac9d20d41ad2da023d9ae,1571.24,1584.94,"But we always pass reading and all those pots. Yeah. Be driving down there. But yeah, it's a big place, a lot of people. Mhm. Yeah.",Yeah. Yeah,2,5db2cfc2aa1295000aa719c1,1573.44,1584.74,0.2899999999999636,13.700000000000045,0,False,False,27
+323,5db2cfc2aa1295000aa719c1,1584.75,1585.96,for sure. It's a,,0,,,,-0.19000000000005457,1.2100000000000364,0,False,True,5
+324,5e3ac9d20d41ad2da023d9ae,1586.14,1588.27,40 million or something like that.,,0,,,,0.18000000000006366,2.1299999999998818,0,False,False,6
+325,5db2cfc2aa1295000aa719c1,1587.64,1593.86,yeah I've been there once. I've been in the Bay Area. No thanks. Yeah.,Oh yeah. Oh yeah. Yeah.,3,5e3ac9d20d41ad2da023d9ae,1589.54,1593.76,-0.6299999999998818,6.2199999999998,0,False,True,16
+326,5e3ac9d20d41ad2da023d9ae,1593.76,1605.26,"I like san Francisco is a little cool places. It seems like different than L. A. Like kind of like the cityscape and the kind of, it seems more dense or something. But",Uh huh.,2,5db2cfc2aa1295000aa719c1,1602.14,1602.67,-0.09999999999990905,11.5,0,False,True,33
+327,5db2cfc2aa1295000aa719c1,1604.54,1606.46,Yeah something like that. I'm not sure.,yeah.,1,5e3ac9d20d41ad2da023d9ae,1605.84,1606.67,-0.7200000000000273,1.9200000000000728,0,False,True,8
+328,5e3ac9d20d41ad2da023d9ae,1607.24,1612.27,Uh wow. Mhm.,,0,,,,0.7799999999999727,5.029999999999973,0,False,False,3
+329,5db2cfc2aa1295000aa719c1,1612.04,1614.46,Alright man. Uh,,0,,,,-0.2300000000000182,2.4200000000000728,0,False,True,3
+330,5e3ac9d20d41ad2da023d9ae,1613.14,1617.86,This is every better. Oh yeah we're past it right.,,0,,,,-1.3199999999999363,4.7199999999998,0,False,True,11
+331,5db2cfc2aa1295000aa719c1,1617.94,1618.77,Yeah we're good.,,0,,,,0.08000000000015461,0.8299999999999272,0,False,False,4
+332,5e3ac9d20d41ad2da023d9ae,1619.14,1621.06,What do we do next? Have it just.,,0,,,,0.37000000000011823,1.9199999999998454,1,False,False,8
+333,5db2cfc2aa1295000aa719c1,1620.94,1628.05,I think on the other page you just hit the next era and we're let you go,Mhm.,1,5e3ac9d20d41ad2da023d9ae,1626.94,1627.17,-0.11999999999989086,7.1099999999999,0,False,True,18
+334,5e3ac9d20d41ad2da023d9ae,1628.04,1630.22,Sweet. Alright. Well good,nice,1,5db2cfc2aa1295000aa719c1,1629.34,1629.52,-0.009999999999990905,2.1800000000000637,0,False,True,4
+335,5db2cfc2aa1295000aa719c1,1629.52,1630.3,to meet you man. Take it,,0,,,,-0.7000000000000455,0.7799999999999727,0,False,True,6
+336,5e3ac9d20d41ad2da023d9ae,1630.22,1630.56,talking,,0,,,,-0.07999999999992724,0.33999999999991815,0,False,True,1
+337,5db2cfc2aa1295000aa719c1,1630.3,1630.47,easy.,,0,,,,-0.2599999999999909,0.17000000000007276,0,False,True,1
+338,5e3ac9d20d41ad2da023d9ae,1630.56,1632.96,with you. Yeah. Good luck in your school.,Yeah.,1,5db2cfc2aa1295000aa719c1,1631.04,1631.54,0.08999999999991815,2.400000000000091,0,False,False,8
+339,5db2cfc2aa1295000aa719c1,1633.04,1634.3,Thanks. Good luck with your job,Yeah.,1,5e3ac9d20d41ad2da023d9ae,1633.84,1634.29,0.07999999999992724,1.259999999999991,0,False,False,6
+340,5e3ac9d20d41ad2da023d9ae,1634.3,1634.95,Them.,,0,,,,0.0,0.650000000000091,0,False,False,1
+341,5db2cfc2aa1295000aa719c1,1634.34,1637.45,for you. Uh You and your family. Stay safe. Yeah.,Yeah. You,1,5e3ac9d20d41ad2da023d9ae,1636.44,1637.05,-0.6100000000001273,3.1100000000001273,0,False,True,10

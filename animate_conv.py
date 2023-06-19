@@ -9,6 +9,12 @@ def create_chat_gui(chat_logs, survey):
     root = tk.Tk()
     root.title("Chat Logs")
     
+   # Get the screen width
+    screen_width = root.winfo_screenwidth()
+
+    # Set the window size to the full width of the screen
+    root.geometry(f"{screen_width-20}x600")
+    
     # Define speaker colors
     speaker1, speaker2 = chat_logs['speaker'].unique()
     speaker_colors = {speaker1: 'blue', speaker2: 'red'}
@@ -50,7 +56,7 @@ def create_chat_gui(chat_logs, survey):
         message_frame = tk.Frame(chat_messages_frame, padx=5, pady=5)
         message_frame.pack(fill=tk.X)
 
-        speaker_label = tk.Label(message_frame, text=f"Speaker {i+1}", font=("Arial", 12, "bold"), fg=speaker_colors.get(speaker, 'black'))
+        speaker_label = tk.Label(message_frame, text=f"Speaker {(i%2)+1}", font=("Arial", 12, "bold"), fg=speaker_colors.get(speaker, 'black'))
         speaker_label.pack(anchor=tk.W)
 
         message_label = tk.Label(message_frame, text=message, font=("Arial", 12), wraplength=int(root.winfo_screenwidth() / 2))
@@ -68,7 +74,7 @@ def create_chat_gui(chat_logs, survey):
 
 
 # Usage example
-conv_id = "07b732f9-a9e0-43e9-85a4-263a6d78af0d"
+conv_id = "07b732f9-a9e0-43e9-85a4-263a6d78af0d" # Change this to the conversation ID you want to visualize
 filename = f"/Users/huayinluo/Desktop/code/natconv/low_conv/{conv_id}_transcript_backbiter.csv"
 chat_logs = load_chat_logs(filename)
 combined_survey = pd.read_csv("survey_full.csv")

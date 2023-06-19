@@ -73,9 +73,11 @@ def create_chat_gui(chat_logs, survey):
     root.mainloop()
 
 
-# Usage example
+# TODO: Change to conversation of interest
 conv_id = "07b732f9-a9e0-43e9-85a4-263a6d78af0d" # Change this to the conversation ID you want to visualize
-filename = f"/Users/huayinluo/Desktop/code/natconv/low_conv/{conv_id}_transcript_backbiter.csv"
+filename = f"low_conv/{conv_id}_transcript_backbiter.csv" # Change folder to "high_conv" for highly ranked conversations
+
+# Run the GUI
 chat_logs = load_chat_logs(filename)
 combined_survey = pd.read_csv("survey_full.csv")
 survey = combined_survey[combined_survey["conversation"] == conv_id].copy()

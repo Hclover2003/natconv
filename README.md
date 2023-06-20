@@ -3,6 +3,7 @@
 - `full_survey.csv`: combined results from surveys for all conversations
 - `animate_conv.py`: simple GUI to visualize chat logs for qualitative review
   - To use, change conversation id to conversation id of conversation you want to visualize
+  - <img width="815" alt="Screen Shot 2023-06-19 at 12 47 19 AM" src="https://github.com/Hclover2003/natconv/assets/46469244/9ca98bcc-77ee-44d2-ac6a-a17ebcdbfb75">
   - Then, run `python3 animate_conv.py` or `python animate_conv.py`
   - Will get something like this: 
   - <img width="1285" alt="Screen Shot 2023-06-19 at 12 38 11 AM" src="https://github.com/Hclover2003/natconv/assets/46469244/a877de59-cd62-4be6-b11a-cd40e43c112d">

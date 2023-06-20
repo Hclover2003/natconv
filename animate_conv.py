@@ -36,9 +36,12 @@ def create_chat_gui(chat_logs, survey):
     chat_messages_frame = tk.Frame(chat_canvas)
     chat_canvas.create_window((0, 0), window=chat_messages_frame, anchor=tk.NW)
 
-    conversationalist1 = survey[survey["partner_id"] == speaker1].iloc[0]["conversationalist"]
-    conversationalist2 = survey[survey["partner_id"] == speaker2].iloc[0]["conversationalist"]
-
+    try:
+        conversationalist1 = survey[(survey["partner_id"] == speaker1) & (survey["user_id"] == speaker2)].iloc[0]["conversationalist"]
+        conversationalist2 = survey[(survey["partner_id"] == speaker2) & (survey["user_id"] == speaker1)].iloc[0]["conversationalist"]
+    except:
+        conversationalist1 = "N/A"
+        conversationalist2 = "N/A"
     # Add title
     title_label1 = tk.Label(root, text=f"Speaker 1: {conversationalist1}  (rating by Speaker 2) | Backchannels Given: {chat_logs[chat_logs['speaker'] == speaker1]['backchannel_count'].sum()}", font=("Arial", 16, "bold"), fg=speaker_colors.get(speaker1, 'black'))
     title_label1.pack()
@@ -74,8 +77,8 @@ def create_chat_gui(chat_logs, survey):
 
 
 # TODO: Change to conversation of interest
-conv_id = "07b732f9-a9e0-43e9-85a4-263a6d78af0d" # Change this to the conversation ID you want to visualize
-filename = f"low_conv/{conv_id}_transcript_backbiter.csv" # Change folder to "high_conv" for highly ranked conversations
+conv_id = "33d4bd03-1a0b-4252-9ebb-9ab864a57a7e" # Change this to the conversation ID you want to visualize
+filename = f"high_conv/{conv_id}_transcript_backbiter.csv" # Change folder to "high_conv" for highly ranked conversations
 
 # Run the GUI
 chat_logs = load_chat_logs(filename)

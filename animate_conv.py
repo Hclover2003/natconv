@@ -9,6 +9,12 @@ def create_chat_gui(chat_logs, survey):
     root = tk.Tk()
     root.title("Chat Logs")
     
+   # Get the screen width
+    screen_width = root.winfo_screenwidth()
+
+    # Set the window size to the full width of the screen
+    root.geometry(f"{screen_width-20}x600")
+    
     # Define speaker colors
     speaker1, speaker2 = chat_logs['speaker'].unique()
     speaker_colors = {speaker1: 'blue', speaker2: 'red'}
@@ -30,9 +36,12 @@ def create_chat_gui(chat_logs, survey):
     chat_messages_frame = tk.Frame(chat_canvas)
     chat_canvas.create_window((0, 0), window=chat_messages_frame, anchor=tk.NW)
 
-    conversationalist1 = survey[survey["partner_id"] == speaker1].iloc[0]["conversationalist"]
-    conversationalist2 = survey[survey["partner_id"] == speaker2].iloc[0]["conversationalist"]
-
+    try:
+        conversationalist1 = survey[(survey["partner_id"] == speaker1) & (survey["user_id"] == speaker2)].iloc[0]["conversationalist"]
+        conversationalist2 = survey[(survey["partner_id"] == speaker2) & (survey["user_id"] == speaker1)].iloc[0]["conversationalist"]
+    except:
+        conversationalist1 = "N/A"
+        conversationalist2 = "N/A"
     # Add title
     title_label1 = tk.Label(root, text=f"Speaker 1: {conversationalist1}  (rating by Speaker 2) | Backchannels Given: {chat_logs[chat_logs['speaker'] == speaker1]['backchannel_count'].sum()}", font=("Arial", 16, "bold"), fg=speaker_colors.get(speaker1, 'black'))
     title_label1.pack()
@@ -50,7 +59,7 @@ def create_chat_gui(chat_logs, survey):
         message_frame = tk.Frame(chat_messages_frame, padx=5, pady=5)
         message_frame.pack(fill=tk.X)
 
-        speaker_label = tk.Label(message_frame, text=f"Speaker {i+1}", font=("Arial", 12, "bold"), fg=speaker_colors.get(speaker, 'black'))
+        speaker_label = tk.Label(message_frame, text=f"Speaker {(i%2)+1}", font=("Arial", 12, "bold"), fg=speaker_colors.get(speaker, 'black'))
         speaker_label.pack(anchor=tk.W)
 
         message_label = tk.Label(message_frame, text=message, font=("Arial", 12), wraplength=int(root.winfo_screenwidth() / 2))
@@ -67,9 +76,11 @@ def create_chat_gui(chat_logs, survey):
     root.mainloop()
 
 
-# Usage example
-conv_id = "07b732f9-a9e0-43e9-85a4-263a6d78af0d"
-filename = f"/Users/huayinluo/Desktop/code/natconv/low_conv/{conv_id}_transcript_backbiter.csv"
+# TODO: Change to conversation of interest
+conv_id = "33d4bd03-1a0b-4252-9ebb-9ab864a57a7e" # Change this to the conversation ID you want to visualize
+filename = f"high_conv/{conv_id}_transcript_backbiter.csv" # Change folder to "high_conv" for highly ranked conversations
+
+# Run the GUI
 chat_logs = load_chat_logs(filename)
 combined_survey = pd.read_csv("survey_full.csv")
 survey = combined_survey[combined_survey["conversation"] == conv_id].copy()
